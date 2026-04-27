@@ -1,0 +1,4605 @@
+{
+  "M15–19 관절증<SEP>골관절염": {
+    "chunk_ids": [
+      "chunk-13b2843129698c7f22931c964adb926c"
+    ],
+    "count": 1,
+    "create_time": 1777269225,
+    "update_time": 1777269225,
+    "_id": "M15–19 관절증<SEP>골관절염"
+  },
+  "M15 다발관절증<SEP>M15–19 관절증": {
+    "chunk_ids": [
+      "chunk-13b2843129698c7f22931c964adb926c"
+    ],
+    "count": 1,
+    "create_time": 1777269226,
+    "update_time": 1777269226,
+    "_id": "M15 다발관절증<SEP>M15–19 관절증"
+  },
+  "당뇨병성 말초신경병증성 통증<SEP>리리카® 상병코드": {
+    "chunk_ids": [
+      "chunk-13b2843129698c7f22931c964adb926c"
+    ],
+    "count": 1,
+    "create_time": 1777269226,
+    "update_time": 1777269226,
+    "_id": "당뇨병성 말초신경병증성 통증<SEP>리리카® 상병코드"
+  },
+  "M15–19 관절증<SEP>M16 고관절증": {
+    "chunk_ids": [
+      "chunk-13b2843129698c7f22931c964adb926c"
+    ],
+    "count": 1,
+    "create_time": 1777269226,
+    "update_time": 1777269226,
+    "_id": "M15–19 관절증<SEP>M16 고관절증"
+  },
+  "리리카® 상병코드<SEP>척추 수술 후 통증 증후군": {
+    "chunk_ids": [
+      "chunk-13b2843129698c7f22931c964adb926c"
+    ],
+    "count": 1,
+    "create_time": 1777269226,
+    "update_time": 1777269226,
+    "_id": "리리카® 상병코드<SEP>척추 수술 후 통증 증후군"
+  },
+  "M15–19 관절증<SEP>M17 무릎관절증": {
+    "chunk_ids": [
+      "chunk-13b2843129698c7f22931c964adb926c"
+    ],
+    "count": 1,
+    "create_time": 1777269226,
+    "update_time": 1777269226,
+    "_id": "M15–19 관절증<SEP>M17 무릎관절증"
+  },
+  "리리카® 상병코드<SEP>성인 암성 신경병증성 통증": {
+    "chunk_ids": [
+      "chunk-13b2843129698c7f22931c964adb926c"
+    ],
+    "count": 1,
+    "create_time": 1777269226,
+    "update_time": 1777269226,
+    "_id": "리리카® 상병코드<SEP>성인 암성 신경병증성 통증"
+  },
+  "M15 다발관절증<SEP>M15.0 원발성 전신(골)관절증": {
+    "chunk_ids": [
+      "chunk-13b2843129698c7f22931c964adb926c"
+    ],
+    "count": 1,
+    "create_time": 1777269226,
+    "update_time": 1777269226,
+    "_id": "M15 다발관절증<SEP>M15.0 원발성 전신(골)관절증"
+  },
+  "M15 다발관절증<SEP>M15.9 상세불명의 다발관절증": {
+    "chunk_ids": [
+      "chunk-13b2843129698c7f22931c964adb926c"
+    ],
+    "count": 1,
+    "create_time": 1777269227,
+    "update_time": 1777269227,
+    "_id": "M15 다발관절증<SEP>M15.9 상세불명의 다발관절증"
+  },
+  "M15–19 관절증<SEP>M18 제1수근중수관절의 관절증": {
+    "chunk_ids": [
+      "chunk-13b2843129698c7f22931c964adb926c"
+    ],
+    "count": 1,
+    "create_time": 1777269227,
+    "update_time": 1777269227,
+    "_id": "M15–19 관절증<SEP>M18 제1수근중수관절의 관절증"
+  },
+  "M16 고관절증<SEP>M16.0 양쪽 원발성 고관절증": {
+    "chunk_ids": [
+      "chunk-13b2843129698c7f22931c964adb926c"
+    ],
+    "count": 1,
+    "create_time": 1777269227,
+    "update_time": 1777269227,
+    "_id": "M16 고관절증<SEP>M16.0 양쪽 원발성 고관절증"
+  },
+  "대상포진 후 신경통<SEP>리리카® 상병코드": {
+    "chunk_ids": [
+      "chunk-13b2843129698c7f22931c964adb926c"
+    ],
+    "count": 1,
+    "create_time": 1777269227,
+    "update_time": 1777269227,
+    "_id": "대상포진 후 신경통<SEP>리리카® 상병코드"
+  },
+  "M17 무릎관절증<SEP>M17.0 양쪽 원발성 무릎관절증": {
+    "chunk_ids": [
+      "chunk-13b2843129698c7f22931c964adb926c"
+    ],
+    "count": 1,
+    "create_time": 1777269227,
+    "update_time": 1777269227,
+    "_id": "M17 무릎관절증<SEP>M17.0 양쪽 원발성 무릎관절증"
+  },
+  "M15–19 관절증<SEP>M19 기타 관절증": {
+    "chunk_ids": [
+      "chunk-13b2843129698c7f22931c964adb926c"
+    ],
+    "count": 1,
+    "create_time": 1777269227,
+    "update_time": 1777269227,
+    "_id": "M15–19 관절증<SEP>M19 기타 관절증"
+  },
+  "M16 고관절증<SEP>M16.1 기타 원발성 고관절증": {
+    "chunk_ids": [
+      "chunk-13b2843129698c7f22931c964adb926c"
+    ],
+    "count": 1,
+    "create_time": 1777269227,
+    "update_time": 1777269227,
+    "_id": "M16 고관절증<SEP>M16.1 기타 원발성 고관절증"
+  },
+  "M17 무릎관절증<SEP>M17.1 기타 원발성 무릎관절증": {
+    "chunk_ids": [
+      "chunk-13b2843129698c7f22931c964adb926c"
+    ],
+    "count": 1,
+    "create_time": 1777269227,
+    "update_time": 1777269227,
+    "_id": "M17 무릎관절증<SEP>M17.1 기타 원발성 무릎관절증"
+  },
+  "M18 제1수근중수관절의 관절증<SEP>M18.0 제1수근중수관절의 양쪽 원발성 관절증": {
+    "chunk_ids": [
+      "chunk-13b2843129698c7f22931c964adb926c"
+    ],
+    "count": 1,
+    "create_time": 1777269227,
+    "update_time": 1777269227,
+    "_id": "M18 제1수근중수관절의 관절증<SEP>M18.0 제1수근중수관절의 양쪽 원발성 관절증"
+  },
+  "M15–19 관절증<SEP>M45 강직척추염": {
+    "chunk_ids": [
+      "chunk-13b2843129698c7f22931c964adb926c"
+    ],
+    "count": 1,
+    "create_time": 1777269227,
+    "update_time": 1777269227,
+    "_id": "M15–19 관절증<SEP>M45 강직척추염"
+  },
+  "G59.0 당뇨병성 단일신경병증<SEP>당뇨병성 말초신경병증성 통증": {
+    "chunk_ids": [
+      "chunk-13b2843129698c7f22931c964adb926c"
+    ],
+    "count": 1,
+    "create_time": 1777269227,
+    "update_time": 1777269227,
+    "_id": "G59.0 당뇨병성 단일신경병증<SEP>당뇨병성 말초신경병증성 통증"
+  },
+  "M17 무릎관절증<SEP>M17.5 기타 이차성 무릎관절증": {
+    "chunk_ids": [
+      "chunk-13b2843129698c7f22931c964adb926c"
+    ],
+    "count": 1,
+    "create_time": 1777269228,
+    "update_time": 1777269228,
+    "_id": "M17 무릎관절증<SEP>M17.5 기타 이차성 무릎관절증"
+  },
+  "M96.1 척추후궁절제 후 증후군<SEP>척추 수술 후 통증 증후군": {
+    "chunk_ids": [
+      "chunk-13b2843129698c7f22931c964adb926c"
+    ],
+    "count": 1,
+    "create_time": 1777269228,
+    "update_time": 1777269228,
+    "_id": "M96.1 척추후궁절제 후 증후군<SEP>척추 수술 후 통증 증후군"
+  },
+  "G63.1 신생물질환에서의 다발신경병증<SEP>성인 암성 신경병증성 통증": {
+    "chunk_ids": [
+      "chunk-13b2843129698c7f22931c964adb926c"
+    ],
+    "count": 1,
+    "create_time": 1777269228,
+    "update_time": 1777269228,
+    "_id": "G63.1 신생물질환에서의 다발신경병증<SEP>성인 암성 신경병증성 통증"
+  },
+  "M15–19 관절증<SEP>M47 척추증": {
+    "chunk_ids": [
+      "chunk-13b2843129698c7f22931c964adb926c"
+    ],
+    "count": 1,
+    "create_time": 1777269228,
+    "update_time": 1777269228,
+    "_id": "M15–19 관절증<SEP>M47 척추증"
+  },
+  "G63.2 당뇨병성 다발신경병증<SEP>당뇨병성 말초신경병증성 통증": {
+    "chunk_ids": [
+      "chunk-13b2843129698c7f22931c964adb926c"
+    ],
+    "count": 1,
+    "create_time": 1777269228,
+    "update_time": 1777269228,
+    "_id": "G63.2 당뇨병성 다발신경병증<SEP>당뇨병성 말초신경병증성 통증"
+  },
+  "수술 후 통증 증후군<SEP>암성 신경병증성 통증": {
+    "chunk_ids": [
+      "chunk-9f9ef497325a185b6f00e4c786d4b10a"
+    ],
+    "count": 1,
+    "create_time": 1777269228,
+    "update_time": 1777269228,
+    "_id": "수술 후 통증 증후군<SEP>암성 신경병증성 통증"
+  },
+  "대상포진 후 신경통<SEP>신경병증성 통증": {
+    "chunk_ids": [
+      "chunk-9f9ef497325a185b6f00e4c786d4b10a"
+    ],
+    "count": 1,
+    "create_time": 1777269228,
+    "update_time": 1777269228,
+    "_id": "대상포진 후 신경통<SEP>신경병증성 통증"
+  },
+  "M17 무릎관절증<SEP>M17.9 상세불명의 무릎관절증": {
+    "chunk_ids": [
+      "chunk-13b2843129698c7f22931c964adb926c"
+    ],
+    "count": 1,
+    "create_time": 1777269228,
+    "update_time": 1777269228,
+    "_id": "M17 무릎관절증<SEP>M17.9 상세불명의 무릎관절증"
+  },
+  "급성 통증<SEP>척수 손상에 따른 신경병증성 통증": {
+    "chunk_ids": [
+      "chunk-9f9ef497325a185b6f00e4c786d4b10a"
+    ],
+    "count": 1,
+    "create_time": 1777269228,
+    "update_time": 1777269228,
+    "_id": "급성 통증<SEP>척수 손상에 따른 신경병증성 통증"
+  },
+  "G63.1<SEP>성인 암성 신경병증성 통증": {
+    "chunk_ids": [
+      "chunk-9f9ef497325a185b6f00e4c786d4b10a"
+    ],
+    "count": 1,
+    "create_time": 1777269228,
+    "update_time": 1777269228,
+    "_id": "G63.1<SEP>성인 암성 신경병증성 통증"
+  },
+  "급성 통증<SEP>쎄레브렉스": {
+    "chunk_ids": [
+      "chunk-9f9ef497325a185b6f00e4c786d4b10a"
+    ],
+    "count": 1,
+    "create_time": 1777269228,
+    "update_time": 1777269228,
+    "_id": "급성 통증<SEP>쎄레브렉스"
+  },
+  "M96.1<SEP>수술 후 통증 증후군": {
+    "chunk_ids": [
+      "chunk-9f9ef497325a185b6f00e4c786d4b10a"
+    ],
+    "count": 1,
+    "create_time": 1777269229,
+    "update_time": 1777269229,
+    "_id": "M96.1<SEP>수술 후 통증 증후군"
+  },
+  "S14.1<SEP>척수 손상에 따른 신경병증성 통증": {
+    "chunk_ids": [
+      "chunk-9f9ef497325a185b6f00e4c786d4b10a"
+    ],
+    "count": 1,
+    "create_time": 1777269229,
+    "update_time": 1777269229,
+    "_id": "S14.1<SEP>척수 손상에 따른 신경병증성 통증"
+  },
+  "복합부위 통증 증후군<SEP>신경병증성 통증": {
+    "chunk_ids": [
+      "chunk-9f9ef497325a185b6f00e4c786d4b10a"
+    ],
+    "count": 1,
+    "create_time": 1777269229,
+    "update_time": 1777269229,
+    "_id": "복합부위 통증 증후군<SEP>신경병증성 통증"
+  },
+  "G53.0<SEP>대상포진 후 신경통": {
+    "chunk_ids": [
+      "chunk-9f9ef497325a185b6f00e4c786d4b10a"
+    ],
+    "count": 1,
+    "create_time": 1777269229,
+    "update_time": 1777269229,
+    "_id": "G53.0<SEP>대상포진 후 신경통"
+  },
+  "KOICD 한국질병분류 정보센터<SEP>경기도 성남시 분당구 판교로 310": {
+    "chunk_ids": [
+      "chunk-ee3d5f63eb41f65900f4e1ee19d75b70"
+    ],
+    "count": 1,
+    "create_time": 1777269229,
+    "update_time": 1777269229,
+    "_id": "KOICD 한국질병분류 정보센터<SEP>경기도 성남시 분당구 판교로 310"
+  },
+  "리리카<SEP>신경병증성 통증": {
+    "chunk_ids": [
+      "chunk-9f9ef497325a185b6f00e4c786d4b10a"
+    ],
+    "count": 1,
+    "create_time": 1777269229,
+    "update_time": 1777269229,
+    "_id": "리리카<SEP>신경병증성 통증"
+  },
+  "G90.5<SEP>복합부위 통증 증후군": {
+    "chunk_ids": [
+      "chunk-9f9ef497325a185b6f00e4c786d4b10a"
+    ],
+    "count": 1,
+    "create_time": 1777269229,
+    "update_time": 1777269229,
+    "_id": "G90.5<SEP>복합부위 통증 증후군"
+  },
+  "M05–06 류마티스관절염<SEP>쎄레브렉스": {
+    "chunk_ids": [
+      "chunk-ee3d5f63eb41f65900f4e1ee19d75b70"
+    ],
+    "count": 1,
+    "create_time": 1777269229,
+    "update_time": 1777269229,
+    "_id": "M05–06 류마티스관절염<SEP>쎄레브렉스"
+  },
+  "G90.6<SEP>복합부위 통증 증후군": {
+    "chunk_ids": [
+      "chunk-9f9ef497325a185b6f00e4c786d4b10a"
+    ],
+    "count": 1,
+    "create_time": 1777269229,
+    "update_time": 1777269229,
+    "_id": "G90.6<SEP>복합부위 통증 증후군"
+  },
+  "쎄레브렉스<SEP>쎄레브렉스 캡슐 100, 200mg": {
+    "chunk_ids": [
+      "chunk-ee3d5f63eb41f65900f4e1ee19d75b70"
+    ],
+    "count": 1,
+    "create_time": 1777269229,
+    "update_time": 1777269229,
+    "_id": "쎄레브렉스<SEP>쎄레브렉스 캡슐 100, 200mg"
+  },
+  "리리카<SEP>쎄레브렉스": {
+    "chunk_ids": [
+      "chunk-ee3d5f63eb41f65900f4e1ee19d75b70"
+    ],
+    "count": 1,
+    "create_time": 1777269230,
+    "update_time": 1777269230,
+    "_id": "리리카<SEP>쎄레브렉스"
+  },
+  "쎄레브렉스<SEP>쎄레브렉스 캡슐 400mg": {
+    "chunk_ids": [
+      "chunk-ee3d5f63eb41f65900f4e1ee19d75b70"
+    ],
+    "count": 1,
+    "create_time": 1777269230,
+    "update_time": 1777269230,
+    "_id": "쎄레브렉스<SEP>쎄레브렉스 캡슐 400mg"
+  },
+  "M15–19 관절증<SEP>리리카": {
+    "chunk_ids": [
+      "chunk-ee3d5f63eb41f65900f4e1ee19d75b70"
+    ],
+    "count": 1,
+    "create_time": 1777269230,
+    "update_time": 1777269230,
+    "_id": "M15–19 관절증<SEP>리리카"
+  },
+  "리리카<SEP>리리카 CR 서방정": {
+    "chunk_ids": [
+      "chunk-ee3d5f63eb41f65900f4e1ee19d75b70"
+    ],
+    "count": 1,
+    "create_time": 1777269230,
+    "update_time": 1777269230,
+    "_id": "리리카<SEP>리리카 CR 서방정"
+  },
+  "리리카<SEP>리리카 캡슐": {
+    "chunk_ids": [
+      "chunk-ee3d5f63eb41f65900f4e1ee19d75b70"
+    ],
+    "count": 1,
+    "create_time": 1777269231,
+    "update_time": 1777269231,
+    "_id": "리리카<SEP>리리카 캡슐"
+  },
+  "대한두통학회<SEP>편두통": {
+    "chunk_ids": [
+      "chunk-0ee691fb74751fcb20170abbaf7a0d6a"
+    ],
+    "count": 1,
+    "create_time": 1777269291,
+    "update_time": 1777269291,
+    "_id": "대한두통학회<SEP>편두통"
+  },
+  "수벡스정<SEP>효과": {
+    "chunk_ids": [
+      "chunk-0ee691fb74751fcb20170abbaf7a0d6a"
+    ],
+    "count": 1,
+    "create_time": 1777269291,
+    "update_time": 1777269291,
+    "_id": "수벡스정<SEP>효과"
+  },
+  "SMT/NPX 복합제<SEP>Sumatriptan/Naproxen Sodium": {
+    "chunk_ids": [
+      "chunk-0ee691fb74751fcb20170abbaf7a0d6a"
+    ],
+    "count": 1,
+    "create_time": 1777269291,
+    "update_time": 1777269291,
+    "_id": "SMT/NPX 복합제<SEP>Sumatriptan/Naproxen Sodium"
+  },
+  "Ibuprofen<SEP>효과": {
+    "chunk_ids": [
+      "chunk-0ee691fb74751fcb20170abbaf7a0d6a"
+    ],
+    "count": 1,
+    "create_time": 1777269291,
+    "update_time": 1777269291,
+    "_id": "Ibuprofen<SEP>효과"
+  },
+  "Sumatriptan<SEP>수벡스정": {
+    "chunk_ids": [
+      "chunk-0ee691fb74751fcb20170abbaf7a0d6a"
+    ],
+    "count": 1,
+    "create_time": 1777269291,
+    "update_time": 1777269291,
+    "_id": "Sumatriptan<SEP>수벡스정"
+  },
+  "심한 심기능부전 환자<SEP>중증 고혈압 환자": {
+    "chunk_ids": [
+      "chunk-57db3e3ec73b4cabb7d280b8b15e2014"
+    ],
+    "count": 1,
+    "create_time": 1777269291,
+    "update_time": 1777269291,
+    "_id": "심한 심기능부전 환자<SEP>중증 고혈압 환자"
+  },
+  "뇌혈관성 우발증상<SEP>편마비": {
+    "chunk_ids": [
+      "chunk-57db3e3ec73b4cabb7d280b8b15e2014"
+    ],
+    "count": 1,
+    "create_time": 1777269291,
+    "update_time": 1777269291,
+    "_id": "뇌혈관성 우발증상<SEP>편마비"
+  },
+  "말초혈관 질환 환자<SEP>허혈성 장 질환 환자": {
+    "chunk_ids": [
+      "chunk-57db3e3ec73b4cabb7d280b8b15e2014"
+    ],
+    "count": 1,
+    "create_time": 1777269291,
+    "update_time": 1777269291,
+    "_id": "말초혈관 질환 환자<SEP>허혈성 장 질환 환자"
+  },
+  "소아<SEP>임부": {
+    "chunk_ids": [
+      "chunk-57db3e3ec73b4cabb7d280b8b15e2014"
+    ],
+    "count": 1,
+    "create_time": 1777269291,
+    "update_time": 1777269291,
+    "_id": "소아<SEP>임부"
+  },
+  "수마트립탄<SEP>에르고타민": {
+    "chunk_ids": [
+      "chunk-57db3e3ec73b4cabb7d280b8b15e2014"
+    ],
+    "count": 1,
+    "create_time": 1777269291,
+    "update_time": 1777269291,
+    "_id": "수마트립탄<SEP>에르고타민"
+  },
+  "Naproxen<SEP>수벡스정": {
+    "chunk_ids": [
+      "chunk-0ee691fb74751fcb20170abbaf7a0d6a"
+    ],
+    "count": 1,
+    "create_time": 1777269291,
+    "update_time": 1777269291,
+    "_id": "Naproxen<SEP>수벡스정"
+  },
+  "고칼륨혈증 환자<SEP>중등증-중증 간장애 환자": {
+    "chunk_ids": [
+      "chunk-57db3e3ec73b4cabb7d280b8b15e2014"
+    ],
+    "count": 1,
+    "create_time": 1777269291,
+    "update_time": 1777269291,
+    "_id": "고칼륨혈증 환자<SEP>중등증-중증 간장애 환자"
+  },
+  "임부<SEP>임신 가능성 있는 여성": {
+    "chunk_ids": [
+      "chunk-57db3e3ec73b4cabb7d280b8b15e2014"
+    ],
+    "count": 1,
+    "create_time": 1777269292,
+    "update_time": 1777269292,
+    "_id": "임부<SEP>임신 가능성 있는 여성"
+  },
+  "나프록센 나트륨<SEP>수벡스정": {
+    "chunk_ids": [
+      "chunk-489442260f6ec40e43a76cf2f96ff34f",
+      "chunk-ee32a470e9533cb830090ebe53c53b6f"
+    ],
+    "count": 2,
+    "create_time": 1777269292,
+    "update_time": 1777269292,
+    "_id": "나프록센 나트륨<SEP>수벡스정"
+  },
+  "Naproxen<SEP>효과": {
+    "chunk_ids": [
+      "chunk-0ee691fb74751fcb20170abbaf7a0d6a"
+    ],
+    "count": 1,
+    "create_time": 1777269292,
+    "update_time": 1777269292,
+    "_id": "Naproxen<SEP>효과"
+  },
+  "나프록센나트륨<SEP>수마트립탄": {
+    "chunk_ids": [
+      "chunk-57db3e3ec73b4cabb7d280b8b15e2014"
+    ],
+    "count": 1,
+    "create_time": 1777269292,
+    "update_time": 1777269292,
+    "_id": "나프록센나트륨<SEP>수마트립탄"
+  },
+  "Naproxen AUC0-∞<SEP>Naproxen PK parameter": {
+    "chunk_ids": [
+      "chunk-489442260f6ec40e43a76cf2f96ff34f"
+    ],
+    "count": 1,
+    "create_time": 1777269292,
+    "update_time": 1777269292,
+    "_id": "Naproxen AUC0-∞<SEP>Naproxen PK parameter"
+  },
+  "수마트립탄<SEP>수벡스정": {
+    "chunk_ids": [
+      "chunk-489442260f6ec40e43a76cf2f96ff34f",
+      "chunk-35e2309636b560095bb050f0f1740b02",
+      "chunk-3afc6920d16bf2e23c7e25bbb7d58741"
+    ],
+    "count": 3,
+    "create_time": 1777269292,
+    "update_time": 1777269292,
+    "_id": "수마트립탄<SEP>수벡스정"
+  },
+  "PGE2<SEP>나프록센 나트륨": {
+    "chunk_ids": [
+      "chunk-489442260f6ec40e43a76cf2f96ff34f"
+    ],
+    "count": 1,
+    "create_time": 1777269292,
+    "update_time": 1777269292,
+    "_id": "PGE2<SEP>나프록센 나트륨"
+  },
+  "Naproxen<SEP>Naproxen Sodium": {
+    "chunk_ids": [
+      "chunk-0ee691fb74751fcb20170abbaf7a0d6a"
+    ],
+    "count": 1,
+    "create_time": 1777269292,
+    "update_time": 1777269292,
+    "_id": "Naproxen<SEP>Naproxen Sodium"
+  },
+  "SUVEXX<SEP>수벡스정": {
+    "chunk_ids": [
+      "chunk-35e2309636b560095bb050f0f1740b02"
+    ],
+    "count": 1,
+    "create_time": 1777269297,
+    "update_time": 1777269297,
+    "_id": "SUVEXX<SEP>수벡스정"
+  },
+  "Haberer LJ<SEP>수마트립탄": {
+    "chunk_ids": [
+      "chunk-489442260f6ec40e43a76cf2f96ff34f"
+    ],
+    "count": 1,
+    "create_time": 1777269297,
+    "update_time": 1777269297,
+    "_id": "Haberer LJ<SEP>수마트립탄"
+  },
+  "수벡스정<SEP>위약": {
+    "chunk_ids": [
+      "chunk-35e2309636b560095bb050f0f1740b02"
+    ],
+    "count": 1,
+    "create_time": 1777269297,
+    "update_time": 1777269297,
+    "_id": "수벡스정<SEP>위약"
+  },
+  "Haberer LJ<SEP>Headache": {
+    "chunk_ids": [
+      "chunk-489442260f6ec40e43a76cf2f96ff34f"
+    ],
+    "count": 1,
+    "create_time": 1777269297,
+    "update_time": 1777269297,
+    "_id": "Haberer LJ<SEP>Headache"
+  },
+  "의약정보팀<SEP>이승현": {
+    "chunk_ids": [
+      "chunk-ee32a470e9533cb830090ebe53c53b6f"
+    ],
+    "count": 1,
+    "create_time": 1777269298,
+    "update_time": 1777269298,
+    "_id": "의약정보팀<SEP>이승현"
+  },
+  "수마트립탄<SEP>위약": {
+    "chunk_ids": [
+      "chunk-35e2309636b560095bb050f0f1740b02"
+    ],
+    "count": 1,
+    "create_time": 1777269298,
+    "update_time": 1777269298,
+    "_id": "수마트립탄<SEP>위약"
+  },
+  "수벡스정<SEP>환자 만족도": {
+    "chunk_ids": [
+      "chunk-35e2309636b560095bb050f0f1740b02"
+    ],
+    "count": 1,
+    "create_time": 1777269298,
+    "update_time": 1777269298,
+    "_id": "수벡스정<SEP>환자 만족도"
+  },
+  "SMT/NPX<SEP>수벡스정": {
+    "chunk_ids": [
+      "chunk-35e2309636b560095bb050f0f1740b02"
+    ],
+    "count": 1,
+    "create_time": 1777269298,
+    "update_time": 1777269298,
+    "_id": "SMT/NPX<SEP>수벡스정"
+  },
+  "Naproxen Sodium<SEP>Triptan": {
+    "chunk_ids": [
+      "chunk-c759298a5e8ad791aeef958f353482f7"
+    ],
+    "count": 1,
+    "create_time": 1777269298,
+    "update_time": 1777269298,
+    "_id": "Naproxen Sodium<SEP>Triptan"
+  },
+  "수마트립탄 숙신산염<SEP>수벡스정": {
+    "chunk_ids": [
+      "chunk-ee32a470e9533cb830090ebe53c53b6f"
+    ],
+    "count": 1,
+    "create_time": 1777269298,
+    "update_time": 1777269298,
+    "_id": "수마트립탄 숙신산염<SEP>수벡스정"
+  },
+  "SMT/NPX<SEP>환자 만족도": {
+    "chunk_ids": [
+      "chunk-35e2309636b560095bb050f0f1740b02"
+    ],
+    "count": 1,
+    "create_time": 1777269298,
+    "update_time": 1777269298,
+    "_id": "SMT/NPX<SEP>환자 만족도"
+  },
+  "NSAID<SEP>Triptan": {
+    "chunk_ids": [
+      "chunk-c759298a5e8ad791aeef958f353482f7"
+    ],
+    "count": 1,
+    "create_time": 1777269298,
+    "update_time": 1777269298,
+    "_id": "NSAID<SEP>Triptan"
+  },
+  "금기<SEP>수벡스정": {
+    "chunk_ids": [
+      "chunk-ee32a470e9533cb830090ebe53c53b6f"
+    ],
+    "count": 1,
+    "create_time": 1777269299,
+    "update_time": 1777269299,
+    "_id": "금기<SEP>수벡스정"
+  },
+  "Naproxen<SEP>Sumatriptan": {
+    "chunk_ids": [
+      "chunk-c759298a5e8ad791aeef958f353482f7",
+      "chunk-10084dcf490967260e81b53693a74498"
+    ],
+    "count": 2,
+    "create_time": 1777269299,
+    "update_time": 1777269299,
+    "_id": "Naproxen<SEP>Sumatriptan"
+  },
+  "Ibuprofen<SEP>NSAID": {
+    "chunk_ids": [
+      "chunk-c759298a5e8ad791aeef958f353482f7"
+    ],
+    "count": 1,
+    "create_time": 1777269299,
+    "update_time": 1777269299,
+    "_id": "Ibuprofen<SEP>NSAID"
+  },
+  "CGRP<SEP>Endothelial Cell": {
+    "chunk_ids": [
+      "chunk-10084dcf490967260e81b53693a74498"
+    ],
+    "count": 1,
+    "create_time": 1777269299,
+    "update_time": 1777269299,
+    "_id": "CGRP<SEP>Endothelial Cell"
+  },
+  "SK케미칼<SEP>수벡스정": {
+    "chunk_ids": [
+      "chunk-ee32a470e9533cb830090ebe53c53b6f"
+    ],
+    "count": 1,
+    "create_time": 1777269299,
+    "update_time": 1777269299,
+    "_id": "SK케미칼<SEP>수벡스정"
+  },
+  "CGRP<SEP>Vascular Smooth Muscle Cell": {
+    "chunk_ids": [
+      "chunk-10084dcf490967260e81b53693a74498"
+    ],
+    "count": 1,
+    "create_time": 1777269299,
+    "update_time": 1777269299,
+    "_id": "CGRP<SEP>Vascular Smooth Muscle Cell"
+  },
+  "SUVEXX<SEP>Sumatriptan": {
+    "chunk_ids": [
+      "chunk-10084dcf490967260e81b53693a74498"
+    ],
+    "count": 1,
+    "create_time": 1777269299,
+    "update_time": 1777269299,
+    "_id": "SUVEXX<SEP>Sumatriptan"
+  },
+  "NSAID<SEP>Naproxen": {
+    "chunk_ids": [
+      "chunk-c759298a5e8ad791aeef958f353482f7",
+      "chunk-10084dcf490967260e81b53693a74498"
+    ],
+    "count": 2,
+    "create_time": 1777269299,
+    "update_time": 1777269299,
+    "_id": "NSAID<SEP>Naproxen"
+  },
+  "세로토닌(5-HT1)<SEP>수벡스정": {
+    "chunk_ids": [
+      "chunk-ee32a470e9533cb830090ebe53c53b6f"
+    ],
+    "count": 1,
+    "create_time": 1777269299,
+    "update_time": 1777269299,
+    "_id": "세로토닌(5-HT1)<SEP>수벡스정"
+  },
+  "Sumatriptan<SEP>Triptan": {
+    "chunk_ids": [
+      "chunk-10084dcf490967260e81b53693a74498"
+    ],
+    "count": 1,
+    "create_time": 1777269300,
+    "update_time": 1777269300,
+    "_id": "Sumatriptan<SEP>Triptan"
+  },
+  "Naproxen<SEP>SUVEXX": {
+    "chunk_ids": [
+      "chunk-10084dcf490967260e81b53693a74498"
+    ],
+    "count": 1,
+    "create_time": 1777269300,
+    "update_time": 1777269300,
+    "_id": "Naproxen<SEP>SUVEXX"
+  },
+  "Celecoxib<SEP>NSAID": {
+    "chunk_ids": [
+      "chunk-c759298a5e8ad791aeef958f353482f7"
+    ],
+    "count": 1,
+    "create_time": 1777269300,
+    "update_time": 1777269300,
+    "_id": "Celecoxib<SEP>NSAID"
+  },
+  "수마트리프탄<SEP>수벡스정": {
+    "chunk_ids": [
+      "chunk-1d0cbe34e78c2997f9234bd2373b93ee"
+    ],
+    "count": 1,
+    "create_time": 1777269300,
+    "update_time": 1777269300,
+    "_id": "수마트리프탄<SEP>수벡스정"
+  },
+  "AUC0-∞<SEP>Naproxen AUC0-∞": {
+    "chunk_ids": [
+      "chunk-1d0cbe34e78c2997f9234bd2373b93ee"
+    ],
+    "count": 1,
+    "create_time": 1777269300,
+    "update_time": 1777269300,
+    "_id": "AUC0-∞<SEP>Naproxen AUC0-∞"
+  },
+  "나프록센<SEP>수벡스정": {
+    "chunk_ids": [
+      "chunk-1d0cbe34e78c2997f9234bd2373b93ee"
+    ],
+    "count": 1,
+    "create_time": 1777269300,
+    "update_time": 1777269300,
+    "_id": "나프록센<SEP>수벡스정"
+  },
+  "AUC<SEP>수마트리프탄": {
+    "chunk_ids": [
+      "chunk-1d0cbe34e78c2997f9234bd2373b93ee"
+    ],
+    "count": 1,
+    "create_time": 1777269300,
+    "update_time": 1777269300,
+    "_id": "AUC<SEP>수마트리프탄"
+  },
+  "Naproxen PK parameter<SEP>Study1": {
+    "chunk_ids": [
+      "chunk-1d0cbe34e78c2997f9234bd2373b93ee"
+    ],
+    "count": 1,
+    "create_time": 1777269300,
+    "update_time": 1777269300,
+    "_id": "Naproxen PK parameter<SEP>Study1"
+  },
+  "수벡스정<SEP>편두통": {
+    "chunk_ids": [
+      "chunk-1d0cbe34e78c2997f9234bd2373b93ee"
+    ],
+    "count": 1,
+    "create_time": 1777269300,
+    "update_time": 1777269300,
+    "_id": "수벡스정<SEP>편두통"
+  },
+  "AUC<SEP>나프록센": {
+    "chunk_ids": [
+      "chunk-1d0cbe34e78c2997f9234bd2373b93ee"
+    ],
+    "count": 1,
+    "create_time": 1777269300,
+    "update_time": 1777269300,
+    "_id": "AUC<SEP>나프록센"
+  },
+  "수마트립탄<SEP>편두통": {
+    "chunk_ids": [
+      "chunk-3afc6920d16bf2e23c7e25bbb7d58741"
+    ],
+    "count": 1,
+    "create_time": 1777269301,
+    "update_time": 1777269301,
+    "_id": "수마트립탄<SEP>편두통"
+  },
+  "Pain Relief<SEP>수벡스정": {
+    "chunk_ids": [
+      "chunk-1d0cbe34e78c2997f9234bd2373b93ee"
+    ],
+    "count": 1,
+    "create_time": 1777269301,
+    "update_time": 1777269301,
+    "_id": "Pain Relief<SEP>수벡스정"
+  },
+  "Naproxen PK parameter<SEP>Study2": {
+    "chunk_ids": [
+      "chunk-1d0cbe34e78c2997f9234bd2373b93ee"
+    ],
+    "count": 1,
+    "create_time": 1777269301,
+    "update_time": 1777269301,
+    "_id": "Naproxen PK parameter<SEP>Study2"
+  },
+  "수마트립탄<SEP>이상반응": {
+    "chunk_ids": [
+      "chunk-3afc6920d16bf2e23c7e25bbb7d58741"
+    ],
+    "count": 1,
+    "create_time": 1777269301,
+    "update_time": 1777269301,
+    "_id": "수마트립탄<SEP>이상반응"
+  },
+  "Headache Pain Relief Study<SEP>수벡스정": {
+    "chunk_ids": [
+      "chunk-1d0cbe34e78c2997f9234bd2373b93ee"
+    ],
+    "count": 1,
+    "create_time": 1777269301,
+    "update_time": 1777269301,
+    "_id": "Headache Pain Relief Study<SEP>수벡스정"
+  },
+  "나프록센나트륨<SEP>수벡스정": {
+    "chunk_ids": [
+      "chunk-3afc6920d16bf2e23c7e25bbb7d58741"
+    ],
+    "count": 1,
+    "create_time": 1777269301,
+    "update_time": 1777269301,
+    "_id": "나프록센나트륨<SEP>수벡스정"
+  },
+  "수벡스정<SEP>식품의약품안전처": {
+    "chunk_ids": [
+      "chunk-3afc6920d16bf2e23c7e25bbb7d58741"
+    ],
+    "count": 1,
+    "create_time": 1777269302,
+    "update_time": 1777269302,
+    "_id": "수벡스정<SEP>식품의약품안전처"
+  },
+  "나프록센나트륨<SEP>편두통": {
+    "chunk_ids": [
+      "chunk-3afc6920d16bf2e23c7e25bbb7d58741"
+    ],
+    "count": 1,
+    "create_time": 1777269302,
+    "update_time": 1777269302,
+    "_id": "나프록센나트륨<SEP>편두통"
+  },
+  "나프록센나트륨<SEP>이상반응": {
+    "chunk_ids": [
+      "chunk-3afc6920d16bf2e23c7e25bbb7d58741"
+    ],
+    "count": 1,
+    "create_time": 1777269302,
+    "update_time": 1777269302,
+    "_id": "나프록센나트륨<SEP>이상반응"
+  },
+  "Opicapone<SEP>Placebo": {
+    "chunk_ids": [
+      "chunk-e44221bb41414fd86ffece54a4a8aa25"
+    ],
+    "count": 1,
+    "create_time": 1777269333,
+    "update_time": 1777269333,
+    "_id": "Opicapone<SEP>Placebo"
+  },
+  "MDS-UPDRS<SEP>Opicapone": {
+    "chunk_ids": [
+      "chunk-e44221bb41414fd86ffece54a4a8aa25"
+    ],
+    "count": 1,
+    "create_time": 1777269333,
+    "update_time": 1777269333,
+    "_id": "MDS-UPDRS<SEP>Opicapone"
+  },
+  "NMSS<SEP>Opicapone": {
+    "chunk_ids": [
+      "chunk-e44221bb41414fd86ffece54a4a8aa25"
+    ],
+    "count": 1,
+    "create_time": 1777269334,
+    "update_time": 1777269334,
+    "_id": "NMSS<SEP>Opicapone"
+  },
+  "Baseline Score<SEP>MDS-UPDRS": {
+    "chunk_ids": [
+      "chunk-e44221bb41414fd86ffece54a4a8aa25"
+    ],
+    "count": 1,
+    "create_time": 1777269334,
+    "update_time": 1777269334,
+    "_id": "Baseline Score<SEP>MDS-UPDRS"
+  },
+  "오피카폰<SEP>파킨슨병": {
+    "chunk_ids": [
+      "chunk-575f66af422e97760285ddad4297e484"
+    ],
+    "count": 1,
+    "create_time": 1777269334,
+    "update_time": 1777269334,
+    "_id": "오피카폰<SEP>파킨슨병"
+  },
+  "MDS-UPDRS<SEP>임상시험": {
+    "chunk_ids": [
+      "chunk-575f66af422e97760285ddad4297e484"
+    ],
+    "count": 1,
+    "create_time": 1777269334,
+    "update_time": 1777269334,
+    "_id": "MDS-UPDRS<SEP>임상시험"
+  },
+  "Opicapone<SEP>PDQ-39": {
+    "chunk_ids": [
+      "chunk-e44221bb41414fd86ffece54a4a8aa25"
+    ],
+    "count": 1,
+    "create_time": 1777269334,
+    "update_time": 1777269334,
+    "_id": "Opicapone<SEP>PDQ-39"
+  },
+  "위약<SEP>임상시험": {
+    "chunk_ids": [
+      "chunk-575f66af422e97760285ddad4297e484"
+    ],
+    "count": 1,
+    "create_time": 1777269334,
+    "update_time": 1777269334,
+    "_id": "위약<SEP>임상시험"
+  },
+  "안전성<SEP>오피카폰": {
+    "chunk_ids": [
+      "chunk-575f66af422e97760285ddad4297e484"
+    ],
+    "count": 1,
+    "create_time": 1777269334,
+    "update_time": 1777269334,
+    "_id": "안전성<SEP>오피카폰"
+  },
+  "Opicapone<SEP>PGI-I": {
+    "chunk_ids": [
+      "chunk-e44221bb41414fd86ffece54a4a8aa25"
+    ],
+    "count": 1,
+    "create_time": 1777269334,
+    "update_time": 1777269334,
+    "_id": "Opicapone<SEP>PGI-I"
+  },
+  "1차 유효성 평가<SEP>MDS-UPDRS part III": {
+    "chunk_ids": [
+      "chunk-575f66af422e97760285ddad4297e484"
+    ],
+    "count": 1,
+    "create_time": 1777269334,
+    "update_time": 1777269334,
+    "_id": "1차 유효성 평가<SEP>MDS-UPDRS part III"
+  },
+  "Ferreira JJ<SEP>임상시험": {
+    "chunk_ids": [
+      "chunk-575f66af422e97760285ddad4297e484"
+    ],
+    "count": 1,
+    "create_time": 1777269335,
+    "update_time": 1777269335,
+    "_id": "Ferreira JJ<SEP>임상시험"
+  },
+  "CGI-I<SEP>Opicapone": {
+    "chunk_ids": [
+      "chunk-e44221bb41414fd86ffece54a4a8aa25"
+    ],
+    "count": 1,
+    "create_time": 1777269335,
+    "update_time": 1777269335,
+    "_id": "CGI-I<SEP>Opicapone"
+  },
+  "Placebo<SEP>TEAE": {
+    "chunk_ids": [
+      "chunk-a72051862422891a22b13ed0641b27ff"
+    ],
+    "count": 1,
+    "create_time": 1777269335,
+    "update_time": 1777269335,
+    "_id": "Placebo<SEP>TEAE"
+  },
+  "Opicapone<SEP>Patients with Worsening Dyskinesia": {
+    "chunk_ids": [
+      "chunk-e44221bb41414fd86ffece54a4a8aa25"
+    ],
+    "count": 1,
+    "create_time": 1777269335,
+    "update_time": 1777269335,
+    "_id": "Opicapone<SEP>Patients with Worsening Dyskinesia"
+  },
+  "이중눈가림<SEP>임상시험": {
+    "chunk_ids": [
+      "chunk-575f66af422e97760285ddad4297e484"
+    ],
+    "count": 1,
+    "create_time": 1777269335,
+    "update_time": 1777269335,
+    "_id": "이중눈가림<SEP>임상시험"
+  },
+  "Placebo<SEP>참여자": {
+    "chunk_ids": [
+      "chunk-a72051862422891a22b13ed0641b27ff"
+    ],
+    "count": 1,
+    "create_time": 1777269335,
+    "update_time": 1777269335,
+    "_id": "Placebo<SEP>참여자"
+  },
+  "Opicapone<SEP>Patients with Worsening OFF State": {
+    "chunk_ids": [
+      "chunk-e44221bb41414fd86ffece54a4a8aa25"
+    ],
+    "count": 1,
+    "create_time": 1777269335,
+    "update_time": 1777269335,
+    "_id": "Opicapone<SEP>Patients with Worsening OFF State"
+  },
+  "이상적 개선 비율<SEP>참여자": {
+    "chunk_ids": [
+      "chunk-a72051862422891a22b13ed0641b27ff"
+    ],
+    "count": 1,
+    "create_time": 1777269335,
+    "update_time": 1777269335,
+    "_id": "이상적 개선 비율<SEP>참여자"
+  },
+  "TEAE<SEP>위약": {
+    "chunk_ids": [
+      "chunk-a52e75864af597f7c0269a4ff916343c"
+    ],
+    "count": 1,
+    "create_time": 1777269335,
+    "update_time": 1777269335,
+    "_id": "TEAE<SEP>위약"
+  },
+  "운동동요<SEP>임상 중단률": {
+    "chunk_ids": [
+      "chunk-a52e75864af597f7c0269a4ff916343c"
+    ],
+    "count": 1,
+    "create_time": 1777269336,
+    "update_time": 1777269336,
+    "_id": "운동동요<SEP>임상 중단률"
+  },
+  "Opicapone<SEP>TEAE": {
+    "chunk_ids": [
+      "chunk-a72051862422891a22b13ed0641b27ff"
+    ],
+    "count": 1,
+    "create_time": 1777269336,
+    "update_time": 1777269336,
+    "_id": "Opicapone<SEP>TEAE"
+  },
+  "Death<SEP>Serious TEAE": {
+    "chunk_ids": [
+      "chunk-a52e75864af597f7c0269a4ff916343c"
+    ],
+    "count": 1,
+    "create_time": 1777269336,
+    "update_time": 1777269336,
+    "_id": "Death<SEP>Serious TEAE"
+  },
+  "위약<SEP>임상 중단률": {
+    "chunk_ids": [
+      "chunk-a52e75864af597f7c0269a4ff916343c"
+    ],
+    "count": 1,
+    "create_time": 1777269336,
+    "update_time": 1777269336,
+    "_id": "위약<SEP>임상 중단률"
+  },
+  "TEAE<SEP>경증 및 중등증": {
+    "chunk_ids": [
+      "chunk-a52e75864af597f7c0269a4ff916343c"
+    ],
+    "count": 1,
+    "create_time": 1777269336,
+    "update_time": 1777269336,
+    "_id": "TEAE<SEP>경증 및 중등증"
+  },
+  "Opicapone<SEP>PDSS 점수": {
+    "chunk_ids": [
+      "chunk-a72051862422891a22b13ed0641b27ff"
+    ],
+    "count": 1,
+    "create_time": 1777269336,
+    "update_time": 1777269336,
+    "_id": "Opicapone<SEP>PDSS 점수"
+  },
+  "Opicapone<SEP>운영자": {
+    "chunk_ids": [
+      "chunk-a72051862422891a22b13ed0641b27ff"
+    ],
+    "count": 1,
+    "create_time": 1777269336,
+    "update_time": 1777269336,
+    "_id": "Opicapone<SEP>운영자"
+  },
+  "TEAE<SEP>Treatment-related": {
+    "chunk_ids": [
+      "chunk-a52e75864af597f7c0269a4ff916343c"
+    ],
+    "count": 1,
+    "create_time": 1777269337,
+    "update_time": 1777269337,
+    "_id": "TEAE<SEP>Treatment-related"
+  },
+  "Opicapone<SEP>참여자": {
+    "chunk_ids": [
+      "chunk-a72051862422891a22b13ed0641b27ff"
+    ],
+    "count": 1,
+    "create_time": 1777269337,
+    "update_time": 1777269337,
+    "_id": "Opicapone<SEP>참여자"
+  },
+  "MDS-UPDRS Part III<SEP>Opicapone": {
+    "chunk_ids": [
+      "chunk-0dcc2c6da5aeec780d75777e1256f45f"
+    ],
+    "count": 1,
+    "create_time": 1777269337,
+    "update_time": 1777269337,
+    "_id": "MDS-UPDRS Part III<SEP>Opicapone"
+  },
+  "Opicapone<SEP>유의미한 차이": {
+    "chunk_ids": [
+      "chunk-0dcc2c6da5aeec780d75777e1256f45f"
+    ],
+    "count": 1,
+    "create_time": 1777269337,
+    "update_time": 1777269337,
+    "_id": "Opicapone<SEP>유의미한 차이"
+  },
+  "MDS-UPDRS Part III<SEP>Placebo": {
+    "chunk_ids": [
+      "chunk-0dcc2c6da5aeec780d75777e1256f45f"
+    ],
+    "count": 1,
+    "create_time": 1777269337,
+    "update_time": 1777269337,
+    "_id": "MDS-UPDRS Part III<SEP>Placebo"
+  },
+  "MDS-UPDRS Part I<SEP>Opicapone": {
+    "chunk_ids": [
+      "chunk-0dcc2c6da5aeec780d75777e1256f45f"
+    ],
+    "count": 1,
+    "create_time": 1777269337,
+    "update_time": 1777269337,
+    "_id": "MDS-UPDRS Part I<SEP>Opicapone"
+  },
+  "24주<SEP>MDS-UPDRS Part III": {
+    "chunk_ids": [
+      "chunk-0dcc2c6da5aeec780d75777e1256f45f"
+    ],
+    "count": 1,
+    "create_time": 1777269337,
+    "update_time": 1777269337,
+    "_id": "24주<SEP>MDS-UPDRS Part III"
+  },
+  "MDS-UPDRS Part II<SEP>Opicapone": {
+    "chunk_ids": [
+      "chunk-0dcc2c6da5aeec780d75777e1256f45f"
+    ],
+    "count": 1,
+    "create_time": 1777269338,
+    "update_time": 1777269338,
+    "_id": "MDS-UPDRS Part II<SEP>Opicapone"
+  },
+  "MDS-UPDRS Part I<SEP>Placebo": {
+    "chunk_ids": [
+      "chunk-0dcc2c6da5aeec780d75777e1256f45f"
+    ],
+    "count": 1,
+    "create_time": 1777269338,
+    "update_time": 1777269338,
+    "_id": "MDS-UPDRS Part I<SEP>Placebo"
+  },
+  "MDS-UPDRS Part IV<SEP>Opicapone": {
+    "chunk_ids": [
+      "chunk-0dcc2c6da5aeec780d75777e1256f45f"
+    ],
+    "count": 1,
+    "create_time": 1777269338,
+    "update_time": 1777269338,
+    "_id": "MDS-UPDRS Part IV<SEP>Opicapone"
+  },
+  "MDS-UPDRS Part II<SEP>Placebo": {
+    "chunk_ids": [
+      "chunk-0dcc2c6da5aeec780d75777e1256f45f"
+    ],
+    "count": 1,
+    "create_time": 1777269338,
+    "update_time": 1777269338,
+    "_id": "MDS-UPDRS Part II<SEP>Placebo"
+  },
+  "MDS-UPDRS Part IV<SEP>Placebo": {
+    "chunk_ids": [
+      "chunk-0dcc2c6da5aeec780d75777e1256f45f"
+    ],
+    "count": 1,
+    "create_time": 1777269338,
+    "update_time": 1777269338,
+    "_id": "MDS-UPDRS Part IV<SEP>Placebo"
+  },
+  "Ginkgo Biloba Extract<SEP>치매": {
+    "chunk_ids": [
+      "chunk-f4049f43573fa70c70d776b4f0adc7b1"
+    ],
+    "count": 1,
+    "create_time": 1777269488,
+    "update_time": 1777269488,
+    "_id": "Ginkgo Biloba Extract<SEP>치매"
+  },
+  "요양급여<SEP>콜린알포세레이트": {
+    "chunk_ids": [
+      "chunk-f4049f43573fa70c70d776b4f0adc7b1"
+    ],
+    "count": 1,
+    "create_time": 1777269488,
+    "update_time": 1777269488,
+    "_id": "요양급여<SEP>콜린알포세레이트"
+  },
+  "Donepezil<SEP>Ginkgo": {
+    "chunk_ids": [
+      "chunk-282d0331aaa13a66367ec74aec99083e"
+    ],
+    "count": 1,
+    "create_time": 1777269488,
+    "update_time": 1777269488,
+    "_id": "Donepezil<SEP>Ginkgo"
+  },
+  "Ginkgo Biloba Extract<SEP>기넥신": {
+    "chunk_ids": [
+      "chunk-f4049f43573fa70c70d776b4f0adc7b1"
+    ],
+    "count": 1,
+    "create_time": 1777269488,
+    "update_time": 1777269488,
+    "_id": "Ginkgo Biloba Extract<SEP>기넥신"
+  },
+  "Donepezil<SEP>병용군": {
+    "chunk_ids": [
+      "chunk-282d0331aaa13a66367ec74aec99083e"
+    ],
+    "count": 1,
+    "create_time": 1777269488,
+    "update_time": 1777269488,
+    "_id": "Donepezil<SEP>병용군"
+  },
+  "치매<SEP>콜린알포세레이트": {
+    "chunk_ids": [
+      "chunk-f4049f43573fa70c70d776b4f0adc7b1"
+    ],
+    "count": 1,
+    "create_time": 1777269488,
+    "update_time": 1777269488,
+    "_id": "치매<SEP>콜린알포세레이트"
+  },
+  "MCI<SEP>Systemic Review": {
+    "chunk_ids": [
+      "chunk-282d0331aaa13a66367ec74aec99083e"
+    ],
+    "count": 1,
+    "create_time": 1777269488,
+    "update_time": 1777269488,
+    "_id": "MCI<SEP>Systemic Review"
+  },
+  "Ginkgo Biloba Extract<SEP>요양급여": {
+    "chunk_ids": [
+      "chunk-f4049f43573fa70c70d776b4f0adc7b1"
+    ],
+    "count": 1,
+    "create_time": 1777269488,
+    "update_time": 1777269488,
+    "_id": "Ginkgo Biloba Extract<SEP>요양급여"
+  },
+  "240mg<SEP>Ginkgo": {
+    "chunk_ids": [
+      "chunk-282d0331aaa13a66367ec74aec99083e"
+    ],
+    "count": 1,
+    "create_time": 1777269488,
+    "update_time": 1777269488,
+    "_id": "240mg<SEP>Ginkgo"
+  },
+  "아세틸콜린 분해효소 억제제<SEP>치매": {
+    "chunk_ids": [
+      "chunk-f4049f43573fa70c70d776b4f0adc7b1"
+    ],
+    "count": 1,
+    "create_time": 1777269488,
+    "update_time": 1777269488,
+    "_id": "아세틸콜린 분해효소 억제제<SEP>치매"
+  },
+  "Int Psychogeriatr<SEP>Savaskan E": {
+    "chunk_ids": [
+      "chunk-282d0331aaa13a66367ec74aec99083e"
+    ],
+    "count": 1,
+    "create_time": 1777269488,
+    "update_time": 1777269488,
+    "_id": "Int Psychogeriatr<SEP>Savaskan E"
+  },
+  "Front Aging Neurosci<SEP>Zhang HF": {
+    "chunk_ids": [
+      "chunk-282d0331aaa13a66367ec74aec99083e"
+    ],
+    "count": 1,
+    "create_time": 1777269488,
+    "update_time": 1777269488,
+    "_id": "Front Aging Neurosci<SEP>Zhang HF"
+  },
+  "Donepezil<SEP>에자이": {
+    "chunk_ids": [
+      "chunk-989cbec8d7118fb8f1d100edef8739f6"
+    ],
+    "count": 1,
+    "create_time": 1777269488,
+    "update_time": 1777269488,
+    "_id": "Donepezil<SEP>에자이"
+  },
+  "Rivastigmine<SEP>한국노바티스": {
+    "chunk_ids": [
+      "chunk-989cbec8d7118fb8f1d100edef8739f6"
+    ],
+    "count": 1,
+    "create_time": 1777269489,
+    "update_time": 1777269489,
+    "_id": "Rivastigmine<SEP>한국노바티스"
+  },
+  "NMDA 수용체 길항제<SEP>치매": {
+    "chunk_ids": [
+      "chunk-f4049f43573fa70c70d776b4f0adc7b1"
+    ],
+    "count": 1,
+    "create_time": 1777269489,
+    "update_time": 1777269489,
+    "_id": "NMDA 수용체 길항제<SEP>치매"
+  },
+  "Galantamine<SEP>레미닐(SK)": {
+    "chunk_ids": [
+      "chunk-989cbec8d7118fb8f1d100edef8739f6"
+    ],
+    "count": 1,
+    "create_time": 1777269489,
+    "update_time": 1777269489,
+    "_id": "Galantamine<SEP>레미닐(SK)"
+  },
+  "Memantine<SEP>한국룬드벡": {
+    "chunk_ids": [
+      "chunk-989cbec8d7118fb8f1d100edef8739f6"
+    ],
+    "count": 1,
+    "create_time": 1777269489,
+    "update_time": 1777269489,
+    "_id": "Memantine<SEP>한국룬드벡"
+  },
+  "AChEI<SEP>Donepezil": {
+    "chunk_ids": [
+      "chunk-989cbec8d7118fb8f1d100edef8739f6"
+    ],
+    "count": 1,
+    "create_time": 1777269489,
+    "update_time": 1777269489,
+    "_id": "AChEI<SEP>Donepezil"
+  },
+  "Butyryl ChEI<SEP>Rivastigmine": {
+    "chunk_ids": [
+      "chunk-989cbec8d7118fb8f1d100edef8739f6"
+    ],
+    "count": 1,
+    "create_time": 1777269489,
+    "update_time": 1777269489,
+    "_id": "Butyryl ChEI<SEP>Rivastigmine"
+  },
+  "EGb 761<SEP>치매": {
+    "chunk_ids": [
+      "chunk-282d0331aaa13a66367ec74aec99083e"
+    ],
+    "count": 1,
+    "create_time": 1777269489,
+    "update_time": 1777269489,
+    "_id": "EGb 761<SEP>치매"
+  },
+  "Memantine<SEP>NMDA 수용체 길항제": {
+    "chunk_ids": [
+      "chunk-989cbec8d7118fb8f1d100edef8739f6"
+    ],
+    "count": 1,
+    "create_time": 1777269489,
+    "update_time": 1777269489,
+    "_id": "Memantine<SEP>NMDA 수용체 길항제"
+  },
+  "EGb761<SEP>MCI": {
+    "chunk_ids": [
+      "chunk-6626a319f9c5902940ca4aac1c171b12",
+      "chunk-e63fd7bfd9f6d67dca1a6a557fd71fa3"
+    ],
+    "count": 2,
+    "create_time": 1777269489,
+    "update_time": 1777269489,
+    "_id": "EGb761<SEP>MCI"
+  },
+  "Ginkgo Biloba Extract<SEP>MCI": {
+    "chunk_ids": [
+      "chunk-6626a319f9c5902940ca4aac1c171b12"
+    ],
+    "count": 1,
+    "create_time": 1777269490,
+    "update_time": 1777269490,
+    "_id": "Ginkgo Biloba Extract<SEP>MCI"
+  },
+  "Cognitive Functioning<SEP>EGb761": {
+    "chunk_ids": [
+      "chunk-6626a319f9c5902940ca4aac1c171b12"
+    ],
+    "count": 1,
+    "create_time": 1777269490,
+    "update_time": 1777269490,
+    "_id": "Cognitive Functioning<SEP>EGb761"
+  },
+  "경도 인지 장애<SEP>양영순 교수님": {
+    "chunk_ids": [
+      "chunk-ff5aeec6f76a0ca35ce3a23bb111423a"
+    ],
+    "count": 1,
+    "create_time": 1777269490,
+    "update_time": 1777269490,
+    "_id": "경도 인지 장애<SEP>양영순 교수님"
+  },
+  "경도 인지 장애<SEP>뇌기능개선제": {
+    "chunk_ids": [
+      "chunk-ff5aeec6f76a0ca35ce3a23bb111423a"
+    ],
+    "count": 1,
+    "create_time": 1777269490,
+    "update_time": 1777269490,
+    "_id": "경도 인지 장애<SEP>뇌기능개선제"
+  },
+  "EGb761<SEP>기넥신": {
+    "chunk_ids": [
+      "chunk-6626a319f9c5902940ca4aac1c171b12"
+    ],
+    "count": 1,
+    "create_time": 1777269490,
+    "update_time": 1777269490,
+    "_id": "EGb761<SEP>기넥신"
+  },
+  "Gavrilova et al.<SEP>MCI": {
+    "chunk_ids": [
+      "chunk-6626a319f9c5902940ca4aac1c171b12"
+    ],
+    "count": 1,
+    "create_time": 1777269490,
+    "update_time": 1777269490,
+    "_id": "Gavrilova et al.<SEP>MCI"
+  },
+  "Choline alfoscerate<SEP>아세틸콜린 전달 촉진제": {
+    "chunk_ids": [
+      "chunk-ff5aeec6f76a0ca35ce3a23bb111423a"
+    ],
+    "count": 1,
+    "create_time": 1777269490,
+    "update_time": 1777269490,
+    "_id": "Choline alfoscerate<SEP>아세틸콜린 전달 촉진제"
+  },
+  "Acetyl-L-carnitine<SEP>아세틸콜린 전달 촉진제": {
+    "chunk_ids": [
+      "chunk-ff5aeec6f76a0ca35ce3a23bb111423a"
+    ],
+    "count": 1,
+    "create_time": 1777269490,
+    "update_time": 1777269490,
+    "_id": "Acetyl-L-carnitine<SEP>아세틸콜린 전달 촉진제"
+  },
+  "Nicergoline<SEP>혈액순환제": {
+    "chunk_ids": [
+      "chunk-ff5aeec6f76a0ca35ce3a23bb111423a"
+    ],
+    "count": 1,
+    "create_time": 1777269491,
+    "update_time": 1777269491,
+    "_id": "Nicergoline<SEP>혈액순환제"
+  },
+  "Oxiracetam<SEP>아세틸콜린 전달 촉진제": {
+    "chunk_ids": [
+      "chunk-ff5aeec6f76a0ca35ce3a23bb111423a"
+    ],
+    "count": 1,
+    "create_time": 1777269491,
+    "update_time": 1777269491,
+    "_id": "Oxiracetam<SEP>아세틸콜린 전달 촉진제"
+  },
+  "Choline alfoscerate<SEP>대웅": {
+    "chunk_ids": [
+      "chunk-ff5aeec6f76a0ca35ce3a23bb111423a"
+    ],
+    "count": 1,
+    "create_time": 1777269491,
+    "update_time": 1777269491,
+    "_id": "Choline alfoscerate<SEP>대웅"
+  },
+  "Cognition Improvement Policy Issues<SEP>MCI": {
+    "chunk_ids": [
+      "chunk-6626a319f9c5902940ca4aac1c171b12"
+    ],
+    "count": 1,
+    "create_time": 1777269491,
+    "update_time": 1777269491,
+    "_id": "Cognition Improvement Policy Issues<SEP>MCI"
+  },
+  "Acetyl-L-carnitine<SEP>한미": {
+    "chunk_ids": [
+      "chunk-ff5aeec6f76a0ca35ce3a23bb111423a"
+    ],
+    "count": 1,
+    "create_time": 1777269491,
+    "update_time": 1777269491,
+    "_id": "Acetyl-L-carnitine<SEP>한미"
+  },
+  "뇌기능개선제<SEP>아세틸콜린 전달 촉진제": {
+    "chunk_ids": [
+      "chunk-ff5aeec6f76a0ca35ce3a23bb111423a"
+    ],
+    "count": 1,
+    "create_time": 1777269491,
+    "update_time": 1777269491,
+    "_id": "뇌기능개선제<SEP>아세틸콜린 전달 촉진제"
+  },
+  "Oxiracetam<SEP>고려": {
+    "chunk_ids": [
+      "chunk-ff5aeec6f76a0ca35ce3a23bb111423a"
+    ],
+    "count": 1,
+    "create_time": 1777269491,
+    "update_time": 1777269491,
+    "_id": "Oxiracetam<SEP>고려"
+  },
+  "MCI<SEP>Pre-MCI": {
+    "chunk_ids": [
+      "chunk-6626a319f9c5902940ca4aac1c171b12"
+    ],
+    "count": 1,
+    "create_time": 1777269491,
+    "update_time": 1777269491,
+    "_id": "MCI<SEP>Pre-MCI"
+  },
+  "EGb761<SEP>Placebo": {
+    "chunk_ids": [
+      "chunk-10add8b7d43160a64e51da8f0a830f7a"
+    ],
+    "count": 1,
+    "create_time": 1777269491,
+    "update_time": 1777269491,
+    "_id": "EGb761<SEP>Placebo"
+  },
+  "Dementia<SEP>Ginkgo 240mg": {
+    "chunk_ids": [
+      "chunk-10add8b7d43160a64e51da8f0a830f7a"
+    ],
+    "count": 1,
+    "create_time": 1777269491,
+    "update_time": 1777269491,
+    "_id": "Dementia<SEP>Ginkgo 240mg"
+  },
+  "Choline alfoscerate<SEP>종근당": {
+    "chunk_ids": [
+      "chunk-ff5aeec6f76a0ca35ce3a23bb111423a"
+    ],
+    "count": 1,
+    "create_time": 1777269491,
+    "update_time": 1777269491,
+    "_id": "Choline alfoscerate<SEP>종근당"
+  },
+  "뇌기능개선제<SEP>혈액순환제": {
+    "chunk_ids": [
+      "chunk-ff5aeec6f76a0ca35ce3a23bb111423a"
+    ],
+    "count": 1,
+    "create_time": 1777269491,
+    "update_time": 1777269491,
+    "_id": "뇌기능개선제<SEP>혈액순환제"
+  },
+  "Combination Therapy<SEP>Donepezil": {
+    "chunk_ids": [
+      "chunk-10add8b7d43160a64e51da8f0a830f7a"
+    ],
+    "count": 1,
+    "create_time": 1777269491,
+    "update_time": 1777269491,
+    "_id": "Combination Therapy<SEP>Donepezil"
+  },
+  "EGb761<SEP>SKT Total Score": {
+    "chunk_ids": [
+      "chunk-10add8b7d43160a64e51da8f0a830f7a"
+    ],
+    "count": 1,
+    "create_time": 1777269491,
+    "update_time": 1777269491,
+    "_id": "EGb761<SEP>SKT Total Score"
+  },
+  "Aging & Mental Health<SEP>Ginkgo biloba": {
+    "chunk_ids": [
+      "chunk-10add8b7d43160a64e51da8f0a830f7a"
+    ],
+    "count": 1,
+    "create_time": 1777269492,
+    "update_time": 1777269492,
+    "_id": "Aging & Mental Health<SEP>Ginkgo biloba"
+  },
+  "기넥신<SEP>라세탐": {
+    "chunk_ids": [
+      "chunk-8cd1820f556a51bf3cd3b5043a0ce826"
+    ],
+    "count": 1,
+    "create_time": 1777269492,
+    "update_time": 1777269492,
+    "_id": "기넥신<SEP>라세탐"
+  },
+  "AChEI<SEP>도네페질": {
+    "chunk_ids": [
+      "chunk-8cd1820f556a51bf3cd3b5043a0ce826"
+    ],
+    "count": 1,
+    "create_time": 1777269492,
+    "update_time": 1777269492,
+    "_id": "AChEI<SEP>도네페질"
+  },
+  "기넥신<SEP>은행잎추출물": {
+    "chunk_ids": [
+      "chunk-8cd1820f556a51bf3cd3b5043a0ce826"
+    ],
+    "count": 1,
+    "create_time": 1777269492,
+    "update_time": 1777269492,
+    "_id": "기넥신<SEP>은행잎추출물"
+  },
+  "EGb761<SEP>NPI Composite Score": {
+    "chunk_ids": [
+      "chunk-10add8b7d43160a64e51da8f0a830f7a"
+    ],
+    "count": 1,
+    "create_time": 1777269492,
+    "update_time": 1777269492,
+    "_id": "EGb761<SEP>NPI Composite Score"
+  },
+  "AChEI<SEP>치매 환자": {
+    "chunk_ids": [
+      "chunk-8cd1820f556a51bf3cd3b5043a0ce826",
+      "chunk-0bceb277518d2f60cd41b0184971e493"
+    ],
+    "count": 2,
+    "create_time": 1777269492,
+    "update_time": 1777269492,
+    "_id": "AChEI<SEP>치매 환자"
+  },
+  "Pre-MCI 환자<SEP>기넥신": {
+    "chunk_ids": [
+      "chunk-8cd1820f556a51bf3cd3b5043a0ce826"
+    ],
+    "count": 1,
+    "create_time": 1777269492,
+    "update_time": 1777269492,
+    "_id": "Pre-MCI 환자<SEP>기넥신"
+  },
+  "GINEXIN<SEP>Product Selling Skill": {
+    "chunk_ids": [
+      "chunk-2d2b916efc2e266f0b83e6e0bc718bb1"
+    ],
+    "count": 1,
+    "create_time": 1777269492,
+    "update_time": 1777269492,
+    "_id": "GINEXIN<SEP>Product Selling Skill"
+  },
+  "Cognitive Impairment<SEP>Organic Brain Syndrome": {
+    "chunk_ids": [
+      "chunk-2d2b916efc2e266f0b83e6e0bc718bb1"
+    ],
+    "count": 1,
+    "create_time": 1777269492,
+    "update_time": 1777269492,
+    "_id": "Cognitive Impairment<SEP>Organic Brain Syndrome"
+  },
+  "EGb761<SEP>J Psychiatr Res": {
+    "chunk_ids": [
+      "chunk-10add8b7d43160a64e51da8f0a830f7a"
+    ],
+    "count": 1,
+    "create_time": 1777269492,
+    "update_time": 1777269492,
+    "_id": "EGb761<SEP>J Psychiatr Res"
+  },
+  "AChEI 약제<SEP>기넥신": {
+    "chunk_ids": [
+      "chunk-8cd1820f556a51bf3cd3b5043a0ce826"
+    ],
+    "count": 1,
+    "create_time": 1777269493,
+    "update_time": 1777269493,
+    "_id": "AChEI 약제<SEP>기넥신"
+  },
+  "Cognitive Decline in Aging<SEP>Cognitive Impairment": {
+    "chunk_ids": [
+      "chunk-2d2b916efc2e266f0b83e6e0bc718bb1"
+    ],
+    "count": 1,
+    "create_time": 1777269493,
+    "update_time": 1777269493,
+    "_id": "Cognitive Decline in Aging<SEP>Cognitive Impairment"
+  },
+  "Dementia<SEP>Organic Brain Syndrome": {
+    "chunk_ids": [
+      "chunk-2d2b916efc2e266f0b83e6e0bc718bb1"
+    ],
+    "count": 1,
+    "create_time": 1777269493,
+    "update_time": 1777269493,
+    "_id": "Dementia<SEP>Organic Brain Syndrome"
+  },
+  "경도인지장애<SEP>기억상실형 MCI": {
+    "chunk_ids": [
+      "chunk-dfbe291e605013abd2f3111c363561f0"
+    ],
+    "count": 1,
+    "create_time": 1777269493,
+    "update_time": 1777269493,
+    "_id": "경도인지장애<SEP>기억상실형 MCI"
+  },
+  "Cognitive Aging Salthouse<SEP>Cognitive Decline in Aging": {
+    "chunk_ids": [
+      "chunk-2d2b916efc2e266f0b83e6e0bc718bb1"
+    ],
+    "count": 1,
+    "create_time": 1777269493,
+    "update_time": 1777269493,
+    "_id": "Cognitive Aging Salthouse<SEP>Cognitive Decline in Aging"
+  },
+  "레비소체치매<SEP>비기억상실형 MCI": {
+    "chunk_ids": [
+      "chunk-dfbe291e605013abd2f3111c363561f0"
+    ],
+    "count": 1,
+    "create_time": 1777269493,
+    "update_time": 1777269493,
+    "_id": "레비소체치매<SEP>비기억상실형 MCI"
+  },
+  "기억상실형 MCI<SEP>알츠하이머병": {
+    "chunk_ids": [
+      "chunk-dfbe291e605013abd2f3111c363561f0"
+    ],
+    "count": 1,
+    "create_time": 1777269493,
+    "update_time": 1777269493,
+    "_id": "기억상실형 MCI<SEP>알츠하이머병"
+  },
+  "Cognitive Impairment<SEP>Dementia": {
+    "chunk_ids": [
+      "chunk-2d2b916efc2e266f0b83e6e0bc718bb1"
+    ],
+    "count": 1,
+    "create_time": 1777269493,
+    "update_time": 1777269493,
+    "_id": "Cognitive Impairment<SEP>Dementia"
+  },
+  "Cognitive Decline in Aging<SEP>McAllister": {
+    "chunk_ids": [
+      "chunk-2d2b916efc2e266f0b83e6e0bc718bb1"
+    ],
+    "count": 1,
+    "create_time": 1777269493,
+    "update_time": 1777269493,
+    "_id": "Cognitive Decline in Aging<SEP>McAllister"
+  },
+  "경도인지장애<SEP>비기억상실형 MCI": {
+    "chunk_ids": [
+      "chunk-dfbe291e605013abd2f3111c363561f0"
+    ],
+    "count": 1,
+    "create_time": 1777269493,
+    "update_time": 1777269493,
+    "_id": "경도인지장애<SEP>비기억상실형 MCI"
+  },
+  "기넥신<SEP>치매": {
+    "chunk_ids": [
+      "chunk-827c4ec5c78f51fa935b6c58df48be2c",
+      "chunk-e1a4ec4f3262ad2545dd73b73a177b94"
+    ],
+    "count": 2,
+    "create_time": 1777269494,
+    "update_time": 1777269494,
+    "_id": "기넥신<SEP>치매"
+  },
+  "경도인지장애<SEP>정상인": {
+    "chunk_ids": [
+      "chunk-dfbe291e605013abd2f3111c363561f0"
+    ],
+    "count": 1,
+    "create_time": 1777269494,
+    "update_time": 1777269494,
+    "_id": "경도인지장애<SEP>정상인"
+  },
+  "Ginkgo Biloba Special Extract EGb 761<SEP>MCI": {
+    "chunk_ids": [
+      "chunk-827c4ec5c78f51fa935b6c58df48be2c"
+    ],
+    "count": 1,
+    "create_time": 1777269494,
+    "update_time": 1777269494,
+    "_id": "Ginkgo Biloba Special Extract EGb 761<SEP>MCI"
+  },
+  "RCT<SEP>기넥신": {
+    "chunk_ids": [
+      "chunk-827c4ec5c78f51fa935b6c58df48be2c"
+    ],
+    "count": 1,
+    "create_time": 1777269494,
+    "update_time": 1777269494,
+    "_id": "RCT<SEP>기넥신"
+  },
+  "경도인지장애<SEP>우울·불안": {
+    "chunk_ids": [
+      "chunk-dfbe291e605013abd2f3111c363561f0"
+    ],
+    "count": 1,
+    "create_time": 1777269494,
+    "update_time": 1777269494,
+    "_id": "경도인지장애<SEP>우울·불안"
+  },
+  "MCI<SEP>치매": {
+    "chunk_ids": [
+      "chunk-827c4ec5c78f51fa935b6c58df48be2c"
+    ],
+    "count": 1,
+    "create_time": 1777269494,
+    "update_time": 1777269494,
+    "_id": "MCI<SEP>치매"
+  },
+  "Ginkgo Biloba Special Extract EGb 761<SEP>Neuroscience & Medicine": {
+    "chunk_ids": [
+      "chunk-827c4ec5c78f51fa935b6c58df48be2c"
+    ],
+    "count": 1,
+    "create_time": 1777269494,
+    "update_time": 1777269494,
+    "_id": "Ginkgo Biloba Special Extract EGb 761<SEP>Neuroscience & Medicine"
+  },
+  "MCI 진단기준<SEP>경도인지장애": {
+    "chunk_ids": [
+      "chunk-dfbe291e605013abd2f3111c363561f0"
+    ],
+    "count": 1,
+    "create_time": 1777269494,
+    "update_time": 1777269494,
+    "_id": "MCI 진단기준<SEP>경도인지장애"
+  },
+  "300명 환자<SEP>Ginkgo Biloba Special Extract EGb 761": {
+    "chunk_ids": [
+      "chunk-827c4ec5c78f51fa935b6c58df48be2c"
+    ],
+    "count": 1,
+    "create_time": 1777269494,
+    "update_time": 1777269494,
+    "_id": "300명 환자<SEP>Ginkgo Biloba Special Extract EGb 761"
+  },
+  "은행잎추출물<SEP>치매 환자": {
+    "chunk_ids": [
+      "chunk-204b955f3473e85f8125f557e942d976"
+    ],
+    "count": 1,
+    "create_time": 1777269494,
+    "update_time": 1777269494,
+    "_id": "은행잎추출물<SEP>치매 환자"
+  },
+  "경도인지장애<SEP>뇌기능개선제": {
+    "chunk_ids": [
+      "chunk-dfbe291e605013abd2f3111c363561f0"
+    ],
+    "count": 1,
+    "create_time": 1777269495,
+    "update_time": 1777269495,
+    "_id": "경도인지장애<SEP>뇌기능개선제"
+  },
+  "MCI 진단기준<SEP>Mayo ADRC": {
+    "chunk_ids": [
+      "chunk-dfbe291e605013abd2f3111c363561f0"
+    ],
+    "count": 1,
+    "create_time": 1777269495,
+    "update_time": 1777269495,
+    "_id": "MCI 진단기준<SEP>Mayo ADRC"
+  },
+  "Ginkgo Biloba Special Extract EGb 761<SEP>기억력 개선": {
+    "chunk_ids": [
+      "chunk-827c4ec5c78f51fa935b6c58df48be2c"
+    ],
+    "count": 1,
+    "create_time": 1777269495,
+    "update_time": 1777269495,
+    "_id": "Ginkgo Biloba Special Extract EGb 761<SEP>기억력 개선"
+  },
+  "AChEI<SEP>은행잎추출물": {
+    "chunk_ids": [
+      "chunk-204b955f3473e85f8125f557e942d976",
+      "chunk-0bceb277518d2f60cd41b0184971e493"
+    ],
+    "count": 2,
+    "create_time": 1777269495,
+    "update_time": 1777269495,
+    "_id": "AChEI<SEP>은행잎추출물"
+  },
+  "MCI<SEP>치매 환자": {
+    "chunk_ids": [
+      "chunk-204b955f3473e85f8125f557e942d976"
+    ],
+    "count": 1,
+    "create_time": 1777269495,
+    "update_time": 1777269495,
+    "_id": "MCI<SEP>치매 환자"
+  },
+  "경도인지장애<SEP>양영순 교수님": {
+    "chunk_ids": [
+      "chunk-dfbe291e605013abd2f3111c363561f0"
+    ],
+    "count": 1,
+    "create_time": 1777269495,
+    "update_time": 1777269495,
+    "_id": "경도인지장애<SEP>양영순 교수님"
+  },
+  "CNS Consensus(2021)<SEP>EGb761": {
+    "chunk_ids": [
+      "chunk-204b955f3473e85f8125f557e942d976"
+    ],
+    "count": 1,
+    "create_time": 1777269495,
+    "update_time": 1777269495,
+    "_id": "CNS Consensus(2021)<SEP>EGb761"
+  },
+  "Attention 평가<SEP>Ginkgo Biloba Special Extract EGb 761": {
+    "chunk_ids": [
+      "chunk-827c4ec5c78f51fa935b6c58df48be2c"
+    ],
+    "count": 1,
+    "create_time": 1777269495,
+    "update_time": 1777269495,
+    "_id": "Attention 평가<SEP>Ginkgo Biloba Special Extract EGb 761"
+  },
+  "Donepezil<SEP>은행잎추출물": {
+    "chunk_ids": [
+      "chunk-204b955f3473e85f8125f557e942d976"
+    ],
+    "count": 1,
+    "create_time": 1777269495,
+    "update_time": 1777269495,
+    "_id": "Donepezil<SEP>은행잎추출물"
+  },
+  "치매 환자<SEP>치매성 증상": {
+    "chunk_ids": [
+      "chunk-204b955f3473e85f8125f557e942d976"
+    ],
+    "count": 1,
+    "create_time": 1777269495,
+    "update_time": 1777269495,
+    "_id": "치매 환자<SEP>치매성 증상"
+  },
+  "경세포<SEP>혈관성 인지장애": {
+    "chunk_ids": [
+      "chunk-1dac9b29822be02dcc8ea8b4f97c349f"
+    ],
+    "count": 1,
+    "create_time": 1777269495,
+    "update_time": 1777269495,
+    "_id": "경세포<SEP>혈관성 인지장애"
+  },
+  "고용량<SEP>은행잎추출물": {
+    "chunk_ids": [
+      "chunk-204b955f3473e85f8125f557e942d976"
+    ],
+    "count": 1,
+    "create_time": 1777269496,
+    "update_time": 1777269496,
+    "_id": "고용량<SEP>은행잎추출물"
+  },
+  "RCT<SEP>치매 환자": {
+    "chunk_ids": [
+      "chunk-204b955f3473e85f8125f557e942d976"
+    ],
+    "count": 1,
+    "create_time": 1777269496,
+    "update_time": 1777269496,
+    "_id": "RCT<SEP>치매 환자"
+  },
+  "Nicergoline<SEP>혈관성 인지장애": {
+    "chunk_ids": [
+      "chunk-1dac9b29822be02dcc8ea8b4f97c349f"
+    ],
+    "count": 1,
+    "create_time": 1777269496,
+    "update_time": 1777269496,
+    "_id": "Nicergoline<SEP>혈관성 인지장애"
+  },
+  "기넥신<SEP>혈관성 인지장애": {
+    "chunk_ids": [
+      "chunk-1dac9b29822be02dcc8ea8b4f97c349f"
+    ],
+    "count": 1,
+    "create_time": 1777269496,
+    "update_time": 1777269496,
+    "_id": "기넥신<SEP>혈관성 인지장애"
+  },
+  "Ginkgo biloba Ext.<SEP>기넥신": {
+    "chunk_ids": [
+      "chunk-1dac9b29822be02dcc8ea8b4f97c349f"
+    ],
+    "count": 1,
+    "create_time": 1777269496,
+    "update_time": 1777269496,
+    "_id": "Ginkgo biloba Ext.<SEP>기넥신"
+  },
+  "Ginkgo<SEP>Kim JS": {
+    "chunk_ids": [
+      "chunk-968c8ccc9a2792d753b354d22c28d1da"
+    ],
+    "count": 1,
+    "create_time": 1777269496,
+    "update_time": 1777269496,
+    "_id": "Ginkgo<SEP>Kim JS"
+  },
+  "Betahistine<SEP>Ginkgo": {
+    "chunk_ids": [
+      "chunk-968c8ccc9a2792d753b354d22c28d1da"
+    ],
+    "count": 1,
+    "create_time": 1777269497,
+    "update_time": 1777269497,
+    "_id": "Betahistine<SEP>Ginkgo"
+  },
+  "SK<SEP>기넥신": {
+    "chunk_ids": [
+      "chunk-1dac9b29822be02dcc8ea8b4f97c349f"
+    ],
+    "count": 1,
+    "create_time": 1777269497,
+    "update_time": 1777269497,
+    "_id": "SK<SEP>기넥신"
+  },
+  "Dizziness Patient Scenario<SEP>EGb761": {
+    "chunk_ids": [
+      "chunk-968c8ccc9a2792d753b354d22c28d1da"
+    ],
+    "count": 1,
+    "create_time": 1777269497,
+    "update_time": 1777269497,
+    "_id": "Dizziness Patient Scenario<SEP>EGb761"
+  },
+  "기넥신<SEP>혈액순환제": {
+    "chunk_ids": [
+      "chunk-1dac9b29822be02dcc8ea8b4f97c349f"
+    ],
+    "count": 1,
+    "create_time": 1777269497,
+    "update_time": 1777269497,
+    "_id": "기넥신<SEP>혈액순환제"
+  },
+  "Dementia Prevention Scenario<SEP>Ginkgo": {
+    "chunk_ids": [
+      "chunk-968c8ccc9a2792d753b354d22c28d1da"
+    ],
+    "count": 1,
+    "create_time": 1777269497,
+    "update_time": 1777269497,
+    "_id": "Dementia Prevention Scenario<SEP>Ginkgo"
+  },
+  "400mg 305원<SEP>기넥신": {
+    "chunk_ids": [
+      "chunk-1dac9b29822be02dcc8ea8b4f97c349f"
+    ],
+    "count": 1,
+    "create_time": 1777269497,
+    "update_time": 1777269497,
+    "_id": "400mg 305원<SEP>기넥신"
+  },
+  "Blood Circulation Disorder Scenario<SEP>Ginkgo": {
+    "chunk_ids": [
+      "chunk-968c8ccc9a2792d753b354d22c28d1da"
+    ],
+    "count": 1,
+    "create_time": 1777269497,
+    "update_time": 1777269497,
+    "_id": "Blood Circulation Disorder Scenario<SEP>Ginkgo"
+  },
+  "EGb761<SEP>Ginkgo Biloba Extract": {
+    "chunk_ids": [
+      "chunk-968c8ccc9a2792d753b354d22c28d1da"
+    ],
+    "count": 1,
+    "create_time": 1777269497,
+    "update_time": 1777269497,
+    "_id": "EGb761<SEP>Ginkgo Biloba Extract"
+  },
+  "800mg 585원<SEP>기넥신": {
+    "chunk_ids": [
+      "chunk-1dac9b29822be02dcc8ea8b4f97c349f"
+    ],
+    "count": 1,
+    "create_time": 1777269497,
+    "update_time": 1777269497,
+    "_id": "800mg 585원<SEP>기넥신"
+  },
+  "Ginkgo Biloba Extract<SEP>RCT Study": {
+    "chunk_ids": [
+      "chunk-968c8ccc9a2792d753b354d22c28d1da"
+    ],
+    "count": 1,
+    "create_time": 1777269497,
+    "update_time": 1777269497,
+    "_id": "Ginkgo Biloba Extract<SEP>RCT Study"
+  },
+  "Efficacy of Ginkgo<SEP>Ginkgo": {
+    "chunk_ids": [
+      "chunk-968c8ccc9a2792d753b354d22c28d1da"
+    ],
+    "count": 1,
+    "create_time": 1777269498,
+    "update_time": 1777269498,
+    "_id": "Efficacy of Ginkgo<SEP>Ginkgo"
+  },
+  "1일 2회<SEP>기넥신": {
+    "chunk_ids": [
+      "chunk-1dac9b29822be02dcc8ea8b4f97c349f"
+    ],
+    "count": 1,
+    "create_time": 1777269498,
+    "update_time": 1777269498,
+    "_id": "1일 2회<SEP>기넥신"
+  },
+  "1일 1회<SEP>기넥신": {
+    "chunk_ids": [
+      "chunk-1dac9b29822be02dcc8ea8b4f97c349f"
+    ],
+    "count": 1,
+    "create_time": 1777269498,
+    "update_time": 1777269498,
+    "_id": "1일 1회<SEP>기넥신"
+  },
+  "MCI<SEP>기넥신": {
+    "chunk_ids": [
+      "chunk-9a4d923db5398092505d88eb4264cd7e"
+    ],
+    "count": 1,
+    "create_time": 1777269498,
+    "update_time": 1777269498,
+    "_id": "MCI<SEP>기넥신"
+  },
+  "H81.4<SEP>기넥신": {
+    "chunk_ids": [
+      "chunk-9a4d923db5398092505d88eb4264cd7e"
+    ],
+    "count": 1,
+    "create_time": 1777269498,
+    "update_time": 1777269498,
+    "_id": "H81.4<SEP>기넥신"
+  },
+  "Ginkgo Biloba<SEP>MCI": {
+    "chunk_ids": [
+      "chunk-9a4d923db5398092505d88eb4264cd7e"
+    ],
+    "count": 1,
+    "create_time": 1777269498,
+    "update_time": 1777269498,
+    "_id": "Ginkgo Biloba<SEP>MCI"
+  },
+  "글리아타민<SEP>정책 이슈": {
+    "chunk_ids": [
+      "chunk-79dfdbaa6ec819ad347cc649cf14c746"
+    ],
+    "count": 1,
+    "create_time": 1777269498,
+    "update_time": 1777269498,
+    "_id": "글리아타민<SEP>정책 이슈"
+  },
+  "F06.7<SEP>기넥신": {
+    "chunk_ids": [
+      "chunk-9a4d923db5398092505d88eb4264cd7e"
+    ],
+    "count": 1,
+    "create_time": 1777269499,
+    "update_time": 1777269499,
+    "_id": "F06.7<SEP>기넥신"
+  },
+  "글리아티린<SEP>정책 이슈": {
+    "chunk_ids": [
+      "chunk-79dfdbaa6ec819ad347cc649cf14c746"
+    ],
+    "count": 1,
+    "create_time": 1777269499,
+    "update_time": 1777269499,
+    "_id": "글리아티린<SEP>정책 이슈"
+  },
+  "기넥신<SEP>콜린알포세레이트": {
+    "chunk_ids": [
+      "chunk-9a4d923db5398092505d88eb4264cd7e"
+    ],
+    "count": 1,
+    "create_time": 1777269499,
+    "update_time": 1777269499,
+    "_id": "기넥신<SEP>콜린알포세레이트"
+  },
+  "기넥신 80mg<SEP>정책 이슈": {
+    "chunk_ids": [
+      "chunk-79dfdbaa6ec819ad347cc649cf14c746"
+    ],
+    "count": 1,
+    "create_time": 1777269499,
+    "update_time": 1777269499,
+    "_id": "기넥신 80mg<SEP>정책 이슈"
+  },
+  "기넥신 240mg<SEP>정책 이슈": {
+    "chunk_ids": [
+      "chunk-79dfdbaa6ec819ad347cc649cf14c746"
+    ],
+    "count": 1,
+    "create_time": 1777269499,
+    "update_time": 1777269499,
+    "_id": "기넥신 240mg<SEP>정책 이슈"
+  },
+  "기넥신<SEP>기넥신 급여": {
+    "chunk_ids": [
+      "chunk-9a4d923db5398092505d88eb4264cd7e"
+    ],
+    "count": 1,
+    "create_time": 1777269499,
+    "update_time": 1777269499,
+    "_id": "기넥신<SEP>기넥신 급여"
+  },
+  "기넥신<SEP>저용량 처방": {
+    "chunk_ids": [
+      "chunk-9a4d923db5398092505d88eb4264cd7e"
+    ],
+    "count": 1,
+    "create_time": 1777269500,
+    "update_time": 1777269500,
+    "_id": "기넥신<SEP>저용량 처방"
+  },
+  "아세틸-L-카르니틴<SEP>정책 이슈": {
+    "chunk_ids": [
+      "chunk-79dfdbaa6ec819ad347cc649cf14c746"
+    ],
+    "count": 1,
+    "create_time": 1777269500,
+    "update_time": 1777269500,
+    "_id": "아세틸-L-카르니틴<SEP>정책 이슈"
+  },
+  "정책 이슈<SEP>카니틸": {
+    "chunk_ids": [
+      "chunk-79dfdbaa6ec819ad347cc649cf14c746"
+    ],
+    "count": 1,
+    "create_time": 1777269500,
+    "update_time": 1777269500,
+    "_id": "정책 이슈<SEP>카니틸"
+  },
+  "매출 추세<SEP>아세틸-L-카르니틴": {
+    "chunk_ids": [
+      "chunk-79dfdbaa6ec819ad347cc649cf14c746"
+    ],
+    "count": 1,
+    "create_time": 1777269500,
+    "update_time": 1777269500,
+    "_id": "매출 추세<SEP>아세틸-L-카르니틴"
+  },
+  "고용량 처방<SEP>기넥신": {
+    "chunk_ids": [
+      "chunk-9a4d923db5398092505d88eb4264cd7e"
+    ],
+    "count": 1,
+    "create_time": 1777269500,
+    "update_time": 1777269500,
+    "_id": "고용량 처방<SEP>기넥신"
+  },
+  "Pre-MCI<SEP>정신행동증상": {
+    "chunk_ids": [
+      "chunk-85f4fbd54e2b7e7e497c756ec2c4cb1d"
+    ],
+    "count": 1,
+    "create_time": 1777269500,
+    "update_time": 1777269500,
+    "_id": "Pre-MCI<SEP>정신행동증상"
+  },
+  "Dr.<SEP>경도인지장애": {
+    "chunk_ids": [
+      "chunk-85f4fbd54e2b7e7e497c756ec2c4cb1d"
+    ],
+    "count": 1,
+    "create_time": 1777269500,
+    "update_time": 1777269500,
+    "_id": "Dr.<SEP>경도인지장애"
+  },
+  "아세틸-L-카르니틴<SEP>약리기전": {
+    "chunk_ids": [
+      "chunk-79dfdbaa6ec819ad347cc649cf14c746"
+    ],
+    "count": 1,
+    "create_time": 1777269500,
+    "update_time": 1777269500,
+    "_id": "아세틸-L-카르니틴<SEP>약리기전"
+  },
+  "Beck Depression Inventory<SEP>주관적 cognitive decline(SCD)": {
+    "chunk_ids": [
+      "chunk-85f4fbd54e2b7e7e497c756ec2c4cb1d"
+    ],
+    "count": 1,
+    "create_time": 1777269500,
+    "update_time": 1777269500,
+    "_id": "Beck Depression Inventory<SEP>주관적 cognitive decline(SCD)"
+  },
+  "Alzheimer's Disease International<SEP>Becker et al.": {
+    "chunk_ids": [
+      "chunk-85f4fbd54e2b7e7e497c756ec2c4cb1d"
+    ],
+    "count": 1,
+    "create_time": 1777269500,
+    "update_time": 1777269500,
+    "_id": "Alzheimer's Disease International<SEP>Becker et al."
+  },
+  "경도인지장애<SEP>임상 증상": {
+    "chunk_ids": [
+      "chunk-85f4fbd54e2b7e7e497c756ec2c4cb1d"
+    ],
+    "count": 1,
+    "create_time": 1777269501,
+    "update_time": 1777269501,
+    "_id": "경도인지장애<SEP>임상 증상"
+  },
+  "EGb761<SEP>MCI 환자": {
+    "chunk_ids": [
+      "chunk-91c45ade0f40fa425f7312122a57d3e4"
+    ],
+    "count": 1,
+    "create_time": 1777269501,
+    "update_time": 1777269501,
+    "_id": "EGb761<SEP>MCI 환자"
+  },
+  "분류번호<SEP>아세틸-L-카르니틴": {
+    "chunk_ids": [
+      "chunk-79dfdbaa6ec819ad347cc649cf14c746"
+    ],
+    "count": 1,
+    "create_time": 1777269501,
+    "update_time": 1777269501,
+    "_id": "분류번호<SEP>아세틸-L-카르니틴"
+  },
+  "경도인지장애<SEP>정신행동증상": {
+    "chunk_ids": [
+      "chunk-85f4fbd54e2b7e7e497c756ec2c4cb1d"
+    ],
+    "count": 1,
+    "create_time": 1777269501,
+    "update_time": 1777269501,
+    "_id": "경도인지장애<SEP>정신행동증상"
+  },
+  "기넥신<SEP>장기 안전성": {
+    "chunk_ids": [
+      "chunk-91c45ade0f40fa425f7312122a57d3e4"
+    ],
+    "count": 1,
+    "create_time": 1777269501,
+    "update_time": 1777269501,
+    "_id": "기넥신<SEP>장기 안전성"
+  },
+  "아세틸-L-카르니틴<SEP>적응증": {
+    "chunk_ids": [
+      "chunk-79dfdbaa6ec819ad347cc649cf14c746"
+    ],
+    "count": 1,
+    "create_time": 1777269501,
+    "update_time": 1777269501,
+    "_id": "아세틸-L-카르니틴<SEP>적응증"
+  },
+  "Ginkgo Biloba<SEP>추출물": {
+    "chunk_ids": [
+      "chunk-5cb36ebd46d0dc2a938efbe7a9a6ec05"
+    ],
+    "count": 1,
+    "create_time": 1777269501,
+    "update_time": 1777269501,
+    "_id": "Ginkgo Biloba<SEP>추출물"
+  },
+  "MCI 환자<SEP>아세틸-L-카르니틴": {
+    "chunk_ids": [
+      "chunk-91c45ade0f40fa425f7312122a57d3e4"
+    ],
+    "count": 1,
+    "create_time": 1777269501,
+    "update_time": 1777269501,
+    "_id": "MCI 환자<SEP>아세틸-L-카르니틴"
+  },
+  "안과<SEP>타겐에프": {
+    "chunk_ids": [
+      "chunk-5cb36ebd46d0dc2a938efbe7a9a6ec05"
+    ],
+    "count": 1,
+    "create_time": 1777269501,
+    "update_time": 1777269501,
+    "_id": "안과<SEP>타겐에프"
+  },
+  "경제성<SEP>기넥신": {
+    "chunk_ids": [
+      "chunk-91c45ade0f40fa425f7312122a57d3e4"
+    ],
+    "count": 1,
+    "create_time": 1777269501,
+    "update_time": 1777269501,
+    "_id": "경제성<SEP>기넥신"
+  },
+  "MCI 환자<SEP>콜린알포세레이트": {
+    "chunk_ids": [
+      "chunk-91c45ade0f40fa425f7312122a57d3e4"
+    ],
+    "count": 1,
+    "create_time": 1777269502,
+    "update_time": 1777269502,
+    "_id": "MCI 환자<SEP>콜린알포세레이트"
+  },
+  "망막질환<SEP>타겐에프": {
+    "chunk_ids": [
+      "chunk-5cb36ebd46d0dc2a938efbe7a9a6ec05"
+    ],
+    "count": 1,
+    "create_time": 1777269502,
+    "update_time": 1777269502,
+    "_id": "망막질환<SEP>타겐에프"
+  },
+  "빌베리건조엑스<SEP>은행잎추출물": {
+    "chunk_ids": [
+      "chunk-34b5fec611838d058472961f3b6407ed"
+    ],
+    "count": 1,
+    "create_time": 1777269502,
+    "update_time": 1777269502,
+    "_id": "빌베리건조엑스<SEP>은행잎추출물"
+  },
+  "Huang SY<SEP>당뇨병성 망막병증": {
+    "chunk_ids": [
+      "chunk-34b5fec611838d058472961f3b6407ed"
+    ],
+    "count": 1,
+    "create_time": 1777269502,
+    "update_time": 1777269502,
+    "_id": "Huang SY<SEP>당뇨병성 망막병증"
+  },
+  "기넥신<SEP>타겐에프": {
+    "chunk_ids": [
+      "chunk-5cb36ebd46d0dc2a938efbe7a9a6ec05",
+      "chunk-34b5fec611838d058472961f3b6407ed"
+    ],
+    "count": 2,
+    "create_time": 1777269502,
+    "update_time": 1777269502,
+    "_id": "기넥신<SEP>타겐에프"
+  },
+  "Lee YW<SEP>빌베리건조엑스": {
+    "chunk_ids": [
+      "chunk-34b5fec611838d058472961f3b6407ed"
+    ],
+    "count": 1,
+    "create_time": 1777269502,
+    "update_time": 1777269502,
+    "_id": "Lee YW<SEP>빌베리건조엑스"
+  },
+  "Park JW<SEP>정상안압녹내장": {
+    "chunk_ids": [
+      "chunk-34b5fec611838d058472961f3b6407ed"
+    ],
+    "count": 1,
+    "create_time": 1777269502,
+    "update_time": 1777269502,
+    "_id": "Park JW<SEP>정상안압녹내장"
+  },
+  "Quaranta L<SEP>정상안압녹내장": {
+    "chunk_ids": [
+      "chunk-34b5fec611838d058472961f3b6407ed"
+    ],
+    "count": 1,
+    "create_time": 1777269503,
+    "update_time": 1777269503,
+    "_id": "Quaranta L<SEP>정상안압녹내장"
+  },
+  "경도인지장애<SEP>치매": {
+    "chunk_ids": [
+      "chunk-c573e466a6f003d29fa8c1dfb678d5d8"
+    ],
+    "count": 1,
+    "create_time": 1777269503,
+    "update_time": 1777269503,
+    "_id": "경도인지장애<SEP>치매"
+  },
+  "베타 아밀로이드<SEP>치매": {
+    "chunk_ids": [
+      "chunk-c573e466a6f003d29fa8c1dfb678d5d8"
+    ],
+    "count": 1,
+    "create_time": 1777269504,
+    "update_time": 1777269504,
+    "_id": "베타 아밀로이드<SEP>치매"
+  },
+  "치매<SEP>타우 단백질": {
+    "chunk_ids": [
+      "chunk-c573e466a6f003d29fa8c1dfb678d5d8"
+    ],
+    "count": 1,
+    "create_time": 1777269504,
+    "update_time": 1777269504,
+    "_id": "치매<SEP>타우 단백질"
+  },
+  "MRI<SEP>경도인지장애": {
+    "chunk_ids": [
+      "chunk-c573e466a6f003d29fa8c1dfb678d5d8"
+    ],
+    "count": 1,
+    "create_time": 1777269504,
+    "update_time": 1777269504,
+    "_id": "MRI<SEP>경도인지장애"
+  },
+  "MRI<SEP>치매": {
+    "chunk_ids": [
+      "chunk-c573e466a6f003d29fa8c1dfb678d5d8"
+    ],
+    "count": 1,
+    "create_time": 1777269504,
+    "update_time": 1777269504,
+    "_id": "MRI<SEP>치매"
+  },
+  "약물 치료<SEP>치매": {
+    "chunk_ids": [
+      "chunk-c573e466a6f003d29fa8c1dfb678d5d8"
+    ],
+    "count": 1,
+    "create_time": 1777269504,
+    "update_time": 1777269504,
+    "_id": "약물 치료<SEP>치매"
+  },
+  "경도인지장애<SEP>일상생활 능력장애": {
+    "chunk_ids": [
+      "chunk-c573e466a6f003d29fa8c1dfb678d5d8"
+    ],
+    "count": 1,
+    "create_time": 1777269504,
+    "update_time": 1777269504,
+    "_id": "경도인지장애<SEP>일상생활 능력장애"
+  },
+  "신경인지기능검사<SEP>인지기능": {
+    "chunk_ids": [
+      "chunk-c573e466a6f003d29fa8c1dfb678d5d8"
+    ],
+    "count": 1,
+    "create_time": 1777269505,
+    "update_time": 1777269505,
+    "_id": "신경인지기능검사<SEP>인지기능"
+  },
+  "경도인지장애<SEP>치매 환자": {
+    "chunk_ids": [
+      "chunk-0bceb277518d2f60cd41b0184971e493"
+    ],
+    "count": 1,
+    "create_time": 1777269505,
+    "update_time": 1777269505,
+    "_id": "경도인지장애<SEP>치매 환자"
+  },
+  "주관적 인지 저하(SCD)<SEP>중앙치매센터": {
+    "chunk_ids": [
+      "chunk-0bceb277518d2f60cd41b0184971e493"
+    ],
+    "count": 1,
+    "create_time": 1777269505,
+    "update_time": 1777269505,
+    "_id": "주관적 인지 저하(SCD)<SEP>중앙치매센터"
+  },
+  "우울 증상<SEP>주관적 인지 저하(SCD)": {
+    "chunk_ids": [
+      "chunk-0bceb277518d2f60cd41b0184971e493"
+    ],
+    "count": 1,
+    "create_time": 1777269505,
+    "update_time": 1777269505,
+    "_id": "우울 증상<SEP>주관적 인지 저하(SCD)"
+  },
+  "경도인지장애<SEP>대한민국 치매현황 보고서": {
+    "chunk_ids": [
+      "chunk-0bceb277518d2f60cd41b0184971e493"
+    ],
+    "count": 1,
+    "create_time": 1777269506,
+    "update_time": 1777269506,
+    "_id": "경도인지장애<SEP>대한민국 치매현황 보고서"
+  },
+  "Kasper S<SEP>MCI": {
+    "chunk_ids": [
+      "chunk-e63fd7bfd9f6d67dca1a6a557fd71fa3"
+    ],
+    "count": 1,
+    "create_time": 1777269506,
+    "update_time": 1777269506,
+    "_id": "Kasper S<SEP>MCI"
+  },
+  "Ihl R<SEP>치매": {
+    "chunk_ids": [
+      "chunk-e63fd7bfd9f6d67dca1a6a557fd71fa3"
+    ],
+    "count": 1,
+    "create_time": 1777269506,
+    "update_time": 1777269506,
+    "_id": "Ihl R<SEP>치매"
+  },
+  "Ginkgo Biloba<SEP>치매": {
+    "chunk_ids": [
+      "chunk-e63fd7bfd9f6d67dca1a6a557fd71fa3"
+    ],
+    "count": 1,
+    "create_time": 1777269506,
+    "update_time": 1777269506,
+    "_id": "Ginkgo Biloba<SEP>치매"
+  },
+  "MCI<SEP>NPS": {
+    "chunk_ids": [
+      "chunk-e63fd7bfd9f6d67dca1a6a557fd71fa3"
+    ],
+    "count": 1,
+    "create_time": 1777269507,
+    "update_time": 1777269507,
+    "_id": "MCI<SEP>NPS"
+  },
+  "Ginkgo biloba extract<SEP>RCT": {
+    "chunk_ids": [
+      "chunk-e63fd7bfd9f6d67dca1a6a557fd71fa3"
+    ],
+    "count": 1,
+    "create_time": 1777269507,
+    "update_time": 1777269507,
+    "_id": "Ginkgo biloba extract<SEP>RCT"
+  },
+  "Vaxxinium myrtillus extract<SEP>타겐에프": {
+    "chunk_ids": [
+      "chunk-34b5fec611838d058472961f3b6407ed"
+    ],
+    "count": 1,
+    "create_time": 1777269507,
+    "update_time": 1777269507,
+    "_id": "Vaxxinium myrtillus extract<SEP>타겐에프"
+  },
+  "기넥신<SEP>빌베리건조엑스": {
+    "chunk_ids": [
+      "chunk-5cb36ebd46d0dc2a938efbe7a9a6ec05"
+    ],
+    "count": 1,
+    "create_time": 1777269507,
+    "update_time": 1777269507,
+    "_id": "기넥신<SEP>빌베리건조엑스"
+  },
+  "에스케이케미칼㈜<SEP>풍림무약㈜": {
+    "chunk_ids": [
+      "chunk-9b2636fd5bf52a71c19dbafaad6049de"
+    ],
+    "count": 1,
+    "create_time": 1777269507,
+    "update_time": 1777269507,
+    "_id": "에스케이케미칼㈜<SEP>풍림무약㈜"
+  },
+  "MCI 환자<SEP>기넥신": {
+    "chunk_ids": [
+      "chunk-91c45ade0f40fa425f7312122a57d3e4"
+    ],
+    "count": 1,
+    "create_time": 1777269507,
+    "update_time": 1777269507,
+    "_id": "MCI 환자<SEP>기넥신"
+  },
+  "식품의약품안전처<SEP>최신 허가사항": {
+    "chunk_ids": [
+      "chunk-9b2636fd5bf52a71c19dbafaad6049de"
+    ],
+    "count": 1,
+    "create_time": 1777269507,
+    "update_time": 1777269507,
+    "_id": "식품의약품안전처<SEP>최신 허가사항"
+  },
+  "수유부<SEP>에스케이케미칼㈜": {
+    "chunk_ids": [
+      "chunk-9b2636fd5bf52a71c19dbafaad6049de"
+    ],
+    "count": 1,
+    "create_time": 1777269507,
+    "update_time": 1777269507,
+    "_id": "수유부<SEP>에스케이케미칼㈜"
+  },
+  "제조자<SEP>풍림무약㈜": {
+    "chunk_ids": [
+      "chunk-9b2636fd5bf52a71c19dbafaad6049de"
+    ],
+    "count": 1,
+    "create_time": 1777269507,
+    "update_time": 1777269507,
+    "_id": "제조자<SEP>풍림무약㈜"
+  },
+  "Ginkgo biloba Extract<SEP>기넥신": {
+    "chunk_ids": [
+      "chunk-34b5fec611838d058472961f3b6407ed"
+    ],
+    "count": 1,
+    "create_time": 1777269507,
+    "update_time": 1777269507,
+    "_id": "Ginkgo biloba Extract<SEP>기넥신"
+  },
+  "Ginkgo biloba ext.<SEP>MCI 환자": {
+    "chunk_ids": [
+      "chunk-91c45ade0f40fa425f7312122a57d3e4"
+    ],
+    "count": 1,
+    "create_time": 1777269507,
+    "update_time": 1777269507,
+    "_id": "Ginkgo biloba ext.<SEP>MCI 환자"
+  },
+  "간헐성 파행증<SEP>은행엽 엑스": {
+    "chunk_ids": [
+      "chunk-0742f43a61a9963f427f6934ef8ff352"
+    ],
+    "count": 1,
+    "create_time": 1777269507,
+    "update_time": 1777269507,
+    "_id": "간헐성 파행증<SEP>은행엽 엑스"
+  },
+  "에스케이케미칼㈜<SEP>판매자": {
+    "chunk_ids": [
+      "chunk-9b2636fd5bf52a71c19dbafaad6049de"
+    ],
+    "count": 1,
+    "create_time": 1777269508,
+    "update_time": 1777269508,
+    "_id": "에스케이케미칼㈜<SEP>판매자"
+  },
+  "Ginkgo<SEP>어지럼증": {
+    "chunk_ids": [
+      "chunk-0742f43a61a9963f427f6934ef8ff352"
+    ],
+    "count": 1,
+    "create_time": 1777269508,
+    "update_time": 1777269508,
+    "_id": "Ginkgo<SEP>어지럼증"
+  },
+  "Kim JS et al.<SEP>말초성 어지럼증": {
+    "chunk_ids": [
+      "chunk-0742f43a61a9963f427f6934ef8ff352"
+    ],
+    "count": 1,
+    "create_time": 1777269508,
+    "update_time": 1777269508,
+    "_id": "Kim JS et al.<SEP>말초성 어지럼증"
+  },
+  "기넥신<SEP>우울 증상": {
+    "chunk_ids": [
+      "chunk-0bceb277518d2f60cd41b0184971e493"
+    ],
+    "count": 1,
+    "create_time": 1777269508,
+    "update_time": 1777269508,
+    "_id": "기넥신<SEP>우울 증상"
+  },
+  "80mg<SEP>보험약가": {
+    "chunk_ids": [
+      "chunk-0742f43a61a9963f427f6934ef8ff352"
+    ],
+    "count": 1,
+    "create_time": 1777269508,
+    "update_time": 1777269508,
+    "_id": "80mg<SEP>보험약가"
+  },
+  "Ginkgo<SEP>Haguenauer JP et al.": {
+    "chunk_ids": [
+      "chunk-0742f43a61a9963f427f6934ef8ff352"
+    ],
+    "count": 1,
+    "create_time": 1777269508,
+    "update_time": 1777269508,
+    "_id": "Ginkgo<SEP>Haguenauer JP et al."
+  },
+  "Peters H et al.<SEP>은행엽 엑스": {
+    "chunk_ids": [
+      "chunk-0742f43a61a9963f427f6934ef8ff352"
+    ],
+    "count": 1,
+    "create_time": 1777269508,
+    "update_time": 1777269508,
+    "_id": "Peters H et al.<SEP>은행엽 엑스"
+  },
+  "기넥신<SEP>중추성 어지럼증": {
+    "chunk_ids": [
+      "chunk-59c7f7894c274d50b5a7f694f20d05e7"
+    ],
+    "count": 1,
+    "create_time": 1777269508,
+    "update_time": 1777269508,
+    "_id": "기넥신<SEP>중추성 어지럼증"
+  },
+  "Pain-Free Walking Distance<SEP>은행엽 엑스": {
+    "chunk_ids": [
+      "chunk-0742f43a61a9963f427f6934ef8ff352"
+    ],
+    "count": 1,
+    "create_time": 1777269509,
+    "update_time": 1777269509,
+    "_id": "Pain-Free Walking Distance<SEP>은행엽 엑스"
+  },
+  "보나링 에이<SEP>어지럼증 환자": {
+    "chunk_ids": [
+      "chunk-59c7f7894c274d50b5a7f694f20d05e7"
+    ],
+    "count": 1,
+    "create_time": 1777269509,
+    "update_time": 1777269509,
+    "_id": "보나링 에이<SEP>어지럼증 환자"
+  },
+  "80mg<SEP>일일 약가": {
+    "chunk_ids": [
+      "chunk-0742f43a61a9963f427f6934ef8ff352"
+    ],
+    "count": 1,
+    "create_time": 1777269509,
+    "update_time": 1777269509,
+    "_id": "80mg<SEP>일일 약가"
+  },
+  "기넥신<SEP>타나민": {
+    "chunk_ids": [
+      "chunk-59c7f7894c274d50b5a7f694f20d05e7"
+    ],
+    "count": 1,
+    "create_time": 1777269509,
+    "update_time": 1777269509,
+    "_id": "기넥신<SEP>타나민"
+  },
+  "기넥신<SEP>뉴본": {
+    "chunk_ids": [
+      "chunk-59c7f7894c274d50b5a7f694f20d05e7"
+    ],
+    "count": 1,
+    "create_time": 1777269510,
+    "update_time": 1777269510,
+    "_id": "기넥신<SEP>뉴본"
+  },
+  "기넥신<SEP>기넥신에프정240mg": {
+    "chunk_ids": [
+      "chunk-59c7f7894c274d50b5a7f694f20d05e7"
+    ],
+    "count": 1,
+    "create_time": 1777269510,
+    "update_time": 1777269510,
+    "_id": "기넥신<SEP>기넥신에프정240mg"
+  },
+  "기넥신<SEP>약가": {
+    "chunk_ids": [
+      "chunk-59c7f7894c274d50b5a7f694f20d05e7"
+    ],
+    "count": 1,
+    "create_time": 1777269510,
+    "update_time": 1777269510,
+    "_id": "기넥신<SEP>약가"
+  },
+  "기넥신<SEP>장기 처방": {
+    "chunk_ids": [
+      "chunk-59c7f7894c274d50b5a7f694f20d05e7"
+    ],
+    "count": 1,
+    "create_time": 1777269511,
+    "update_time": 1777269511,
+    "_id": "기넥신<SEP>장기 처방"
+  },
+  "Ginkgo Biloba Ext.<SEP>기넥신": {
+    "chunk_ids": [
+      "chunk-e1a4ec4f3262ad2545dd73b73a177b94"
+    ],
+    "count": 1,
+    "create_time": 1777269511,
+    "update_time": 1777269511,
+    "_id": "Ginkgo Biloba Ext.<SEP>기넥신"
+  },
+  "기넥신<SEP>산화질소": {
+    "chunk_ids": [
+      "chunk-e1a4ec4f3262ad2545dd73b73a177b94"
+    ],
+    "count": 1,
+    "create_time": 1777269511,
+    "update_time": 1777269511,
+    "_id": "기넥신<SEP>산화질소"
+  },
+  "기넥신<SEP>프로스타사이클린": {
+    "chunk_ids": [
+      "chunk-e1a4ec4f3262ad2545dd73b73a177b94"
+    ],
+    "count": 1,
+    "create_time": 1777269512,
+    "update_time": 1777269512,
+    "_id": "기넥신<SEP>프로스타사이클린"
+  },
+  "신경과/신경외과<SEP>아세틸L카르니틴": {
+    "chunk_ids": [
+      "chunk-5adcf922f8d62ebd633d8569c6485a63"
+    ],
+    "count": 1,
+    "create_time": 1777269512,
+    "update_time": 1777269512,
+    "_id": "신경과/신경외과<SEP>아세틸L카르니틴"
+  },
+  "기넥신<SEP>자유라디칼": {
+    "chunk_ids": [
+      "chunk-e1a4ec4f3262ad2545dd73b73a177b94"
+    ],
+    "count": 1,
+    "create_time": 1777269512,
+    "update_time": 1777269512,
+    "_id": "기넥신<SEP>자유라디칼"
+  },
+  "옥시라세탐<SEP>치매 전 단계": {
+    "chunk_ids": [
+      "chunk-5adcf922f8d62ebd633d8569c6485a63"
+    ],
+    "count": 1,
+    "create_time": 1777269512,
+    "update_time": 1777269512,
+    "_id": "옥시라세탐<SEP>치매 전 단계"
+  },
+  "기넥신<SEP>신경가소성": {
+    "chunk_ids": [
+      "chunk-e1a4ec4f3262ad2545dd73b73a177b94"
+    ],
+    "count": 1,
+    "create_time": 1777269512,
+    "update_time": 1777269512,
+    "_id": "기넥신<SEP>신경가소성"
+  },
+  "니세틸<SEP>치매 전 단계": {
+    "chunk_ids": [
+      "chunk-5adcf922f8d62ebd633d8569c6485a63"
+    ],
+    "count": 1,
+    "create_time": 1777269512,
+    "update_time": 1777269512,
+    "_id": "니세틸<SEP>치매 전 단계"
+  },
+  "기넥신 80mg<SEP>옥시라세탐": {
+    "chunk_ids": [
+      "chunk-5adcf922f8d62ebd633d8569c6485a63"
+    ],
+    "count": 1,
+    "create_time": 1777269512,
+    "update_time": 1777269512,
+    "_id": "기넥신 80mg<SEP>옥시라세탐"
+  },
+  "치매 전 단계<SEP>카니틸": {
+    "chunk_ids": [
+      "chunk-5adcf922f8d62ebd633d8569c6485a63"
+    ],
+    "count": 1,
+    "create_time": 1777269512,
+    "update_time": 1777269512,
+    "_id": "치매 전 단계<SEP>카니틸"
+  },
+  "100% 비급여<SEP>기넥신": {
+    "chunk_ids": [
+      "chunk-e1a4ec4f3262ad2545dd73b73a177b94"
+    ],
+    "count": 1,
+    "create_time": 1777269512,
+    "update_time": 1777269512,
+    "_id": "100% 비급여<SEP>기넥신"
+  },
+  "기넥신<SEP>은행엽": {
+    "chunk_ids": [
+      "chunk-e1a4ec4f3262ad2545dd73b73a177b94"
+    ],
+    "count": 1,
+    "create_time": 1777269513,
+    "update_time": 1777269513,
+    "_id": "기넥신<SEP>은행엽"
+  },
+  "Ginkgoflavone-glycosides<SEP>기넥신": {
+    "chunk_ids": [
+      "chunk-e1a4ec4f3262ad2545dd73b73a177b94"
+    ],
+    "count": 1,
+    "create_time": 1777269513,
+    "update_time": 1777269513,
+    "_id": "Ginkgoflavone-glycosides<SEP>기넥신"
+  },
+  "Bilobalides<SEP>기넥신": {
+    "chunk_ids": [
+      "chunk-e1a4ec4f3262ad2545dd73b73a177b94"
+    ],
+    "count": 1,
+    "create_time": 1777269513,
+    "update_time": 1777269513,
+    "_id": "Bilobalides<SEP>기넥신"
+  },
+  "레밋치 구강붕해정<SEP>소양증": {
+    "chunk_ids": [
+      "chunk-e5f48a7da6d93691ef84c8f3b5e92b9f"
+    ],
+    "count": 1,
+    "create_time": 1777269583,
+    "update_time": 1777269583,
+    "_id": "레밋치 구강붕해정<SEP>소양증"
+  },
+  "리루빈 증가<SEP>신장계 이상반응": {
+    "chunk_ids": [
+      "chunk-dd7d8ec902d22f57d2256837b5ee1d8e"
+    ],
+    "count": 1,
+    "create_time": 1777269583,
+    "update_time": 1777269583,
+    "_id": "리루빈 증가<SEP>신장계 이상반응"
+  },
+  "레밋치 구강붕해정<SEP>혈액투석환자": {
+    "chunk_ids": [
+      "chunk-e5f48a7da6d93691ef84c8f3b5e92b9f"
+    ],
+    "count": 1,
+    "create_time": 1777269583,
+    "update_time": 1777269583,
+    "_id": "레밋치 구강붕해정<SEP>혈액투석환자"
+  },
+  "LDH 증가<SEP>신장계 이상반응": {
+    "chunk_ids": [
+      "chunk-dd7d8ec902d22f57d2256837b5ee1d8e"
+    ],
+    "count": 1,
+    "create_time": 1777269584,
+    "update_time": 1777269584,
+    "_id": "LDH 증가<SEP>신장계 이상반응"
+  },
+  "두근거림<SEP>심혈관계 이상반응": {
+    "chunk_ids": [
+      "chunk-dd7d8ec902d22f57d2256837b5ee1d8e"
+    ],
+    "count": 1,
+    "create_time": 1777269584,
+    "update_time": 1777269584,
+    "_id": "두근거림<SEP>심혈관계 이상반응"
+  },
+  "레밋치 구강붕해정<SEP>임산부": {
+    "chunk_ids": [
+      "chunk-e5f48a7da6d93691ef84c8f3b5e92b9f"
+    ],
+    "count": 1,
+    "create_time": 1777269584,
+    "update_time": 1777269584,
+    "_id": "레밋치 구강붕해정<SEP>임산부"
+  },
+  "내분비계 이상반응<SEP>프로락틴 증가": {
+    "chunk_ids": [
+      "chunk-dd7d8ec902d22f57d2256837b5ee1d8e"
+    ],
+    "count": 1,
+    "create_time": 1777269584,
+    "update_time": 1777269584,
+    "_id": "내분비계 이상반응<SEP>프로락틴 증가"
+  },
+  "고령자<SEP>레밋치 구강붕해정": {
+    "chunk_ids": [
+      "chunk-e5f48a7da6d93691ef84c8f3b5e92b9f"
+    ],
+    "count": 1,
+    "create_time": 1777269584,
+    "update_time": 1777269584,
+    "_id": "고령자<SEP>레밋치 구강붕해정"
+  },
+  "혈액계 이상반응<SEP>호산구 증가": {
+    "chunk_ids": [
+      "chunk-dd7d8ec902d22f57d2256837b5ee1d8e"
+    ],
+    "count": 1,
+    "create_time": 1777269584,
+    "update_time": 1777269584,
+    "_id": "혈액계 이상반응<SEP>호산구 증가"
+  },
+  "내분비계 이상반응<SEP>테스토스테론 감소": {
+    "chunk_ids": [
+      "chunk-dd7d8ec902d22f57d2256837b5ee1d8e"
+    ],
+    "count": 1,
+    "create_time": 1777269584,
+    "update_time": 1777269584,
+    "_id": "내분비계 이상반응<SEP>테스토스테론 감소"
+  },
+  "비뇨기계 이상반응<SEP>혈뇨 존재": {
+    "chunk_ids": [
+      "chunk-dd7d8ec902d22f57d2256837b5ee1d8e"
+    ],
+    "count": 1,
+    "create_time": 1777269584,
+    "update_time": 1777269584,
+    "_id": "비뇨기계 이상반응<SEP>혈뇨 존재"
+  },
+  "갈락토오스 불내성<SEP>레밋치 구강붕해정": {
+    "chunk_ids": [
+      "chunk-e5f48a7da6d93691ef84c8f3b5e92b9f"
+    ],
+    "count": 1,
+    "create_time": 1777269584,
+    "update_time": 1777269584,
+    "_id": "갈락토오스 불내성<SEP>레밋치 구강붕해정"
+  },
+  "104명의 환자<SEP>날푸라핀염산염": {
+    "chunk_ids": [
+      "chunk-dd7d8ec902d22f57d2256837b5ee1d8e"
+    ],
+    "count": 1,
+    "create_time": 1777269584,
+    "update_time": 1777269584,
+    "_id": "104명의 환자<SEP>날푸라핀염산염"
+  },
+  "Lapp 유당 분해효소 결핍증<SEP>레밋치 구강붕해정": {
+    "chunk_ids": [
+      "chunk-e5f48a7da6d93691ef84c8f3b5e92b9f"
+    ],
+    "count": 1,
+    "create_time": 1777269585,
+    "update_time": 1777269585,
+    "_id": "Lapp 유당 분해효소 결핍증<SEP>레밋치 구강붕해정"
+  },
+  "104명의 환자<SEP>위약": {
+    "chunk_ids": [
+      "chunk-dd7d8ec902d22f57d2256837b5ee1d8e"
+    ],
+    "count": 1,
+    "create_time": 1777269585,
+    "update_time": 1777269585,
+    "_id": "104명의 환자<SEP>위약"
+  },
+  "날푸라핀염산염<SEP>이상약물반응": {
+    "chunk_ids": [
+      "chunk-dd7d8ec902d22f57d2256837b5ee1d8e"
+    ],
+    "count": 1,
+    "create_time": 1777269585,
+    "update_time": 1777269585,
+    "_id": "날푸라핀염산염<SEP>이상약물반응"
+  },
+  "갑상선 자극호르몬 증가<SEP>내분비계 이상반응": {
+    "chunk_ids": [
+      "chunk-dd7d8ec902d22f57d2256837b5ee1d8e"
+    ],
+    "count": 1,
+    "create_time": 1777269585,
+    "update_time": 1777269585,
+    "_id": "갑상선 자극호르몬 증가<SEP>내분비계 이상반응"
+  },
+  "레밋치 구강붕해정<SEP>포도당-갈락토오스 흡수장애": {
+    "chunk_ids": [
+      "chunk-e5f48a7da6d93691ef84c8f3b5e92b9f"
+    ],
+    "count": 1,
+    "create_time": 1777269585,
+    "update_time": 1777269585,
+    "_id": "레밋치 구강붕해정<SEP>포도당-갈락토오스 흡수장애"
+  },
+  "기타 이상반응<SEP>흉부 불편감": {
+    "chunk_ids": [
+      "chunk-dd7d8ec902d22f57d2256837b5ee1d8e"
+    ],
+    "count": 1,
+    "create_time": 1777269585,
+    "update_time": 1777269585,
+    "_id": "기타 이상반응<SEP>흉부 불편감"
+  },
+  "날푸라핀염산염<SEP>불면증": {
+    "chunk_ids": [
+      "chunk-dd7d8ec902d22f57d2256837b5ee1d8e",
+      "chunk-c10f8f9af4c581ac1af9755935b7ed53"
+    ],
+    "count": 2,
+    "create_time": 1777269585,
+    "update_time": 1777269585,
+    "_id": "날푸라핀염산염<SEP>불면증"
+  },
+  "갑상선 자극호르몬 감소<SEP>내분비계 이상반응": {
+    "chunk_ids": [
+      "chunk-dd7d8ec902d22f57d2256837b5ee1d8e"
+    ],
+    "count": 1,
+    "create_time": 1777269585,
+    "update_time": 1777269585,
+    "_id": "갑상선 자극호르몬 감소<SEP>내분비계 이상반응"
+  },
+  "기타 이상반응<SEP>병감": {
+    "chunk_ids": [
+      "chunk-dd7d8ec902d22f57d2256837b5ee1d8e"
+    ],
+    "count": 1,
+    "create_time": 1777269585,
+    "update_time": 1777269585,
+    "_id": "기타 이상반응<SEP>병감"
+  },
+  "날푸라핀염산염<SEP>불안": {
+    "chunk_ids": [
+      "chunk-dd7d8ec902d22f57d2256837b5ee1d8e"
+    ],
+    "count": 1,
+    "create_time": 1777269586,
+    "update_time": 1777269586,
+    "_id": "날푸라핀염산염<SEP>불안"
+  },
+  "날푸라핀염산염<SEP>위약군": {
+    "chunk_ids": [
+      "chunk-c10f8f9af4c581ac1af9755935b7ed53"
+    ],
+    "count": 1,
+    "create_time": 1777269586,
+    "update_time": 1777269586,
+    "_id": "날푸라핀염산염<SEP>위약군"
+  },
+  "날푸라핀염산염<SEP>혈중 LDH": {
+    "chunk_ids": [
+      "chunk-c10f8f9af4c581ac1af9755935b7ed53"
+    ],
+    "count": 1,
+    "create_time": 1777269586,
+    "update_time": 1777269586,
+    "_id": "날푸라핀염산염<SEP>혈중 LDH"
+  },
+  "날푸라핀염산염<SEP>혈압": {
+    "chunk_ids": [
+      "chunk-c10f8f9af4c581ac1af9755935b7ed53"
+    ],
+    "count": 1,
+    "create_time": 1777269587,
+    "update_time": 1777269587,
+    "_id": "날푸라핀염산염<SEP>혈압"
+  },
+  "γ-GTP<SEP>날푸라핀염산염": {
+    "chunk_ids": [
+      "chunk-c10f8f9af4c581ac1af9755935b7ed53"
+    ],
+    "count": 1,
+    "create_time": 1777269587,
+    "update_time": 1777269587,
+    "_id": "γ-GTP<SEP>날푸라핀염산염"
+  },
+  "감염 관련 이상반응<SEP>날푸라핀염산염": {
+    "chunk_ids": [
+      "chunk-c10f8f9af4c581ac1af9755935b7ed53"
+    ],
+    "count": 1,
+    "create_time": 1777269587,
+    "update_time": 1777269587,
+    "_id": "감염 관련 이상반응<SEP>날푸라핀염산염"
+  },
+  "날푸라핀염산염<SEP>호흡기계 이상반응": {
+    "chunk_ids": [
+      "chunk-c10f8f9af4c581ac1af9755935b7ed53"
+    ],
+    "count": 1,
+    "create_time": 1777269587,
+    "update_time": 1777269587,
+    "_id": "날푸라핀염산염<SEP>호흡기계 이상반응"
+  },
+  "날푸라핀 염산염<SEP>혈액투석환자": {
+    "chunk_ids": [
+      "chunk-938ed7b16f342269897f19d4ba8eec23",
+      "chunk-c035d7e32c6108817f3d928fd467a9d9"
+    ],
+    "count": 2,
+    "create_time": 1777269587,
+    "update_time": 1777269587,
+    "_id": "날푸라핀 염산염<SEP>혈액투석환자"
+  },
+  "CYP3A4<SEP>날푸라핀염산염": {
+    "chunk_ids": [
+      "chunk-c10f8f9af4c581ac1af9755935b7ed53"
+    ],
+    "count": 1,
+    "create_time": 1777269588,
+    "update_time": 1777269588,
+    "_id": "CYP3A4<SEP>날푸라핀염산염"
+  },
+  "Toray Industries, Inc.<SEP>날푸라핀 염산염": {
+    "chunk_ids": [
+      "chunk-938ed7b16f342269897f19d4ba8eec23"
+    ],
+    "count": 1,
+    "create_time": 1777269588,
+    "update_time": 1777269588,
+    "_id": "Toray Industries, Inc.<SEP>날푸라핀 염산염"
+  },
+  "날푸라핀염산염<SEP>변비": {
+    "chunk_ids": [
+      "chunk-c10f8f9af4c581ac1af9755935b7ed53"
+    ],
+    "count": 1,
+    "create_time": 1777269588,
+    "update_time": 1777269588,
+    "_id": "날푸라핀염산염<SEP>변비"
+  },
+  "일본<SEP>혈액투석환자": {
+    "chunk_ids": [
+      "chunk-938ed7b16f342269897f19d4ba8eec23"
+    ],
+    "count": 1,
+    "create_time": 1777269588,
+    "update_time": 1777269588,
+    "_id": "일본<SEP>혈액투석환자"
+  },
+  "날푸라핀 염산염<SEP>에스케이케미칼(주)": {
+    "chunk_ids": [
+      "chunk-938ed7b16f342269897f19d4ba8eec23"
+    ],
+    "count": 1,
+    "create_time": 1777269588,
+    "update_time": 1777269588,
+    "_id": "날푸라핀 염산염<SEP>에스케이케미칼(주)"
+  },
+  "날푸라핀염산염<SEP>졸음": {
+    "chunk_ids": [
+      "chunk-c10f8f9af4c581ac1af9755935b7ed53"
+    ],
+    "count": 1,
+    "create_time": 1777269588,
+    "update_time": 1777269588,
+    "_id": "날푸라핀염산염<SEP>졸음"
+  },
+  "혈액투석 소양증<SEP>혈액투석환자": {
+    "chunk_ids": [
+      "chunk-938ed7b16f342269897f19d4ba8eec23"
+    ],
+    "count": 1,
+    "create_time": 1777269588,
+    "update_time": 1777269588,
+    "_id": "혈액투석 소양증<SEP>혈액투석환자"
+  },
+  "레밋치<SEP>혈액투석환자": {
+    "chunk_ids": [
+      "chunk-938ed7b16f342269897f19d4ba8eec23"
+    ],
+    "count": 1,
+    "create_time": 1777269589,
+    "update_time": 1777269589,
+    "_id": "레밋치<SEP>혈액투석환자"
+  },
+  "κ 수용체<SEP>나이프라핀": {
+    "chunk_ids": [
+      "chunk-30d60a05d36fc097f7166f31115616d7"
+    ],
+    "count": 1,
+    "create_time": 1777269589,
+    "update_time": 1777269589,
+    "_id": "κ 수용체<SEP>나이프라핀"
+  },
+  "간기능 장애<SEP>날푸라핀염산염": {
+    "chunk_ids": [
+      "chunk-c10f8f9af4c581ac1af9755935b7ed53"
+    ],
+    "count": 1,
+    "create_time": 1777269589,
+    "update_time": 1777269589,
+    "_id": "간기능 장애<SEP>날푸라핀염산염"
+  },
+  "μ 수용체<SEP>가려움 인식": {
+    "chunk_ids": [
+      "chunk-30d60a05d36fc097f7166f31115616d7"
+    ],
+    "count": 1,
+    "create_time": 1777269589,
+    "update_time": 1777269589,
+    "_id": "μ 수용체<SEP>가려움 인식"
+  },
+  "μ opioid receptor<SEP>혈액투석환자": {
+    "chunk_ids": [
+      "chunk-938ed7b16f342269897f19d4ba8eec23"
+    ],
+    "count": 1,
+    "create_time": 1777269589,
+    "update_time": 1777269589,
+    "_id": "μ opioid receptor<SEP>혈액투석환자"
+  },
+  "κ 수용체<SEP>가려움 억제": {
+    "chunk_ids": [
+      "chunk-30d60a05d36fc097f7166f31115616d7"
+    ],
+    "count": 1,
+    "create_time": 1777269589,
+    "update_time": 1777269589,
+    "_id": "κ 수용체<SEP>가려움 억제"
+  },
+  "날푸라핀염산염<SEP>황달": {
+    "chunk_ids": [
+      "chunk-c10f8f9af4c581ac1af9755935b7ed53"
+    ],
+    "count": 1,
+    "create_time": 1777269589,
+    "update_time": 1777269589,
+    "_id": "날푸라핀염산염<SEP>황달"
+  },
+  "나이프라핀<SEP>임상시험": {
+    "chunk_ids": [
+      "chunk-30d60a05d36fc097f7166f31115616d7"
+    ],
+    "count": 1,
+    "create_time": 1777269589,
+    "update_time": 1777269589,
+    "_id": "나이프라핀<SEP>임상시험"
+  },
+  "소양증<SEP>혈액투석환자": {
+    "chunk_ids": [
+      "chunk-30d60a05d36fc097f7166f31115616d7"
+    ],
+    "count": 1,
+    "create_time": 1777269589,
+    "update_time": 1777269589,
+    "_id": "소양증<SEP>혈액투석환자"
+  },
+  "레밋치 구강붕해정<SEP>신속용해": {
+    "chunk_ids": [
+      "chunk-ea6fdf1ff837e9e1a27c22877b32182b"
+    ],
+    "count": 1,
+    "create_time": 1777269589,
+    "update_time": 1777269589,
+    "_id": "레밋치 구강붕해정<SEP>신속용해"
+  },
+  "Child-Pugh B 등급<SEP>날푸라핀염산염": {
+    "chunk_ids": [
+      "chunk-c10f8f9af4c581ac1af9755935b7ed53"
+    ],
+    "count": 1,
+    "create_time": 1777269589,
+    "update_time": 1777269589,
+    "_id": "Child-Pugh B 등급<SEP>날푸라핀염산염"
+  },
+  "나이프라핀<SEP>소양증 증상": {
+    "chunk_ids": [
+      "chunk-30d60a05d36fc097f7166f31115616d7"
+    ],
+    "count": 1,
+    "create_time": 1777269589,
+    "update_time": 1777269589,
+    "_id": "나이프라핀<SEP>소양증 증상"
+  },
+  "데이터<SEP>토레이 산업 주식회사": {
+    "chunk_ids": [
+      "chunk-ea6fdf1ff837e9e1a27c22877b32182b"
+    ],
+    "count": 1,
+    "create_time": 1777269590,
+    "update_time": 1777269590,
+    "_id": "데이터<SEP>토레이 산업 주식회사"
+  },
+  "야간 가려움 점수<SEP>혈액투석환자": {
+    "chunk_ids": [
+      "chunk-30d60a05d36fc097f7166f31115616d7"
+    ],
+    "count": 1,
+    "create_time": 1777269590,
+    "update_time": 1777269590,
+    "_id": "야간 가려움 점수<SEP>혈액투석환자"
+  },
+  "레밋치 구강붕해정<SEP>투여 가이드": {
+    "chunk_ids": [
+      "chunk-ea6fdf1ff837e9e1a27c22877b32182b"
+    ],
+    "count": 1,
+    "create_time": 1777269590,
+    "update_time": 1777269590,
+    "_id": "레밋치 구강붕해정<SEP>투여 가이드"
+  },
+  "이 약<SEP>케토코나졸": {
+    "chunk_ids": [
+      "chunk-0cbf10d176a69666aa1320df625a5132"
+    ],
+    "count": 1,
+    "create_time": 1777269590,
+    "update_time": 1777269590,
+    "_id": "이 약<SEP>케토코나졸"
+  },
+  "구강붕해정<SEP>레밋치 구강붕해정": {
+    "chunk_ids": [
+      "chunk-ea6fdf1ff837e9e1a27c22877b32182b"
+    ],
+    "count": 1,
+    "create_time": 1777269590,
+    "update_time": 1777269590,
+    "_id": "구강붕해정<SEP>레밋치 구강붕해정"
+  },
+  "미데카마이신<SEP>이 약": {
+    "chunk_ids": [
+      "chunk-0cbf10d176a69666aa1320df625a5132"
+    ],
+    "count": 1,
+    "create_time": 1777269590,
+    "update_time": 1777269590,
+    "_id": "미데카마이신<SEP>이 약"
+  },
+  "날푸라핀염산염<SEP>레밋치 구강붕해정": {
+    "chunk_ids": [
+      "chunk-ea6fdf1ff837e9e1a27c22877b32182b"
+    ],
+    "count": 1,
+    "create_time": 1777269590,
+    "update_time": 1777269590,
+    "_id": "날푸라핀염산염<SEP>레밋치 구강붕해정"
+  },
+  "사이클로스포린<SEP>이 약": {
+    "chunk_ids": [
+      "chunk-0cbf10d176a69666aa1320df625a5132"
+    ],
+    "count": 1,
+    "create_time": 1777269591,
+    "update_time": 1777269591,
+    "_id": "사이클로스포린<SEP>이 약"
+  },
+  "날푸라핀 염산염<SEP>임상시험": {
+    "chunk_ids": [
+      "chunk-c035d7e32c6108817f3d928fd467a9d9"
+    ],
+    "count": 1,
+    "create_time": 1777269591,
+    "update_time": 1777269591,
+    "_id": "날푸라핀 염산염<SEP>임상시험"
+  },
+  "이 약<SEP>임부": {
+    "chunk_ids": [
+      "chunk-0cbf10d176a69666aa1320df625a5132"
+    ],
+    "count": 1,
+    "create_time": 1777269591,
+    "update_time": 1777269591,
+    "_id": "이 약<SEP>임부"
+  },
+  "임상시험<SEP>혈액투석환자": {
+    "chunk_ids": [
+      "chunk-c035d7e32c6108817f3d928fd467a9d9"
+    ],
+    "count": 1,
+    "create_time": 1777269591,
+    "update_time": 1777269591,
+    "_id": "임상시험<SEP>혈액투석환자"
+  },
+  "수유부<SEP>이 약": {
+    "chunk_ids": [
+      "chunk-0cbf10d176a69666aa1320df625a5132"
+    ],
+    "count": 1,
+    "create_time": 1777269591,
+    "update_time": 1777269591,
+    "_id": "수유부<SEP>이 약"
+  },
+  "위약군<SEP>임상시험": {
+    "chunk_ids": [
+      "chunk-c035d7e32c6108817f3d928fd467a9d9"
+    ],
+    "count": 1,
+    "create_time": 1777269591,
+    "update_time": 1777269591,
+    "_id": "위약군<SEP>임상시험"
+  },
+  "2주<SEP>임상시험": {
+    "chunk_ids": [
+      "chunk-c035d7e32c6108817f3d928fd467a9d9"
+    ],
+    "count": 1,
+    "create_time": 1777269592,
+    "update_time": 1777269592,
+    "_id": "2주<SEP>임상시험"
+  },
+  "VAS 변화량<SEP>야간 가려움 점수": {
+    "chunk_ids": [
+      "chunk-c035d7e32c6108817f3d928fd467a9d9"
+    ],
+    "count": 1,
+    "create_time": 1777269592,
+    "update_time": 1777269592,
+    "_id": "VAS 변화량<SEP>야간 가려움 점수"
+  },
+  "소아<SEP>이 약": {
+    "chunk_ids": [
+      "chunk-0cbf10d176a69666aa1320df625a5132"
+    ],
+    "count": 1,
+    "create_time": 1777269592,
+    "update_time": 1777269592,
+    "_id": "소아<SEP>이 약"
+  },
+  "52주<SEP>임상시험": {
+    "chunk_ids": [
+      "chunk-c035d7e32c6108817f3d928fd467a9d9"
+    ],
+    "count": 1,
+    "create_time": 1777269592,
+    "update_time": 1777269592,
+    "_id": "52주<SEP>임상시험"
+  },
+  "고령자<SEP>이 약": {
+    "chunk_ids": [
+      "chunk-0cbf10d176a69666aa1320df625a5132"
+    ],
+    "count": 1,
+    "create_time": 1777269592,
+    "update_time": 1777269592,
+    "_id": "고령자<SEP>이 약"
+  },
+  "2009년 5월<SEP>Nalfurafine": {
+    "chunk_ids": [
+      "chunk-9b1ea9ef310979a69d145d68c763c386"
+    ],
+    "count": 1,
+    "create_time": 1777269592,
+    "update_time": 1777269592,
+    "_id": "2009년 5월<SEP>Nalfurafine"
+  },
+  "2013년 4월<SEP>Nalfurafine": {
+    "chunk_ids": [
+      "chunk-9b1ea9ef310979a69d145d68c763c386"
+    ],
+    "count": 1,
+    "create_time": 1777269592,
+    "update_time": 1777269592,
+    "_id": "2013년 4월<SEP>Nalfurafine"
+  },
+  "과량투여<SEP>이 약": {
+    "chunk_ids": [
+      "chunk-0cbf10d176a69666aa1320df625a5132"
+    ],
+    "count": 1,
+    "create_time": 1777269592,
+    "update_time": 1777269592,
+    "_id": "과량투여<SEP>이 약"
+  },
+  "불면증<SEP>소양증": {
+    "chunk_ids": [
+      "chunk-9b1ea9ef310979a69d145d68c763c386"
+    ],
+    "count": 1,
+    "create_time": 1777269592,
+    "update_time": 1777269592,
+    "_id": "불면증<SEP>소양증"
+  },
+  "임상시험<SEP>장기투여": {
+    "chunk_ids": [
+      "chunk-c035d7e32c6108817f3d928fd467a9d9"
+    ],
+    "count": 1,
+    "create_time": 1777269592,
+    "update_time": 1777269592,
+    "_id": "임상시험<SEP>장기투여"
+  },
+  "Nalfurafine<SEP>대한민국": {
+    "chunk_ids": [
+      "chunk-9b1ea9ef310979a69d145d68c763c386"
+    ],
+    "count": 1,
+    "create_time": 1777269593,
+    "update_time": 1777269593,
+    "_id": "Nalfurafine<SEP>대한민국"
+  },
+  "2009년 5월<SEP>2013년 4월": {
+    "chunk_ids": [
+      "chunk-9b1ea9ef310979a69d145d68c763c386"
+    ],
+    "count": 1,
+    "create_time": 1777269593,
+    "update_time": 1777269593,
+    "_id": "2009년 5월<SEP>2013년 4월"
+  },
+  "소양증 관리 알고리즘<SEP>혈액투석환자": {
+    "chunk_ids": [
+      "chunk-534385017916ebb9a15787ce8fc1f352"
+    ],
+    "count": 1,
+    "create_time": 1777269593,
+    "update_time": 1777269593,
+    "_id": "소양증 관리 알고리즘<SEP>혈액투석환자"
+  },
+  "비글견<SEP>이 약": {
+    "chunk_ids": [
+      "chunk-0cbf10d176a69666aa1320df625a5132"
+    ],
+    "count": 1,
+    "create_time": 1777269593,
+    "update_time": 1777269593,
+    "_id": "비글견<SEP>이 약"
+  },
+  "날푸라핀<SEP>레밋치 구강붕해정": {
+    "chunk_ids": [
+      "chunk-534385017916ebb9a15787ce8fc1f352"
+    ],
+    "count": 1,
+    "create_time": 1777269593,
+    "update_time": 1777269593,
+    "_id": "날푸라핀<SEP>레밋치 구강붕해정"
+  },
+  "Nalfurafine<SEP>이상반응": {
+    "chunk_ids": [
+      "chunk-9b1ea9ef310979a69d145d68c763c386"
+    ],
+    "count": 1,
+    "create_time": 1777269593,
+    "update_time": 1777269593,
+    "_id": "Nalfurafine<SEP>이상반응"
+  },
+  "Kumagai et al.<SEP>소양증 관리 알고리즘": {
+    "chunk_ids": [
+      "chunk-534385017916ebb9a15787ce8fc1f352"
+    ],
+    "count": 1,
+    "create_time": 1777269593,
+    "update_time": 1777269593,
+    "_id": "Kumagai et al.<SEP>소양증 관리 알고리즘"
+  },
+  "레밋치 구강붕해정<SEP>레밋치 연질캡슐": {
+    "chunk_ids": [
+      "chunk-534385017916ebb9a15787ce8fc1f352"
+    ],
+    "count": 1,
+    "create_time": 1777269593,
+    "update_time": 1777269593,
+    "_id": "레밋치 구강붕해정<SEP>레밋치 연질캡슐"
+  },
+  "날푸라핀<SEP>소양증 관리 알고리즘": {
+    "chunk_ids": [
+      "chunk-534385017916ebb9a15787ce8fc1f352"
+    ],
+    "count": 1,
+    "create_time": 1777269593,
+    "update_time": 1777269593,
+    "_id": "날푸라핀<SEP>소양증 관리 알고리즘"
+  },
+  "저용량 아스피린<SEP>점막 손상": {
+    "chunk_ids": [
+      "chunk-8e36f9f127b869c0143d717ac4ba85e8"
+    ],
+    "count": 1,
+    "create_time": 1777269671,
+    "update_time": 1777269671,
+    "_id": "저용량 아스피린<SEP>점막 손상"
+  },
+  "초기 CE<SEP>폴라프레진크 그룹": {
+    "chunk_ids": [
+      "chunk-8e36f9f127b869c0143d717ac4ba85e8"
+    ],
+    "count": 1,
+    "create_time": 1777269671,
+    "update_time": 1777269671,
+    "_id": "초기 CE<SEP>폴라프레진크 그룹"
+  },
+  "캡슐 내시경<SEP>후속 CE": {
+    "chunk_ids": [
+      "chunk-8e36f9f127b869c0143d717ac4ba85e8"
+    ],
+    "count": 1,
+    "create_time": 1777269671,
+    "update_time": 1777269671,
+    "_id": "캡슐 내시경<SEP>후속 CE"
+  },
+  "Control Group<SEP>Polaprezinc Group": {
+    "chunk_ids": [
+      "chunk-0cd83488b8f4af83add85e7657e1afec",
+      "chunk-10bba061b459c7d02fb1fb58fbe974f7"
+    ],
+    "count": 2,
+    "create_time": 1777269671,
+    "update_time": 1777269671,
+    "_id": "Control Group<SEP>Polaprezinc Group"
+  },
+  "Median Erosions/Ulcers<SEP>Median Reddened Lesions": {
+    "chunk_ids": [
+      "chunk-0cd83488b8f4af83add85e7657e1afec"
+    ],
+    "count": 1,
+    "create_time": 1777269671,
+    "update_time": 1777269671,
+    "_id": "Median Erosions/Ulcers<SEP>Median Reddened Lesions"
+  },
+  "N.S.<SEP>저용량 아스피린": {
+    "chunk_ids": [
+      "chunk-8e36f9f127b869c0143d717ac4ba85e8"
+    ],
+    "count": 1,
+    "create_time": 1777269672,
+    "update_time": 1777269672,
+    "_id": "N.S.<SEP>저용량 아스피린"
+  },
+  "Capsule Endoscopy (CE)<SEP>Small-Bowel Mucosal Injuries": {
+    "chunk_ids": [
+      "chunk-0cd83488b8f4af83add85e7657e1afec"
+    ],
+    "count": 1,
+    "create_time": 1777269672,
+    "update_time": 1777269672,
+    "_id": "Capsule Endoscopy (CE)<SEP>Small-Bowel Mucosal Injuries"
+  },
+  "폴라프레진크 그룹<SEP>후속 CE": {
+    "chunk_ids": [
+      "chunk-8e36f9f127b869c0143d717ac4ba85e8"
+    ],
+    "count": 1,
+    "create_time": 1777269672,
+    "update_time": 1777269672,
+    "_id": "폴라프레진크 그룹<SEP>후속 CE"
+  },
+  "초기 CE<SEP>캡슐 내시경": {
+    "chunk_ids": [
+      "chunk-8e36f9f127b869c0143d717ac4ba85e8"
+    ],
+    "count": 1,
+    "create_time": 1777269672,
+    "update_time": 1777269672,
+    "_id": "초기 CE<SEP>캡슐 내시경"
+  },
+  "LDA<SEP>Polaprezinc Group": {
+    "chunk_ids": [
+      "chunk-0cd83488b8f4af83add85e7657e1afec"
+    ],
+    "count": 1,
+    "create_time": 1777269672,
+    "update_time": 1777269672,
+    "_id": "LDA<SEP>Polaprezinc Group"
+  },
+  "Small-Bowel Mucosal Injuries<SEP>Type of Change": {
+    "chunk_ids": [
+      "chunk-0cd83488b8f4af83add85e7657e1afec"
+    ],
+    "count": 1,
+    "create_time": 1777269672,
+    "update_time": 1777269672,
+    "_id": "Small-Bowel Mucosal Injuries<SEP>Type of Change"
+  },
+  "Aspirin<SEP>Mucosal Prostaglandin (PG)": {
+    "chunk_ids": [
+      "chunk-10bba061b459c7d02fb1fb58fbe974f7"
+    ],
+    "count": 1,
+    "create_time": 1777269672,
+    "update_time": 1777269672,
+    "_id": "Aspirin<SEP>Mucosal Prostaglandin (PG)"
+  },
+  "Calcium Efflux<SEP>Mitochondrial Damage": {
+    "chunk_ids": [
+      "chunk-10bba061b459c7d02fb1fb58fbe974f7"
+    ],
+    "count": 1,
+    "create_time": 1777269672,
+    "update_time": 1777269672,
+    "_id": "Calcium Efflux<SEP>Mitochondrial Damage"
+  },
+  "Erosions/Ulcers<SEP>Polaprezinc Group": {
+    "chunk_ids": [
+      "chunk-10bba061b459c7d02fb1fb58fbe974f7"
+    ],
+    "count": 1,
+    "create_time": 1777269672,
+    "update_time": 1777269672,
+    "_id": "Erosions/Ulcers<SEP>Polaprezinc Group"
+  },
+  "Control Group<SEP>LDA": {
+    "chunk_ids": [
+      "chunk-0cd83488b8f4af83add85e7657e1afec"
+    ],
+    "count": 1,
+    "create_time": 1777269672,
+    "update_time": 1777269672,
+    "_id": "Control Group<SEP>LDA"
+  },
+  "Misoprostol<SEP>Small Bowel": {
+    "chunk_ids": [
+      "chunk-10bba061b459c7d02fb1fb58fbe974f7"
+    ],
+    "count": 1,
+    "create_time": 1777269672,
+    "update_time": 1777269672,
+    "_id": "Misoprostol<SEP>Small Bowel"
+  },
+  "Aspirin<SEP>Three Hit Hypothesis": {
+    "chunk_ids": [
+      "chunk-10bba061b459c7d02fb1fb58fbe974f7"
+    ],
+    "count": 1,
+    "create_time": 1777269672,
+    "update_time": 1777269672,
+    "_id": "Aspirin<SEP>Three Hit Hypothesis"
+  },
+  "LDA (Low-Dose Aspirin)<SEP>Small Bowel": {
+    "chunk_ids": [
+      "chunk-10bba061b459c7d02fb1fb58fbe974f7"
+    ],
+    "count": 1,
+    "create_time": 1777269672,
+    "update_time": 1777269672,
+    "_id": "LDA (Low-Dose Aspirin)<SEP>Small Bowel"
+  },
+  "CE Score<SEP>Small-Bowel Mucosal Injuries": {
+    "chunk_ids": [
+      "chunk-4468f7becaa6c09100c310ebf02e0564"
+    ],
+    "count": 1,
+    "create_time": 1777269672,
+    "update_time": 1777269672,
+    "_id": "CE Score<SEP>Small-Bowel Mucosal Injuries"
+  },
+  "JMP-J Software<SEP>Statistical Analysis": {
+    "chunk_ids": [
+      "chunk-4468f7becaa6c09100c310ebf02e0564"
+    ],
+    "count": 1,
+    "create_time": 1777269673,
+    "update_time": 1777269673,
+    "_id": "JMP-J Software<SEP>Statistical Analysis"
+  },
+  "Aspirin-Associated Small-Bowel Mucosal Disease<SEP>Small-Bowel Mucosal Injuries": {
+    "chunk_ids": [
+      "chunk-4468f7becaa6c09100c310ebf02e0564"
+    ],
+    "count": 1,
+    "create_time": 1777269673,
+    "update_time": 1777269673,
+    "_id": "Aspirin-Associated Small-Bowel Mucosal Disease<SEP>Small-Bowel Mucosal Injuries"
+  },
+  "CE Score<SEP>Small-Bowel Capsule Transit Time": {
+    "chunk_ids": [
+      "chunk-4468f7becaa6c09100c310ebf02e0564"
+    ],
+    "count": 1,
+    "create_time": 1777269673,
+    "update_time": 1777269673,
+    "_id": "CE Score<SEP>Small-Bowel Capsule Transit Time"
+  },
+  "Erosions/Ulcers<SEP>Small Bowel": {
+    "chunk_ids": [
+      "chunk-10bba061b459c7d02fb1fb58fbe974f7"
+    ],
+    "count": 1,
+    "create_time": 1777269673,
+    "update_time": 1777269673,
+    "_id": "Erosions/Ulcers<SEP>Small Bowel"
+  },
+  "LDA (Low-Dose Aspirin)<SEP>OGIB (Obscure Gastrointestinal Bleeding)": {
+    "chunk_ids": [
+      "chunk-10bba061b459c7d02fb1fb58fbe974f7"
+    ],
+    "count": 1,
+    "create_time": 1777269673,
+    "update_time": 1777269673,
+    "_id": "LDA (Low-Dose Aspirin)<SEP>OGIB (Obscure Gastrointestinal Bleeding)"
+  },
+  "Median Age<SEP>Polaprezinc": {
+    "chunk_ids": [
+      "chunk-4468f7becaa6c09100c310ebf02e0564"
+    ],
+    "count": 1,
+    "create_time": 1777269673,
+    "update_time": 1777269673,
+    "_id": "Median Age<SEP>Polaprezinc"
+  },
+  "Control Group<SEP>Erosions/Ulcers": {
+    "chunk_ids": [
+      "chunk-10bba061b459c7d02fb1fb58fbe974f7"
+    ],
+    "count": 1,
+    "create_time": 1777269673,
+    "update_time": 1777269673,
+    "_id": "Control Group<SEP>Erosions/Ulcers"
+  },
+  "Capsule Endoscopy<SEP>Patients": {
+    "chunk_ids": [
+      "chunk-9ec842b5a925e75e47cc53d286cd94f6"
+    ],
+    "count": 1,
+    "create_time": 1777269673,
+    "update_time": 1777269673,
+    "_id": "Capsule Endoscopy<SEP>Patients"
+  },
+  "Ikue Watari<SEP>Polaprezinc": {
+    "chunk_ids": [
+      "chunk-9ec842b5a925e75e47cc53d286cd94f6"
+    ],
+    "count": 1,
+    "create_time": 1777269673,
+    "update_time": 1777269673,
+    "_id": "Ikue Watari<SEP>Polaprezinc"
+  },
+  "Polaprezinc<SEP>Shiro Oka": {
+    "chunk_ids": [
+      "chunk-9ec842b5a925e75e47cc53d286cd94f6"
+    ],
+    "count": 1,
+    "create_time": 1777269674,
+    "update_time": 1777269674,
+    "_id": "Polaprezinc<SEP>Shiro Oka"
+  },
+  "20 Patients<SEP>Polaprezinc Treatment Group": {
+    "chunk_ids": [
+      "chunk-9ec842b5a925e75e47cc53d286cd94f6"
+    ],
+    "count": 1,
+    "create_time": 1777269674,
+    "update_time": 1777269674,
+    "_id": "20 Patients<SEP>Polaprezinc Treatment Group"
+  },
+  "Hiroshima University Hospital<SEP>Patients": {
+    "chunk_ids": [
+      "chunk-9ec842b5a925e75e47cc53d286cd94f6"
+    ],
+    "count": 1,
+    "create_time": 1777269674,
+    "update_time": 1777269674,
+    "_id": "Hiroshima University Hospital<SEP>Patients"
+  },
+  "LDA<SEP>Polaprezinc": {
+    "chunk_ids": [
+      "chunk-9ec842b5a925e75e47cc53d286cd94f6"
+    ],
+    "count": 1,
+    "create_time": 1777269674,
+    "update_time": 1777269674,
+    "_id": "LDA<SEP>Polaprezinc"
+  },
+  "Google Scholar<SEP>Scopus": {
+    "chunk_ids": [
+      "chunk-a0942df88a5364c8f968f46e82c0f4c2"
+    ],
+    "count": 1,
+    "create_time": 1777269674,
+    "update_time": 1777269674,
+    "_id": "Google Scholar<SEP>Scopus"
+  },
+  "Biomed Central<SEP>Scopus": {
+    "chunk_ids": [
+      "chunk-a0942df88a5364c8f968f46e82c0f4c2"
+    ],
+    "count": 1,
+    "create_time": 1777269674,
+    "update_time": 1777269674,
+    "_id": "Biomed Central<SEP>Scopus"
+  },
+  "Control Group<SEP>Polaprezinc": {
+    "chunk_ids": [
+      "chunk-4468f7becaa6c09100c310ebf02e0564"
+    ],
+    "count": 1,
+    "create_time": 1777269674,
+    "update_time": 1777269674,
+    "_id": "Control Group<SEP>Polaprezinc"
+  },
+  "Research<SEP>Scopus": {
+    "chunk_ids": [
+      "chunk-a0942df88a5364c8f968f46e82c0f4c2"
+    ],
+    "count": 1,
+    "create_time": 1777269674,
+    "update_time": 1777269674,
+    "_id": "Research<SEP>Scopus"
+  },
+  "Control Group<SEP>Median Hemoglobin Concentration": {
+    "chunk_ids": [
+      "chunk-4468f7becaa6c09100c310ebf02e0564"
+    ],
+    "count": 1,
+    "create_time": 1777269674,
+    "update_time": 1777269674,
+    "_id": "Control Group<SEP>Median Hemoglobin Concentration"
+  },
+  "Indomethacin<SEP>Polaprezinc": {
+    "chunk_ids": [
+      "chunk-2c481aa7bf0886bc4ebefe0453cfbcc8"
+    ],
+    "count": 1,
+    "create_time": 1777269674,
+    "update_time": 1777269674,
+    "_id": "Indomethacin<SEP>Polaprezinc"
+  },
+  "Google Scholar<SEP>Research": {
+    "chunk_ids": [
+      "chunk-a0942df88a5364c8f968f46e82c0f4c2"
+    ],
+    "count": 1,
+    "create_time": 1777269675,
+    "update_time": 1777269675,
+    "_id": "Google Scholar<SEP>Research"
+  },
+  "Helicobacter Pylori<SEP>Polaprezinc": {
+    "chunk_ids": [
+      "chunk-2c481aa7bf0886bc4ebefe0453cfbcc8"
+    ],
+    "count": 1,
+    "create_time": 1777269675,
+    "update_time": 1777269675,
+    "_id": "Helicobacter Pylori<SEP>Polaprezinc"
+  },
+  "20 Patients<SEP>Control Group": {
+    "chunk_ids": [
+      "chunk-9ec842b5a925e75e47cc53d286cd94f6"
+    ],
+    "count": 1,
+    "create_time": 1777269675,
+    "update_time": 1777269675,
+    "_id": "20 Patients<SEP>Control Group"
+  },
+  "Small Bowel Injury<SEP>Zinc Carnosine": {
+    "chunk_ids": [
+      "chunk-2c481aa7bf0886bc4ebefe0453cfbcc8"
+    ],
+    "count": 1,
+    "create_time": 1777269675,
+    "update_time": 1777269675,
+    "_id": "Small Bowel Injury<SEP>Zinc Carnosine"
+  },
+  "Biomed Central<SEP>Google Scholar": {
+    "chunk_ids": [
+      "chunk-a0942df88a5364c8f968f46e82c0f4c2"
+    ],
+    "count": 1,
+    "create_time": 1777269675,
+    "update_time": 1777269675,
+    "_id": "Biomed Central<SEP>Google Scholar"
+  },
+  "NSAIDs<SEP>Small Bowel Injury": {
+    "chunk_ids": [
+      "chunk-2c481aa7bf0886bc4ebefe0453cfbcc8"
+    ],
+    "count": 1,
+    "create_time": 1777269675,
+    "update_time": 1777269675,
+    "_id": "NSAIDs<SEP>Small Bowel Injury"
+  },
+  "Jpn J Pharmacol<SEP>Polaprezinc": {
+    "chunk_ids": [
+      "chunk-2c481aa7bf0886bc4ebefe0453cfbcc8"
+    ],
+    "count": 1,
+    "create_time": 1777269675,
+    "update_time": 1777269675,
+    "_id": "Jpn J Pharmacol<SEP>Polaprezinc"
+  },
+  "Gut<SEP>Zinc Carnosine": {
+    "chunk_ids": [
+      "chunk-2c481aa7bf0886bc4ebefe0453cfbcc8"
+    ],
+    "count": 1,
+    "create_time": 1777269675,
+    "update_time": 1777269675,
+    "_id": "Gut<SEP>Zinc Carnosine"
+  },
+  "Biomed Central<SEP>Research": {
+    "chunk_ids": [
+      "chunk-a0942df88a5364c8f968f46e82c0f4c2"
+    ],
+    "count": 1,
+    "create_time": 1777269675,
+    "update_time": 1777269675,
+    "_id": "Biomed Central<SEP>Research"
+  },
+  "Capsule Endoscopy<SEP>Small Bowel Injury": {
+    "chunk_ids": [
+      "chunk-2c481aa7bf0886bc4ebefe0453cfbcc8"
+    ],
+    "count": 1,
+    "create_time": 1777269675,
+    "update_time": 1777269675,
+    "_id": "Capsule Endoscopy<SEP>Small Bowel Injury"
+  },
+  "N<SEP>Nakajima A": {
+    "chunk_ids": [
+      "chunk-bbaac29bc245af065a251db536f7b9a2"
+    ],
+    "count": 1,
+    "create_time": 1777269675,
+    "update_time": 1777269675,
+    "_id": "N<SEP>Nakajima A"
+  },
+  "20 Patients<SEP>Polaprezinc": {
+    "chunk_ids": [
+      "chunk-9ec842b5a925e75e47cc53d286cd94f6"
+    ],
+    "count": 1,
+    "create_time": 1777269676,
+    "update_time": 1777269676,
+    "_id": "20 Patients<SEP>Polaprezinc"
+  },
+  "Higuchi K<SEP>Watanabe T": {
+    "chunk_ids": [
+      "chunk-bbaac29bc245af065a251db536f7b9a2"
+    ],
+    "count": 1,
+    "create_time": 1777269676,
+    "update_time": 1777269676,
+    "_id": "Higuchi K<SEP>Watanabe T"
+  },
+  "Bjarnason I<SEP>Smecuol E": {
+    "chunk_ids": [
+      "chunk-bbaac29bc245af065a251db536f7b9a2"
+    ],
+    "count": 1,
+    "create_time": 1777269676,
+    "update_time": 1777269676,
+    "_id": "Bjarnason I<SEP>Smecuol E"
+  },
+  "Endo H<SEP>Lactobacillus casei": {
+    "chunk_ids": [
+      "chunk-bbaac29bc245af065a251db536f7b9a2"
+    ],
+    "count": 1,
+    "create_time": 1777269676,
+    "update_time": 1777269676,
+    "_id": "Endo H<SEP>Lactobacillus casei"
+  },
+  "Aliment Pharmacol Ther<SEP>Small Bowel Injury": {
+    "chunk_ids": [
+      "chunk-2c481aa7bf0886bc4ebefe0453cfbcc8"
+    ],
+    "count": 1,
+    "create_time": 1777269676,
+    "update_time": 1777269676,
+    "_id": "Aliment Pharmacol Ther<SEP>Small Bowel Injury"
+  },
+  "Capsule Endoscopy<SEP>Dig Endosc": {
+    "chunk_ids": [
+      "chunk-2c481aa7bf0886bc4ebefe0453cfbcc8"
+    ],
+    "count": 1,
+    "create_time": 1777269676,
+    "update_time": 1777269676,
+    "_id": "Capsule Endoscopy<SEP>Dig Endosc"
+  },
+  "BMC Gastroenterology<SEP>N": {
+    "chunk_ids": [
+      "chunk-bbaac29bc245af065a251db536f7b9a2"
+    ],
+    "count": 1,
+    "create_time": 1777269676,
+    "update_time": 1777269676,
+    "_id": "BMC Gastroenterology<SEP>N"
+  },
+  "Higuchi K<SEP>Morita E": {
+    "chunk_ids": [
+      "chunk-bbaac29bc245af065a251db536f7b9a2"
+    ],
+    "count": 1,
+    "create_time": 1777269676,
+    "update_time": 1777269676,
+    "_id": "Higuchi K<SEP>Morita E"
+  },
+  "LDA 요법<SEP>미소프로스톨": {
+    "chunk_ids": [
+      "chunk-762c5054bc39ba8c266a45c5ccca4620"
+    ],
+    "count": 1,
+    "create_time": 1777269676,
+    "update_time": 1777269676,
+    "_id": "LDA 요법<SEP>미소프로스톨"
+  },
+  "CE(캡슐내시경)<SEP>Lactobacillus casei": {
+    "chunk_ids": [
+      "chunk-762c5054bc39ba8c266a45c5ccca4620"
+    ],
+    "count": 1,
+    "create_time": 1777269676,
+    "update_time": 1777269676,
+    "_id": "CE(캡슐내시경)<SEP>Lactobacillus casei"
+  },
+  "Endo H<SEP>Nozaki Y": {
+    "chunk_ids": [
+      "chunk-bbaac29bc245af065a251db536f7b9a2"
+    ],
+    "count": 1,
+    "create_time": 1777269676,
+    "update_time": 1777269676,
+    "_id": "Endo H<SEP>Nozaki Y"
+  },
+  "IW<SEP>SO": {
+    "chunk_ids": [
+      "chunk-762c5054bc39ba8c266a45c5ccca4620"
+    ],
+    "count": 1,
+    "create_time": 1777269676,
+    "update_time": 1777269676,
+    "_id": "IW<SEP>SO"
+  },
+  "LDA 요법<SEP>폴라프레진크": {
+    "chunk_ids": [
+      "chunk-762c5054bc39ba8c266a45c5ccca4620"
+    ],
+    "count": 1,
+    "create_time": 1777269676,
+    "update_time": 1777269676,
+    "_id": "LDA 요법<SEP>폴라프레진크"
+  },
+  "IW<SEP>ST": {
+    "chunk_ids": [
+      "chunk-762c5054bc39ba8c266a45c5ccca4620"
+    ],
+    "count": 1,
+    "create_time": 1777269677,
+    "update_time": 1777269677,
+    "_id": "IW<SEP>ST"
+  },
+  "CE(캡슐내시경)<SEP>LDA 요법": {
+    "chunk_ids": [
+      "chunk-762c5054bc39ba8c266a45c5ccca4620"
+    ],
+    "count": 1,
+    "create_time": 1777269677,
+    "update_time": 1777269677,
+    "_id": "CE(캡슐내시경)<SEP>LDA 요법"
+  },
+  "Hiroshima University Hospital<SEP>Randomized Study": {
+    "chunk_ids": [
+      "chunk-3313926b24cc52993bde6b22aa064127"
+    ],
+    "count": 1,
+    "create_time": 1777269677,
+    "update_time": 1777269677,
+    "_id": "Hiroshima University Hospital<SEP>Randomized Study"
+  },
+  "IW<SEP>KC": {
+    "chunk_ids": [
+      "chunk-762c5054bc39ba8c266a45c5ccca4620"
+    ],
+    "count": 1,
+    "create_time": 1777269677,
+    "update_time": 1777269677,
+    "_id": "IW<SEP>KC"
+  },
+  "LDA<SEP>Small-Bowel Injury": {
+    "chunk_ids": [
+      "chunk-3313926b24cc52993bde6b22aa064127"
+    ],
+    "count": 1,
+    "create_time": 1777269677,
+    "update_time": 1777269677,
+    "_id": "LDA<SEP>Small-Bowel Injury"
+  },
+  "IW<SEP>SY": {
+    "chunk_ids": [
+      "chunk-762c5054bc39ba8c266a45c5ccca4620"
+    ],
+    "count": 1,
+    "create_time": 1777269677,
+    "update_time": 1777269677,
+    "_id": "IW<SEP>SY"
+  },
+  "Polaprezinc<SEP>Randomized Study": {
+    "chunk_ids": [
+      "chunk-3313926b24cc52993bde6b22aa064127"
+    ],
+    "count": 1,
+    "create_time": 1777269677,
+    "update_time": 1777269677,
+    "_id": "Polaprezinc<SEP>Randomized Study"
+  },
+  "CE Capsule (PillCam SB2)<SEP>Small-Bowel Injury": {
+    "chunk_ids": [
+      "chunk-3313926b24cc52993bde6b22aa064127"
+    ],
+    "count": 1,
+    "create_time": 1777269677,
+    "update_time": 1777269677,
+    "_id": "CE Capsule (PillCam SB2)<SEP>Small-Bowel Injury"
+  },
+  "CE Examination<SEP>Gastroenterologists": {
+    "chunk_ids": [
+      "chunk-3313926b24cc52993bde6b22aa064127"
+    ],
+    "count": 1,
+    "create_time": 1777269677,
+    "update_time": 1777269677,
+    "_id": "CE Examination<SEP>Gastroenterologists"
+  },
+  "IW<SEP>TA": {
+    "chunk_ids": [
+      "chunk-762c5054bc39ba8c266a45c5ccca4620"
+    ],
+    "count": 1,
+    "create_time": 1777269677,
+    "update_time": 1777269677,
+    "_id": "IW<SEP>TA"
+  },
+  "Low-dose Aspirin for the Prevention of Atherothrombosis<SEP>Patrono C": {
+    "chunk_ids": [
+      "chunk-770cd38e873b07bf07037aa781a23654"
+    ],
+    "count": 1,
+    "create_time": 1777269677,
+    "update_time": 1777269677,
+    "_id": "Low-dose Aspirin for the Prevention of Atherothrombosis<SEP>Patrono C"
+  },
+  "Randomized Study<SEP>UMIN Clinical Trials Registry": {
+    "chunk_ids": [
+      "chunk-3313926b24cc52993bde6b22aa064127"
+    ],
+    "count": 1,
+    "create_time": 1777269677,
+    "update_time": 1777269677,
+    "_id": "Randomized Study<SEP>UMIN Clinical Trials Registry"
+  },
+  "Prophylactic Aspirin and Risk of Peptic Ulcer Bleeding<SEP>Weil J": {
+    "chunk_ids": [
+      "chunk-770cd38e873b07bf07037aa781a23654"
+    ],
+    "count": 1,
+    "create_time": 1777269677,
+    "update_time": 1777269677,
+    "_id": "Prophylactic Aspirin and Risk of Peptic Ulcer Bleeding<SEP>Weil J"
+  },
+  "CE Examination<SEP>LDA": {
+    "chunk_ids": [
+      "chunk-3313926b24cc52993bde6b22aa064127"
+    ],
+    "count": 1,
+    "create_time": 1777269678,
+    "update_time": 1777269678,
+    "_id": "CE Examination<SEP>LDA"
+  },
+  "Huang JQ<SEP>Role of Helicobacter Pylori Infection and Non-steroidal Anti-inflammatory Drugs in Peptic-ulcer Disease": {
+    "chunk_ids": [
+      "chunk-770cd38e873b07bf07037aa781a23654"
+    ],
+    "count": 1,
+    "create_time": 1777269678,
+    "update_time": 1777269678,
+    "_id": "Huang JQ<SEP>Role of Helicobacter Pylori Infection and Non-steroidal Anti-inflammatory Drugs in Peptic-ulcer Disease"
+  },
+  "HI<SEP>IW": {
+    "chunk_ids": [
+      "chunk-762c5054bc39ba8c266a45c5ccca4620"
+    ],
+    "count": 1,
+    "create_time": 1777269678,
+    "update_time": 1777269678,
+    "_id": "HI<SEP>IW"
+  },
+  "Case-control Study on the Association of Upper Gastrointestinal Bleeding and Nonsteroidal Anti-inflammatory Drugs in Japan<SEP>Sakamoto C": {
+    "chunk_ids": [
+      "chunk-770cd38e873b07bf07037aa781a23654"
+    ],
+    "count": 1,
+    "create_time": 1777269678,
+    "update_time": 1777269678,
+    "_id": "Case-control Study on the Association of Upper Gastrointestinal Bleeding and Nonsteroidal Anti-inflammatory Drugs in Japan<SEP>Sakamoto C"
+  },
+  "Supplemental Zinc Reduced Intestinal Permeability<SEP>Zhang B": {
+    "chunk_ids": [
+      "chunk-770cd38e873b07bf07037aa781a23654"
+    ],
+    "count": 1,
+    "create_time": 1777269678,
+    "update_time": 1777269678,
+    "_id": "Supplemental Zinc Reduced Intestinal Permeability<SEP>Zhang B"
+  },
+  "BMJ<SEP>Weil J": {
+    "chunk_ids": [
+      "chunk-770cd38e873b07bf07037aa781a23654"
+    ],
+    "count": 1,
+    "create_time": 1777269678,
+    "update_time": 1777269678,
+    "_id": "BMJ<SEP>Weil J"
+  },
+  "IW<SEP>TS": {
+    "chunk_ids": [
+      "chunk-762c5054bc39ba8c266a45c5ccca4620"
+    ],
+    "count": 1,
+    "create_time": 1777269678,
+    "update_time": 1777269678,
+    "_id": "IW<SEP>TS"
+  },
+  "Huang JQ<SEP>Lancet": {
+    "chunk_ids": [
+      "chunk-770cd38e873b07bf07037aa781a23654"
+    ],
+    "count": 1,
+    "create_time": 1777269678,
+    "update_time": 1777269678,
+    "_id": "Huang JQ<SEP>Lancet"
+  },
+  "Br J Nutr<SEP>Zhang B": {
+    "chunk_ids": [
+      "chunk-770cd38e873b07bf07037aa781a23654"
+    ],
+    "count": 1,
+    "create_time": 1777269678,
+    "update_time": 1777269678,
+    "_id": "Br J Nutr<SEP>Zhang B"
+  },
+  "Eur J Clin Pharmacol<SEP>Sakamoto C": {
+    "chunk_ids": [
+      "chunk-770cd38e873b07bf07037aa781a23654"
+    ],
+    "count": 1,
+    "create_time": 1777269678,
+    "update_time": 1777269678,
+    "_id": "Eur J Clin Pharmacol<SEP>Sakamoto C"
+  },
+  "N Engl J Med<SEP>Patrono C": {
+    "chunk_ids": [
+      "chunk-770cd38e873b07bf07037aa781a23654"
+    ],
+    "count": 1,
+    "create_time": 1777269679,
+    "update_time": 1777269679,
+    "_id": "N Engl J Med<SEP>Patrono C"
+  }
+}

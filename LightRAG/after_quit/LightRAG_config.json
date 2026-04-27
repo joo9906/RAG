@@ -1,0 +1,13 @@
+{
+    "question_model" : "gpt-4o-mini",
+    "embedding_model" : "text-embedding-3-large",
+    "chunk_size" : 1000,
+    "chunk_overlap" : 150,
+    "embedding_dim" : 2048,
+    "cache_similarity_threshold" : 0.92,
+    "qdrant_url" : "http://localhost:6333",
+    "qdrant_collection" : "lightrag_before_chunk_test",
+    "md_dir" : "",
+    "working_dir" : "lightrag_before_chunk_test",
+    "env_json_path" : "../.env.json"
+}

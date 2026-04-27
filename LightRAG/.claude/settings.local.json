@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(pip show:*)",
+      "Bash(py -3.11 -c \"import pyvis; print\\('pyvis ok'\\)\")",
+      "Bash(py -3.11 -m pip show pyvis)"
+    ]
+  }
+}

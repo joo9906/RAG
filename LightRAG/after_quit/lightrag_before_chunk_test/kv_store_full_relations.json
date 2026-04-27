@@ -1,0 +1,2090 @@
+{
+  "doc-9664ef15300aae5756ca5868ef8fa4eb": {
+    "relation_pairs": [
+      [
+        "M17 무릎관절증",
+        "M17.1 기타 원발성 무릎관절증"
+      ],
+      [
+        "M17 무릎관절증",
+        "M17.9 상세불명의 무릎관절증"
+      ],
+      [
+        "M15–19 관절증",
+        "M47 척추증"
+      ],
+      [
+        "대상포진 후 신경통",
+        "신경병증성 통증"
+      ],
+      [
+        "M15–19 관절증",
+        "M18 제1수근중수관절의 관절증"
+      ],
+      [
+        "M15–19 관절증",
+        "리리카"
+      ],
+      [
+        "M05–06 류마티스관절염",
+        "쎄레브렉스"
+      ],
+      [
+        "리리카",
+        "리리카 캡슐"
+      ],
+      [
+        "복합부위 통증 증후군",
+        "신경병증성 통증"
+      ],
+      [
+        "M16 고관절증",
+        "M16.1 기타 원발성 고관절증"
+      ],
+      [
+        "리리카® 상병코드",
+        "성인 암성 신경병증성 통증"
+      ],
+      [
+        "S14.1",
+        "척수 손상에 따른 신경병증성 통증"
+      ],
+      [
+        "리리카",
+        "리리카 CR 서방정"
+      ],
+      [
+        "M17 무릎관절증",
+        "M17.5 기타 이차성 무릎관절증"
+      ],
+      [
+        "KOICD 한국질병분류 정보센터",
+        "경기도 성남시 분당구 판교로 310"
+      ],
+      [
+        "G63.1",
+        "성인 암성 신경병증성 통증"
+      ],
+      [
+        "리리카® 상병코드",
+        "척추 수술 후 통증 증후군"
+      ],
+      [
+        "M96.1",
+        "수술 후 통증 증후군"
+      ],
+      [
+        "M15–19 관절증",
+        "M16 고관절증"
+      ],
+      [
+        "M15 다발관절증",
+        "M15–19 관절증"
+      ],
+      [
+        "수술 후 통증 증후군",
+        "암성 신경병증성 통증"
+      ],
+      [
+        "G90.5",
+        "복합부위 통증 증후군"
+      ],
+      [
+        "G53.0",
+        "대상포진 후 신경통"
+      ],
+      [
+        "쎄레브렉스",
+        "쎄레브렉스 캡슐 400mg"
+      ],
+      [
+        "M15–19 관절증",
+        "M19 기타 관절증"
+      ],
+      [
+        "M16 고관절증",
+        "M16.0 양쪽 원발성 고관절증"
+      ],
+      [
+        "M15–19 관절증",
+        "골관절염"
+      ],
+      [
+        "당뇨병성 말초신경병증성 통증",
+        "리리카® 상병코드"
+      ],
+      [
+        "M18 제1수근중수관절의 관절증",
+        "M18.0 제1수근중수관절의 양쪽 원발성 관절증"
+      ],
+      [
+        "쎄레브렉스",
+        "쎄레브렉스 캡슐 100, 200mg"
+      ],
+      [
+        "M15–19 관절증",
+        "M17 무릎관절증"
+      ],
+      [
+        "M15–19 관절증",
+        "M45 강직척추염"
+      ],
+      [
+        "G63.1 신생물질환에서의 다발신경병증",
+        "성인 암성 신경병증성 통증"
+      ],
+      [
+        "리리카",
+        "신경병증성 통증"
+      ],
+      [
+        "M96.1 척추후궁절제 후 증후군",
+        "척추 수술 후 통증 증후군"
+      ],
+      [
+        "리리카",
+        "쎄레브렉스"
+      ],
+      [
+        "급성 통증",
+        "쎄레브렉스"
+      ],
+      [
+        "M17 무릎관절증",
+        "M17.0 양쪽 원발성 무릎관절증"
+      ],
+      [
+        "G59.0 당뇨병성 단일신경병증",
+        "당뇨병성 말초신경병증성 통증"
+      ],
+      [
+        "M15 다발관절증",
+        "M15.0 원발성 전신(골)관절증"
+      ],
+      [
+        "급성 통증",
+        "척수 손상에 따른 신경병증성 통증"
+      ],
+      [
+        "G63.2 당뇨병성 다발신경병증",
+        "당뇨병성 말초신경병증성 통증"
+      ],
+      [
+        "대상포진 후 신경통",
+        "리리카® 상병코드"
+      ],
+      [
+        "G90.6",
+        "복합부위 통증 증후군"
+      ],
+      [
+        "M15 다발관절증",
+        "M15.9 상세불명의 다발관절증"
+      ]
+    ],
+    "count": 45,
+    "create_time": 1777269231,
+    "update_time": 1777269231,
+    "_id": "doc-9664ef15300aae5756ca5868ef8fa4eb"
+  },
+  "doc-de906789778cbf6d20873efa3f942927": {
+    "relation_pairs": [
+      [
+        "SK케미칼",
+        "수벡스정"
+      ],
+      [
+        "수벡스정",
+        "환자 만족도"
+      ],
+      [
+        "Haberer LJ",
+        "수마트립탄"
+      ],
+      [
+        "수벡스정",
+        "위약"
+      ],
+      [
+        "수마트립탄",
+        "이상반응"
+      ],
+      [
+        "심한 심기능부전 환자",
+        "중증 고혈압 환자"
+      ],
+      [
+        "수마트리프탄",
+        "수벡스정"
+      ],
+      [
+        "말초혈관 질환 환자",
+        "허혈성 장 질환 환자"
+      ],
+      [
+        "Celecoxib",
+        "NSAID"
+      ],
+      [
+        "Haberer LJ",
+        "Headache"
+      ],
+      [
+        "금기",
+        "수벡스정"
+      ],
+      [
+        "나프록센나트륨",
+        "이상반응"
+      ],
+      [
+        "AUC0-∞",
+        "Naproxen AUC0-∞"
+      ],
+      [
+        "수마트립탄",
+        "편두통"
+      ],
+      [
+        "나프록센",
+        "수벡스정"
+      ],
+      [
+        "NSAID",
+        "Triptan"
+      ],
+      [
+        "Headache Pain Relief Study",
+        "수벡스정"
+      ],
+      [
+        "수마트립탄 숙신산염",
+        "수벡스정"
+      ],
+      [
+        "SUVEXX",
+        "수벡스정"
+      ],
+      [
+        "Naproxen PK parameter",
+        "Study2"
+      ],
+      [
+        "Naproxen",
+        "SUVEXX"
+      ],
+      [
+        "수벡스정",
+        "효과"
+      ],
+      [
+        "Sumatriptan",
+        "Triptan"
+      ],
+      [
+        "나프록센나트륨",
+        "편두통"
+      ],
+      [
+        "뇌혈관성 우발증상",
+        "편마비"
+      ],
+      [
+        "임부",
+        "임신 가능성 있는 여성"
+      ],
+      [
+        "수마트립탄",
+        "에르고타민"
+      ],
+      [
+        "Naproxen Sodium",
+        "Triptan"
+      ],
+      [
+        "수마트립탄",
+        "위약"
+      ],
+      [
+        "나프록센나트륨",
+        "수마트립탄"
+      ],
+      [
+        "Naproxen PK parameter",
+        "Study1"
+      ],
+      [
+        "대한두통학회",
+        "편두통"
+      ],
+      [
+        "Naproxen",
+        "수벡스정"
+      ],
+      [
+        "Sumatriptan",
+        "수벡스정"
+      ],
+      [
+        "수마트립탄",
+        "수벡스정"
+      ],
+      [
+        "수벡스정",
+        "식품의약품안전처"
+      ],
+      [
+        "SUVEXX",
+        "Sumatriptan"
+      ],
+      [
+        "Pain Relief",
+        "수벡스정"
+      ],
+      [
+        "Ibuprofen",
+        "효과"
+      ],
+      [
+        "소아",
+        "임부"
+      ],
+      [
+        "나프록센나트륨",
+        "수벡스정"
+      ],
+      [
+        "고칼륨혈증 환자",
+        "중등증-중증 간장애 환자"
+      ],
+      [
+        "Ibuprofen",
+        "NSAID"
+      ],
+      [
+        "AUC",
+        "나프록센"
+      ],
+      [
+        "SMT/NPX",
+        "환자 만족도"
+      ],
+      [
+        "SMT/NPX 복합제",
+        "Sumatriptan/Naproxen Sodium"
+      ],
+      [
+        "의약정보팀",
+        "이승현"
+      ],
+      [
+        "AUC",
+        "수마트리프탄"
+      ],
+      [
+        "NSAID",
+        "Naproxen"
+      ],
+      [
+        "Naproxen AUC0-∞",
+        "Naproxen PK parameter"
+      ],
+      [
+        "세로토닌(5-HT1)",
+        "수벡스정"
+      ],
+      [
+        "CGRP",
+        "Vascular Smooth Muscle Cell"
+      ],
+      [
+        "CGRP",
+        "Endothelial Cell"
+      ],
+      [
+        "수벡스정",
+        "편두통"
+      ],
+      [
+        "Naproxen",
+        "효과"
+      ],
+      [
+        "PGE2",
+        "나프록센 나트륨"
+      ],
+      [
+        "SMT/NPX",
+        "수벡스정"
+      ],
+      [
+        "Naproxen",
+        "Sumatriptan"
+      ],
+      [
+        "나프록센 나트륨",
+        "수벡스정"
+      ],
+      [
+        "Naproxen",
+        "Naproxen Sodium"
+      ]
+    ],
+    "count": 60,
+    "create_time": 1777269302,
+    "update_time": 1777269302,
+    "_id": "doc-de906789778cbf6d20873efa3f942927"
+  },
+  "doc-c11339c63cb5d374342778d5509e217a": {
+    "relation_pairs": [
+      [
+        "Death",
+        "Serious TEAE"
+      ],
+      [
+        "위약",
+        "임상 중단률"
+      ],
+      [
+        "Opicapone",
+        "TEAE"
+      ],
+      [
+        "Ferreira JJ",
+        "임상시험"
+      ],
+      [
+        "MDS-UPDRS",
+        "임상시험"
+      ],
+      [
+        "24주",
+        "MDS-UPDRS Part III"
+      ],
+      [
+        "오피카폰",
+        "파킨슨병"
+      ],
+      [
+        "Opicapone",
+        "PGI-I"
+      ],
+      [
+        "Opicapone",
+        "참여자"
+      ],
+      [
+        "Placebo",
+        "TEAE"
+      ],
+      [
+        "위약",
+        "임상시험"
+      ],
+      [
+        "Opicapone",
+        "Placebo"
+      ],
+      [
+        "TEAE",
+        "Treatment-related"
+      ],
+      [
+        "Opicapone",
+        "PDSS 점수"
+      ],
+      [
+        "Placebo",
+        "참여자"
+      ],
+      [
+        "Opicapone",
+        "PDQ-39"
+      ],
+      [
+        "Baseline Score",
+        "MDS-UPDRS"
+      ],
+      [
+        "Opicapone",
+        "운영자"
+      ],
+      [
+        "Opicapone",
+        "Patients with Worsening OFF State"
+      ],
+      [
+        "Opicapone",
+        "유의미한 차이"
+      ],
+      [
+        "NMSS",
+        "Opicapone"
+      ],
+      [
+        "이중눈가림",
+        "임상시험"
+      ],
+      [
+        "1차 유효성 평가",
+        "MDS-UPDRS part III"
+      ],
+      [
+        "운동동요",
+        "임상 중단률"
+      ],
+      [
+        "TEAE",
+        "경증 및 중등증"
+      ],
+      [
+        "MDS-UPDRS Part I",
+        "Placebo"
+      ],
+      [
+        "MDS-UPDRS Part I",
+        "Opicapone"
+      ],
+      [
+        "MDS-UPDRS Part III",
+        "Placebo"
+      ],
+      [
+        "MDS-UPDRS Part II",
+        "Placebo"
+      ],
+      [
+        "MDS-UPDRS Part III",
+        "Opicapone"
+      ],
+      [
+        "TEAE",
+        "위약"
+      ],
+      [
+        "MDS-UPDRS Part II",
+        "Opicapone"
+      ],
+      [
+        "MDS-UPDRS",
+        "Opicapone"
+      ],
+      [
+        "안전성",
+        "오피카폰"
+      ],
+      [
+        "MDS-UPDRS Part IV",
+        "Placebo"
+      ],
+      [
+        "이상적 개선 비율",
+        "참여자"
+      ],
+      [
+        "MDS-UPDRS Part IV",
+        "Opicapone"
+      ],
+      [
+        "Opicapone",
+        "Patients with Worsening Dyskinesia"
+      ],
+      [
+        "CGI-I",
+        "Opicapone"
+      ]
+    ],
+    "count": 39,
+    "create_time": 1777269338,
+    "update_time": 1777269338,
+    "_id": "doc-c11339c63cb5d374342778d5509e217a"
+  },
+  "doc-3edc9488396ec7e9fea71a685a911e35": {
+    "relation_pairs": [
+      [
+        "기넥신",
+        "중추성 어지럼증"
+      ],
+      [
+        "Ginkgo biloba ext.",
+        "MCI 환자"
+      ],
+      [
+        "Galantamine",
+        "레미닐(SK)"
+      ],
+      [
+        "안과",
+        "타겐에프"
+      ],
+      [
+        "Memantine",
+        "한국룬드벡"
+      ],
+      [
+        "EGb761",
+        "NPI Composite Score"
+      ],
+      [
+        "Kasper S",
+        "MCI"
+      ],
+      [
+        "우울 증상",
+        "주관적 인지 저하(SCD)"
+      ],
+      [
+        "GINEXIN",
+        "Product Selling Skill"
+      ],
+      [
+        "MCI",
+        "치매 환자"
+      ],
+      [
+        "경도인지장애",
+        "대한민국 치매현황 보고서"
+      ],
+      [
+        "Ihl R",
+        "치매"
+      ],
+      [
+        "Oxiracetam",
+        "아세틸콜린 전달 촉진제"
+      ],
+      [
+        "CNS Consensus(2021)",
+        "EGb761"
+      ],
+      [
+        "기넥신",
+        "산화질소"
+      ],
+      [
+        "MCI 진단기준",
+        "Mayo ADRC"
+      ],
+      [
+        "MCI 환자",
+        "아세틸-L-카르니틴"
+      ],
+      [
+        "기넥신",
+        "콜린알포세레이트"
+      ],
+      [
+        "아세틸콜린 분해효소 억제제",
+        "치매"
+      ],
+      [
+        "옥시라세탐",
+        "치매 전 단계"
+      ],
+      [
+        "Vaxxinium myrtillus extract",
+        "타겐에프"
+      ],
+      [
+        "치매 전 단계",
+        "카니틸"
+      ],
+      [
+        "빌베리건조엑스",
+        "은행잎추출물"
+      ],
+      [
+        "주관적 인지 저하(SCD)",
+        "중앙치매센터"
+      ],
+      [
+        "RCT",
+        "기넥신"
+      ],
+      [
+        "800mg 585원",
+        "기넥신"
+      ],
+      [
+        "기넥신",
+        "저용량 처방"
+      ],
+      [
+        "EGb761",
+        "J Psychiatr Res"
+      ],
+      [
+        "Choline alfoscerate",
+        "아세틸콜린 전달 촉진제"
+      ],
+      [
+        "망막질환",
+        "타겐에프"
+      ],
+      [
+        "아세틸-L-카르니틴",
+        "정책 이슈"
+      ],
+      [
+        "식품의약품안전처",
+        "최신 허가사항"
+      ],
+      [
+        "Cognitive Decline in Aging",
+        "McAllister"
+      ],
+      [
+        "경도인지장애",
+        "치매"
+      ],
+      [
+        "뇌기능개선제",
+        "아세틸콜린 전달 촉진제"
+      ],
+      [
+        "Beck Depression Inventory",
+        "주관적 cognitive decline(SCD)"
+      ],
+      [
+        "기넥신 240mg",
+        "정책 이슈"
+      ],
+      [
+        "신경과/신경외과",
+        "아세틸L카르니틴"
+      ],
+      [
+        "기넥신",
+        "장기 처방"
+      ],
+      [
+        "기넥신",
+        "신경가소성"
+      ],
+      [
+        "MCI",
+        "NPS"
+      ],
+      [
+        "Pre-MCI",
+        "정신행동증상"
+      ],
+      [
+        "MRI",
+        "치매"
+      ],
+      [
+        "Ginkgo Biloba Extract",
+        "RCT Study"
+      ],
+      [
+        "요양급여",
+        "콜린알포세레이트"
+      ],
+      [
+        "MCI 환자",
+        "기넥신"
+      ],
+      [
+        "Oxiracetam",
+        "고려"
+      ],
+      [
+        "Ginkgo Biloba Special Extract EGb 761",
+        "기억력 개선"
+      ],
+      [
+        "경도인지장애",
+        "기억상실형 MCI"
+      ],
+      [
+        "매출 추세",
+        "아세틸-L-카르니틴"
+      ],
+      [
+        "베타 아밀로이드",
+        "치매"
+      ],
+      [
+        "400mg 305원",
+        "기넥신"
+      ],
+      [
+        "H81.4",
+        "기넥신"
+      ],
+      [
+        "Cognition Improvement Policy Issues",
+        "MCI"
+      ],
+      [
+        "기넥신",
+        "프로스타사이클린"
+      ],
+      [
+        "치매",
+        "콜린알포세레이트"
+      ],
+      [
+        "Ginkgo Biloba",
+        "추출물"
+      ],
+      [
+        "80mg",
+        "보험약가"
+      ],
+      [
+        "기넥신",
+        "치매"
+      ],
+      [
+        "약물 치료",
+        "치매"
+      ],
+      [
+        "기넥신",
+        "라세탐"
+      ],
+      [
+        "Ginkgo Biloba Ext.",
+        "기넥신"
+      ],
+      [
+        "Blood Circulation Disorder Scenario",
+        "Ginkgo"
+      ],
+      [
+        "MCI",
+        "Pre-MCI"
+      ],
+      [
+        "Alzheimer's Disease International",
+        "Becker et al."
+      ],
+      [
+        "80mg",
+        "일일 약가"
+      ],
+      [
+        "아세틸-L-카르니틴",
+        "약리기전"
+      ],
+      [
+        "경세포",
+        "혈관성 인지장애"
+      ],
+      [
+        "니세틸",
+        "치매 전 단계"
+      ],
+      [
+        "경도 인지 장애",
+        "양영순 교수님"
+      ],
+      [
+        "경도인지장애",
+        "뇌기능개선제"
+      ],
+      [
+        "Memantine",
+        "NMDA 수용체 길항제"
+      ],
+      [
+        "뇌기능개선제",
+        "혈액순환제"
+      ],
+      [
+        "신경인지기능검사",
+        "인지기능"
+      ],
+      [
+        "Nicergoline",
+        "혈관성 인지장애"
+      ],
+      [
+        "Ginkgo Biloba Special Extract EGb 761",
+        "MCI"
+      ],
+      [
+        "Ginkgo Biloba Extract",
+        "치매"
+      ],
+      [
+        "Int Psychogeriatr",
+        "Savaskan E"
+      ],
+      [
+        "기넥신 80mg",
+        "정책 이슈"
+      ],
+      [
+        "기넥신",
+        "자유라디칼"
+      ],
+      [
+        "경도인지장애",
+        "우울·불안"
+      ],
+      [
+        "Huang SY",
+        "당뇨병성 망막병증"
+      ],
+      [
+        "Kim JS et al.",
+        "말초성 어지럼증"
+      ],
+      [
+        "Efficacy of Ginkgo",
+        "Ginkgo"
+      ],
+      [
+        "기넥신",
+        "장기 안전성"
+      ],
+      [
+        "아세틸-L-카르니틴",
+        "적응증"
+      ],
+      [
+        "AChEI",
+        "도네페질"
+      ],
+      [
+        "Ginkgo Biloba Extract",
+        "기넥신"
+      ],
+      [
+        "경도인지장애",
+        "치매 환자"
+      ],
+      [
+        "Aging & Mental Health",
+        "Ginkgo biloba"
+      ],
+      [
+        "간헐성 파행증",
+        "은행엽 엑스"
+      ],
+      [
+        "기넥신",
+        "혈관성 인지장애"
+      ],
+      [
+        "치매 환자",
+        "치매성 증상"
+      ],
+      [
+        "고용량",
+        "은행잎추출물"
+      ],
+      [
+        "Pre-MCI 환자",
+        "기넥신"
+      ],
+      [
+        "Ginkgo biloba Extract",
+        "기넥신"
+      ],
+      [
+        "100% 비급여",
+        "기넥신"
+      ],
+      [
+        "Ginkgo biloba Ext.",
+        "기넥신"
+      ],
+      [
+        "Donepezil",
+        "에자이"
+      ],
+      [
+        "NMDA 수용체 길항제",
+        "치매"
+      ],
+      [
+        "Nicergoline",
+        "혈액순환제"
+      ],
+      [
+        "경도인지장애",
+        "정상인"
+      ],
+      [
+        "치매",
+        "타우 단백질"
+      ],
+      [
+        "Acetyl-L-carnitine",
+        "아세틸콜린 전달 촉진제"
+      ],
+      [
+        "MRI",
+        "경도인지장애"
+      ],
+      [
+        "F06.7",
+        "기넥신"
+      ],
+      [
+        "Ginkgo Biloba Special Extract EGb 761",
+        "Neuroscience & Medicine"
+      ],
+      [
+        "기넥신",
+        "빌베리건조엑스"
+      ],
+      [
+        "Dr.",
+        "경도인지장애"
+      ],
+      [
+        "Park JW",
+        "정상안압녹내장"
+      ],
+      [
+        "제조자",
+        "풍림무약㈜"
+      ],
+      [
+        "Donepezil",
+        "Ginkgo"
+      ],
+      [
+        "Cognitive Impairment",
+        "Organic Brain Syndrome"
+      ],
+      [
+        "은행잎추출물",
+        "치매 환자"
+      ],
+      [
+        "Ginkgo Biloba Extract",
+        "MCI"
+      ],
+      [
+        "Dementia",
+        "Ginkgo 240mg"
+      ],
+      [
+        "Ginkgo Biloba",
+        "치매"
+      ],
+      [
+        "EGb761",
+        "Placebo"
+      ],
+      [
+        "RCT",
+        "치매 환자"
+      ],
+      [
+        "경도인지장애",
+        "일상생활 능력장애"
+      ],
+      [
+        "AChEI 약제",
+        "기넥신"
+      ],
+      [
+        "Ginkgo",
+        "어지럼증"
+      ],
+      [
+        "MCI",
+        "Systemic Review"
+      ],
+      [
+        "기넥신",
+        "혈액순환제"
+      ],
+      [
+        "기넥신",
+        "기넥신 급여"
+      ],
+      [
+        "Quaranta L",
+        "정상안압녹내장"
+      ],
+      [
+        "Ginkgo Biloba Extract",
+        "요양급여"
+      ],
+      [
+        "SK",
+        "기넥신"
+      ],
+      [
+        "EGb 761",
+        "치매"
+      ],
+      [
+        "Butyryl ChEI",
+        "Rivastigmine"
+      ],
+      [
+        "Bilobalides",
+        "기넥신"
+      ],
+      [
+        "EGb761",
+        "MCI 환자"
+      ],
+      [
+        "Dizziness Patient Scenario",
+        "EGb761"
+      ],
+      [
+        "기넥신",
+        "약가"
+      ],
+      [
+        "1일 1회",
+        "기넥신"
+      ],
+      [
+        "Ginkgo biloba extract",
+        "RCT"
+      ],
+      [
+        "Peters H et al.",
+        "은행엽 엑스"
+      ],
+      [
+        "Gavrilova et al.",
+        "MCI"
+      ],
+      [
+        "Betahistine",
+        "Ginkgo"
+      ],
+      [
+        "MCI 진단기준",
+        "경도인지장애"
+      ],
+      [
+        "AChEI",
+        "Donepezil"
+      ],
+      [
+        "Cognitive Aging Salthouse",
+        "Cognitive Decline in Aging"
+      ],
+      [
+        "Dementia Prevention Scenario",
+        "Ginkgo"
+      ],
+      [
+        "EGb761",
+        "기넥신"
+      ],
+      [
+        "EGb761",
+        "Ginkgo Biloba Extract"
+      ],
+      [
+        "Acetyl-L-carnitine",
+        "한미"
+      ],
+      [
+        "Cognitive Decline in Aging",
+        "Cognitive Impairment"
+      ],
+      [
+        "고용량 처방",
+        "기넥신"
+      ],
+      [
+        "정책 이슈",
+        "카니틸"
+      ],
+      [
+        "경도인지장애",
+        "비기억상실형 MCI"
+      ],
+      [
+        "Ginkgo",
+        "Haguenauer JP et al."
+      ],
+      [
+        "Choline alfoscerate",
+        "종근당"
+      ],
+      [
+        "Rivastigmine",
+        "한국노바티스"
+      ],
+      [
+        "기넥신",
+        "타겐에프"
+      ],
+      [
+        "1일 2회",
+        "기넥신"
+      ],
+      [
+        "기넥신",
+        "기넥신에프정240mg"
+      ],
+      [
+        "경도인지장애",
+        "임상 증상"
+      ],
+      [
+        "MCI",
+        "치매"
+      ],
+      [
+        "기억상실형 MCI",
+        "알츠하이머병"
+      ],
+      [
+        "보나링 에이",
+        "어지럼증 환자"
+      ],
+      [
+        "기넥신",
+        "타나민"
+      ],
+      [
+        "Donepezil",
+        "은행잎추출물"
+      ],
+      [
+        "경도인지장애",
+        "양영순 교수님"
+      ],
+      [
+        "Lee YW",
+        "빌베리건조엑스"
+      ],
+      [
+        "Ginkgoflavone-glycosides",
+        "기넥신"
+      ],
+      [
+        "Attention 평가",
+        "Ginkgo Biloba Special Extract EGb 761"
+      ],
+      [
+        "Choline alfoscerate",
+        "대웅"
+      ],
+      [
+        "기넥신",
+        "은행엽"
+      ],
+      [
+        "Ginkgo Biloba",
+        "MCI"
+      ],
+      [
+        "AChEI",
+        "은행잎추출물"
+      ],
+      [
+        "기넥신",
+        "은행잎추출물"
+      ],
+      [
+        "Ginkgo",
+        "Kim JS"
+      ],
+      [
+        "MCI",
+        "기넥신"
+      ],
+      [
+        "기넥신 80mg",
+        "옥시라세탐"
+      ],
+      [
+        "분류번호",
+        "아세틸-L-카르니틴"
+      ],
+      [
+        "EGb761",
+        "MCI"
+      ],
+      [
+        "AChEI",
+        "치매 환자"
+      ],
+      [
+        "Pain-Free Walking Distance",
+        "은행엽 엑스"
+      ],
+      [
+        "경제성",
+        "기넥신"
+      ],
+      [
+        "Donepezil",
+        "병용군"
+      ],
+      [
+        "경도인지장애",
+        "정신행동증상"
+      ],
+      [
+        "Cognitive Impairment",
+        "Dementia"
+      ],
+      [
+        "기넥신",
+        "우울 증상"
+      ],
+      [
+        "기넥신",
+        "뉴본"
+      ],
+      [
+        "EGb761",
+        "SKT Total Score"
+      ],
+      [
+        "Front Aging Neurosci",
+        "Zhang HF"
+      ],
+      [
+        "240mg",
+        "Ginkgo"
+      ],
+      [
+        "경도 인지 장애",
+        "뇌기능개선제"
+      ],
+      [
+        "300명 환자",
+        "Ginkgo Biloba Special Extract EGb 761"
+      ],
+      [
+        "에스케이케미칼㈜",
+        "판매자"
+      ],
+      [
+        "글리아타민",
+        "정책 이슈"
+      ],
+      [
+        "에스케이케미칼㈜",
+        "풍림무약㈜"
+      ],
+      [
+        "Dementia",
+        "Organic Brain Syndrome"
+      ],
+      [
+        "글리아티린",
+        "정책 이슈"
+      ],
+      [
+        "MCI 환자",
+        "콜린알포세레이트"
+      ],
+      [
+        "Combination Therapy",
+        "Donepezil"
+      ],
+      [
+        "Cognitive Functioning",
+        "EGb761"
+      ],
+      [
+        "수유부",
+        "에스케이케미칼㈜"
+      ],
+      [
+        "레비소체치매",
+        "비기억상실형 MCI"
+      ]
+    ],
+    "count": 199,
+    "create_time": 1777269513,
+    "update_time": 1777269513,
+    "_id": "doc-3edc9488396ec7e9fea71a685a911e35"
+  },
+  "doc-7f8f9c430f1165a049f59d306d20ba75": {
+    "relation_pairs": [
+      [
+        "날푸라핀",
+        "레밋치 구강붕해정"
+      ],
+      [
+        "Nalfurafine",
+        "대한민국"
+      ],
+      [
+        "52주",
+        "임상시험"
+      ],
+      [
+        "임상시험",
+        "혈액투석환자"
+      ],
+      [
+        "미데카마이신",
+        "이 약"
+      ],
+      [
+        "γ-GTP",
+        "날푸라핀염산염"
+      ],
+      [
+        "내분비계 이상반응",
+        "프로락틴 증가"
+      ],
+      [
+        "μ 수용체",
+        "가려움 인식"
+      ],
+      [
+        "이 약",
+        "케토코나졸"
+      ],
+      [
+        "Child-Pugh B 등급",
+        "날푸라핀염산염"
+      ],
+      [
+        "2009년 5월",
+        "2013년 4월"
+      ],
+      [
+        "날푸라핀염산염",
+        "위약군"
+      ],
+      [
+        "나이프라핀",
+        "임상시험"
+      ],
+      [
+        "과량투여",
+        "이 약"
+      ],
+      [
+        "레밋치 구강붕해정",
+        "포도당-갈락토오스 흡수장애"
+      ],
+      [
+        "날푸라핀염산염",
+        "호흡기계 이상반응"
+      ],
+      [
+        "갑상선 자극호르몬 증가",
+        "내분비계 이상반응"
+      ],
+      [
+        "비글견",
+        "이 약"
+      ],
+      [
+        "구강붕해정",
+        "레밋치 구강붕해정"
+      ],
+      [
+        "κ 수용체",
+        "가려움 억제"
+      ],
+      [
+        "리루빈 증가",
+        "신장계 이상반응"
+      ],
+      [
+        "날푸라핀 염산염",
+        "임상시험"
+      ],
+      [
+        "소양증 관리 알고리즘",
+        "혈액투석환자"
+      ],
+      [
+        "VAS 변화량",
+        "야간 가려움 점수"
+      ],
+      [
+        "레밋치 구강붕해정",
+        "투여 가이드"
+      ],
+      [
+        "일본",
+        "혈액투석환자"
+      ],
+      [
+        "갈락토오스 불내성",
+        "레밋치 구강붕해정"
+      ],
+      [
+        "야간 가려움 점수",
+        "혈액투석환자"
+      ],
+      [
+        "날푸라핀염산염",
+        "불안"
+      ],
+      [
+        "CYP3A4",
+        "날푸라핀염산염"
+      ],
+      [
+        "Nalfurafine",
+        "이상반응"
+      ],
+      [
+        "갑상선 자극호르몬 감소",
+        "내분비계 이상반응"
+      ],
+      [
+        "나이프라핀",
+        "소양증 증상"
+      ],
+      [
+        "소양증",
+        "혈액투석환자"
+      ],
+      [
+        "104명의 환자",
+        "날푸라핀염산염"
+      ],
+      [
+        "κ 수용체",
+        "나이프라핀"
+      ],
+      [
+        "날푸라핀 염산염",
+        "혈액투석환자"
+      ],
+      [
+        "소아",
+        "이 약"
+      ],
+      [
+        "레밋치 구강붕해정",
+        "임산부"
+      ],
+      [
+        "레밋치 구강붕해정",
+        "혈액투석환자"
+      ],
+      [
+        "두근거림",
+        "심혈관계 이상반응"
+      ],
+      [
+        "고령자",
+        "이 약"
+      ],
+      [
+        "104명의 환자",
+        "위약"
+      ],
+      [
+        "날푸라핀염산염",
+        "황달"
+      ],
+      [
+        "기타 이상반응",
+        "병감"
+      ],
+      [
+        "기타 이상반응",
+        "흉부 불편감"
+      ],
+      [
+        "날푸라핀염산염",
+        "졸음"
+      ],
+      [
+        "날푸라핀염산염",
+        "불면증"
+      ],
+      [
+        "2009년 5월",
+        "Nalfurafine"
+      ],
+      [
+        "사이클로스포린",
+        "이 약"
+      ],
+      [
+        "Lapp 유당 분해효소 결핍증",
+        "레밋치 구강붕해정"
+      ],
+      [
+        "임상시험",
+        "장기투여"
+      ],
+      [
+        "Kumagai et al.",
+        "소양증 관리 알고리즘"
+      ],
+      [
+        "수유부",
+        "이 약"
+      ],
+      [
+        "2013년 4월",
+        "Nalfurafine"
+      ],
+      [
+        "고령자",
+        "레밋치 구강붕해정"
+      ],
+      [
+        "비뇨기계 이상반응",
+        "혈뇨 존재"
+      ],
+      [
+        "레밋치 구강붕해정",
+        "소양증"
+      ],
+      [
+        "날푸라핀 염산염",
+        "에스케이케미칼(주)"
+      ],
+      [
+        "날푸라핀염산염",
+        "레밋치 구강붕해정"
+      ],
+      [
+        "레밋치 구강붕해정",
+        "레밋치 연질캡슐"
+      ],
+      [
+        "레밋치",
+        "혈액투석환자"
+      ],
+      [
+        "위약군",
+        "임상시험"
+      ],
+      [
+        "LDH 증가",
+        "신장계 이상반응"
+      ],
+      [
+        "내분비계 이상반응",
+        "테스토스테론 감소"
+      ],
+      [
+        "데이터",
+        "토레이 산업 주식회사"
+      ],
+      [
+        "날푸라핀",
+        "소양증 관리 알고리즘"
+      ],
+      [
+        "혈액투석 소양증",
+        "혈액투석환자"
+      ],
+      [
+        "날푸라핀염산염",
+        "혈중 LDH"
+      ],
+      [
+        "간기능 장애",
+        "날푸라핀염산염"
+      ],
+      [
+        "날푸라핀염산염",
+        "혈압"
+      ],
+      [
+        "2주",
+        "임상시험"
+      ],
+      [
+        "Toray Industries, Inc.",
+        "날푸라핀 염산염"
+      ],
+      [
+        "날푸라핀염산염",
+        "변비"
+      ],
+      [
+        "혈액계 이상반응",
+        "호산구 증가"
+      ],
+      [
+        "이 약",
+        "임부"
+      ],
+      [
+        "μ opioid receptor",
+        "혈액투석환자"
+      ],
+      [
+        "감염 관련 이상반응",
+        "날푸라핀염산염"
+      ],
+      [
+        "날푸라핀염산염",
+        "이상약물반응"
+      ],
+      [
+        "불면증",
+        "소양증"
+      ],
+      [
+        "레밋치 구강붕해정",
+        "신속용해"
+      ]
+    ],
+    "count": 81,
+    "create_time": 1777269594,
+    "update_time": 1777269594,
+    "_id": "doc-7f8f9c430f1165a049f59d306d20ba75"
+  },
+  "doc-776420324de0e658cb2fd766fe8f2d38": {
+    "relation_pairs": [
+      [
+        "Br J Nutr",
+        "Zhang B"
+      ],
+      [
+        "Erosions/Ulcers",
+        "Polaprezinc Group"
+      ],
+      [
+        "Eur J Clin Pharmacol",
+        "Sakamoto C"
+      ],
+      [
+        "IW",
+        "TS"
+      ],
+      [
+        "IW",
+        "ST"
+      ],
+      [
+        "Endo H",
+        "Lactobacillus casei"
+      ],
+      [
+        "LDA",
+        "Polaprezinc Group"
+      ],
+      [
+        "Capsule Endoscopy",
+        "Patients"
+      ],
+      [
+        "LDA 요법",
+        "폴라프레진크"
+      ],
+      [
+        "Hiroshima University Hospital",
+        "Patients"
+      ],
+      [
+        "Control Group",
+        "LDA"
+      ],
+      [
+        "20 Patients",
+        "Polaprezinc Treatment Group"
+      ],
+      [
+        "IW",
+        "KC"
+      ],
+      [
+        "Small Bowel Injury",
+        "Zinc Carnosine"
+      ],
+      [
+        "20 Patients",
+        "Control Group"
+      ],
+      [
+        "Median Erosions/Ulcers",
+        "Median Reddened Lesions"
+      ],
+      [
+        "초기 CE",
+        "캡슐 내시경"
+      ],
+      [
+        "Aliment Pharmacol Ther",
+        "Small Bowel Injury"
+      ],
+      [
+        "CE(캡슐내시경)",
+        "LDA 요법"
+      ],
+      [
+        "Misoprostol",
+        "Small Bowel"
+      ],
+      [
+        "Small-Bowel Mucosal Injuries",
+        "Type of Change"
+      ],
+      [
+        "N.S.",
+        "저용량 아스피린"
+      ],
+      [
+        "CE Examination",
+        "LDA"
+      ],
+      [
+        "Higuchi K",
+        "Morita E"
+      ],
+      [
+        "CE(캡슐내시경)",
+        "Lactobacillus casei"
+      ],
+      [
+        "Indomethacin",
+        "Polaprezinc"
+      ],
+      [
+        "Ikue Watari",
+        "Polaprezinc"
+      ],
+      [
+        "JMP-J Software",
+        "Statistical Analysis"
+      ],
+      [
+        "Capsule Endoscopy",
+        "Dig Endosc"
+      ],
+      [
+        "IW",
+        "SO"
+      ],
+      [
+        "NSAIDs",
+        "Small Bowel Injury"
+      ],
+      [
+        "HI",
+        "IW"
+      ],
+      [
+        "BMC Gastroenterology",
+        "N"
+      ],
+      [
+        "N",
+        "Nakajima A"
+      ],
+      [
+        "Capsule Endoscopy (CE)",
+        "Small-Bowel Mucosal Injuries"
+      ],
+      [
+        "Capsule Endoscopy",
+        "Small Bowel Injury"
+      ],
+      [
+        "LDA (Low-Dose Aspirin)",
+        "OGIB (Obscure Gastrointestinal Bleeding)"
+      ],
+      [
+        "Bjarnason I",
+        "Smecuol E"
+      ],
+      [
+        "Control Group",
+        "Polaprezinc"
+      ],
+      [
+        "초기 CE",
+        "폴라프레진크 그룹"
+      ],
+      [
+        "Randomized Study",
+        "UMIN Clinical Trials Registry"
+      ],
+      [
+        "Biomed Central",
+        "Google Scholar"
+      ],
+      [
+        "Gut",
+        "Zinc Carnosine"
+      ],
+      [
+        "Research",
+        "Scopus"
+      ],
+      [
+        "Low-dose Aspirin for the Prevention of Atherothrombosis",
+        "Patrono C"
+      ],
+      [
+        "Prophylactic Aspirin and Risk of Peptic Ulcer Bleeding",
+        "Weil J"
+      ],
+      [
+        "Helicobacter Pylori",
+        "Polaprezinc"
+      ],
+      [
+        "Control Group",
+        "Erosions/Ulcers"
+      ],
+      [
+        "Huang JQ",
+        "Lancet"
+      ],
+      [
+        "CE Score",
+        "Small-Bowel Mucosal Injuries"
+      ],
+      [
+        "Hiroshima University Hospital",
+        "Randomized Study"
+      ],
+      [
+        "BMJ",
+        "Weil J"
+      ],
+      [
+        "Case-control Study on the Association of Upper Gastrointestinal Bleeding and Nonsteroidal Anti-inflammatory Drugs in Japan",
+        "Sakamoto C"
+      ],
+      [
+        "Higuchi K",
+        "Watanabe T"
+      ],
+      [
+        "Google Scholar",
+        "Research"
+      ],
+      [
+        "CE Score",
+        "Small-Bowel Capsule Transit Time"
+      ],
+      [
+        "Erosions/Ulcers",
+        "Small Bowel"
+      ],
+      [
+        "Google Scholar",
+        "Scopus"
+      ],
+      [
+        "Biomed Central",
+        "Research"
+      ],
+      [
+        "Aspirin",
+        "Mucosal Prostaglandin (PG)"
+      ],
+      [
+        "폴라프레진크 그룹",
+        "후속 CE"
+      ],
+      [
+        "Supplemental Zinc Reduced Intestinal Permeability",
+        "Zhang B"
+      ],
+      [
+        "Control Group",
+        "Median Hemoglobin Concentration"
+      ],
+      [
+        "LDA",
+        "Polaprezinc"
+      ],
+      [
+        "LDA",
+        "Small-Bowel Injury"
+      ],
+      [
+        "Huang JQ",
+        "Role of Helicobacter Pylori Infection and Non-steroidal Anti-inflammatory Drugs in Peptic-ulcer Disease"
+      ],
+      [
+        "20 Patients",
+        "Polaprezinc"
+      ],
+      [
+        "IW",
+        "TA"
+      ],
+      [
+        "N Engl J Med",
+        "Patrono C"
+      ],
+      [
+        "캡슐 내시경",
+        "후속 CE"
+      ],
+      [
+        "Aspirin-Associated Small-Bowel Mucosal Disease",
+        "Small-Bowel Mucosal Injuries"
+      ],
+      [
+        "Control Group",
+        "Polaprezinc Group"
+      ],
+      [
+        "IW",
+        "SY"
+      ],
+      [
+        "CE Examination",
+        "Gastroenterologists"
+      ],
+      [
+        "Aspirin",
+        "Three Hit Hypothesis"
+      ],
+      [
+        "LDA (Low-Dose Aspirin)",
+        "Small Bowel"
+      ],
+      [
+        "Calcium Efflux",
+        "Mitochondrial Damage"
+      ],
+      [
+        "Polaprezinc",
+        "Randomized Study"
+      ],
+      [
+        "Jpn J Pharmacol",
+        "Polaprezinc"
+      ],
+      [
+        "저용량 아스피린",
+        "점막 손상"
+      ],
+      [
+        "Median Age",
+        "Polaprezinc"
+      ],
+      [
+        "CE Capsule (PillCam SB2)",
+        "Small-Bowel Injury"
+      ],
+      [
+        "Polaprezinc",
+        "Shiro Oka"
+      ],
+      [
+        "Endo H",
+        "Nozaki Y"
+      ],
+      [
+        "Biomed Central",
+        "Scopus"
+      ],
+      [
+        "LDA 요법",
+        "미소프로스톨"
+      ]
+    ],
+    "count": 86,
+    "create_time": 1777269679,
+    "update_time": 1777269679,
+    "_id": "doc-776420324de0e658cb2fd766fe8f2d38"
+  }
+}
