@@ -5,6 +5,8 @@ LightRAG_test.py — 20명 동시 접속 부하 테스트
   · 각 유저별 응답 시간, 토큰, 비용 추적
   · 전체 throughput, p50/p95/p99 지연, 실패율 측정
   · 결과를 lightrag_before_chunk_test/load_test_result.md 에 저장
+  
+  현재는 파일 경로와 여러 변수들이 맞지 않아 추후 적재 시 매핑 필요
 """
 import os
 import sys

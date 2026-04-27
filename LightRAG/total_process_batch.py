@@ -93,10 +93,10 @@ except Exception:
 # ==============================================================================
 
 # [1] 데이터 경로
-ENV_JSON_PATH     = "../../.env.json"
+ENV_JSON_PATH     = "../.env.json"
 _BASE_DIR         = os.path.dirname(os.path.abspath(__file__))
 WORKING_DIR       = os.path.join(_BASE_DIR, "lightrag_before_chunk_test")
-MD_DIR            = os.path.join(_BASE_DIR, "../../test_md")
+MD_DIR            = os.path.join(_BASE_DIR, "../chunked_docs")
 QDRANT_URL        = "http://localhost:6333"
 QDRANT_COLLECTION = "lightrag_before_chunk_test"
 
