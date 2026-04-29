@@ -1,0 +1,68 @@
+{
+    "_note": "이 파일은 total_process.py의 CONFIG 블록을 참조용으로 스냅샷한 것입니다. total_process.py가 직접 읽지 않으므로, 실제 동작에 영향을 주지 않습니다. 설정을 변경할 때는 total_process.py의 CONFIG 블록을 수정하세요.",
+
+    "data_path": {
+        "env_json_path": ".env.json",
+        "working_dir": "lightrag_after_chunk_test",
+        "input_dir": "chunked_docs",
+        "qdrant_url": "http://localhost:6333",
+        "qdrant_collection": "lightrag_after_chunk_test"
+    },
+
+    "llm": {
+        "model": "mini",
+        "model_options": {
+            "mini": "gpt-4o-mini",
+            "4o": "gpt-4o"
+        },
+        "pricing_per_1k_tokens": {
+            "gpt-4o-mini": {
+                "realtime_in": 0.000150,
+                "realtime_out": 0.000600,
+                "batch_in": 0.000075,
+                "batch_out": 0.000300
+            },
+            "gpt-4o": {
+                "realtime_in": 0.002500,
+                "realtime_out": 0.010000,
+                "batch_in": 0.001250,
+                "batch_out": 0.005000
+            }
+        }
+    },
+
+    "embedding": {
+        "model": "text-embedding-3-large",
+        "dim": 2048,
+        "max_tokens": 8192,
+        "cost_per_1k_tokens": 0.000130
+    },
+
+    "input": {
+        "format": "jsonl",
+        "jsonl_text_key": "text",
+        "jsonl_text_key_fallback": "chunk_text",
+        "chunk_size": 1000,
+        "chunk_overlap": 150,
+        "_note_chunking": "JSONL 모드에서는 청크가 이미 완료된 상태이므로 LightRAG 내부 청킹 비활성화 (chunk_token_size=10,000,000). chunk_size/chunk_overlap은 MD 모드에서만 사용됨."
+    },
+
+    "query_cache": {
+        "similarity_threshold": 0.85
+    },
+
+    "healing": {
+        "prune_min_desc_length": 10,
+        "embed_similarity_threshold": 0.75,
+        "embed_top_k": 2,
+        "llm_max_nodes": 50,
+        "llm_min_confidence": 0.5,
+        "relink_max_nodes": 30,
+        "llm_batch_candidates": 20
+    },
+
+    "batch_api": {
+        "poll_interval_sec": 60,
+        "completion_window": "24h"
+    }
+}

@@ -1,0 +1,48 @@
+services:
+
+  # ─────────────────────────────────────────────
+  # Qdrant 벡터 데이터베이스
+  # ─────────────────────────────────────────────
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: lightrag_qdrant
+    ports:
+      - "6333:6333"   # REST API
+      - "6334:6334"   # gRPC
+    volumes:
+      - qdrant_data:/qdrant/storage
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:6333/healthz"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # ─────────────────────────────────────────────
+  # LightRAG 애플리케이션
+  # ─────────────────────────────────────────────
+  lightrag:
+    build: .
+    container_name: lightrag_app
+    depends_on:
+      qdrant:
+        condition: service_healthy
+    volumes:
+      # 그래프 데이터 & KV 스토어 영속화
+      - ./lightrag_before_chunk_test:/app/lightrag_before_chunk_test
+      # 입력 JSONL 파일 (read-only)
+      - ./chunked_docs:/app/chunked_docs:ro
+      # API 키 및 서버 설정 (read-only)
+      - ./.env.json:/app/.env.json:ro
+    environment:
+      # Qdrant는 컨테이너 서비스명으로 연결
+      QDRANT_URL: http://qdrant:6333
+    restart: on-failure
+    # 기본 커맨드는 Dockerfile CMD에 따라 total_process.py 실행
+    # 인수를 지정하려면 아래 command 활성화
+    # command: ["python", "total_process.py", "--no-batch"]
+    # command: ["python", "total_process.py", "--submit-only"]
+    # command: ["python", "total_process.py", "-q", "기넥신 적응증은?"]
+
+volumes:
+  qdrant_data:

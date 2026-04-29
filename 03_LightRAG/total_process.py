@@ -60,6 +60,39 @@ import numpy as np
 from datetime import datetime
 from typing import Optional
 import networkx as nx
+
+# ── Langfuse env 설정: 다른 SDK보다 먼저 환경변수에 주입 ───────────
+try:
+    _BASE_DIR_EARLY = os.path.dirname(os.path.abspath(__file__))
+    with open(os.path.join(_BASE_DIR_EARLY, ".env.json"), "r", encoding="utf-8") as _f_early:
+        _env_early = json.load(_f_early)
+    for _ek, _jk, _dv in [
+        ("LANGFUSE_PUBLIC_KEY", "langfuse_public_key",  ""),
+        ("LANGFUSE_SECRET_KEY", "langfuse_secret_key",  ""),
+        ("LANGFUSE_HOST",       "langfuse_host",         "https://cloud.langfuse.com"),
+    ]:
+        _v = _env_early.get(_jk, _dv)
+        if _v:
+            os.environ[_ek] = _v
+    del _env_early, _f_early, _ek, _jk, _dv, _v
+except Exception:
+    pass
+# ──────────────────────────────────────────────────────────────────
+
+try:
+    from langfuse.decorators import observe, langfuse_context
+    _LANGFUSE_AVAILABLE = True
+except ImportError:
+    _LANGFUSE_AVAILABLE = False
+    def observe(_fn=None, *, name=None, as_type=None, **kw):
+        def decorator(fn): return fn
+        return decorator(_fn) if _fn is not None else decorator
+    class _NoOpLangfuseCtx:
+        def update_current_trace(self, **kw): pass
+        def update_current_observation(self, **kw): pass
+        def configure(self, **kw): pass
+        def flush(self): pass
+    langfuse_context = _NoOpLangfuseCtx()
 from pyvis.network import Network
 from lightrag import LightRAG, QueryParam
 from lightrag.llm.openai import gpt_4o_mini_complete, gpt_4o_complete
@@ -93,12 +126,12 @@ except Exception:
 # ==============================================================================
 
 # [1] 데이터 경로
-ENV_JSON_PATH     = "../.env.json"
+ENV_JSON_PATH     = ".env.json"
 _BASE_DIR         = os.path.dirname(os.path.abspath(__file__))
-WORKING_DIR       = os.path.join(_BASE_DIR, "lightrag_before_chunk_test")
-MD_DIR            = os.path.join(_BASE_DIR, "../chunked_docs")
-QDRANT_URL        = "http://localhost:6333"
-QDRANT_COLLECTION = "lightrag_before_chunk_test"
+WORKING_DIR       = os.path.join(_BASE_DIR, "lightrag_after_chunk_test")
+MD_DIR            = os.path.join(_BASE_DIR, "chunked_docs")
+QDRANT_URL        = os.environ.get("QDRANT_URL", "http://localhost:6333")
+QDRANT_COLLECTION = "lightrag_after_chunk_test"
 
 # [2] LLM 모델
 LLM_MODEL   = "mini"   # "mini" = gpt-4o-mini | "4o" = gpt-4o
@@ -119,7 +152,9 @@ EMB_DIM        = 2048
 _EMB_COST      = 0.000130
 EMB_MAX_TOKENS = 8192
 
-# [4] 청크 설정
+# [4] 입력 형식 및 청크 설정
+INPUT_FORMAT   = "jsonl"   # "md" | "jsonl"
+JSONL_TEXT_KEY = "text"     # JSONL 라인에서 텍스트를 읽을 필드명 (fallback: "chunk_text")
 CHUNK_SIZE    = 1000
 CHUNK_OVERLAP = 150
 
@@ -148,9 +183,13 @@ with open(os.path.join(_BASE_DIR, ENV_JSON_PATH), "r", encoding="utf-8") as _f:
     _env = json.load(_f)
 OPENAI_API_KEY = _env["openai_api_key"]
 os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
-os.environ["QDRANT_URL"]     = QDRANT_URL
+os.environ.setdefault("QDRANT_URL", QDRANT_URL)
 
 os.makedirs(WORKING_DIR, exist_ok=True)
+
+# Langfuse 옵저버빌리티 — env var은 임포트 전에 이미 주입됨
+if _LANGFUSE_AVAILABLE and os.environ.get("LANGFUSE_PUBLIC_KEY"):
+    print(f"  [Langfuse] 활성화 → {os.environ.get('LANGFUSE_HOST', 'https://cloud.langfuse.com')}")
 
 _oai_client = AsyncOpenAI(api_key=OPENAI_API_KEY)
 
@@ -229,7 +268,7 @@ class BatchJobManager:
         self,
         custom_id: str,
         messages: list[dict],
-        max_tokens: int = 4096,
+        max_tokens: int = 8192,
         temperature: float = 0.0,
     ) -> str:
         model_name = _COST_TABLE.get(LLM_MODEL, _COST_TABLE["mini"])["name"]
@@ -397,6 +436,20 @@ class BatchJobManager:
 
 
 # ==============================================================================
+# Langfuse 헬퍼 — 배치 캐시 히트를 generation으로 기록
+# ==============================================================================
+@observe(as_type="generation", name="llm_batch_cache")
+async def _trace_batch_cache_hit(prompt: str, result: str, in_tok: int, out_tok: int) -> None:
+    langfuse_context.update_current_observation(
+        model=_COST_TABLE[LLM_MODEL]["name"],
+        input=[{"role": "user", "content": prompt}],
+        output=result,
+        usage={"input": in_tok, "output": out_tok},
+        metadata={"cache_hit": True, "phase": "batch_insert"},
+    )
+
+
+# ==============================================================================
 # [NEW] BatchCachedLLM — 배치 결과를 캐시로 써서 LightRAG 삽입에 재주입
 # ==============================================================================
 class BatchCachedLLM:
@@ -431,6 +484,8 @@ class BatchCachedLLM:
             result   = self.cache[key]
             in_tok   = _count(system_prompt or "") + _count(prompt)
             out_tok  = _count(result)
+            if _LANGFUSE_AVAILABLE:
+                await _trace_batch_cache_hit(prompt, result, in_tok, out_tok)
             # batch 단가로 집계
             _usage["batch_insert"]["llm_in"]  += in_tok
             _usage["batch_insert"]["llm_out"] += out_tok
@@ -466,6 +521,7 @@ class BatchCachedLLM:
 # ==============================================================================
 # LightRAG 래퍼 (실시간 — 폴백용)
 # ==============================================================================
+@observe(as_type="generation", name="llm")
 async def tracked_llm(prompt, system_prompt=None, history_messages=[], **kwargs):
     # LightRAG 내부에서 _priority 등 내부 kwarg를 전달하는 경우 제거
     kwargs.pop("_priority", None)
@@ -474,6 +530,18 @@ async def tracked_llm(prompt, system_prompt=None, history_messages=[], **kwargs)
     in_tok = _count(system_prompt or "") + _count(prompt)
     for m in (history_messages or []):
         in_tok += _count(m.get("content", ""))
+
+    # Langfuse — 입력 메시지 기록
+    _lf_msgs = []
+    if system_prompt:
+        _lf_msgs.append({"role": "system", "content": str(system_prompt)})
+    for _m in (history_messages or []):
+        _lf_msgs.append(_m)
+    _lf_msgs.append({"role": "user", "content": str(prompt)})
+    langfuse_context.update_current_observation(
+        model=_COST_TABLE[LLM_MODEL]["name"],
+        input=_lf_msgs,
+    )
 
     t = time.time()
     if LLM_MODEL == "4o":
@@ -486,6 +554,12 @@ async def tracked_llm(prompt, system_prompt=None, history_messages=[], **kwargs)
             history_messages=history_messages, **kwargs)
     dur     = time.time() - t
     out_tok = _count(result)
+
+    langfuse_context.update_current_observation(
+        output=result,
+        usage={"input": in_tok, "output": out_tok},
+        metadata={"phase": _phase, "duration_sec": round(dur, 2)},
+    )
 
     _usage[_phase]["llm_in"]  += in_tok
     _usage[_phase]["llm_out"] += out_tok
@@ -507,11 +581,15 @@ async def tracked_llm(prompt, system_prompt=None, history_messages=[], **kwargs)
     return result
 
 
+@observe(as_type="span", name="embed")
 async def tracked_embed(texts, **kwargs):
     t      = time.time()
     result = await _raw_embed(list(texts) if not isinstance(texts, list) else texts)
     dur    = time.time() - t
     tok    = sum(_count(x) for x in (texts if isinstance(texts, list) else [texts]))
+    langfuse_context.update_current_observation(
+        metadata={"tokens": tok, "duration_sec": round(dur, 2), "phase": _phase},
+    )
     _usage[_phase]["emb"] += tok
     if _phase == "insert":
         emb_no = sum(1 for e in _file_log if e["kind"] == "emb") + 1
@@ -622,12 +700,12 @@ def _fallback_extraction_messages(
 
 
 async def collect_and_submit_insert_batch(
-    md_files: list[str],
+    input_files: list[str],
     submit_only: bool = False,
     poll_interval: int = BATCH_POLL_INTERVAL,
 ) -> Optional[dict[str, str]]:
     """
-    1) 모든 MD 파일을 청크로 분할
+    1) 입력 파일(MD 또는 JSONL)에서 청크를 수집
     2) 청크별 entity extraction 프롬프트를 Batch API 로 제출
     3) submit_only=True 면 제출 후 None 반환 (나중에 resume)
        False 면 완료까지 폴링하여 {user_hash: response} 반환
@@ -636,15 +714,19 @@ async def collect_and_submit_insert_batch(
     hash_map  = {}   # custom_id → user_hash (결과 매핑용)
     req_count = 0
 
-    print(f"\n  [Batch Insert] MD 파일 {len(md_files)}개 청크 분할 중 ...")
-    for fname in md_files:
-        with open(fname, "r", encoding="utf-8") as f:
-            text = f.read().strip()
-        if not text:
+    fmt_label = "JSONL" if INPUT_FORMAT == "jsonl" else "MD"
+    print(f"\n  [Batch Insert] {fmt_label} 파일 {len(input_files)}개 청크 수집 중 ...")
+    for fname in input_files:
+        base = os.path.basename(fname)
+        if INPUT_FORMAT == "jsonl":
+            chunks = _load_jsonl_chunks(fname)
+        else:
+            with open(fname, "r", encoding="utf-8") as f:
+                text = f.read().strip()
+            chunks = _chunk_text(text, CHUNK_SIZE, CHUNK_OVERLAP) if text else []
+        if not chunks:
             continue
 
-        chunks = _chunk_text(text, CHUNK_SIZE, CHUNK_OVERLAP)
-        base   = os.path.basename(fname)
         print(f"    {base[:50]:<50}  → {len(chunks)}개 청크")
 
         for idx, chunk in enumerate(chunks):
@@ -663,11 +745,11 @@ async def collect_and_submit_insert_batch(
     est_cost = (est_in / 1000 * rates["in"] + est_out / 1000 * rates["out"])
     print(f"  예상 비용 (배치): ${est_cost:.4f}  vs 실시간: ${est_cost*2:.4f}")
 
-    batch_id = await mgr.submit(f"LightRAG 엔티티 추출 배치 — {len(md_files)}개 파일")
+    batch_id = await mgr.submit(f"LightRAG 엔티티 추출 배치 — {len(input_files)}개 파일")
     BatchJobManager.save_state("insert", batch_id, {
-        "req_count": req_count,
-        "hash_map":  hash_map,
-        "md_files":  [os.path.basename(f) for f in md_files],
+        "req_count":   req_count,
+        "hash_map":    hash_map,
+        "input_files": [os.path.basename(f) for f in input_files],
     })
 
     if submit_only:
@@ -720,10 +802,76 @@ async def resume_insert_batch(
     return cache
 
 
+def _load_jsonl_chunks(fpath: str) -> list[str]:
+    """JSONL 파일을 읽어 텍스트 청크 목록을 반환합니다. 각 라인이 이미 하나의 청크.
+
+    스키마 필드 활용:
+      text       → 본문 (JSONL_TEXT_KEY fallback: "chunk_text")
+      etc        → 차트·이미지 설명 → 본문 뒤에 추가
+      tables     → 표 내용 → 본문 뒤에 추가
+    """
+    chunks = []
+    with open(fpath, "r", encoding="utf-8") as f:
+        for lineno, line in enumerate(f, 1):
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                obj = json.loads(line)
+            except json.JSONDecodeError:
+                print(f"  [경고] {os.path.basename(fpath)}:{lineno} JSON 파싱 실패 — 건너뜀")
+                continue
+            # 본문: JSONL_TEXT_KEY → "chunk_text"
+            text = (obj.get(JSONL_TEXT_KEY) or obj.get("chunk_text") or "").strip()
+            if not text:
+                continue
+            # etc (차트·이미지 설명), tables 내용을 본문 뒤에 보강
+            extras = []
+            for item in (obj.get("etc") or []):
+                s = str(item).strip()
+                if s:
+                    extras.append(s)
+            for item in (obj.get("tables") or []):
+                s = str(item).strip()
+                if s:
+                    extras.append(s)
+            if extras:
+                text = text + "\n\n" + "\n\n".join(extras)
+            chunks.append(text)
+    return chunks
+
+
+def _iter_insert_units() -> list[tuple[str, str]]:
+    """삽입 단위 (label, text) 목록을 반환합니다.
+    JSONL: 각 라인 → 독립 청크 / MD: 파일 전체가 하나의 문서.
+    """
+    units = []
+    if INPUT_FORMAT == "jsonl":
+        for fname in sorted(f for f in os.listdir(MD_DIR) if f.endswith(".jsonl")):
+            fpath = os.path.join(MD_DIR, fname)
+            chunks = _load_jsonl_chunks(fpath)
+            for i, chunk in enumerate(chunks):
+                units.append((f"{fname}[{i}]", chunk))
+    else:
+        for fname in sorted(f for f in os.listdir(MD_DIR) if f.endswith(".md")):
+            fpath = os.path.join(MD_DIR, fname)
+            with open(fpath, "r", encoding="utf-8") as f:
+                text = f.read().strip()
+            if text:
+                units.append((fname, text))
+    return units
+
+
 def _build_rag(llm_func=None) -> LightRAG:
     """LightRAG 인스턴스 생성. llm_func 미지정 시 tracked_llm 사용."""
     lf = llm_func or tracked_llm
-    print(f"  [청크] size={CHUNK_SIZE}tok  overlap={CHUNK_OVERLAP}tok")
+    # JSONL 모드에서는 데이터가 이미 청킹된 상태이므로 LightRAG 내부 청킹 비활성화
+    _chunk_size    = 10_000_000 if INPUT_FORMAT == "jsonl" else CHUNK_SIZE
+    _chunk_overlap = 0          if INPUT_FORMAT == "jsonl" else CHUNK_OVERLAP
+    if INPUT_FORMAT == "jsonl":
+        print(f"  [청크] JSONL 모드 — LightRAG 내부 청킹 비활성화 (pre-chunked 입력)")
+    else:
+        print(f"  [청크] size={CHUNK_SIZE}tok  overlap={CHUNK_OVERLAP}tok")
     print(f"  [임베딩] {EMB_MODEL}  dim={EMB_DIM}")
     return LightRAG(
         working_dir=WORKING_DIR,
@@ -734,8 +882,8 @@ def _build_rag(llm_func=None) -> LightRAG:
             func=tracked_embed,
             model_name=EMB_MODEL,
         ),
-        chunk_token_size=CHUNK_SIZE,
-        chunk_overlap_token_size=CHUNK_OVERLAP,
+        chunk_token_size=_chunk_size,
+        chunk_overlap_token_size=_chunk_overlap,
         entity_extract_max_gleaning=2,
         force_llm_summary_on_merge=3,
         addon_params={"language": "Korean"},
@@ -744,70 +892,87 @@ def _build_rag(llm_func=None) -> LightRAG:
     )
 
 
+@observe(name="insert_file")
+async def _insert_one_file(
+    rag: LightRAG, fname: str, document: str,
+    batch_cache: Optional[dict], idx: int, total: int,
+) -> dict:
+    """파일 1개 삽입 + Langfuse trace."""
+    global _file_log
+    _file_log = []
+
+    langfuse_context.update_current_trace(
+        input={"file": fname, "chars": len(document)},
+        metadata={"model": LLM_MODEL, "chunk_size": CHUNK_SIZE,
+                  "use_batch": batch_cache is not None},
+    )
+
+    print(f"\n  [{idx}/{total}] > {fname}  ({len(document):,} chars)")
+    print(f"  {'─'*72}")
+    t_file = time.time()
+    await rag.ainsert(document)
+    file_sec = time.time() - t_file
+
+    llm_live  = [e for e in _file_log if e["kind"] == "llm"]
+    llm_batch = [e for e in _file_log if e["kind"] == "llm_batch"]
+    emb_calls = [e for e in _file_log if e["kind"] == "emb"]
+    in_live  = sum(e["in"]  for e in llm_live)
+    out_live = sum(e["out"] for e in llm_live)
+    in_b     = sum(e["in"]  for e in llm_batch)
+    out_b    = sum(e["out"] for e in llm_batch)
+    emb_tok  = sum(e["in"]  for e in emb_calls)
+    cost_live  = _cost(in_live,  out_live)
+    cost_batch = _cost(in_b, out_b, batch=True)
+
+    print(f"  {'─'*72}")
+    print(
+        f"  [{idx}/{total}] done  "
+        f"실시간 LLM {len(llm_live)}회 ${cost_live:.5f}  |  "
+        f"배치 캐시 {len(llm_batch)}회 ${cost_batch:.5f}  |  "
+        f"EMB {emb_tok:,}tok  |  {file_sec:.1f}초"
+    )
+    langfuse_context.update_current_trace(
+        output={"llm_live_calls": len(llm_live), "batch_calls": len(llm_batch)},
+        metadata={
+            "cost_usd": round(cost_live + cost_batch, 6),
+            "duration_sec": round(file_sec, 2),
+            "tokens": {"in_live": in_live, "out_live": out_live,
+                       "in_batch": in_b, "out_batch": out_b, "emb": emb_tok},
+        },
+    )
+    return {
+        "name": fname[:42],
+        "calls_live": len(llm_live), "calls_batch": len(llm_batch),
+        "in_live": in_live, "out_live": out_live,
+        "in_b": in_b, "out_b": out_b,
+        "emb": emb_tok, "sec": file_sec,
+    }
+
+
 async def insert_documents(rag: LightRAG, batch_cache: Optional[dict] = None) -> None:
     """
-    MD 파일 삽입.
+    문서 삽입. INPUT_FORMAT 에 따라 JSONL 또는 MD 파일을 로드합니다.
     batch_cache 가 있으면 BatchCachedLLM 을 통해 배치 결과를 재주입하고,
     없으면 tracked_llm (실시간) 을 사용합니다.
     """
-    global _file_log
-
     if batch_cache is not None:
         cached_llm = BatchCachedLLM(batch_cache)
-        # LightRAG 의 llm_model_func 를 교체
         rag.llm_model_func = cached_llm
         print(f"  [Batch Insert] 캐시 {len(batch_cache)}개 응답으로 삽입 재실행")
     else:
         rag.llm_model_func = tracked_llm
 
-    md_files = sorted(f for f in os.listdir(MD_DIR) if f.endswith(".md"))
-    if not md_files:
-        print(f"  MD 파일 없음: {MD_DIR}")
+    units = _iter_insert_units()
+    if not units:
+        ext = "jsonl" if INPUT_FORMAT == "jsonl" else "md"
+        print(f"  .{ext} 파일 없음: {MD_DIR}")
         return
 
-    total = len(md_files)
-    for idx, fname in enumerate(md_files, 1):
-        _file_log = []
-        fpath = os.path.join(MD_DIR, fname)
-        with open(fpath, "r", encoding="utf-8") as f:
-            document = f.read().strip()
-        if not document:
-            print(f"  [{idx}/{total}] 건너뜀 (빈 파일): {fname}")
-            continue
-
-        print(f"\n  [{idx}/{total}] > {fname}  ({len(document):,} chars)")
-        print(f"  {'─'*72}")
-        t_file = time.time()
-        await rag.ainsert(document)
-        file_sec = time.time() - t_file
-
-        llm_live  = [e for e in _file_log if e["kind"] == "llm"]
-        llm_batch = [e for e in _file_log if e["kind"] == "llm_batch"]
-        emb_calls = [e for e in _file_log if e["kind"] == "emb"]
-
-        in_live  = sum(e["in"]  for e in llm_live)
-        out_live = sum(e["out"] for e in llm_live)
-        in_b     = sum(e["in"]  for e in llm_batch)
-        out_b    = sum(e["out"] for e in llm_batch)
-        emb_tok  = sum(e["in"]  for e in emb_calls)
-
-        cost_live  = _cost(in_live,  out_live)
-        cost_batch = _cost(in_b, out_b, batch=True)
-
-        print(f"  {'─'*72}")
-        print(
-            f"  [{idx}/{total}] done  "
-            f"실시간 LLM {len(llm_live)}회 ${cost_live:.5f}  |  "
-            f"배치 캐시 {len(llm_batch)}회 ${cost_batch:.5f}  |  "
-            f"EMB {emb_tok:,}tok  |  {file_sec:.1f}초"
-        )
-        _file_summary.append({
-            "name": fname[:42],
-            "calls_live":  len(llm_live),  "calls_batch": len(llm_batch),
-            "in_live": in_live, "out_live": out_live,
-            "in_b":    in_b,    "out_b":    out_b,
-            "emb": emb_tok, "sec": file_sec,
-        })
+    total = len(units)
+    print(f"  [Insert] 총 {total}개 삽입 단위 ({INPUT_FORMAT.upper()} 모드)")
+    for idx, (label, document) in enumerate(units, 1):
+        summary = await _insert_one_file(rag, label, document, batch_cache, idx, total)
+        _file_summary.append(summary)
 
     if batch_cache is not None:
         rag.llm_model_func.report()
@@ -1181,6 +1346,153 @@ async def _strategy_relink_batch(
     return G2, added
 
 
+# ── 전략 C: LLM (실시간 버전) — --no-batch 모드용 ────────────────
+@observe(name="heal_strategy_c")
+async def _strategy_llm_realtime(
+    G: nx.Graph,
+    llm_limit: int = HEAL_LLM_LIMIT,
+    min_confidence: float = HEAL_LLM_MIN_CONF,
+    dry_run: bool = False,
+) -> tuple[nx.Graph, int]:
+    """전략 C — 실시간 버전: --no-batch 시 사용."""
+    isolated  = _get_isolated(G)
+    connected = [n for n in G.nodes() if n not in set(isolated)]
+    W = 64
+    print(f"\n  {'─'*W}")
+    if not isolated:
+        print("  [전략 C: LLM 실시간]  고립 노드 없음 — 스킵")
+        return G, 0
+
+    top_cands = sorted(connected, key=lambda n: G.degree(n), reverse=True)[:HEAL_LLM_BATCH_CANDS]
+    target    = isolated[:llm_limit]
+    CHUNK     = 10
+
+    def _fmt(nid, attrs):
+        name  = attrs.get("entity_name", nid)
+        etype = attrs.get("entity_type", "?")
+        desc  = (attrs.get("description") or "")[:80].replace("\n", " ")
+        return f"  id={nid}  name={name}  type={etype}  desc={desc}"
+
+    cand_block = "\n".join(_fmt(n, G.nodes[n]) for n in top_cands)
+    G2    = copy.deepcopy(G)
+    added = 0
+    print(f"  [전략 C: LLM 실시간]  고립 {len(target)}개 처리 중 ...")
+
+    for start in range(0, len(target), CHUNK):
+        chunk     = target[start:start + CHUNK]
+        iso_block = "\n".join(_fmt(n, G.nodes[n]) for n in chunk)
+        user_msg  = f"[고립 노드]\n{iso_block}\n\n[후보 노드]\n{cand_block}"
+        response  = await tracked_llm(user_msg, system_prompt=_HEAL_C_SYSTEM,
+                                      max_tokens=2048)
+        suggestions = _parse_json_array(response)
+        valid = [
+            s for s in suggestions
+            if isinstance(s, dict)
+            and s.get("confidence", 0) >= min_confidence
+            and s.get("isolated_id")  in G.nodes
+            and s.get("candidate_id") in G.nodes
+        ]
+        for sug in valid:
+            iso_n  = G.nodes[sug["isolated_id"]].get("entity_name",  sug["isolated_id"])
+            cand_n = G.nodes[sug["candidate_id"]].get("entity_name", sug["candidate_id"])
+            print(f"    [{sug['confidence']:.2f}] {iso_n[:28]:<28}"
+                  f" ─[{sug['relation']}]─> {cand_n[:28]}")
+            if not dry_run:
+                G2.add_edge(
+                    sug["isolated_id"], sug["candidate_id"],
+                    relation_name=sug.get("relation", "관련"),
+                    keywords=sug.get("relation", "관련"),
+                    description=sug.get("description", "LLM 실시간 제안"),
+                    weight=round(float(sug.get("confidence", 0.5)), 4),
+                    created_at=datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+                )
+                added += 1
+
+    print(f"  완료: 엣지 {added}개 추가")
+    return G2, added
+
+
+# ── 전략 D: Re-link (실시간 버전) — --no-batch 모드용 ─────────────
+@observe(name="heal_strategy_d")
+async def _strategy_relink_realtime(
+    G: nx.Graph,
+    relink_limit: int = HEAL_RELINK_LIMIT,
+    dry_run: bool = False,
+) -> tuple[nx.Graph, int]:
+    """전략 D — 실시간 버전: --no-batch 시 사용."""
+    W = 64
+    print(f"\n  {'─'*W}")
+
+    kv_files = [
+        os.path.join(WORKING_DIR, f)
+        for f in os.listdir(WORKING_DIR)
+        if "chunk" in f.lower() and f.endswith(".json")
+    ]
+    if not kv_files:
+        print("  [전략 D: Re-link 실시간]  청크 KV 없음 — 스킵")
+        return G, 0
+
+    SEP = "<SEP>"
+    chunk_map: dict[str, str] = {}
+    for kp in kv_files:
+        try:
+            with open(kp, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            if isinstance(data, dict):
+                for cid, cval in data.items():
+                    text = (cval.get("content") or cval.get("text") or ""
+                            if isinstance(cval, dict) else str(cval))
+                    if text:
+                        chunk_map[cid] = text
+        except Exception:
+            pass
+
+    isolated = _get_isolated(G)
+    print(f"  [전략 D: Re-link 실시간]  고립 {len(isolated)}개 / 청크 {len(chunk_map)}개")
+
+    name_to_id: dict[str, str] = {}
+    for nid, attrs in G.nodes(data=True):
+        name = (attrs.get("entity_name") or nid).strip().lower()
+        name_to_id[name] = nid
+
+    G2    = copy.deepcopy(G)
+    added = 0
+
+    for nid in isolated[:relink_limit]:
+        attrs   = G.nodes[nid]
+        name    = attrs.get("entity_name", nid)
+        src_ids = [s.strip() for s in (attrs.get("source_id") or "").split(SEP)
+                   if s.strip() in chunk_map]
+        if not src_ids:
+            continue
+        chunk_text = "\n---\n".join(chunk_map[s] for s in src_ids[:3])[:3000]
+        user_msg   = f"[타겟 엔티티]\n{name}\n\n[텍스트]\n{chunk_text}"
+        response   = await tracked_llm(user_msg, system_prompt=_HEAL_D_SYSTEM,
+                                       max_tokens=1024)
+        suggestions = _parse_json_array(response)
+        valid = [s for s in suggestions
+                 if isinstance(s, dict) and s.get("confidence", 0) >= 0.6]
+        for sug in valid:
+            other_name = (sug.get("other_entity") or "").strip().lower()
+            target_id  = name_to_id.get(other_name)
+            if not target_id or target_id == nid:
+                continue
+            other_disp = G.nodes.get(target_id, {}).get("entity_name", target_id)
+            conf = float(sug.get("confidence", 0.6))
+            rel  = sug.get("relation", "관련")
+            print(f"    + {name[:25]} ─[{rel}]─> {other_disp[:25]}  (conf={conf:.2f})")
+            if not dry_run:
+                G2.add_edge(nid, target_id,
+                            relation_name=rel, keywords=rel,
+                            description=sug.get("description", ""),
+                            weight=round(conf, 4),
+                            created_at=datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
+                added += 1
+
+    print(f"  완료: 엣지 {added}개 추가")
+    return G2, added
+
+
 def _find_graphml() -> str:
     files = [os.path.join(WORKING_DIR, f)
              for f in os.listdir(WORKING_DIR) if f.endswith(".graphml")]
@@ -1189,6 +1501,7 @@ def _find_graphml() -> str:
     return max(files, key=os.path.getmtime)
 
 
+@observe(name="heal")
 async def run_heal_batch(
     do_prune: bool = True,
     do_embed: bool = True,
@@ -1196,6 +1509,7 @@ async def run_heal_batch(
     do_relink: bool = False,
     dry_run: bool   = False,
     submit_only: bool = False,
+    use_batch: bool = True,
     poll_interval: int = BATCH_POLL_INTERVAL,
     embed_threshold: float = HEAL_EMBED_THRESHOLD,
     embed_top_k: int = HEAL_EMBED_TOP_K,
@@ -1207,6 +1521,11 @@ async def run_heal_batch(
 ) -> None:
     global _phase
     _phase = "heal"
+    langfuse_context.update_current_trace(
+        metadata={"use_batch": use_batch, "model": LLM_MODEL,
+                  "strategies": {"prune": do_prune, "embed": do_embed,
+                                 "llm": do_llm, "relink": do_relink}},
+    )
 
     try:
         gpath = _find_graphml()
@@ -1240,12 +1559,18 @@ async def run_heal_batch(
         G, n = await _strategy_embed(G, embed_threshold, embed_top_k, dry_run)
         total_changed += n
     if do_llm:
-        G, n = await _strategy_llm_batch(
-            G, llm_limit, llm_min_confidence, dry_run, submit_only, poll_interval)
+        if use_batch:
+            G, n = await _strategy_llm_batch(
+                G, llm_limit, llm_min_confidence, dry_run, submit_only, poll_interval)
+        else:
+            G, n = await _strategy_llm_realtime(G, llm_limit, llm_min_confidence, dry_run)
         total_changed += n
     if do_relink:
-        G, n = await _strategy_relink_batch(
-            G, relink_limit, dry_run, submit_only, poll_interval)
+        if use_batch:
+            G, n = await _strategy_relink_batch(
+                G, relink_limit, dry_run, submit_only, poll_interval)
+        else:
+            G, n = await _strategy_relink_realtime(G, relink_limit, dry_run)
         total_changed += n
 
     if not dry_run and not submit_only and total_changed > 0:
@@ -1257,6 +1582,11 @@ async def run_heal_batch(
         if n_iso_before:
             print(f"  [힐링 요약] 고립 노드: {n_iso_before} → {n_iso_after}"
                   f"  (해소 {resolved}개, {resolved/n_iso_before*100:.1f}%)")
+        langfuse_context.update_current_trace(
+            output={"total_changed": total_changed,
+                    "isolated_before": n_iso_before, "isolated_after": n_iso_after,
+                    "resolved": resolved},
+        )
     elif dry_run:
         print("\n  [dry_run] 저장 없음")
     elif submit_only:
@@ -1471,10 +1801,17 @@ def _extract_sources(call_log):
     return sources[:15]
 
 
+@observe(name="query")
 async def _run_one_query(rag, query, mode="hybrid", silent=False):
     global _call_log, _query_cache
     _call_log = []
     u_before  = {k: _usage["query"][k] for k in _usage["query"]}
+
+    langfuse_context.update_current_trace(
+        input={"query": query, "mode": mode},
+        metadata={"model": LLM_MODEL},
+    )
+
     if not silent:
         print(f"\n{'='*60}\n[쿼리] {query}  (mode={mode})\n{'='*60}")
     t0        = time.time()
@@ -1489,6 +1826,10 @@ async def _run_one_query(rag, query, mode="hybrid", silent=False):
         if cached is not None:
             if not silent:
                 print(f"\n  ** 캐시 히트 ** (유사도: {sim:.4f})\n{cached['answer']}")
+            langfuse_context.update_current_trace(
+                output=cached["answer"],
+                metadata={"cache_hit": True, "similarity": round(sim, 4)},
+            )
             return {"query": query, "mode": mode, "answer": cached["answer"],
                     "cache_hit": True, "similarity": sim, "sec": emb_sec,
                     "llm_in": 0, "llm_out": 0, "emb_tok": emb_tok, "cost": 0, "sources": []}
@@ -1517,6 +1858,15 @@ async def _run_one_query(rag, query, mode="hybrid", silent=False):
                            mode=mode, llm_in=q_in, llm_out=q_out, emb_tok=q_emb,
                            cost=q_cost, sec=total_sec)
         if not silent: print(f"  [캐시] 저장 ({_query_cache.summary()})")
+    langfuse_context.update_current_trace(
+        output=result,
+        metadata={
+            "cache_hit": False, "mode": mode,
+            "duration_sec": round(total_sec, 2),
+            "cost_usd": round(q_cost, 6),
+            "tokens": {"llm_in": q_in, "llm_out": q_out, "emb": q_emb},
+        },
+    )
     return {"query": query, "mode": mode, "answer": result, "cache_hit": False,
             "sec": total_sec, "llm_in": q_in, "llm_out": q_out,
             "emb_tok": q_emb, "cost": q_cost, "sources": sources}
@@ -1610,6 +1960,7 @@ def print_total_cost(total_elapsed: float) -> None:
               f"({saved/(tot+saved)*100:.0f}% 절감)")
     print(f"  총 소요 시간       : {total_elapsed:.1f}초")
     print(f"{'='*56}\n")
+    langfuse_context.flush()
 
 
 # ==============================================================================
@@ -1713,6 +2064,7 @@ async def main() -> None:
 
     use_batch = not args.no_batch
     rates = _COST_TABLE[LLM_MODEL]
+    print(f"  [입력] {INPUT_FORMAT.upper()} 모드  디렉터리: {MD_DIR}")
     print(f"  [모델] {rates['name']}  "
           f"(실시간: in=${rates['in']*1000:.3f}/1M  out=${rates['out']*1000:.3f}/1M)")
     if use_batch:
@@ -1768,6 +2120,7 @@ async def main() -> None:
                 await run_heal_batch(
                     do_prune=False, do_embed=False,
                     do_llm=bool(state_c), do_relink=bool(state_d),
+                    use_batch=True,
                     poll_interval=args.poll_interval,
                 )
             else:
@@ -1794,6 +2147,7 @@ async def main() -> None:
             do_llm=do_llm,     do_relink=do_relink,
             dry_run=args.dry_run,
             submit_only=args.submit_only and use_batch,
+            use_batch=use_batch,
             poll_interval=args.poll_interval,
             embed_threshold=args.embed_threshold,
             embed_top_k=args.embed_top_k,
@@ -1834,12 +2188,13 @@ async def main() -> None:
         _phase = "insert"
         t1 = time.time()
         if use_batch:
-            md_files = sorted(
+            _ext = "jsonl" if INPUT_FORMAT == "jsonl" else "md"
+            input_files = sorted(
                 os.path.join(MD_DIR, f)
-                for f in os.listdir(MD_DIR) if f.endswith(".md")
+                for f in os.listdir(MD_DIR) if f.endswith(f".{_ext}")
             )
             batch_cache = await collect_and_submit_insert_batch(
-                md_files,
+                input_files,
                 submit_only=args.submit_only,
                 poll_interval=args.poll_interval,
             )
@@ -1854,12 +2209,13 @@ async def main() -> None:
     else:
         print("  [삽입 건너뜀]\n")
 
-    # 2. 힐링 (배치)
+    # 2. 힐링
     await run_heal_batch(
         do_prune=True, do_embed=True, do_llm=True,
         do_relink=args.heal_all,
         dry_run=args.dry_run,
         submit_only=args.submit_only and use_batch,
+        use_batch=use_batch,
         poll_interval=args.poll_interval,
         embed_threshold=args.embed_threshold,
         embed_top_k=args.embed_top_k,

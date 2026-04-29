@@ -1,0 +1,8083 @@
+{
+  "리리카": {
+    "chunk_ids": [
+      "chunk-f0c9d76fc6fdcc8e5195438fcaea6c29"
+    ],
+    "count": 1,
+    "create_time": 1777436609,
+    "update_time": 1777436609,
+    "_id": "리리카"
+  },
+  "쎄레브렉스": {
+    "chunk_ids": [
+      "chunk-f0c9d76fc6fdcc8e5195438fcaea6c29"
+    ],
+    "count": 1,
+    "create_time": 1777436609,
+    "update_time": 1777436609,
+    "_id": "쎄레브렉스"
+  },
+  "경기도 성남시 분당구 판교로310": {
+    "chunk_ids": [
+      "chunk-f0c9d76fc6fdcc8e5195438fcaea6c29"
+    ],
+    "count": 1,
+    "create_time": 1777436609,
+    "update_time": 1777436609,
+    "_id": "경기도 성남시 분당구 판교로310"
+  },
+  "서울특별시 중구 세종대로 14": {
+    "chunk_ids": [
+      "chunk-f0c9d76fc6fdcc8e5195438fcaea6c29"
+    ],
+    "count": 1,
+    "create_time": 1777436609,
+    "update_time": 1777436609,
+    "_id": "서울특별시 중구 세종대로 14"
+  },
+  "Viatris-Korea-MI@viatris.com": {
+    "chunk_ids": [
+      "chunk-f0c9d76fc6fdcc8e5195438fcaea6c29"
+    ],
+    "count": 1,
+    "create_time": 1777436609,
+    "update_time": 1777436609,
+    "_id": "Viatris-Korea-MI@viatris.com"
+  },
+  "M05-06 류마티스관절염": {
+    "chunk_ids": [
+      "chunk-f0c9d76fc6fdcc8e5195438fcaea6c29"
+    ],
+    "count": 1,
+    "create_time": 1777436609,
+    "update_time": 1777436609,
+    "_id": "M05-06 류마티스관절염"
+  },
+  "리리카 CR 서방정": {
+    "chunk_ids": [
+      "chunk-f0c9d76fc6fdcc8e5195438fcaea6c29"
+    ],
+    "count": 1,
+    "create_time": 1777436609,
+    "update_time": 1777436609,
+    "_id": "리리카 CR 서방정"
+  },
+  "리리카 캡슐": {
+    "chunk_ids": [
+      "chunk-f0c9d76fc6fdcc8e5195438fcaea6c29"
+    ],
+    "count": 1,
+    "create_time": 1777436609,
+    "update_time": 1777436609,
+    "_id": "리리카 캡슐"
+  },
+  "저용량 아스피린": {
+    "chunk_ids": [
+      "chunk-f0c9d76fc6fdcc8e5195438fcaea6c29",
+      "chunk-1fa0c70c99249fccf4c04752f6649248"
+    ],
+    "count": 2,
+    "update_time": 1777437158,
+    "_id": "저용량 아스피린"
+  },
+  "심근경색증": {
+    "chunk_ids": [
+      "chunk-f0c9d76fc6fdcc8e5195438fcaea6c29"
+    ],
+    "count": 1,
+    "create_time": 1777436609,
+    "update_time": 1777436609,
+    "_id": "심근경색증"
+  },
+  "류마티스관절염": {
+    "chunk_ids": [
+      "chunk-558394d300c3fe64dbca4ba82a3e4205"
+    ],
+    "count": 1,
+    "create_time": 1777436609,
+    "update_time": 1777436609,
+    "_id": "류마티스관절염"
+  },
+  "기타 류마티스관절염": {
+    "chunk_ids": [
+      "chunk-558394d300c3fe64dbca4ba82a3e4205"
+    ],
+    "count": 1,
+    "create_time": 1777436609,
+    "update_time": 1777436609,
+    "_id": "기타 류마티스관절염"
+  },
+  "혈청검사음성 류마티스관절염": {
+    "chunk_ids": [
+      "chunk-558394d300c3fe64dbca4ba82a3e4205"
+    ],
+    "count": 1,
+    "create_time": 1777436609,
+    "update_time": 1777436609,
+    "_id": "혈청검사음성 류마티스관절염"
+  },
+  "상세불명의 류마티스관절염": {
+    "chunk_ids": [
+      "chunk-558394d300c3fe64dbca4ba82a3e4205"
+    ],
+    "count": 1,
+    "create_time": 1777436609,
+    "update_time": 1777436609,
+    "_id": "상세불명의 류마티스관절염"
+  },
+  "골관절염": {
+    "chunk_ids": [
+      "chunk-558394d300c3fe64dbca4ba82a3e4205"
+    ],
+    "count": 1,
+    "create_time": 1777436609,
+    "update_time": 1777436609,
+    "_id": "골관절염"
+  },
+  "다발관절증": {
+    "chunk_ids": [
+      "chunk-558394d300c3fe64dbca4ba82a3e4205"
+    ],
+    "count": 1,
+    "create_time": 1777436609,
+    "update_time": 1777436609,
+    "_id": "다발관절증"
+  },
+  "원발성 전신(골)관절증": {
+    "chunk_ids": [
+      "chunk-558394d300c3fe64dbca4ba82a3e4205"
+    ],
+    "count": 1,
+    "create_time": 1777436610,
+    "update_time": 1777436610,
+    "_id": "원발성 전신(골)관절증"
+  },
+  "무릎관절증": {
+    "chunk_ids": [
+      "chunk-558394d300c3fe64dbca4ba82a3e4205"
+    ],
+    "count": 1,
+    "create_time": 1777436610,
+    "update_time": 1777436610,
+    "_id": "무릎관절증"
+  },
+  "강직척추염": {
+    "chunk_ids": [
+      "chunk-558394d300c3fe64dbca4ba82a3e4205",
+      "chunk-9bd4d52fcc15f7d42ef85b8879b1c330"
+    ],
+    "count": 2,
+    "create_time": 1777436610,
+    "update_time": 1777436610,
+    "_id": "강직척추염"
+  },
+  "척추증": {
+    "chunk_ids": [
+      "chunk-558394d300c3fe64dbca4ba82a3e4205",
+      "chunk-9bd4d52fcc15f7d42ef85b8879b1c330"
+    ],
+    "count": 2,
+    "create_time": 1777436610,
+    "update_time": 1777436610,
+    "_id": "척추증"
+  },
+  "기타 관절증": {
+    "chunk_ids": [
+      "chunk-558394d300c3fe64dbca4ba82a3e4205"
+    ],
+    "count": 1,
+    "create_time": 1777436610,
+    "update_time": 1777436610,
+    "_id": "기타 관절증"
+  },
+  "고관절증": {
+    "chunk_ids": [
+      "chunk-558394d300c3fe64dbca4ba82a3e4205"
+    ],
+    "count": 1,
+    "create_time": 1777436610,
+    "update_time": 1777436610,
+    "_id": "고관절증"
+  },
+  "양쪽 원발성 고관절증": {
+    "chunk_ids": [
+      "chunk-558394d300c3fe64dbca4ba82a3e4205"
+    ],
+    "count": 1,
+    "create_time": 1777436610,
+    "update_time": 1777436610,
+    "_id": "양쪽 원발성 고관절증"
+  },
+  "기타 원발성 고관절증": {
+    "chunk_ids": [
+      "chunk-558394d300c3fe64dbca4ba82a3e4205"
+    ],
+    "count": 1,
+    "create_time": 1777436610,
+    "update_time": 1777436610,
+    "_id": "기타 원발성 고관절증"
+  },
+  "기타 원발성 무릎관절증": {
+    "chunk_ids": [
+      "chunk-558394d300c3fe64dbca4ba82a3e4205"
+    ],
+    "count": 1,
+    "create_time": 1777436610,
+    "update_time": 1777436610,
+    "_id": "기타 원발성 무릎관절증"
+  },
+  "기타 이차성 무릎관절증": {
+    "chunk_ids": [
+      "chunk-558394d300c3fe64dbca4ba82a3e4205"
+    ],
+    "count": 1,
+    "create_time": 1777436610,
+    "update_time": 1777436610,
+    "_id": "기타 이차성 무릎관절증"
+  },
+  "상세불명의 무릎관절증": {
+    "chunk_ids": [
+      "chunk-558394d300c3fe64dbca4ba82a3e4205"
+    ],
+    "count": 1,
+    "create_time": 1777436610,
+    "update_time": 1777436610,
+    "_id": "상세불명의 무릎관절증"
+  },
+  "제1수근중수관절의 관절증": {
+    "chunk_ids": [
+      "chunk-558394d300c3fe64dbca4ba82a3e4205"
+    ],
+    "count": 1,
+    "create_time": 1777436610,
+    "update_time": 1777436610,
+    "_id": "제1수근중수관절의 관절증"
+  },
+  "제1수근중수관절의 양쪽 원발성 관절증": {
+    "chunk_ids": [
+      "chunk-558394d300c3fe64dbca4ba82a3e4205"
+    ],
+    "count": 1,
+    "create_time": 1777436610,
+    "update_time": 1777436610,
+    "_id": "제1수근중수관절의 양쪽 원발성 관절증"
+  },
+  "다발신경병증": {
+    "chunk_ids": [
+      "chunk-0c7be9e40ccf12fa43c93e1d31b4a025"
+    ],
+    "count": 1,
+    "create_time": 1777436610,
+    "update_time": 1777436610,
+    "_id": "다발신경병증"
+  },
+  "대상포진 후 신경통": {
+    "chunk_ids": [
+      "chunk-0c7be9e40ccf12fa43c93e1d31b4a025",
+      "chunk-9bd4d52fcc15f7d42ef85b8879b1c330"
+    ],
+    "count": 2,
+    "create_time": 1777436611,
+    "update_time": 1777436611,
+    "_id": "대상포진 후 신경통"
+  },
+  "포진 후 삼차신경통": {
+    "chunk_ids": [
+      "chunk-0c7be9e40ccf12fa43c93e1d31b4a025"
+    ],
+    "count": 1,
+    "create_time": 1777436611,
+    "update_time": 1777436611,
+    "_id": "포진 후 삼차신경통"
+  },
+  "포진 후 슬신경절염": {
+    "chunk_ids": [
+      "chunk-0c7be9e40ccf12fa43c93e1d31b4a025"
+    ],
+    "count": 1,
+    "create_time": 1777436611,
+    "update_time": 1777436611,
+    "_id": "포진 후 슬신경절염"
+  },
+  "복합부위 통증 증후군": {
+    "chunk_ids": [
+      "chunk-0c7be9e40ccf12fa43c93e1d31b4a025"
+    ],
+    "count": 1,
+    "create_time": 1777436611,
+    "update_time": 1777436611,
+    "_id": "복합부위 통증 증후군"
+  },
+  "신경병증성 통증": {
+    "chunk_ids": [
+      "chunk-0c7be9e40ccf12fa43c93e1d31b4a025"
+    ],
+    "count": 1,
+    "create_time": 1777436611,
+    "update_time": 1777436611,
+    "_id": "신경병증성 통증"
+  },
+  "경부척수의 기타 및 상세불명의 손상": {
+    "chunk_ids": [
+      "chunk-0c7be9e40ccf12fa43c93e1d31b4a025"
+    ],
+    "count": 1,
+    "create_time": 1777436611,
+    "update_time": 1777436611,
+    "_id": "경부척수의 기타 및 상세불명의 손상"
+  },
+  "섬유근육통": {
+    "chunk_ids": [
+      "chunk-0c7be9e40ccf12fa43c93e1d31b4a025"
+    ],
+    "count": 1,
+    "create_time": 1777436611,
+    "update_time": 1777436611,
+    "_id": "섬유근육통"
+  },
+  "허가사항": {
+    "chunk_ids": [
+      "chunk-0c7be9e40ccf12fa43c93e1d31b4a025"
+    ],
+    "count": 1,
+    "create_time": 1777436611,
+    "update_time": 1777436611,
+    "_id": "허가사항"
+  },
+  "다발신경병증 (C00-D48+)": {
+    "chunk_ids": [
+      "chunk-0c7be9e40ccf12fa43c93e1d31b4a025"
+    ],
+    "count": 1,
+    "create_time": 1777436611,
+    "update_time": 1777436611,
+    "_id": "다발신경병증 (C00-D48+)"
+  },
+  "포진 후 다발신경병": {
+    "chunk_ids": [
+      "chunk-0c7be9e40ccf12fa43c93e1d31b4a025"
+    ],
+    "count": 1,
+    "create_time": 1777436611,
+    "update_time": 1777436611,
+    "_id": "포진 후 다발신경병"
+  },
+  "복합부위 통증증후군 1형": {
+    "chunk_ids": [
+      "chunk-0c7be9e40ccf12fa43c93e1d31b4a025"
+    ],
+    "count": 1,
+    "create_time": 1777436611,
+    "update_time": 1777436611,
+    "_id": "복합부위 통증증후군 1형"
+  },
+  "복합부위 통증증후군 2형": {
+    "chunk_ids": [
+      "chunk-0c7be9e40ccf12fa43c93e1d31b4a025"
+    ],
+    "count": 1,
+    "create_time": 1777436611,
+    "update_time": 1777436611,
+    "_id": "복합부위 통증증후군 2형"
+  },
+  "작열통": {
+    "chunk_ids": [
+      "chunk-0c7be9e40ccf12fa43c93e1d31b4a025"
+    ],
+    "count": 1,
+    "create_time": 1777436611,
+    "update_time": 1777436611,
+    "_id": "작열통"
+  },
+  "관절증": {
+    "chunk_ids": [
+      "chunk-9bd4d52fcc15f7d42ef85b8879b1c330"
+    ],
+    "count": 1,
+    "create_time": 1777436611,
+    "update_time": 1777436611,
+    "_id": "관절증"
+  },
+  "급성 통증": {
+    "chunk_ids": [
+      "chunk-9bd4d52fcc15f7d42ef85b8879b1c330",
+      "chunk-94a14d53e034cff8d203c2e1f163a79c"
+    ],
+    "count": 2,
+    "update_time": 1777438596,
+    "_id": "급성 통증"
+  },
+  "치통": {
+    "chunk_ids": [
+      "chunk-9bd4d52fcc15f7d42ef85b8879b1c330"
+    ],
+    "count": 1,
+    "create_time": 1777436611,
+    "update_time": 1777436611,
+    "_id": "치통"
+  },
+  "원발성 월경통": {
+    "chunk_ids": [
+      "chunk-9bd4d52fcc15f7d42ef85b8879b1c330"
+    ],
+    "count": 1,
+    "create_time": 1777436611,
+    "update_time": 1777436611,
+    "_id": "원발성 월경통"
+  },
+  "당뇨병성 단일신경병증": {
+    "chunk_ids": [
+      "chunk-9bd4d52fcc15f7d42ef85b8879b1c330"
+    ],
+    "count": 1,
+    "create_time": 1777436612,
+    "update_time": 1777436612,
+    "_id": "당뇨병성 단일신경병증"
+  },
+  "당뇨병성 다발신경병증": {
+    "chunk_ids": [
+      "chunk-9bd4d52fcc15f7d42ef85b8879b1c330"
+    ],
+    "count": 1,
+    "create_time": 1777436612,
+    "update_time": 1777436612,
+    "_id": "당뇨병성 다발신경병증"
+  },
+  "척추 수술 후 통증 증후군": {
+    "chunk_ids": [
+      "chunk-9bd4d52fcc15f7d42ef85b8879b1c330"
+    ],
+    "count": 1,
+    "create_time": 1777436612,
+    "update_time": 1777436612,
+    "_id": "척추 수술 후 통증 증후군"
+  },
+  "암성 신경병증성 통증": {
+    "chunk_ids": [
+      "chunk-9bd4d52fcc15f7d42ef85b8879b1c330"
+    ],
+    "count": 1,
+    "create_time": 1777436612,
+    "update_time": 1777436612,
+    "_id": "암성 신경병증성 통증"
+  },
+  "원발성 관절증": {
+    "chunk_ids": [
+      "chunk-9bd4d52fcc15f7d42ef85b8879b1c330"
+    ],
+    "count": 1,
+    "create_time": 1777436612,
+    "update_time": 1777436612,
+    "_id": "원발성 관절증"
+  },
+  "기타 척추증": {
+    "chunk_ids": [
+      "chunk-9bd4d52fcc15f7d42ef85b8879b1c330"
+    ],
+    "count": 1,
+    "create_time": 1777436612,
+    "update_time": 1777436612,
+    "_id": "기타 척추증"
+  },
+  "신경뿌리병증을 동반한 기타 척추증": {
+    "chunk_ids": [
+      "chunk-9bd4d52fcc15f7d42ef85b8879b1c330"
+    ],
+    "count": 1,
+    "create_time": 1777436612,
+    "update_time": 1777436612,
+    "_id": "신경뿌리병증을 동반한 기타 척추증"
+  },
+  "척수병증을 동반한 기타 척추증": {
+    "chunk_ids": [
+      "chunk-9bd4d52fcc15f7d42ef85b8879b1c330"
+    ],
+    "count": 1,
+    "create_time": 1777436612,
+    "update_time": 1777436612,
+    "_id": "척수병증을 동반한 기타 척추증"
+  },
+  "NEUROTRANSMITTERS": {
+    "chunk_ids": [
+      "chunk-b577faecc795e3adca84be94e3af5e8e"
+    ],
+    "count": 1,
+    "create_time": 1777436667,
+    "update_time": 1777436667,
+    "_id": "NEUROTRANSMITTERS"
+  },
+  "NSAIDs": {
+    "chunk_ids": [
+      "chunk-b577faecc795e3adca84be94e3af5e8e",
+      "chunk-4f242e5c82e478f8137e8aef64d5c741",
+      "chunk-b12a437cbfa378c5e215edbf179f115d",
+      "chunk-1fa0c70c99249fccf4c04752f6649248"
+    ],
+    "count": 4,
+    "update_time": 1777437171,
+    "_id": "NSAIDs"
+  },
+  "Mastocyte": {
+    "chunk_ids": [
+      "chunk-b577faecc795e3adca84be94e3af5e8e",
+      "chunk-ae7b32518fae5c3459285df7b66f352d"
+    ],
+    "count": 2,
+    "create_time": 1777436667,
+    "update_time": 1777436667,
+    "_id": "Mastocyte"
+  },
+  "NEUROGENIC INFLAMMATION": {
+    "chunk_ids": [
+      "chunk-b577faecc795e3adca84be94e3af5e8e"
+    ],
+    "count": 1,
+    "create_time": 1777436667,
+    "update_time": 1777436667,
+    "_id": "NEUROGENIC INFLAMMATION"
+  },
+  "Triptan": {
+    "chunk_ids": [
+      "chunk-b577faecc795e3adca84be94e3af5e8e",
+      "chunk-31a45d1131ef6ca1225401e6b3cf086f",
+      "chunk-ae7b32518fae5c3459285df7b66f352d"
+    ],
+    "count": 3,
+    "update_time": 1777436690,
+    "_id": "Triptan"
+  },
+  "CGRP": {
+    "chunk_ids": [
+      "chunk-b577faecc795e3adca84be94e3af5e8e",
+      "chunk-ae7b32518fae5c3459285df7b66f352d"
+    ],
+    "count": 2,
+    "create_time": 1777436667,
+    "update_time": 1777436667,
+    "_id": "CGRP"
+  },
+  "5-HT1F": {
+    "chunk_ids": [
+      "chunk-b577faecc795e3adca84be94e3af5e8e"
+    ],
+    "count": 1,
+    "create_time": 1777436667,
+    "update_time": 1777436667,
+    "_id": "5-HT1F"
+  },
+  "5-HT1D": {
+    "chunk_ids": [
+      "chunk-b577faecc795e3adca84be94e3af5e8e"
+    ],
+    "count": 1,
+    "create_time": 1777436667,
+    "update_time": 1777436667,
+    "_id": "5-HT1D"
+  },
+  "5-HT1B": {
+    "chunk_ids": [
+      "chunk-b577faecc795e3adca84be94e3af5e8e"
+    ],
+    "count": 1,
+    "create_time": 1777436667,
+    "update_time": 1777436667,
+    "_id": "5-HT1B"
+  },
+  "VSMC": {
+    "chunk_ids": [
+      "chunk-b577faecc795e3adca84be94e3af5e8e"
+    ],
+    "count": 1,
+    "create_time": 1777436667,
+    "update_time": 1777436667,
+    "_id": "VSMC"
+  },
+  "Meningeal Vasoconstriction": {
+    "chunk_ids": [
+      "chunk-b577faecc795e3adca84be94e3af5e8e"
+    ],
+    "count": 1,
+    "create_time": 1777436667,
+    "update_time": 1777436667,
+    "_id": "Meningeal Vasoconstriction"
+  },
+  "Sumatriptan": {
+    "chunk_ids": [
+      "chunk-b577faecc795e3adca84be94e3af5e8e",
+      "chunk-2b47816d221f3d6f96c88e34be90854f",
+      "chunk-f7747e1a9bc40e8c616f627a425d990c",
+      "chunk-ae7b32518fae5c3459285df7b66f352d"
+    ],
+    "count": 4,
+    "create_time": 1777436667,
+    "update_time": 1777436667,
+    "_id": "Sumatriptan"
+  },
+  "Naproxen": {
+    "chunk_ids": [
+      "chunk-b577faecc795e3adca84be94e3af5e8e",
+      "chunk-2b47816d221f3d6f96c88e34be90854f",
+      "chunk-f7747e1a9bc40e8c616f627a425d990c",
+      "chunk-ae7b32518fae5c3459285df7b66f352d"
+    ],
+    "count": 4,
+    "create_time": 1777436667,
+    "update_time": 1777436667,
+    "_id": "Naproxen"
+  },
+  "PGE2": {
+    "chunk_ids": [
+      "chunk-b577faecc795e3adca84be94e3af5e8e"
+    ],
+    "count": 1,
+    "create_time": 1777436667,
+    "update_time": 1777436667,
+    "_id": "PGE2"
+  },
+  "SUVEXX": {
+    "chunk_ids": [
+      "chunk-b577faecc795e3adca84be94e3af5e8e",
+      "chunk-f2def04e0d7bc376a2b55485c0506fb5"
+    ],
+    "count": 2,
+    "create_time": 1777436667,
+    "update_time": 1777436667,
+    "_id": "SUVEXX"
+  },
+  "Combination Tablet": {
+    "chunk_ids": [
+      "chunk-2b47816d221f3d6f96c88e34be90854f"
+    ],
+    "count": 1,
+    "create_time": 1777436667,
+    "update_time": 1777436667,
+    "_id": "Combination Tablet"
+  },
+  "Tmax": {
+    "chunk_ids": [
+      "chunk-2b47816d221f3d6f96c88e34be90854f"
+    ],
+    "count": 1,
+    "create_time": 1777436667,
+    "update_time": 1777436667,
+    "_id": "Tmax"
+  },
+  "AUC": {
+    "chunk_ids": [
+      "chunk-2b47816d221f3d6f96c88e34be90854f",
+      "chunk-e9cedd2080426ee14502060619514a2a"
+    ],
+    "count": 2,
+    "update_time": 1777436972,
+    "_id": "AUC"
+  },
+  "Study 1": {
+    "chunk_ids": [
+      "chunk-2b47816d221f3d6f96c88e34be90854f"
+    ],
+    "count": 1,
+    "create_time": 1777436668,
+    "update_time": 1777436668,
+    "_id": "Study 1"
+  },
+  "Study 2": {
+    "chunk_ids": [
+      "chunk-2b47816d221f3d6f96c88e34be90854f"
+    ],
+    "count": 1,
+    "create_time": 1777436668,
+    "update_time": 1777436668,
+    "_id": "Study 2"
+  },
+  "Bioavailability Ratio": {
+    "chunk_ids": [
+      "chunk-2b47816d221f3d6f96c88e34be90854f"
+    ],
+    "count": 1,
+    "create_time": 1777436668,
+    "update_time": 1777436668,
+    "_id": "Bioavailability Ratio"
+  },
+  "Reference": {
+    "chunk_ids": [
+      "chunk-2b47816d221f3d6f96c88e34be90854f"
+    ],
+    "count": 1,
+    "create_time": 1777436668,
+    "update_time": 1777436668,
+    "_id": "Reference"
+  },
+  "대한두통학회": {
+    "chunk_ids": [
+      "chunk-f7747e1a9bc40e8c616f627a425d990c",
+      "chunk-4f242e5c82e478f8137e8aef64d5c741",
+      "chunk-31a45d1131ef6ca1225401e6b3cf086f",
+      "chunk-fa2ec0c00740e807c4248c7fdb2f9276"
+    ],
+    "count": 4,
+    "create_time": 1777436668,
+    "update_time": 1777436668,
+    "_id": "대한두통학회"
+  },
+  "수벡스정": {
+    "chunk_ids": [
+      "chunk-f7747e1a9bc40e8c616f627a425d990c",
+      "chunk-f2def04e0d7bc376a2b55485c0506fb5",
+      "chunk-b3e10a4696f28cb4407ef3f0372636b5",
+      "chunk-ae7b32518fae5c3459285df7b66f352d",
+      "chunk-4f242e5c82e478f8137e8aef64d5c741",
+      "chunk-31a45d1131ef6ca1225401e6b3cf086f",
+      "chunk-fa2ec0c00740e807c4248c7fdb2f9276"
+    ],
+    "count": 7,
+    "create_time": 1777436668,
+    "update_time": 1777436668,
+    "_id": "수벡스정"
+  },
+  "Naproxen Sodium 500": {
+    "chunk_ids": [
+      "chunk-f7747e1a9bc40e8c616f627a425d990c"
+    ],
+    "count": 1,
+    "create_time": 1777436668,
+    "update_time": 1777436668,
+    "_id": "Naproxen Sodium 500"
+  },
+  "빠른 효과": {
+    "chunk_ids": [
+      "chunk-f7747e1a9bc40e8c616f627a425d990c"
+    ],
+    "count": 1,
+    "create_time": 1777436668,
+    "update_time": 1777436668,
+    "_id": "빠른 효과"
+  },
+  "지속적인 효과": {
+    "chunk_ids": [
+      "chunk-f7747e1a9bc40e8c616f627a425d990c"
+    ],
+    "count": 1,
+    "create_time": 1777436668,
+    "update_time": 1777436668,
+    "_id": "지속적인 효과"
+  },
+  "편두통 완화에 대한 환자의 만족도": {
+    "chunk_ids": [
+      "chunk-f7747e1a9bc40e8c616f627a425d990c"
+    ],
+    "count": 1,
+    "create_time": 1777436668,
+    "update_time": 1777436668,
+    "_id": "편두통 완화에 대한 환자의 만족도"
+  },
+  "SMT/NPX 복합제": {
+    "chunk_ids": [
+      "chunk-f7747e1a9bc40e8c616f627a425d990c"
+    ],
+    "count": 1,
+    "create_time": 1777436669,
+    "update_time": 1777436669,
+    "_id": "SMT/NPX 복합제"
+  },
+  "작용기전": {
+    "chunk_ids": [
+      "chunk-f7747e1a9bc40e8c616f627a425d990c"
+    ],
+    "count": 1,
+    "create_time": 1777436669,
+    "update_time": 1777436669,
+    "_id": "작용기전"
+  },
+  "수마트립탄": {
+    "chunk_ids": [
+      "chunk-f2def04e0d7bc376a2b55485c0506fb5",
+      "chunk-4f242e5c82e478f8137e8aef64d5c741",
+      "chunk-fa2ec0c00740e807c4248c7fdb2f9276"
+    ],
+    "count": 3,
+    "create_time": 1777436669,
+    "update_time": 1777436669,
+    "_id": "수마트립탄"
+  },
+  "나프록센 나트륨": {
+    "chunk_ids": [
+      "chunk-f2def04e0d7bc376a2b55485c0506fb5",
+      "chunk-b3e10a4696f28cb4407ef3f0372636b5"
+    ],
+    "count": 2,
+    "create_time": 1777436669,
+    "update_time": 1777436669,
+    "_id": "나프록센 나트륨"
+  },
+  "환자 만족도": {
+    "chunk_ids": [
+      "chunk-f2def04e0d7bc376a2b55485c0506fb5",
+      "chunk-012f5acc8820b0152f236494da4e53aa"
+    ],
+    "count": 2,
+    "create_time": 1777436669,
+    "update_time": 1777436669,
+    "_id": "환자 만족도"
+  },
+  "임상 연구": {
+    "chunk_ids": [
+      "chunk-f2def04e0d7bc376a2b55485c0506fb5"
+    ],
+    "count": 1,
+    "create_time": 1777436669,
+    "update_time": 1777436669,
+    "_id": "임상 연구"
+  },
+  "복합제": {
+    "chunk_ids": [
+      "chunk-f2def04e0d7bc376a2b55485c0506fb5"
+    ],
+    "count": 1,
+    "create_time": 1777436669,
+    "update_time": 1777436669,
+    "_id": "복합제"
+  },
+  "위약군": {
+    "chunk_ids": [
+      "chunk-f2def04e0d7bc376a2b55485c0506fb5",
+      "chunk-23d97c85a39b599564b46dbd568dee87",
+      "chunk-90fdd954d1f3ec2ae488ffa369a1bc66"
+    ],
+    "count": 3,
+    "update_time": 1777437086,
+    "_id": "위약군"
+  },
+  "편두통": {
+    "chunk_ids": [
+      "chunk-f2def04e0d7bc376a2b55485c0506fb5",
+      "chunk-b3e10a4696f28cb4407ef3f0372636b5",
+      "chunk-fa2ec0c00740e807c4248c7fdb2f9276"
+    ],
+    "count": 3,
+    "create_time": 1777436669,
+    "update_time": 1777436669,
+    "_id": "편두통"
+  },
+  "이중 맹검 연구": {
+    "chunk_ids": [
+      "chunk-f2def04e0d7bc376a2b55485c0506fb5"
+    ],
+    "count": 1,
+    "create_time": 1777436669,
+    "update_time": 1777436669,
+    "_id": "이중 맹검 연구"
+  },
+  "JAMA": {
+    "chunk_ids": [
+      "chunk-f2def04e0d7bc376a2b55485c0506fb5"
+    ],
+    "count": 1,
+    "create_time": 1777436669,
+    "update_time": 1777436669,
+    "_id": "JAMA"
+  },
+  "Neurology": {
+    "chunk_ids": [
+      "chunk-f2def04e0d7bc376a2b55485c0506fb5"
+    ],
+    "count": 1,
+    "create_time": 1777436669,
+    "update_time": 1777436669,
+    "_id": "Neurology"
+  },
+  "수마트립탄 숙신산염": {
+    "chunk_ids": [
+      "chunk-b3e10a4696f28cb4407ef3f0372636b5"
+    ],
+    "count": 1,
+    "create_time": 1777436670,
+    "update_time": 1777436670,
+    "_id": "수마트립탄 숙신산염"
+  },
+  "이승현": {
+    "chunk_ids": [
+      "chunk-b3e10a4696f28cb4407ef3f0372636b5",
+      "chunk-31a45d1131ef6ca1225401e6b3cf086f"
+    ],
+    "count": 2,
+    "create_time": 1777436670,
+    "update_time": 1777436670,
+    "_id": "이승현"
+  },
+  "SK케미칼": {
+    "chunk_ids": [
+      "chunk-b3e10a4696f28cb4407ef3f0372636b5",
+      "chunk-80a481c1cc017fd888e99c5615910150"
+    ],
+    "count": 2,
+    "update_time": 1777436951,
+    "_id": "SK케미칼"
+  },
+  "비스테로이드성 소염진통제": {
+    "chunk_ids": [
+      "chunk-b3e10a4696f28cb4407ef3f0372636b5"
+    ],
+    "count": 1,
+    "create_time": 1777436670,
+    "update_time": 1777436670,
+    "_id": "비스테로이드성 소염진통제"
+  },
+  "전문의약품": {
+    "chunk_ids": [
+      "chunk-b3e10a4696f28cb4407ef3f0372636b5",
+      "chunk-f92d6e9ce4a9d18ae432a3bd8ea906fb"
+    ],
+    "count": 2,
+    "update_time": 1777437084,
+    "_id": "전문의약품"
+  },
+  "해열, 진통, 소염제": {
+    "chunk_ids": [
+      "chunk-b3e10a4696f28cb4407ef3f0372636b5"
+    ],
+    "count": 1,
+    "create_time": 1777436670,
+    "update_time": 1777436670,
+    "_id": "해열, 진통, 소염제"
+  },
+  "신장애 환자": {
+    "chunk_ids": [
+      "chunk-b3e10a4696f28cb4407ef3f0372636b5"
+    ],
+    "count": 1,
+    "create_time": 1777436670,
+    "update_time": 1777436670,
+    "_id": "신장애 환자"
+  },
+  "간장애 환자": {
+    "chunk_ids": [
+      "chunk-b3e10a4696f28cb4407ef3f0372636b5"
+    ],
+    "count": 1,
+    "create_time": 1777436671,
+    "update_time": 1777436671,
+    "_id": "간장애 환자"
+  },
+  "5-HT1B 수용체": {
+    "chunk_ids": [
+      "chunk-ae7b32518fae5c3459285df7b66f352d"
+    ],
+    "count": 1,
+    "create_time": 1777436671,
+    "update_time": 1777436671,
+    "_id": "5-HT1B 수용체"
+  },
+  "5-HT1D 수용체": {
+    "chunk_ids": [
+      "chunk-ae7b32518fae5c3459285df7b66f352d"
+    ],
+    "count": 1,
+    "create_time": 1777436671,
+    "update_time": 1777436671,
+    "_id": "5-HT1D 수용체"
+  },
+  "5-HT1F 수용체": {
+    "chunk_ids": [
+      "chunk-ae7b32518fae5c3459285df7b66f352d"
+    ],
+    "count": 1,
+    "create_time": 1777436671,
+    "update_time": 1777436671,
+    "_id": "5-HT1F 수용체"
+  },
+  "혈관 평활근세포": {
+    "chunk_ids": [
+      "chunk-ae7b32518fae5c3459285df7b66f352d"
+    ],
+    "count": 1,
+    "create_time": 1777436671,
+    "update_time": 1777436671,
+    "_id": "혈관 평활근세포"
+  },
+  "내피세포": {
+    "chunk_ids": [
+      "chunk-ae7b32518fae5c3459285df7b66f352d"
+    ],
+    "count": 1,
+    "create_time": 1777436671,
+    "update_time": 1777436671,
+    "_id": "내피세포"
+  },
+  "신경인지 염증": {
+    "chunk_ids": [
+      "chunk-ae7b32518fae5c3459285df7b66f352d"
+    ],
+    "count": 1,
+    "create_time": 1777436671,
+    "update_time": 1777436671,
+    "_id": "신경인지 염증"
+  },
+  "신경활성화": {
+    "chunk_ids": [
+      "chunk-ae7b32518fae5c3459285df7b66f352d"
+    ],
+    "count": 1,
+    "create_time": 1777436671,
+    "update_time": 1777436671,
+    "_id": "신경활성화"
+  },
+  "엑스퍼리멘털 데이터": {
+    "chunk_ids": [
+      "chunk-ae7b32518fae5c3459285df7b66f352d"
+    ],
+    "count": 1,
+    "create_time": 1777436671,
+    "update_time": 1777436671,
+    "_id": "엑스퍼리멘털 데이터"
+  },
+  "증상 완화": {
+    "chunk_ids": [
+      "chunk-012f5acc8820b0152f236494da4e53aa"
+    ],
+    "count": 1,
+    "create_time": 1777436671,
+    "update_time": 1777436671,
+    "_id": "증상 완화"
+  },
+  "복귀 속도": {
+    "chunk_ids": [
+      "chunk-012f5acc8820b0152f236494da4e53aa"
+    ],
+    "count": 1,
+    "create_time": 1777436671,
+    "update_time": 1777436671,
+    "_id": "복귀 속도"
+  },
+  "약물 효과": {
+    "chunk_ids": [
+      "chunk-012f5acc8820b0152f236494da4e53aa"
+    ],
+    "count": 1,
+    "create_time": 1777436672,
+    "update_time": 1777436672,
+    "_id": "약물 효과"
+  },
+  "복합제 치료": {
+    "chunk_ids": [
+      "chunk-012f5acc8820b0152f236494da4e53aa"
+    ],
+    "count": 1,
+    "create_time": 1777436672,
+    "update_time": 1777436672,
+    "_id": "복합제 치료"
+  },
+  "수마트립탄/나프록센나트륨": {
+    "chunk_ids": [
+      "chunk-012f5acc8820b0152f236494da4e53aa"
+    ],
+    "count": 1,
+    "create_time": 1777436672,
+    "update_time": 1777436672,
+    "_id": "수마트립탄/나프록센나트륨"
+  },
+  "이상반응": {
+    "chunk_ids": [
+      "chunk-012f5acc8820b0152f236494da4e53aa",
+      "chunk-fa2ec0c00740e807c4248c7fdb2f9276",
+      "chunk-170f6df019569aa473c767d889cf45f3"
+    ],
+    "count": 3,
+    "update_time": 1777436954,
+    "_id": "이상반응"
+  },
+  "졸림": {
+    "chunk_ids": [
+      "chunk-012f5acc8820b0152f236494da4e53aa"
+    ],
+    "count": 1,
+    "create_time": 1777436672,
+    "update_time": 1777436672,
+    "_id": "졸림"
+  },
+  "구역": {
+    "chunk_ids": [
+      "chunk-012f5acc8820b0152f236494da4e53aa",
+      "chunk-4f242e5c82e478f8137e8aef64d5c741",
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 3,
+    "update_time": 1777437080,
+    "_id": "구역"
+  },
+  "어지러움증": {
+    "chunk_ids": [
+      "chunk-012f5acc8820b0152f236494da4e53aa"
+    ],
+    "count": 1,
+    "create_time": 1777436672,
+    "update_time": 1777436672,
+    "_id": "어지러움증"
+  },
+  "구강건조": {
+    "chunk_ids": [
+      "chunk-012f5acc8820b0152f236494da4e53aa",
+      "chunk-4f242e5c82e478f8137e8aef64d5c741"
+    ],
+    "count": 2,
+    "create_time": 1777436672,
+    "update_time": 1777436672,
+    "_id": "구강건조"
+  },
+  "지각이상": {
+    "chunk_ids": [
+      "chunk-4f242e5c82e478f8137e8aef64d5c741"
+    ],
+    "count": 1,
+    "create_time": 1777436672,
+    "update_time": 1777436672,
+    "_id": "지각이상"
+  },
+  "소화불량": {
+    "chunk_ids": [
+      "chunk-4f242e5c82e478f8137e8aef64d5c741"
+    ],
+    "count": 1,
+    "create_time": 1777436672,
+    "update_time": 1777436672,
+    "_id": "소화불량"
+  },
+  "흉부불편감": {
+    "chunk_ids": [
+      "chunk-4f242e5c82e478f8137e8aef64d5c741"
+    ],
+    "count": 1,
+    "create_time": 1777436672,
+    "update_time": 1777436672,
+    "_id": "흉부불편감"
+  },
+  "식품의약품안전처": {
+    "chunk_ids": [
+      "chunk-4f242e5c82e478f8137e8aef64d5c741",
+      "chunk-2cafd250b741b747a1368c5c71cde047"
+    ],
+    "count": 2,
+    "update_time": 1777436980,
+    "_id": "식품의약품안전처"
+  },
+  "나프록센": {
+    "chunk_ids": [
+      "chunk-4f242e5c82e478f8137e8aef64d5c741"
+    ],
+    "count": 1,
+    "create_time": 1777436673,
+    "update_time": 1777436673,
+    "_id": "나프록센"
+  },
+  "SK 케미칼": {
+    "chunk_ids": [
+      "chunk-31a45d1131ef6ca1225401e6b3cf086f"
+    ],
+    "count": 1,
+    "create_time": 1777436673,
+    "update_time": 1777436673,
+    "_id": "SK 케미칼"
+  },
+  "Naproxen sodium": {
+    "chunk_ids": [
+      "chunk-31a45d1131ef6ca1225401e6b3cf086f"
+    ],
+    "count": 1,
+    "create_time": 1777436673,
+    "update_time": 1777436673,
+    "_id": "Naproxen sodium"
+  },
+  "Ibuprofen": {
+    "chunk_ids": [
+      "chunk-31a45d1131ef6ca1225401e6b3cf086f"
+    ],
+    "count": 1,
+    "create_time": 1777436673,
+    "update_time": 1777436673,
+    "_id": "Ibuprofen"
+  },
+  "Celecoxib": {
+    "chunk_ids": [
+      "chunk-31a45d1131ef6ca1225401e6b3cf086f"
+    ],
+    "count": 1,
+    "create_time": 1777436673,
+    "update_time": 1777436673,
+    "_id": "Celecoxib"
+  },
+  "Ketoprofen": {
+    "chunk_ids": [
+      "chunk-31a45d1131ef6ca1225401e6b3cf086f"
+    ],
+    "count": 1,
+    "create_time": 1777436673,
+    "update_time": 1777436673,
+    "_id": "Ketoprofen"
+  },
+  "Diclofenac": {
+    "chunk_ids": [
+      "chunk-31a45d1131ef6ca1225401e6b3cf086f",
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 2,
+    "update_time": 1777437171,
+    "_id": "Diclofenac"
+  },
+  "Indomethacin": {
+    "chunk_ids": [
+      "chunk-31a45d1131ef6ca1225401e6b3cf086f",
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 2,
+    "update_time": 1777437162,
+    "_id": "Indomethacin"
+  },
+  "Etodolac": {
+    "chunk_ids": [
+      "chunk-31a45d1131ef6ca1225401e6b3cf086f"
+    ],
+    "count": 1,
+    "create_time": 1777436673,
+    "update_time": 1777436673,
+    "_id": "Etodolac"
+  },
+  "Migraine": {
+    "chunk_ids": [
+      "chunk-31a45d1131ef6ca1225401e6b3cf086f"
+    ],
+    "count": 1,
+    "create_time": 1777436673,
+    "update_time": 1777436673,
+    "_id": "Migraine"
+  },
+  "심혈관 질환 환자": {
+    "chunk_ids": [
+      "chunk-fa2ec0c00740e807c4248c7fdb2f9276"
+    ],
+    "count": 1,
+    "create_time": 1777436673,
+    "update_time": 1777436673,
+    "_id": "심혈관 질환 환자"
+  },
+  "관상동맥우회로술": {
+    "chunk_ids": [
+      "chunk-fa2ec0c00740e807c4248c7fdb2f9276"
+    ],
+    "count": 1,
+    "create_time": 1777436673,
+    "update_time": 1777436673,
+    "_id": "관상동맥우회로술"
+  },
+  "Wolff-Parkinson-White 증후군": {
+    "chunk_ids": [
+      "chunk-fa2ec0c00740e807c4248c7fdb2f9276"
+    ],
+    "count": 1,
+    "create_time": 1777436673,
+    "update_time": 1777436673,
+    "_id": "Wolff-Parkinson-White 증후군"
+  },
+  "고혈압 환자": {
+    "chunk_ids": [
+      "chunk-fa2ec0c00740e807c4248c7fdb2f9276"
+    ],
+    "count": 1,
+    "create_time": 1777436674,
+    "update_time": 1777436674,
+    "_id": "고혈압 환자"
+  },
+  "심기능부전 환자": {
+    "chunk_ids": [
+      "chunk-fa2ec0c00740e807c4248c7fdb2f9276"
+    ],
+    "count": 1,
+    "create_time": 1777436674,
+    "update_time": 1777436674,
+    "_id": "심기능부전 환자"
+  },
+  "뇌혈관성 우발증상": {
+    "chunk_ids": [
+      "chunk-fa2ec0c00740e807c4248c7fdb2f9276"
+    ],
+    "count": 1,
+    "create_time": 1777436674,
+    "update_time": 1777436674,
+    "_id": "뇌혈관성 우발증상"
+  },
+  "말초혈관 질환 환자": {
+    "chunk_ids": [
+      "chunk-fa2ec0c00740e807c4248c7fdb2f9276"
+    ],
+    "count": 1,
+    "create_time": 1777436674,
+    "update_time": 1777436674,
+    "_id": "말초혈관 질환 환자"
+  },
+  "소화성 궤양 환자": {
+    "chunk_ids": [
+      "chunk-fa2ec0c00740e807c4248c7fdb2f9276"
+    ],
+    "count": 1,
+    "create_time": 1777436674,
+    "update_time": 1777436674,
+    "_id": "소화성 궤양 환자"
+  },
+  "출혈 질환 환자": {
+    "chunk_ids": [
+      "chunk-fa2ec0c00740e807c4248c7fdb2f9276"
+    ],
+    "count": 1,
+    "create_time": 1777436674,
+    "update_time": 1777436674,
+    "_id": "출혈 질환 환자"
+  },
+  "신장장애 환자": {
+    "chunk_ids": [
+      "chunk-fa2ec0c00740e807c4248c7fdb2f9276"
+    ],
+    "count": 1,
+    "create_time": 1777436674,
+    "update_time": 1777436674,
+    "_id": "신장장애 환자"
+  },
+  "고칼륨혈증 환자": {
+    "chunk_ids": [
+      "chunk-fa2ec0c00740e807c4248c7fdb2f9276"
+    ],
+    "count": 1,
+    "create_time": 1777436674,
+    "update_time": 1777436674,
+    "_id": "고칼륨혈증 환자"
+  },
+  "임부, 임신 가능성 있는 여성, 수유부": {
+    "chunk_ids": [
+      "chunk-fa2ec0c00740e807c4248c7fdb2f9276"
+    ],
+    "count": 1,
+    "create_time": 1777436674,
+    "update_time": 1777436674,
+    "_id": "임부, 임신 가능성 있는 여성, 수유부"
+  },
+  "소아, 청소년": {
+    "chunk_ids": [
+      "chunk-fa2ec0c00740e807c4248c7fdb2f9276"
+    ],
+    "count": 1,
+    "create_time": 1777436674,
+    "update_time": 1777436674,
+    "_id": "소아, 청소년"
+  },
+  "에르고타민 유도함유제제": {
+    "chunk_ids": [
+      "chunk-fa2ec0c00740e807c4248c7fdb2f9276"
+    ],
+    "count": 1,
+    "create_time": 1777436674,
+    "update_time": 1777436674,
+    "_id": "에르고타민 유도함유제제"
+  },
+  "MAO 억제제": {
+    "chunk_ids": [
+      "chunk-fa2ec0c00740e807c4248c7fdb2f9276"
+    ],
+    "count": 1,
+    "create_time": 1777436674,
+    "update_time": 1777436674,
+    "_id": "MAO 억제제"
+  },
+  "어지러움, 졸림, 지각이상": {
+    "chunk_ids": [
+      "chunk-fa2ec0c00740e807c4248c7fdb2f9276"
+    ],
+    "count": 1,
+    "create_time": 1777436674,
+    "update_time": 1777436674,
+    "_id": "어지러움, 졸림, 지각이상"
+  },
+  "보험코드 644704980": {
+    "chunk_ids": [
+      "chunk-fa2ec0c00740e807c4248c7fdb2f9276"
+    ],
+    "count": 1,
+    "create_time": 1777436674,
+    "update_time": 1777436674,
+    "_id": "보험코드 644704980"
+  },
+  "보험약가 5,042원": {
+    "chunk_ids": [
+      "chunk-fa2ec0c00740e807c4248c7fdb2f9276"
+    ],
+    "count": 1,
+    "create_time": 1777436675,
+    "update_time": 1777436675,
+    "_id": "보험약가 5,042원"
+  },
+  "규격 9정/병": {
+    "chunk_ids": [
+      "chunk-fa2ec0c00740e807c4248c7fdb2f9276"
+    ],
+    "count": 1,
+    "create_time": 1777436675,
+    "update_time": 1777436675,
+    "_id": "규격 9정/병"
+  },
+  "저장방법": {
+    "chunk_ids": [
+      "chunk-fa2ec0c00740e807c4248c7fdb2f9276"
+    ],
+    "count": 1,
+    "create_time": 1777436675,
+    "update_time": 1777436675,
+    "_id": "저장방법"
+  },
+  "사용기간 36개월": {
+    "chunk_ids": [
+      "chunk-fa2ec0c00740e807c4248c7fdb2f9276"
+    ],
+    "count": 1,
+    "create_time": 1777436675,
+    "update_time": 1777436675,
+    "_id": "사용기간 36개월"
+  },
+  "편두통 진료지침": {
+    "chunk_ids": [
+      "chunk-fa2ec0c00740e807c4248c7fdb2f9276",
+      "chunk-f7747e1a9bc40e8c616f627a425d990c"
+    ],
+    "count": 2,
+    "update_time": 1777436683,
+    "_id": "편두통 진료지침"
+  },
+  "나프록센나트륨": {
+    "chunk_ids": [
+      "chunk-fa2ec0c00740e807c4248c7fdb2f9276"
+    ],
+    "count": 1,
+    "create_time": 1777436675,
+    "update_time": 1777436675,
+    "_id": "나프록센나트륨"
+  },
+  "부작용": {
+    "chunk_ids": [
+      "chunk-fa2ec0c00740e807c4248c7fdb2f9276",
+      "chunk-1404d9e9ba21e7722da2645e7144c8f3",
+      "chunk-1fa0c70c99249fccf4c04752f6649248"
+    ],
+    "count": 3,
+    "update_time": 1777437159,
+    "_id": "부작용"
+  },
+  "NMSS": {
+    "chunk_ids": [
+      "chunk-04941c924c7efad0757de9df094ceae6",
+      "chunk-0a58d4620bf373a859d9faf5714e62d8",
+      "chunk-aaba66419a95b3a940400161e5ecfac1"
+    ],
+    "count": 3,
+    "create_time": 1777436740,
+    "update_time": 1777436740,
+    "_id": "NMSS"
+  },
+  "PDQ-39": {
+    "chunk_ids": [
+      "chunk-04941c924c7efad0757de9df094ceae6",
+      "chunk-aaba66419a95b3a940400161e5ecfac1"
+    ],
+    "count": 2,
+    "create_time": 1777436740,
+    "update_time": 1777436740,
+    "_id": "PDQ-39"
+  },
+  "PGI-I": {
+    "chunk_ids": [
+      "chunk-04941c924c7efad0757de9df094ceae6",
+      "chunk-aaba66419a95b3a940400161e5ecfac1"
+    ],
+    "count": 2,
+    "create_time": 1777436740,
+    "update_time": 1777436740,
+    "_id": "PGI-I"
+  },
+  "CGI-I": {
+    "chunk_ids": [
+      "chunk-04941c924c7efad0757de9df094ceae6",
+      "chunk-0a58d4620bf373a859d9faf5714e62d8",
+      "chunk-aaba66419a95b3a940400161e5ecfac1"
+    ],
+    "count": 3,
+    "create_time": 1777436740,
+    "update_time": 1777436740,
+    "_id": "CGI-I"
+  },
+  "PDSS": {
+    "chunk_ids": [
+      "chunk-04941c924c7efad0757de9df094ceae6"
+    ],
+    "count": 1,
+    "create_time": 1777436740,
+    "update_time": 1777436740,
+    "_id": "PDSS"
+  },
+  "PDSS-2": {
+    "chunk_ids": [
+      "chunk-04941c924c7efad0757de9df094ceae6"
+    ],
+    "count": 1,
+    "create_time": 1777436740,
+    "update_time": 1777436740,
+    "_id": "PDSS-2"
+  },
+  "Opicapone": {
+    "chunk_ids": [
+      "chunk-04941c924c7efad0757de9df094ceae6",
+      "chunk-c7e7ed4135349bf10e1464f57164d119",
+      "chunk-0a58d4620bf373a859d9faf5714e62d8"
+    ],
+    "count": 3,
+    "create_time": 1777436740,
+    "update_time": 1777436740,
+    "_id": "Opicapone"
+  },
+  "Placebo": {
+    "chunk_ids": [
+      "chunk-04941c924c7efad0757de9df094ceae6",
+      "chunk-c7e7ed4135349bf10e1464f57164d119",
+      "chunk-23d97c85a39b599564b46dbd568dee87",
+      "chunk-aaba66419a95b3a940400161e5ecfac1",
+      "chunk-8add22866ba4e2fe286acbcc53a1dc62"
+    ],
+    "count": 5,
+    "update_time": 1777436979,
+    "_id": "Placebo"
+  },
+  "TEAE": {
+    "chunk_ids": [
+      "chunk-04941c924c7efad0757de9df094ceae6",
+      "chunk-c7e7ed4135349bf10e1464f57164d119",
+      "chunk-23d97c85a39b599564b46dbd568dee87"
+    ],
+    "count": 3,
+    "create_time": 1777436740,
+    "update_time": 1777436740,
+    "_id": "TEAE"
+  },
+  "Serious TEAE": {
+    "chunk_ids": [
+      "chunk-04941c924c7efad0757de9df094ceae6",
+      "chunk-c7e7ed4135349bf10e1464f57164d119",
+      "chunk-23d97c85a39b599564b46dbd568dee87"
+    ],
+    "count": 3,
+    "create_time": 1777436740,
+    "update_time": 1777436740,
+    "_id": "Serious TEAE"
+  },
+  "Death": {
+    "chunk_ids": [
+      "chunk-04941c924c7efad0757de9df094ceae6",
+      "chunk-c7e7ed4135349bf10e1464f57164d119"
+    ],
+    "count": 2,
+    "create_time": 1777436740,
+    "update_time": 1777436740,
+    "_id": "Death"
+  },
+  "TEAE Leading to Study Discontinuation": {
+    "chunk_ids": [
+      "chunk-04941c924c7efad0757de9df094ceae6"
+    ],
+    "count": 1,
+    "create_time": 1777436740,
+    "update_time": 1777436740,
+    "_id": "TEAE Leading to Study Discontinuation"
+  },
+  "Mild to Moderate": {
+    "chunk_ids": [
+      "chunk-04941c924c7efad0757de9df094ceae6",
+      "chunk-c7e7ed4135349bf10e1464f57164d119"
+    ],
+    "count": 2,
+    "create_time": 1777436741,
+    "update_time": 1777436741,
+    "_id": "Mild to Moderate"
+  },
+  "Treatment-related": {
+    "chunk_ids": [
+      "chunk-c7e7ed4135349bf10e1464f57164d119"
+    ],
+    "count": 1,
+    "create_time": 1777436741,
+    "update_time": 1777436741,
+    "_id": "Treatment-related"
+  },
+  "MDS-UPDRS": {
+    "chunk_ids": [
+      "chunk-c7e7ed4135349bf10e1464f57164d119",
+      "chunk-cdca04adc2e23ee6449870fdfaa495e1",
+      "chunk-0a58d4620bf373a859d9faf5714e62d8",
+      "chunk-aaba66419a95b3a940400161e5ecfac1"
+    ],
+    "count": 4,
+    "create_time": 1777436741,
+    "update_time": 1777436741,
+    "_id": "MDS-UPDRS"
+  },
+  "Treatment-emergent Adverse Event": {
+    "chunk_ids": [
+      "chunk-c7e7ed4135349bf10e1464f57164d119"
+    ],
+    "count": 1,
+    "create_time": 1777436741,
+    "update_time": 1777436741,
+    "_id": "Treatment-emergent Adverse Event"
+  },
+  "1차 유효성 평가": {
+    "chunk_ids": [
+      "chunk-c7e7ed4135349bf10e1464f57164d119"
+    ],
+    "count": 1,
+    "create_time": 1777436741,
+    "update_time": 1777436741,
+    "_id": "1차 유효성 평가"
+  },
+  "2차 유효성 평가": {
+    "chunk_ids": [
+      "chunk-c7e7ed4135349bf10e1464f57164d119"
+    ],
+    "count": 1,
+    "create_time": 1777436741,
+    "update_time": 1777436741,
+    "_id": "2차 유효성 평가"
+  },
+  "Opicapone 50mg": {
+    "chunk_ids": [
+      "chunk-23d97c85a39b599564b46dbd568dee87",
+      "chunk-aaba66419a95b3a940400161e5ecfac1"
+    ],
+    "count": 2,
+    "create_time": 1777436742,
+    "update_time": 1777436742,
+    "_id": "Opicapone 50mg"
+  },
+  "PDSS 점수": {
+    "chunk_ids": [
+      "chunk-23d97c85a39b599564b46dbd568dee87"
+    ],
+    "count": 1,
+    "create_time": 1777436742,
+    "update_time": 1777436742,
+    "_id": "PDSS 점수"
+  },
+  "참가자 수": {
+    "chunk_ids": [
+      "chunk-23d97c85a39b599564b46dbd568dee87"
+    ],
+    "count": 1,
+    "create_time": 1777436742,
+    "update_time": 1777436742,
+    "_id": "참가자 수"
+  },
+  "기본 상태 점수": {
+    "chunk_ids": [
+      "chunk-23d97c85a39b599564b46dbd568dee87"
+    ],
+    "count": 1,
+    "create_time": 1777436742,
+    "update_time": 1777436742,
+    "_id": "기본 상태 점수"
+  },
+  "오피카폰": {
+    "chunk_ids": [
+      "chunk-cdca04adc2e23ee6449870fdfaa495e1"
+    ],
+    "count": 1,
+    "create_time": 1777436743,
+    "update_time": 1777436743,
+    "_id": "오피카폰"
+  },
+  "위약": {
+    "chunk_ids": [
+      "chunk-cdca04adc2e23ee6449870fdfaa495e1",
+      "chunk-94a14d53e034cff8d203c2e1f163a79c"
+    ],
+    "count": 2,
+    "update_time": 1777438595,
+    "_id": "위약"
+  },
+  "통계적 유의성": {
+    "chunk_ids": [
+      "chunk-cdca04adc2e23ee6449870fdfaa495e1"
+    ],
+    "count": 1,
+    "create_time": 1777436743,
+    "update_time": 1777436743,
+    "_id": "통계적 유의성"
+  },
+  "MDS-UPDRS Part I": {
+    "chunk_ids": [
+      "chunk-cdca04adc2e23ee6449870fdfaa495e1"
+    ],
+    "count": 1,
+    "create_time": 1777436743,
+    "update_time": 1777436743,
+    "_id": "MDS-UPDRS Part I"
+  },
+  "MDS-UPDRS Part II": {
+    "chunk_ids": [
+      "chunk-cdca04adc2e23ee6449870fdfaa495e1"
+    ],
+    "count": 1,
+    "create_time": 1777436743,
+    "update_time": 1777436743,
+    "_id": "MDS-UPDRS Part II"
+  },
+  "MDS-UPDRS Part IV": {
+    "chunk_ids": [
+      "chunk-cdca04adc2e23ee6449870fdfaa495e1"
+    ],
+    "count": 1,
+    "create_time": 1777436743,
+    "update_time": 1777436743,
+    "_id": "MDS-UPDRS Part IV"
+  },
+  "기대 변화": {
+    "chunk_ids": [
+      "chunk-cdca04adc2e23ee6449870fdfaa495e1"
+    ],
+    "count": 1,
+    "create_time": 1777436743,
+    "update_time": 1777436743,
+    "_id": "기대 변화"
+  },
+  "Parkinson's Disease": {
+    "chunk_ids": [
+      "chunk-0a58d4620bf373a859d9faf5714e62d8"
+    ],
+    "count": 1,
+    "create_time": 1777436743,
+    "update_time": 1777436743,
+    "_id": "Parkinson's Disease"
+  },
+  "Patient Group": {
+    "chunk_ids": [
+      "chunk-0a58d4620bf373a859d9faf5714e62d8"
+    ],
+    "count": 1,
+    "create_time": 1777436743,
+    "update_time": 1777436743,
+    "_id": "Patient Group"
+  },
+  "Randomized Clinical Trial": {
+    "chunk_ids": [
+      "chunk-0a58d4620bf373a859d9faf5714e62d8"
+    ],
+    "count": 1,
+    "create_time": 1777436743,
+    "update_time": 1777436743,
+    "_id": "Randomized Clinical Trial"
+  },
+  "Ferreira JJ": {
+    "chunk_ids": [
+      "chunk-0a58d4620bf373a859d9faf5714e62d8"
+    ],
+    "count": 1,
+    "create_time": 1777436743,
+    "update_time": 1777436743,
+    "_id": "Ferreira JJ"
+  },
+  "Eur J Neurol": {
+    "chunk_ids": [
+      "chunk-0a58d4620bf373a859d9faf5714e62d8"
+    ],
+    "count": 1,
+    "create_time": 1777436743,
+    "update_time": 1777436743,
+    "_id": "Eur J Neurol"
+  },
+  "MDS-UPDRS Part III": {
+    "chunk_ids": [
+      "chunk-0a58d4620bf373a859d9faf5714e62d8"
+    ],
+    "count": 1,
+    "create_time": 1777436743,
+    "update_time": 1777436743,
+    "_id": "MDS-UPDRS Part III"
+  },
+  "Placebo Group": {
+    "chunk_ids": [
+      "chunk-0a58d4620bf373a859d9faf5714e62d8"
+    ],
+    "count": 1,
+    "create_time": 1777436743,
+    "update_time": 1777436743,
+    "_id": "Placebo Group"
+  },
+  "n (%) patients with worsening of time spent with dyskinesia": {
+    "chunk_ids": [
+      "chunk-aaba66419a95b3a940400161e5ecfac1"
+    ],
+    "count": 1,
+    "create_time": 1777436743,
+    "update_time": 1777436743,
+    "_id": "n (%) patients with worsening of time spent with dyskinesia"
+  },
+  "n (%) patients with worsening of time spent in OFF state": {
+    "chunk_ids": [
+      "chunk-aaba66419a95b3a940400161e5ecfac1"
+    ],
+    "count": 1,
+    "create_time": 1777436744,
+    "update_time": 1777436744,
+    "_id": "n (%) patients with worsening of time spent in OFF state"
+  },
+  "mean (SD) baseline score": {
+    "chunk_ids": [
+      "chunk-aaba66419a95b3a940400161e5ecfac1"
+    ],
+    "count": 1,
+    "create_time": 1777436744,
+    "update_time": 1777436744,
+    "_id": "mean (SD) baseline score"
+  },
+  "LS mean [95% CI] change from baseline at week 24": {
+    "chunk_ids": [
+      "chunk-aaba66419a95b3a940400161e5ecfac1"
+    ],
+    "count": 1,
+    "create_time": 1777436744,
+    "update_time": 1777436744,
+    "_id": "LS mean [95% CI] change from baseline at week 24"
+  },
+  "LS mean [95% CI] treatment difference": {
+    "chunk_ids": [
+      "chunk-aaba66419a95b3a940400161e5ecfac1"
+    ],
+    "count": 1,
+    "create_time": 1777436744,
+    "update_time": 1777436744,
+    "_id": "LS mean [95% CI] treatment difference"
+  },
+  "MCI": {
+    "chunk_ids": [
+      "chunk-8d950edfa56fd9c631d3689c9e98f69e",
+      "chunk-72b4fd465f086e56b2b16115639aa240",
+      "chunk-18cb653b836f0cbbd7d7bdf9bceeb4d3",
+      "chunk-130241959094a1bc801a761bf1c10dbc",
+      "chunk-74e6db047e760130929347801698a07d",
+      "chunk-2c41bdd478bbddef2a4fb657644a8589",
+      "chunk-e9cedd2080426ee14502060619514a2a",
+      "chunk-affaca4becfc6fbf8ab2caca67064f2b",
+      "chunk-17b3858c1897e9d0a35b5150d4f67cc5",
+      "chunk-701dad394ffc597a4b2604153705b4ff"
+    ],
+    "count": 10,
+    "create_time": 1777436949,
+    "update_time": 1777436949,
+    "_id": "MCI"
+  },
+  "Ginkgo Biloba Extract": {
+    "chunk_ids": [
+      "chunk-8d950edfa56fd9c631d3689c9e98f69e",
+      "chunk-758ff69b0287e25a0014f424bfc85cf5",
+      "chunk-5093172115774094233ff3db44e11e5d",
+      "chunk-b9db78788c2322f6c8c8e7c3a70aaa4e"
+    ],
+    "count": 4,
+    "create_time": 1777436949,
+    "update_time": 1777436949,
+    "_id": "Ginkgo Biloba Extract"
+  },
+  "Gavrilova SI": {
+    "chunk_ids": [
+      "chunk-8d950edfa56fd9c631d3689c9e98f69e"
+    ],
+    "count": 1,
+    "create_time": 1777436949,
+    "update_time": 1777436949,
+    "_id": "Gavrilova SI"
+  },
+  "RCT": {
+    "chunk_ids": [
+      "chunk-8d950edfa56fd9c631d3689c9e98f69e",
+      "chunk-758ff69b0287e25a0014f424bfc85cf5",
+      "chunk-1404d9e9ba21e7722da2645e7144c8f3",
+      "chunk-e9cedd2080426ee14502060619514a2a",
+      "chunk-8488c7cc9aad239b2f0e484816d2f716",
+      "chunk-701dad394ffc597a4b2604153705b4ff",
+      "chunk-8add22866ba4e2fe286acbcc53a1dc62"
+    ],
+    "count": 7,
+    "create_time": 1777436949,
+    "update_time": 1777436949,
+    "_id": "RCT"
+  },
+  "NPI": {
+    "chunk_ids": [
+      "chunk-8d950edfa56fd9c631d3689c9e98f69e",
+      "chunk-1404d9e9ba21e7722da2645e7144c8f3"
+    ],
+    "count": 2,
+    "create_time": 1777436949,
+    "update_time": 1777436949,
+    "_id": "NPI"
+  },
+  "State-Trait Anxiety Inventory": {
+    "chunk_ids": [
+      "chunk-8d950edfa56fd9c631d3689c9e98f69e"
+    ],
+    "count": 1,
+    "create_time": 1777436950,
+    "update_time": 1777436950,
+    "_id": "State-Trait Anxiety Inventory"
+  },
+  "Geriatric Depression Scale": {
+    "chunk_ids": [
+      "chunk-8d950edfa56fd9c631d3689c9e98f69e"
+    ],
+    "count": 1,
+    "create_time": 1777436950,
+    "update_time": 1777436950,
+    "_id": "Geriatric Depression Scale"
+  },
+  "Alzheimer's Disease": {
+    "chunk_ids": [
+      "chunk-8d950edfa56fd9c631d3689c9e98f69e"
+    ],
+    "count": 1,
+    "create_time": 1777436950,
+    "update_time": 1777436950,
+    "_id": "Alzheimer's Disease"
+  },
+  "Effects on NPS": {
+    "chunk_ids": [
+      "chunk-8d950edfa56fd9c631d3689c9e98f69e"
+    ],
+    "count": 1,
+    "create_time": 1777436950,
+    "update_time": 1777436950,
+    "_id": "Effects on NPS"
+  },
+  "cognitive performance": {
+    "chunk_ids": [
+      "chunk-8d950edfa56fd9c631d3689c9e98f69e"
+    ],
+    "count": 1,
+    "create_time": 1777436950,
+    "update_time": 1777436950,
+    "_id": "cognitive performance"
+  },
+  "Glaucoma": {
+    "chunk_ids": [
+      "chunk-758ff69b0287e25a0014f424bfc85cf5",
+      "chunk-a160d7e701df7444b692100643c5b733"
+    ],
+    "count": 2,
+    "create_time": 1777436950,
+    "update_time": 1777436950,
+    "_id": "Glaucoma"
+  },
+  "American Academy of Ophthalmology": {
+    "chunk_ids": [
+      "chunk-758ff69b0287e25a0014f424bfc85cf5"
+    ],
+    "count": 1,
+    "create_time": 1777436950,
+    "update_time": 1777436950,
+    "_id": "American Academy of Ophthalmology"
+  },
+  "Neuroprotection in Glaucoma - EyeWiki": {
+    "chunk_ids": [
+      "chunk-758ff69b0287e25a0014f424bfc85cf5"
+    ],
+    "count": 1,
+    "create_time": 1777436950,
+    "update_time": 1777436950,
+    "_id": "Neuroprotection in Glaucoma - EyeWiki"
+  },
+  "Normal Tension Glaucoma": {
+    "chunk_ids": [
+      "chunk-758ff69b0287e25a0014f424bfc85cf5"
+    ],
+    "count": 1,
+    "create_time": 1777436950,
+    "update_time": 1777436950,
+    "_id": "Normal Tension Glaucoma"
+  },
+  "30 Patients": {
+    "chunk_ids": [
+      "chunk-758ff69b0287e25a0014f424bfc85cf5"
+    ],
+    "count": 1,
+    "create_time": 1777436950,
+    "update_time": 1777436950,
+    "_id": "30 Patients"
+  },
+  "Short-term Effects of Ginkgo Biloba Extract on Peripapillary Retinal Blood Flow in Normal Tension Glaucoma": {
+    "chunk_ids": [
+      "chunk-758ff69b0287e25a0014f424bfc85cf5"
+    ],
+    "count": 1,
+    "create_time": 1777436950,
+    "update_time": 1777436950,
+    "_id": "Short-term Effects of Ginkgo Biloba Extract on Peripapillary Retinal Blood Flow in Normal Tension Glaucoma"
+  },
+  "Effect of Ginkgo Biloba Extract on Preexisting Visual Field Damage in Normal Tension Glaucoma": {
+    "chunk_ids": [
+      "chunk-758ff69b0287e25a0014f424bfc85cf5"
+    ],
+    "count": 1,
+    "create_time": 1777436950,
+    "update_time": 1777436950,
+    "_id": "Effect of Ginkgo Biloba Extract on Preexisting Visual Field Damage in Normal Tension Glaucoma"
+  },
+  "AChEI": {
+    "chunk_ids": [
+      "chunk-80a481c1cc017fd888e99c5615910150",
+      "chunk-74e6db047e760130929347801698a07d",
+      "chunk-557807ab42f70f00f07ed3869af072d0",
+      "chunk-39a7c04f46f7250abe63b485bcfbd005"
+    ],
+    "count": 4,
+    "create_time": 1777436951,
+    "update_time": 1777436951,
+    "_id": "AChEI"
+  },
+  "파킨슨치매": {
+    "chunk_ids": [
+      "chunk-80a481c1cc017fd888e99c5615910150"
+    ],
+    "count": 1,
+    "create_time": 1777436951,
+    "update_time": 1777436951,
+    "_id": "파킨슨치매"
+  },
+  "전문가": {
+    "chunk_ids": [
+      "chunk-80a481c1cc017fd888e99c5615910150"
+    ],
+    "count": 1,
+    "create_time": 1777436951,
+    "update_time": 1777436951,
+    "_id": "전문가"
+  },
+  "Mixed Dementia": {
+    "chunk_ids": [
+      "chunk-80a481c1cc017fd888e99c5615910150"
+    ],
+    "count": 1,
+    "create_time": 1777436951,
+    "update_time": 1777436951,
+    "_id": "Mixed Dementia"
+  },
+  "기넥신": {
+    "chunk_ids": [
+      "chunk-80a481c1cc017fd888e99c5615910150",
+      "chunk-72b4fd465f086e56b2b16115639aa240",
+      "chunk-18cb653b836f0cbbd7d7bdf9bceeb4d3",
+      "chunk-d5cd9d6d4dbc3c0a6f33d0c06c125554",
+      "chunk-0dc66f6639a531db2594217570ef471d",
+      "chunk-077e10c764144608a41b74cbf82ab7de",
+      "chunk-c8f599fc7af2f42a96d35069228a197d",
+      "chunk-a55b103e4b396f582e3b8562fcf4bf3e",
+      "chunk-74e6db047e760130929347801698a07d",
+      "chunk-2c41bdd478bbddef2a4fb657644a8589",
+      "chunk-557807ab42f70f00f07ed3869af072d0",
+      "chunk-644d957f2c2fd927501f463c7a8a0c2d",
+      "chunk-6c168ed2887f0729ce6a7d4b448ff83e",
+      "chunk-55db05f4c6a0c379f4eafe4f4645c9d3",
+      "chunk-b9db78788c2322f6c8c8e7c3a70aaa4e",
+      "chunk-8cf79275dcd6711d1b7c03cc8bf154be",
+      "chunk-eaaf9b9e95b1633a29784b702d64b2a4",
+      "chunk-9458ec2cd67f54c35b5499c7116f4a72",
+      "chunk-54331ed02fae74019957acd66bf24c6e",
+      "chunk-26e93410bb8e2fb32bdf19f8fdedd000",
+      "chunk-a317c5e8c677c54ddacf2f7ac15d8d2c"
+    ],
+    "count": 21,
+    "create_time": 1777436951,
+    "update_time": 1777436951,
+    "_id": "기넥신"
+  },
+  "유유제약": {
+    "chunk_ids": [
+      "chunk-80a481c1cc017fd888e99c5615910150"
+    ],
+    "count": 1,
+    "create_time": 1777436951,
+    "update_time": 1777436951,
+    "_id": "유유제약"
+  },
+  "휴텍스": {
+    "chunk_ids": [
+      "chunk-80a481c1cc017fd888e99c5615910150"
+    ],
+    "count": 1,
+    "create_time": 1777436951,
+    "update_time": 1777436951,
+    "_id": "휴텍스"
+  },
+  "일동제약": {
+    "chunk_ids": [
+      "chunk-80a481c1cc017fd888e99c5615910150"
+    ],
+    "count": 1,
+    "create_time": 1777436951,
+    "update_time": 1777436951,
+    "_id": "일동제약"
+  },
+  "씨엠지제약": {
+    "chunk_ids": [
+      "chunk-80a481c1cc017fd888e99c5615910150"
+    ],
+    "count": 1,
+    "create_time": 1777436951,
+    "update_time": 1777436951,
+    "_id": "씨엠지제약"
+  },
+  "제일약품": {
+    "chunk_ids": [
+      "chunk-80a481c1cc017fd888e99c5615910150"
+    ],
+    "count": 1,
+    "create_time": 1777436951,
+    "update_time": 1777436951,
+    "_id": "제일약품"
+  },
+  "휴온스": {
+    "chunk_ids": [
+      "chunk-80a481c1cc017fd888e99c5615910150"
+    ],
+    "count": 1,
+    "create_time": 1777436952,
+    "update_time": 1777436952,
+    "_id": "휴온스"
+  },
+  "셀트리온제약": {
+    "chunk_ids": [
+      "chunk-80a481c1cc017fd888e99c5615910150"
+    ],
+    "count": 1,
+    "create_time": 1777436952,
+    "update_time": 1777436952,
+    "_id": "셀트리온제약"
+  },
+  "삼진제약": {
+    "chunk_ids": [
+      "chunk-80a481c1cc017fd888e99c5615910150"
+    ],
+    "count": 1,
+    "create_time": 1777436952,
+    "update_time": 1777436952,
+    "_id": "삼진제약"
+  },
+  "콜린성 부작용": {
+    "chunk_ids": [
+      "chunk-80a481c1cc017fd888e99c5615910150"
+    ],
+    "count": 1,
+    "create_time": 1777436952,
+    "update_time": 1777436952,
+    "_id": "콜린성 부작용"
+  },
+  "임상 시험": {
+    "chunk_ids": [
+      "chunk-80a481c1cc017fd888e99c5615910150",
+      "chunk-7ba5d181a53de825c3a8029546997212"
+    ],
+    "count": 2,
+    "create_time": 1777436952,
+    "update_time": 1777436952,
+    "_id": "임상 시험"
+  },
+  "Pre-MCI 환자": {
+    "chunk_ids": [
+      "chunk-80a481c1cc017fd888e99c5615910150"
+    ],
+    "count": 1,
+    "create_time": 1777436952,
+    "update_time": 1777436952,
+    "_id": "Pre-MCI 환자"
+  },
+  "EGb761": {
+    "chunk_ids": [
+      "chunk-170f6df019569aa473c767d889cf45f3",
+      "chunk-7ba5d181a53de825c3a8029546997212",
+      "chunk-701dad394ffc597a4b2604153705b4ff"
+    ],
+    "count": 3,
+    "create_time": 1777436953,
+    "update_time": 1777436953,
+    "_id": "EGb761"
+  },
+  "Betahistine": {
+    "chunk_ids": [
+      "chunk-170f6df019569aa473c767d889cf45f3"
+    ],
+    "count": 1,
+    "create_time": 1777436953,
+    "update_time": 1777436953,
+    "_id": "Betahistine"
+  },
+  "Hearing Loss 환자": {
+    "chunk_ids": [
+      "chunk-170f6df019569aa473c767d889cf45f3"
+    ],
+    "count": 1,
+    "create_time": 1777436953,
+    "update_time": 1777436953,
+    "_id": "Hearing Loss 환자"
+  },
+  "Ginkgo Biloba": {
+    "chunk_ids": [
+      "chunk-170f6df019569aa473c767d889cf45f3",
+      "chunk-8add22866ba4e2fe286acbcc53a1dc62"
+    ],
+    "count": 2,
+    "create_time": 1777436953,
+    "update_time": 1777436953,
+    "_id": "Ginkgo Biloba"
+  },
+  "Clinical Trial": {
+    "chunk_ids": [
+      "chunk-170f6df019569aa473c767d889cf45f3"
+    ],
+    "count": 1,
+    "create_time": 1777436953,
+    "update_time": 1777436953,
+    "_id": "Clinical Trial"
+  },
+  "Randomized Controlled Trial": {
+    "chunk_ids": [
+      "chunk-170f6df019569aa473c767d889cf45f3"
+    ],
+    "count": 1,
+    "create_time": 1777436953,
+    "update_time": 1777436953,
+    "_id": "Randomized Controlled Trial"
+  },
+  "Patient": {
+    "chunk_ids": [
+      "chunk-170f6df019569aa473c767d889cf45f3"
+    ],
+    "count": 1,
+    "create_time": 1777436953,
+    "update_time": 1777436953,
+    "_id": "Patient"
+  },
+  "이명": {
+    "chunk_ids": [
+      "chunk-170f6df019569aa473c767d889cf45f3",
+      "chunk-a317c5e8c677c54ddacf2f7ac15d8d2c"
+    ],
+    "count": 2,
+    "create_time": 1777436954,
+    "update_time": 1777436954,
+    "_id": "이명"
+  },
+  "현기증": {
+    "chunk_ids": [
+      "chunk-170f6df019569aa473c767d889cf45f3",
+      "chunk-7ba5d181a53de825c3a8029546997212"
+    ],
+    "count": 2,
+    "create_time": 1777436954,
+    "update_time": 1777436954,
+    "_id": "현기증"
+  },
+  "MCI 진단기준": {
+    "chunk_ids": [
+      "chunk-5093172115774094233ff3db44e11e5d"
+    ],
+    "count": 1,
+    "create_time": 1777436954,
+    "update_time": 1777436954,
+    "_id": "MCI 진단기준"
+  },
+  "Petersen": {
+    "chunk_ids": [
+      "chunk-5093172115774094233ff3db44e11e5d"
+    ],
+    "count": 1,
+    "create_time": 1777436954,
+    "update_time": 1777436954,
+    "_id": "Petersen"
+  },
+  "International Working Group on MCI": {
+    "chunk_ids": [
+      "chunk-5093172115774094233ff3db44e11e5d"
+    ],
+    "count": 1,
+    "create_time": 1777436954,
+    "update_time": 1777436954,
+    "_id": "International Working Group on MCI"
+  },
+  "경도 인지 장애": {
+    "chunk_ids": [
+      "chunk-5093172115774094233ff3db44e11e5d"
+    ],
+    "count": 1,
+    "create_time": 1777436954,
+    "update_time": 1777436954,
+    "_id": "경도 인지 장애"
+  },
+  "뇌기능개선제": {
+    "chunk_ids": [
+      "chunk-5093172115774094233ff3db44e11e5d",
+      "chunk-ab83f67862b1147da5ec0a39d004bfef"
+    ],
+    "count": 2,
+    "update_time": 1777437016,
+    "_id": "뇌기능개선제"
+  },
+  "Choline Alfocerate": {
+    "chunk_ids": [
+      "chunk-5093172115774094233ff3db44e11e5d"
+    ],
+    "count": 1,
+    "create_time": 1777436954,
+    "update_time": 1777436954,
+    "_id": "Choline Alfocerate"
+  },
+  "Acetyl-L-Carnitine": {
+    "chunk_ids": [
+      "chunk-5093172115774094233ff3db44e11e5d"
+    ],
+    "count": 1,
+    "create_time": 1777436955,
+    "update_time": 1777436955,
+    "_id": "Acetyl-L-Carnitine"
+  },
+  "Oxiracetam": {
+    "chunk_ids": [
+      "chunk-5093172115774094233ff3db44e11e5d",
+      "chunk-74e6db047e760130929347801698a07d"
+    ],
+    "count": 2,
+    "create_time": 1777436955,
+    "update_time": 1777436955,
+    "_id": "Oxiracetam"
+  },
+  "Nicergoline": {
+    "chunk_ids": [
+      "chunk-5093172115774094233ff3db44e11e5d"
+    ],
+    "count": 1,
+    "create_time": 1777436955,
+    "update_time": 1777436955,
+    "_id": "Nicergoline"
+  },
+  "혈관 위험 인자": {
+    "chunk_ids": [
+      "chunk-5093172115774094233ff3db44e11e5d"
+    ],
+    "count": 1,
+    "create_time": 1777436955,
+    "update_time": 1777436955,
+    "_id": "혈관 위험 인자"
+  },
+  "은행잎추출물제제": {
+    "chunk_ids": [
+      "chunk-5093172115774094233ff3db44e11e5d"
+    ],
+    "count": 1,
+    "create_time": 1777436955,
+    "update_time": 1777436955,
+    "_id": "은행잎추출물제제"
+  },
+  "콜린전구물질": {
+    "chunk_ids": [
+      "chunk-5093172115774094233ff3db44e11e5d"
+    ],
+    "count": 1,
+    "create_time": 1777436955,
+    "update_time": 1777436955,
+    "_id": "콜린전구물질"
+  },
+  "비타민B군 보충제": {
+    "chunk_ids": [
+      "chunk-5093172115774094233ff3db44e11e5d"
+    ],
+    "count": 1,
+    "create_time": 1777436955,
+    "update_time": 1777436955,
+    "_id": "비타민B군 보충제"
+  },
+  "정상안압녹내장": {
+    "chunk_ids": [
+      "chunk-a160d7e701df7444b692100643c5b733",
+      "chunk-8488c7cc9aad239b2f0e484816d2f716",
+      "chunk-26e93410bb8e2fb32bdf19f8fdedd000"
+    ],
+    "count": 3,
+    "create_time": 1777436955,
+    "update_time": 1777436955,
+    "_id": "정상안압녹내장"
+  },
+  "당뇨병성 망막병증": {
+    "chunk_ids": [
+      "chunk-a160d7e701df7444b692100643c5b733"
+    ],
+    "count": 1,
+    "create_time": 1777436955,
+    "update_time": 1777436955,
+    "_id": "당뇨병성 망막병증"
+  },
+  "Ginkgo biloba": {
+    "chunk_ids": [
+      "chunk-a160d7e701df7444b692100643c5b733"
+    ],
+    "count": 1,
+    "create_time": 1777436955,
+    "update_time": 1777436955,
+    "_id": "Ginkgo biloba"
+  },
+  "Anthocyanoside": {
+    "chunk_ids": [
+      "chunk-a160d7e701df7444b692100643c5b733"
+    ],
+    "count": 1,
+    "create_time": 1777436955,
+    "update_time": 1777436955,
+    "_id": "Anthocyanoside"
+  },
+  "GBE": {
+    "chunk_ids": [
+      "chunk-a160d7e701df7444b692100643c5b733",
+      "chunk-6914ed6ce67aad21589e78f0642036af"
+    ],
+    "count": 2,
+    "create_time": 1777436955,
+    "update_time": 1777436955,
+    "_id": "GBE"
+  },
+  "Huang SY et al.": {
+    "chunk_ids": [
+      "chunk-a160d7e701df7444b692100643c5b733"
+    ],
+    "count": 1,
+    "create_time": 1777436956,
+    "update_time": 1777436956,
+    "_id": "Huang SY et al."
+  },
+  "Improved Haemorrheological Properties by Ginkgo biloba Extract (Egb 761)": {
+    "chunk_ids": [
+      "chunk-a160d7e701df7444b692100643c5b733"
+    ],
+    "count": 1,
+    "create_time": 1777436956,
+    "update_time": 1777436956,
+    "_id": "Improved Haemorrheological Properties by Ginkgo biloba Extract (Egb 761)"
+  },
+  "80mg tid": {
+    "chunk_ids": [
+      "chunk-a160d7e701df7444b692100643c5b733"
+    ],
+    "count": 1,
+    "create_time": 1777436956,
+    "update_time": 1777436956,
+    "_id": "80mg tid"
+  },
+  "3개월": {
+    "chunk_ids": [
+      "chunk-a160d7e701df7444b692100643c5b733"
+    ],
+    "count": 1,
+    "create_time": 1777436956,
+    "update_time": 1777436956,
+    "_id": "3개월"
+  },
+  "기넥신에프정240mg": {
+    "chunk_ids": [
+      "chunk-a8daab0778795593978a9819fed6e617",
+      "chunk-2cafd250b741b747a1368c5c71cde047"
+    ],
+    "count": 2,
+    "create_time": 1777436956,
+    "update_time": 1777436956,
+    "_id": "기넥신에프정240mg"
+  },
+  "은행엽건조엑스": {
+    "chunk_ids": [
+      "chunk-a8daab0778795593978a9819fed6e617"
+    ],
+    "count": 1,
+    "create_time": 1777436956,
+    "update_time": 1777436956,
+    "_id": "은행엽건조엑스"
+  },
+  "중추성 어지럼증": {
+    "chunk_ids": [
+      "chunk-a8daab0778795593978a9819fed6e617",
+      "chunk-a55b103e4b396f582e3b8562fcf4bf3e",
+      "chunk-557807ab42f70f00f07ed3869af072d0",
+      "chunk-b9db78788c2322f6c8c8e7c3a70aaa4e",
+      "chunk-a317c5e8c677c54ddacf2f7ac15d8d2c"
+    ],
+    "count": 5,
+    "create_time": 1777436956,
+    "update_time": 1777436956,
+    "_id": "중추성 어지럼증"
+  },
+  "정신 기능 저하": {
+    "chunk_ids": [
+      "chunk-a8daab0778795593978a9819fed6e617"
+    ],
+    "count": 1,
+    "create_time": 1777436956,
+    "update_time": 1777436956,
+    "_id": "정신 기능 저하"
+  },
+  "보험급여": {
+    "chunk_ids": [
+      "chunk-a8daab0778795593978a9819fed6e617"
+    ],
+    "count": 1,
+    "create_time": 1777436956,
+    "update_time": 1777436956,
+    "_id": "보험급여"
+  },
+  "CT": {
+    "chunk_ids": [
+      "chunk-a8daab0778795593978a9819fed6e617"
+    ],
+    "count": 1,
+    "create_time": 1777436956,
+    "update_time": 1777436956,
+    "_id": "CT"
+  },
+  "MRI": {
+    "chunk_ids": [
+      "chunk-a8daab0778795593978a9819fed6e617"
+    ],
+    "count": 1,
+    "create_time": 1777436956,
+    "update_time": 1777436956,
+    "_id": "MRI"
+  },
+  "뇌 허혈": {
+    "chunk_ids": [
+      "chunk-a8daab0778795593978a9819fed6e617"
+    ],
+    "count": 1,
+    "create_time": 1777436956,
+    "update_time": 1777436956,
+    "_id": "뇌 허혈"
+  },
+  "질환": {
+    "chunk_ids": [
+      "chunk-a8daab0778795593978a9819fed6e617",
+      "chunk-170f6df019569aa473c767d889cf45f3"
+    ],
+    "count": 2,
+    "update_time": 1777436986,
+    "_id": "질환"
+  },
+  "인지 저하": {
+    "chunk_ids": [
+      "chunk-6914ed6ce67aad21589e78f0642036af",
+      "chunk-e65d3b0f999756ffd4036f1def40062b",
+      "chunk-04179b2f037423c291d7610606fddde3"
+    ],
+    "count": 3,
+    "create_time": 1777436956,
+    "update_time": 1777436956,
+    "_id": "인지 저하"
+  },
+  "경도 인지 장애(MCI)": {
+    "chunk_ids": [
+      "chunk-6914ed6ce67aad21589e78f0642036af"
+    ],
+    "count": 1,
+    "create_time": 1777436956,
+    "update_time": 1777436956,
+    "_id": "경도 인지 장애(MCI)"
+  },
+  "치매": {
+    "chunk_ids": [
+      "chunk-6914ed6ce67aad21589e78f0642036af",
+      "chunk-14d5fecd2eb143552d4f71a56a6e43fb",
+      "chunk-74e6db047e760130929347801698a07d",
+      "chunk-2c41bdd478bbddef2a4fb657644a8589",
+      "chunk-557807ab42f70f00f07ed3869af072d0",
+      "chunk-1404d9e9ba21e7722da2645e7144c8f3",
+      "chunk-affaca4becfc6fbf8ab2caca67064f2b",
+      "chunk-8cf79275dcd6711d1b7c03cc8bf154be",
+      "chunk-e65d3b0f999756ffd4036f1def40062b",
+      "chunk-39a7c04f46f7250abe63b485bcfbd005"
+    ],
+    "count": 10,
+    "create_time": 1777436957,
+    "update_time": 1777436957,
+    "_id": "치매"
+  },
+  "알츠하이머": {
+    "chunk_ids": [
+      "chunk-6914ed6ce67aad21589e78f0642036af",
+      "chunk-8cf79275dcd6711d1b7c03cc8bf154be"
+    ],
+    "count": 2,
+    "create_time": 1777436957,
+    "update_time": 1777436957,
+    "_id": "알츠하이머"
+  },
+  "Ginkgo biloba EGb761": {
+    "chunk_ids": [
+      "chunk-6914ed6ce67aad21589e78f0642036af"
+    ],
+    "count": 1,
+    "create_time": 1777436957,
+    "update_time": 1777436957,
+    "_id": "Ginkgo biloba EGb761"
+  },
+  "표준 용량": {
+    "chunk_ids": [
+      "chunk-6914ed6ce67aad21589e78f0642036af"
+    ],
+    "count": 1,
+    "create_time": 1777436957,
+    "update_time": 1777436957,
+    "_id": "표준 용량"
+  },
+  "20년 장기 코호트 연구": {
+    "chunk_ids": [
+      "chunk-6914ed6ce67aad21589e78f0642036af"
+    ],
+    "count": 1,
+    "create_time": 1777436957,
+    "update_time": 1777436957,
+    "_id": "20년 장기 코호트 연구"
+  },
+  "GBE 치료": {
+    "chunk_ids": [
+      "chunk-6914ed6ce67aad21589e78f0642036af"
+    ],
+    "count": 1,
+    "create_time": 1777436957,
+    "update_time": 1777436957,
+    "_id": "GBE 치료"
+  },
+  "고용량": {
+    "chunk_ids": [
+      "chunk-6914ed6ce67aad21589e78f0642036af"
+    ],
+    "count": 1,
+    "create_time": 1777436957,
+    "update_time": 1777436957,
+    "_id": "고용량"
+  },
+  "신": {
+    "chunk_ids": [
+      "chunk-72b4fd465f086e56b2b16115639aa240"
+    ],
+    "count": 1,
+    "create_time": 1777436957,
+    "update_time": 1777436957,
+    "_id": "신"
+  },
+  "은행잎추출물": {
+    "chunk_ids": [
+      "chunk-72b4fd465f086e56b2b16115639aa240",
+      "chunk-18cb653b836f0cbbd7d7bdf9bceeb4d3",
+      "chunk-077e10c764144608a41b74cbf82ab7de",
+      "chunk-c8f599fc7af2f42a96d35069228a197d",
+      "chunk-2c41bdd478bbddef2a4fb657644a8589",
+      "chunk-557807ab42f70f00f07ed3869af072d0",
+      "chunk-6c168ed2887f0729ce6a7d4b448ff83e",
+      "chunk-55db05f4c6a0c379f4eafe4f4645c9d3",
+      "chunk-ab83f67862b1147da5ec0a39d004bfef",
+      "chunk-672e94eb5b67fcaba12454179218dd6c",
+      "chunk-26e93410bb8e2fb32bdf19f8fdedd000",
+      "chunk-da78ab53a5e1039c971f02bea80b1941"
+    ],
+    "count": 12,
+    "create_time": 1777436957,
+    "update_time": 1777436957,
+    "_id": "은행잎추출물"
+  },
+  "심포지엄": {
+    "chunk_ids": [
+      "chunk-72b4fd465f086e56b2b16115639aa240",
+      "chunk-077e10c764144608a41b74cbf82ab7de",
+      "chunk-55db05f4c6a0c379f4eafe4f4645c9d3"
+    ],
+    "count": 3,
+    "create_time": 1777436957,
+    "update_time": 1777436957,
+    "_id": "심포지엄"
+  },
+  "Ginkgo Biloba ext.": {
+    "chunk_ids": [
+      "chunk-72b4fd465f086e56b2b16115639aa240"
+    ],
+    "count": 1,
+    "create_time": 1777436958,
+    "update_time": 1777436958,
+    "_id": "Ginkgo Biloba ext."
+  },
+  "콜린": {
+    "chunk_ids": [
+      "chunk-72b4fd465f086e56b2b16115639aa240",
+      "chunk-8cf79275dcd6711d1b7c03cc8bf154be"
+    ],
+    "count": 2,
+    "update_time": 1777437015,
+    "_id": "콜린"
+  },
+  "아세틸-L-카르니틴": {
+    "chunk_ids": [
+      "chunk-72b4fd465f086e56b2b16115639aa240",
+      "chunk-077e10c764144608a41b74cbf82ab7de",
+      "chunk-e7108ba0869e12b7ee43687f3f3b1101",
+      "chunk-ab83f67862b1147da5ec0a39d004bfef",
+      "chunk-39a7c04f46f7250abe63b485bcfbd005",
+      "chunk-f4fabf1188d737ab04860cfe3e7df676"
+    ],
+    "count": 6,
+    "create_time": 1777436958,
+    "update_time": 1777436958,
+    "_id": "아세틸-L-카르니틴"
+  },
+  "옥시라세탐": {
+    "chunk_ids": [
+      "chunk-72b4fd465f086e56b2b16115639aa240",
+      "chunk-077e10c764144608a41b74cbf82ab7de",
+      "chunk-e7108ba0869e12b7ee43687f3f3b1101",
+      "chunk-ab83f67862b1147da5ec0a39d004bfef",
+      "chunk-39a7c04f46f7250abe63b485bcfbd005",
+      "chunk-f4fabf1188d737ab04860cfe3e7df676"
+    ],
+    "count": 6,
+    "create_time": 1777436958,
+    "update_time": 1777436958,
+    "_id": "옥시라세탐"
+  },
+  "CNS Consensus": {
+    "chunk_ids": [
+      "chunk-18cb653b836f0cbbd7d7bdf9bceeb4d3"
+    ],
+    "count": 1,
+    "create_time": 1777436959,
+    "update_time": 1777436959,
+    "_id": "CNS Consensus"
+  },
+  "세계 여러 나라": {
+    "chunk_ids": [
+      "chunk-18cb653b836f0cbbd7d7bdf9bceeb4d3"
+    ],
+    "count": 1,
+    "create_time": 1777436960,
+    "update_time": 1777436960,
+    "_id": "세계 여러 나라"
+  },
+  "Long-term Study": {
+    "chunk_ids": [
+      "chunk-18cb653b836f0cbbd7d7bdf9bceeb4d3"
+    ],
+    "count": 1,
+    "create_time": 1777436960,
+    "update_time": 1777436960,
+    "_id": "Long-term Study"
+  },
+  "GOTADAY": {
+    "chunk_ids": [
+      "chunk-18cb653b836f0cbbd7d7bdf9bceeb4d3"
+    ],
+    "count": 1,
+    "create_time": 1777436960,
+    "update_time": 1777436960,
+    "_id": "GOTADAY"
+  },
+  "타 약물": {
+    "chunk_ids": [
+      "chunk-18cb653b836f0cbbd7d7bdf9bceeb4d3"
+    ],
+    "count": 1,
+    "create_time": 1777436961,
+    "update_time": 1777436961,
+    "_id": "타 약물"
+  },
+  "Pre-MCI": {
+    "chunk_ids": [
+      "chunk-18cb653b836f0cbbd7d7bdf9bceeb4d3",
+      "chunk-077e10c764144608a41b74cbf82ab7de",
+      "chunk-eaaf9b9e95b1633a29784b702d64b2a4",
+      "chunk-14d5fecd2eb143552d4f71a56a6e43fb"
+    ],
+    "count": 4,
+    "update_time": 1777436995,
+    "_id": "Pre-MCI"
+  },
+  "SCI": {
+    "chunk_ids": [
+      "chunk-18cb653b836f0cbbd7d7bdf9bceeb4d3",
+      "chunk-077e10c764144608a41b74cbf82ab7de"
+    ],
+    "count": 2,
+    "create_time": 1777436961,
+    "update_time": 1777436961,
+    "_id": "SCI"
+  },
+  "SCD": {
+    "chunk_ids": [
+      "chunk-18cb653b836f0cbbd7d7bdf9bceeb4d3",
+      "chunk-e9cedd2080426ee14502060619514a2a",
+      "chunk-eaaf9b9e95b1633a29784b702d64b2a4",
+      "chunk-04179b2f037423c291d7610606fddde3"
+    ],
+    "count": 4,
+    "create_time": 1777436961,
+    "update_time": 1777436961,
+    "_id": "SCD"
+  },
+  "Dr.": {
+    "chunk_ids": [
+      "chunk-d5cd9d6d4dbc3c0a6f33d0c06c125554",
+      "chunk-a55b103e4b396f582e3b8562fcf4bf3e",
+      "chunk-17b3858c1897e9d0a35b5150d4f67cc5",
+      "chunk-9458ec2cd67f54c35b5499c7116f4a72",
+      "chunk-a317c5e8c677c54ddacf2f7ac15d8d2c"
+    ],
+    "count": 5,
+    "update_time": 1777436997,
+    "_id": "Dr."
+  },
+  "MR": {
+    "chunk_ids": [
+      "chunk-d5cd9d6d4dbc3c0a6f33d0c06c125554",
+      "chunk-a55b103e4b396f582e3b8562fcf4bf3e",
+      "chunk-9458ec2cd67f54c35b5499c7116f4a72",
+      "chunk-a317c5e8c677c54ddacf2f7ac15d8d2c"
+    ],
+    "count": 4,
+    "update_time": 1777436997,
+    "_id": "MR"
+  },
+  "사미온": {
+    "chunk_ids": [
+      "chunk-d5cd9d6d4dbc3c0a6f33d0c06c125554",
+      "chunk-9458ec2cd67f54c35b5499c7116f4a72"
+    ],
+    "count": 2,
+    "create_time": 1777436962,
+    "update_time": 1777436962,
+    "_id": "사미온"
+  },
+  "아스피린 저용량 제제": {
+    "chunk_ids": [
+      "chunk-d5cd9d6d4dbc3c0a6f33d0c06c125554",
+      "chunk-54331ed02fae74019957acd66bf24c6e"
+    ],
+    "count": 2,
+    "create_time": 1777436962,
+    "update_time": 1777436962,
+    "_id": "아스피린 저용량 제제"
+  },
+  "타나민": {
+    "chunk_ids": [
+      "chunk-d5cd9d6d4dbc3c0a6f33d0c06c125554",
+      "chunk-80a481c1cc017fd888e99c5615910150"
+    ],
+    "count": 2,
+    "update_time": 1777436984,
+    "_id": "타나민"
+  },
+  "뉴본": {
+    "chunk_ids": [
+      "chunk-d5cd9d6d4dbc3c0a6f33d0c06c125554"
+    ],
+    "count": 1,
+    "create_time": 1777436963,
+    "update_time": 1777436963,
+    "_id": "뉴본"
+  },
+  "간헐성 파행증 질환": {
+    "chunk_ids": [
+      "chunk-d5cd9d6d4dbc3c0a6f33d0c06c125554"
+    ],
+    "count": 1,
+    "create_time": 1777436963,
+    "update_time": 1777436963,
+    "_id": "간헐성 파행증 질환"
+  },
+  "간헐성 파행증": {
+    "chunk_ids": [
+      "chunk-d5cd9d6d4dbc3c0a6f33d0c06c125554",
+      "chunk-8488c7cc9aad239b2f0e484816d2f716",
+      "chunk-9458ec2cd67f54c35b5499c7116f4a72"
+    ],
+    "count": 3,
+    "create_time": 1777436963,
+    "update_time": 1777436963,
+    "_id": "간헐성 파행증"
+  },
+  "경도인지장애": {
+    "chunk_ids": [
+      "chunk-14d5fecd2eb143552d4f71a56a6e43fb",
+      "chunk-557807ab42f70f00f07ed3869af072d0",
+      "chunk-55db05f4c6a0c379f4eafe4f4645c9d3",
+      "chunk-affaca4becfc6fbf8ab2caca67064f2b",
+      "chunk-e65d3b0f999756ffd4036f1def40062b",
+      "chunk-39a7c04f46f7250abe63b485bcfbd005",
+      "chunk-da78ab53a5e1039c971f02bea80b1941",
+      "chunk-170f6df019569aa473c767d889cf45f3",
+      "chunk-e7108ba0869e12b7ee43687f3f3b1101"
+    ],
+    "count": 9,
+    "update_time": 1777437016,
+    "_id": "경도인지장애"
+  },
+  "정종현 교수": {
+    "chunk_ids": [
+      "chunk-14d5fecd2eb143552d4f71a56a6e43fb"
+    ],
+    "count": 1,
+    "create_time": 1777436963,
+    "update_time": 1777436963,
+    "_id": "정종현 교수"
+  },
+  "MMSE": {
+    "chunk_ids": [
+      "chunk-14d5fecd2eb143552d4f71a56a6e43fb"
+    ],
+    "count": 1,
+    "create_time": 1777436963,
+    "update_time": 1777436963,
+    "_id": "MMSE"
+  },
+  "하세가와 치매검사": {
+    "chunk_ids": [
+      "chunk-14d5fecd2eb143552d4f71a56a6e43fb"
+    ],
+    "count": 1,
+    "create_time": 1777436964,
+    "update_time": 1777436964,
+    "_id": "하세가와 치매검사"
+  },
+  "Mini-Cog": {
+    "chunk_ids": [
+      "chunk-14d5fecd2eb143552d4f71a56a6e43fb"
+    ],
+    "count": 1,
+    "create_time": 1777436964,
+    "update_time": 1777436964,
+    "_id": "Mini-Cog"
+  },
+  "CDR": {
+    "chunk_ids": [
+      "chunk-14d5fecd2eb143552d4f71a56a6e43fb"
+    ],
+    "count": 1,
+    "create_time": 1777436964,
+    "update_time": 1777436964,
+    "_id": "CDR"
+  },
+  "GDS": {
+    "chunk_ids": [
+      "chunk-14d5fecd2eb143552d4f71a56a6e43fb"
+    ],
+    "count": 1,
+    "create_time": 1777436964,
+    "update_time": 1777436964,
+    "_id": "GDS"
+  },
+  "뇌영상 검사": {
+    "chunk_ids": [
+      "chunk-14d5fecd2eb143552d4f71a56a6e43fb"
+    ],
+    "count": 1,
+    "create_time": 1777436964,
+    "update_time": 1777436964,
+    "_id": "뇌영상 검사"
+  },
+  "베타 아밀로이드": {
+    "chunk_ids": [
+      "chunk-14d5fecd2eb143552d4f71a56a6e43fb",
+      "chunk-e65d3b0f999756ffd4036f1def40062b"
+    ],
+    "count": 2,
+    "create_time": 1777436964,
+    "update_time": 1777436964,
+    "_id": "베타 아밀로이드"
+  },
+  "타우 단백질": {
+    "chunk_ids": [
+      "chunk-14d5fecd2eb143552d4f71a56a6e43fb",
+      "chunk-e65d3b0f999756ffd4036f1def40062b"
+    ],
+    "count": 2,
+    "create_time": 1777436965,
+    "update_time": 1777436965,
+    "_id": "타우 단백질"
+  },
+  "Subjective Cognitive Decline": {
+    "chunk_ids": [
+      "chunk-14d5fecd2eb143552d4f71a56a6e43fb"
+    ],
+    "count": 1,
+    "create_time": 1777436965,
+    "update_time": 1777436965,
+    "_id": "Subjective Cognitive Decline"
+  },
+  "Subjective Cognitive Impairment": {
+    "chunk_ids": [
+      "chunk-14d5fecd2eb143552d4f71a56a6e43fb"
+    ],
+    "count": 1,
+    "create_time": 1777436965,
+    "update_time": 1777436965,
+    "_id": "Subjective Cognitive Impairment"
+  },
+  "병리 변화": {
+    "chunk_ids": [
+      "chunk-14d5fecd2eb143552d4f71a56a6e43fb"
+    ],
+    "count": 1,
+    "create_time": 1777436965,
+    "update_time": 1777436965,
+    "_id": "병리 변화"
+  },
+  "기능성 뇌기능 장애": {
+    "chunk_ids": [
+      "chunk-0dc66f6639a531db2594217570ef471d"
+    ],
+    "count": 1,
+    "create_time": 1777436965,
+    "update_time": 1777436965,
+    "_id": "기능성 뇌기능 장애"
+  },
+  "Ginkgo Biloba Ext.": {
+    "chunk_ids": [
+      "chunk-0dc66f6639a531db2594217570ef471d",
+      "chunk-130241959094a1bc801a761bf1c10dbc"
+    ],
+    "count": 2,
+    "create_time": 1777436965,
+    "update_time": 1777436965,
+    "_id": "Ginkgo Biloba Ext."
+  },
+  "은행엽": {
+    "chunk_ids": [
+      "chunk-0dc66f6639a531db2594217570ef471d"
+    ],
+    "count": 1,
+    "create_time": 1777436965,
+    "update_time": 1777436965,
+    "_id": "은행엽"
+  },
+  "산화질소": {
+    "chunk_ids": [
+      "chunk-0dc66f6639a531db2594217570ef471d"
+    ],
+    "count": 1,
+    "create_time": 1777436965,
+    "update_time": 1777436965,
+    "_id": "산화질소"
+  },
+  "프로스타사이클린": {
+    "chunk_ids": [
+      "chunk-0dc66f6639a531db2594217570ef471d"
+    ],
+    "count": 1,
+    "create_time": 1777436965,
+    "update_time": 1777436965,
+    "_id": "프로스타사이클린"
+  },
+  "자유라디칼": {
+    "chunk_ids": [
+      "chunk-0dc66f6639a531db2594217570ef471d"
+    ],
+    "count": 1,
+    "create_time": 1777436965,
+    "update_time": 1777436965,
+    "_id": "자유라디칼"
+  },
+  "신경세포": {
+    "chunk_ids": [
+      "chunk-0dc66f6639a531db2594217570ef471d"
+    ],
+    "count": 1,
+    "create_time": 1777436965,
+    "update_time": 1777436965,
+    "_id": "신경세포"
+  },
+  "세포막": {
+    "chunk_ids": [
+      "chunk-0dc66f6639a531db2594217570ef471d",
+      "chunk-b9db78788c2322f6c8c8e7c3a70aaa4e"
+    ],
+    "count": 2,
+    "create_time": 1777436965,
+    "update_time": 1777436965,
+    "_id": "세포막"
+  },
+  "혈관 확장": {
+    "chunk_ids": [
+      "chunk-0dc66f6639a531db2594217570ef471d"
+    ],
+    "count": 1,
+    "create_time": 1777436965,
+    "update_time": 1777436965,
+    "_id": "혈관 확장"
+  },
+  "GABAA 부정적 알로스테릭 조절자": {
+    "chunk_ids": [
+      "chunk-0dc66f6639a531db2594217570ef471d"
+    ],
+    "count": 1,
+    "create_time": 1777436965,
+    "update_time": 1777436965,
+    "_id": "GABAA 부정적 알로스테릭 조절자"
+  },
+  "콜린알포세레이트": {
+    "chunk_ids": [
+      "chunk-077e10c764144608a41b74cbf82ab7de",
+      "chunk-8cf79275dcd6711d1b7c03cc8bf154be",
+      "chunk-39a7c04f46f7250abe63b485bcfbd005",
+      "chunk-54331ed02fae74019957acd66bf24c6e",
+      "chunk-f4fabf1188d737ab04860cfe3e7df676"
+    ],
+    "count": 5,
+    "create_time": 1777436966,
+    "update_time": 1777436966,
+    "_id": "콜린알포세레이트"
+  },
+  "코호트 임상 연구": {
+    "chunk_ids": [
+      "chunk-077e10c764144608a41b74cbf82ab7de"
+    ],
+    "count": 1,
+    "create_time": 1777436966,
+    "update_time": 1777436966,
+    "_id": "코호트 임상 연구"
+  },
+  "기넥신240mg": {
+    "chunk_ids": [
+      "chunk-c8f599fc7af2f42a96d35069228a197d",
+      "chunk-e7108ba0869e12b7ee43687f3f3b1101"
+    ],
+    "count": 2,
+    "create_time": 1777436966,
+    "update_time": 1777436966,
+    "_id": "기넥신240mg"
+  },
+  "타겐에프": {
+    "chunk_ids": [
+      "chunk-c8f599fc7af2f42a96d35069228a197d",
+      "chunk-672e94eb5b67fcaba12454179218dd6c",
+      "chunk-26e93410bb8e2fb32bdf19f8fdedd000"
+    ],
+    "count": 3,
+    "create_time": 1777436966,
+    "update_time": 1777436966,
+    "_id": "타겐에프"
+  },
+  "빌베리건조엑스": {
+    "chunk_ids": [
+      "chunk-c8f599fc7af2f42a96d35069228a197d",
+      "chunk-672e94eb5b67fcaba12454179218dd6c"
+    ],
+    "count": 2,
+    "create_time": 1777436966,
+    "update_time": 1777436966,
+    "_id": "빌베리건조엑스"
+  },
+  "베셀듀": {
+    "chunk_ids": [
+      "chunk-c8f599fc7af2f42a96d35069228a197d",
+      "chunk-672e94eb5b67fcaba12454179218dd6c"
+    ],
+    "count": 2,
+    "create_time": 1777436966,
+    "update_time": 1777436966,
+    "_id": "베셀듀"
+  },
+  "당뇨병성망막병증": {
+    "chunk_ids": [
+      "chunk-c8f599fc7af2f42a96d35069228a197d"
+    ],
+    "count": 1,
+    "create_time": 1777436966,
+    "update_time": 1777436966,
+    "_id": "당뇨병성망막병증"
+  },
+  "녹내장": {
+    "chunk_ids": [
+      "chunk-c8f599fc7af2f42a96d35069228a197d"
+    ],
+    "count": 1,
+    "create_time": 1777436966,
+    "update_time": 1777436966,
+    "_id": "녹내장"
+  },
+  "말초성 어지럼증": {
+    "chunk_ids": [
+      "chunk-a55b103e4b396f582e3b8562fcf4bf3e",
+      "chunk-a317c5e8c677c54ddacf2f7ac15d8d2c"
+    ],
+    "count": 2,
+    "create_time": 1777436966,
+    "update_time": 1777436966,
+    "_id": "말초성 어지럼증"
+  },
+  "CT/MRI": {
+    "chunk_ids": [
+      "chunk-a55b103e4b396f582e3b8562fcf4bf3e"
+    ],
+    "count": 1,
+    "create_time": 1777436966,
+    "update_time": 1777436966,
+    "_id": "CT/MRI"
+  },
+  "환자": {
+    "chunk_ids": [
+      "chunk-a55b103e4b396f582e3b8562fcf4bf3e",
+      "chunk-8cf79275dcd6711d1b7c03cc8bf154be",
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8",
+      "chunk-86b71c4a9fc37d7590c6eb67184c46b0",
+      "chunk-8d4a1839aebf7871119a3e0f8352d032"
+    ],
+    "count": 5,
+    "update_time": 1777437155,
+    "_id": "환자"
+  },
+  "보나링에이": {
+    "chunk_ids": [
+      "chunk-a55b103e4b396f582e3b8562fcf4bf3e"
+    ],
+    "count": 1,
+    "create_time": 1777436966,
+    "update_time": 1777436966,
+    "_id": "보나링에이"
+  },
+  "에르버트": {
+    "chunk_ids": [
+      "chunk-a55b103e4b396f582e3b8562fcf4bf3e"
+    ],
+    "count": 1,
+    "create_time": 1777436966,
+    "update_time": 1777436966,
+    "_id": "에르버트"
+  },
+  "H81.4 코드": {
+    "chunk_ids": [
+      "chunk-a55b103e4b396f582e3b8562fcf4bf3e"
+    ],
+    "count": 1,
+    "create_time": 1777436966,
+    "update_time": 1777436966,
+    "_id": "H81.4 코드"
+  },
+  "뇌인지질": {
+    "chunk_ids": [
+      "chunk-130241959094a1bc801a761bf1c10dbc"
+    ],
+    "count": 1,
+    "create_time": 1777436967,
+    "update_time": 1777436967,
+    "_id": "뇌인지질"
+  },
+  "알파교감신경차단 효과": {
+    "chunk_ids": [
+      "chunk-130241959094a1bc801a761bf1c10dbc"
+    ],
+    "count": 1,
+    "create_time": 1777436967,
+    "update_time": 1777436967,
+    "_id": "알파교감신경차단 효과"
+  },
+  "혈액순환개선": {
+    "chunk_ids": [
+      "chunk-130241959094a1bc801a761bf1c10dbc"
+    ],
+    "count": 1,
+    "create_time": 1777436967,
+    "update_time": 1777436967,
+    "_id": "혈액순환개선"
+  },
+  "자발성 저하": {
+    "chunk_ids": [
+      "chunk-130241959094a1bc801a761bf1c10dbc"
+    ],
+    "count": 1,
+    "create_time": 1777436967,
+    "update_time": 1777436967,
+    "_id": "자발성 저하"
+  },
+  "글리아타민": {
+    "chunk_ids": [
+      "chunk-130241959094a1bc801a761bf1c10dbc"
+    ],
+    "count": 1,
+    "create_time": 1777436967,
+    "update_time": 1777436967,
+    "_id": "글리아타민"
+  },
+  "글리아티린": {
+    "chunk_ids": [
+      "chunk-130241959094a1bc801a761bf1c10dbc",
+      "chunk-8cf79275dcd6711d1b7c03cc8bf154be"
+    ],
+    "count": 2,
+    "create_time": 1777436967,
+    "update_time": 1777436967,
+    "_id": "글리아티린"
+  },
+  "카니틸": {
+    "chunk_ids": [
+      "chunk-130241959094a1bc801a761bf1c10dbc",
+      "chunk-e7108ba0869e12b7ee43687f3f3b1101"
+    ],
+    "count": 2,
+    "create_time": 1777436967,
+    "update_time": 1777436967,
+    "_id": "카니틸"
+  },
+  "니세틸": {
+    "chunk_ids": [
+      "chunk-130241959094a1bc801a761bf1c10dbc",
+      "chunk-e7108ba0869e12b7ee43687f3f3b1101"
+    ],
+    "count": 2,
+    "create_time": 1777436967,
+    "update_time": 1777436967,
+    "_id": "니세틸"
+  },
+  "80mg": {
+    "chunk_ids": [
+      "chunk-130241959094a1bc801a761bf1c10dbc",
+      "chunk-672e94eb5b67fcaba12454179218dd6c"
+    ],
+    "count": 2,
+    "create_time": 1777436967,
+    "update_time": 1777436967,
+    "_id": "80mg"
+  },
+  "240mg": {
+    "chunk_ids": [
+      "chunk-130241959094a1bc801a761bf1c10dbc",
+      "chunk-2c41bdd478bbddef2a4fb657644a8589",
+      "chunk-7ba5d181a53de825c3a8029546997212"
+    ],
+    "count": 3,
+    "create_time": 1777436967,
+    "update_time": 1777436967,
+    "_id": "240mg"
+  },
+  "2차증상": {
+    "chunk_ids": [
+      "chunk-130241959094a1bc801a761bf1c10dbc"
+    ],
+    "count": 1,
+    "create_time": 1777436967,
+    "update_time": 1777436967,
+    "_id": "2차증상"
+  },
+  "퇴행성 뇌기질성 정신증후군": {
+    "chunk_ids": [
+      "chunk-130241959094a1bc801a761bf1c10dbc"
+    ],
+    "count": 1,
+    "create_time": 1777436967,
+    "update_time": 1777436967,
+    "_id": "퇴행성 뇌기질성 정신증후군"
+  },
+  "기질성 뇌기능장애": {
+    "chunk_ids": [
+      "chunk-130241959094a1bc801a761bf1c10dbc"
+    ],
+    "count": 1,
+    "create_time": 1777436968,
+    "update_time": 1777436968,
+    "_id": "기질성 뇌기능장애"
+  },
+  "일차성 퇴행성 혈관치매": {
+    "chunk_ids": [
+      "chunk-130241959094a1bc801a761bf1c10dbc"
+    ],
+    "count": 1,
+    "create_time": 1777436968,
+    "update_time": 1777436968,
+    "_id": "일차성 퇴행성 혈관치매"
+  },
+  "복합성 치매": {
+    "chunk_ids": [
+      "chunk-130241959094a1bc801a761bf1c10dbc"
+    ],
+    "count": 1,
+    "create_time": 1777436968,
+    "update_time": 1777436968,
+    "_id": "복합성 치매"
+  },
+  "Choline Alfoscerate": {
+    "chunk_ids": [
+      "chunk-74e6db047e760130929347801698a07d"
+    ],
+    "count": 1,
+    "create_time": 1777436968,
+    "update_time": 1777436968,
+    "_id": "Choline Alfoscerate"
+  },
+  "Acetyl L-Carnitine": {
+    "chunk_ids": [
+      "chunk-74e6db047e760130929347801698a07d"
+    ],
+    "count": 1,
+    "create_time": 1777436968,
+    "update_time": 1777436968,
+    "_id": "Acetyl L-Carnitine"
+  },
+  "도네페질": {
+    "chunk_ids": [
+      "chunk-74e6db047e760130929347801698a07d",
+      "chunk-ab83f67862b1147da5ec0a39d004bfef"
+    ],
+    "count": 2,
+    "create_time": 1777436968,
+    "update_time": 1777436968,
+    "_id": "도네페질"
+  },
+  "아시아신경인지질환전문가그룹(ASCEND)": {
+    "chunk_ids": [
+      "chunk-74e6db047e760130929347801698a07d"
+    ],
+    "count": 1,
+    "create_time": 1777436968,
+    "update_time": 1777436968,
+    "_id": "아시아신경인지질환전문가그룹(ASCEND)"
+  },
+  "Salloway et al.": {
+    "chunk_ids": [
+      "chunk-74e6db047e760130929347801698a07d"
+    ],
+    "count": 1,
+    "create_time": 1777436968,
+    "update_time": 1777436968,
+    "_id": "Salloway et al."
+  },
+  "Petersen et al.": {
+    "chunk_ids": [
+      "chunk-74e6db047e760130929347801698a07d"
+    ],
+    "count": 1,
+    "create_time": 1777436968,
+    "update_time": 1777436968,
+    "_id": "Petersen et al."
+  },
+  "Memantine": {
+    "chunk_ids": [
+      "chunk-74e6db047e760130929347801698a07d"
+    ],
+    "count": 1,
+    "create_time": 1777436969,
+    "update_time": 1777436969,
+    "_id": "Memantine"
+  },
+  "Donepezil": {
+    "chunk_ids": [
+      "chunk-74e6db047e760130929347801698a07d",
+      "chunk-42e6760a283cd38d38480971f5cdc248"
+    ],
+    "count": 2,
+    "create_time": 1777436969,
+    "update_time": 1777436969,
+    "_id": "Donepezil"
+  },
+  "Rivastigmine": {
+    "chunk_ids": [
+      "chunk-74e6db047e760130929347801698a07d"
+    ],
+    "count": 1,
+    "create_time": 1777436969,
+    "update_time": 1777436969,
+    "_id": "Rivastigmine"
+  },
+  "Galantamine": {
+    "chunk_ids": [
+      "chunk-74e6db047e760130929347801698a07d"
+    ],
+    "count": 1,
+    "create_time": 1777436969,
+    "update_time": 1777436969,
+    "_id": "Galantamine"
+  },
+  "RCT 연구": {
+    "chunk_ids": [
+      "chunk-2c41bdd478bbddef2a4fb657644a8589"
+    ],
+    "count": 1,
+    "create_time": 1777436969,
+    "update_time": 1777436969,
+    "_id": "RCT 연구"
+  },
+  "고용량 가이드": {
+    "chunk_ids": [
+      "chunk-2c41bdd478bbddef2a4fb657644a8589"
+    ],
+    "count": 1,
+    "create_time": 1777436969,
+    "update_time": 1777436969,
+    "_id": "고용량 가이드"
+  },
+  "임상 자료": {
+    "chunk_ids": [
+      "chunk-2c41bdd478bbddef2a4fb657644a8589",
+      "chunk-6c168ed2887f0729ce6a7d4b448ff83e"
+    ],
+    "count": 2,
+    "create_time": 1777436969,
+    "update_time": 1777436969,
+    "_id": "임상 자료"
+  },
+  "장기적 인지기능 개선": {
+    "chunk_ids": [
+      "chunk-2c41bdd478bbddef2a4fb657644a8589"
+    ],
+    "count": 1,
+    "create_time": 1777436969,
+    "update_time": 1777436969,
+    "_id": "장기적 인지기능 개선"
+  },
+  "임상 문헌": {
+    "chunk_ids": [
+      "chunk-557807ab42f70f00f07ed3869af072d0"
+    ],
+    "count": 1,
+    "create_time": 1777436969,
+    "update_time": 1777436969,
+    "_id": "임상 문헌"
+  },
+  "우울 증상": {
+    "chunk_ids": [
+      "chunk-557807ab42f70f00f07ed3869af072d0"
+    ],
+    "count": 1,
+    "create_time": 1777436969,
+    "update_time": 1777436969,
+    "_id": "우울 증상"
+  },
+  "H81.4": {
+    "chunk_ids": [
+      "chunk-557807ab42f70f00f07ed3869af072d0",
+      "chunk-54331ed02fae74019957acd66bf24c6e",
+      "chunk-f4fabf1188d737ab04860cfe3e7df676"
+    ],
+    "count": 3,
+    "create_time": 1777436969,
+    "update_time": 1777436969,
+    "_id": "H81.4"
+  },
+  "Ginkgo Biloba Extract EGb 761": {
+    "chunk_ids": [
+      "chunk-1404d9e9ba21e7722da2645e7144c8f3"
+    ],
+    "count": 1,
+    "create_time": 1777436970,
+    "update_time": 1777436970,
+    "_id": "Ginkgo Biloba Extract EGb 761"
+  },
+  "Ihl R": {
+    "chunk_ids": [
+      "chunk-1404d9e9ba21e7722da2645e7144c8f3"
+    ],
+    "count": 1,
+    "create_time": 1777436970,
+    "update_time": 1777436970,
+    "_id": "Ihl R"
+  },
+  "Herrschaft H": {
+    "chunk_ids": [
+      "chunk-1404d9e9ba21e7722da2645e7144c8f3"
+    ],
+    "count": 1,
+    "create_time": 1777436970,
+    "update_time": 1777436970,
+    "_id": "Herrschaft H"
+  },
+  "SKT": {
+    "chunk_ids": [
+      "chunk-1404d9e9ba21e7722da2645e7144c8f3"
+    ],
+    "count": 1,
+    "create_time": 1777436970,
+    "update_time": 1777436970,
+    "_id": "SKT"
+  },
+  "ADCS-CGIC": {
+    "chunk_ids": [
+      "chunk-1404d9e9ba21e7722da2645e7144c8f3"
+    ],
+    "count": 1,
+    "create_time": 1777436970,
+    "update_time": 1777436970,
+    "_id": "ADCS-CGIC"
+  },
+  "ADL-IS": {
+    "chunk_ids": [
+      "chunk-1404d9e9ba21e7722da2645e7144c8f3"
+    ],
+    "count": 1,
+    "create_time": 1777436970,
+    "update_time": 1777436970,
+    "_id": "ADL-IS"
+  },
+  "EGb 761": {
+    "chunk_ids": [
+      "chunk-1404d9e9ba21e7722da2645e7144c8f3"
+    ],
+    "count": 1,
+    "create_time": 1777436970,
+    "update_time": 1777436970,
+    "_id": "EGb 761"
+  },
+  "위험도": {
+    "chunk_ids": [
+      "chunk-1404d9e9ba21e7722da2645e7144c8f3"
+    ],
+    "count": 1,
+    "create_time": 1777436970,
+    "update_time": 1777436970,
+    "_id": "위험도"
+  },
+  "255건": {
+    "chunk_ids": [
+      "chunk-1404d9e9ba21e7722da2645e7144c8f3"
+    ],
+    "count": 1,
+    "create_time": 1777436970,
+    "update_time": 1777436970,
+    "_id": "255건"
+  },
+  "261건": {
+    "chunk_ids": [
+      "chunk-1404d9e9ba21e7722da2645e7144c8f3"
+    ],
+    "count": 1,
+    "create_time": 1777436970,
+    "update_time": 1777436970,
+    "_id": "261건"
+  },
+  "Ginkgolic Acids": {
+    "chunk_ids": [
+      "chunk-644d957f2c2fd927501f463c7a8a0c2d"
+    ],
+    "count": 1,
+    "create_time": 1777436970,
+    "update_time": 1777436970,
+    "_id": "Ginkgolic Acids"
+  },
+  "World Health Organization": {
+    "chunk_ids": [
+      "chunk-644d957f2c2fd927501f463c7a8a0c2d"
+    ],
+    "count": 1,
+    "create_time": 1777436970,
+    "update_time": 1777436970,
+    "_id": "World Health Organization"
+  },
+  "기넥신-에프": {
+    "chunk_ids": [
+      "chunk-644d957f2c2fd927501f463c7a8a0c2d"
+    ],
+    "count": 1,
+    "create_time": 1777436970,
+    "update_time": 1777436970,
+    "_id": "기넥신-에프"
+  },
+  "보나링 에이": {
+    "chunk_ids": [
+      "chunk-644d957f2c2fd927501f463c7a8a0c2d"
+    ],
+    "count": 1,
+    "create_time": 1777436970,
+    "update_time": 1777436970,
+    "_id": "보나링 에이"
+  },
+  "어지럼증": {
+    "chunk_ids": [
+      "chunk-644d957f2c2fd927501f463c7a8a0c2d",
+      "chunk-7ba5d181a53de825c3a8029546997212",
+      "chunk-a317c5e8c677c54ddacf2f7ac15d8d2c",
+      "chunk-90fdd954d1f3ec2ae488ffa369a1bc66",
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 5,
+    "update_time": 1777437075,
+    "_id": "어지럼증"
+  },
+  "Newborn 50IU": {
+    "chunk_ids": [
+      "chunk-644d957f2c2fd927501f463c7a8a0c2d"
+    ],
+    "count": 1,
+    "create_time": 1777436970,
+    "update_time": 1777436970,
+    "_id": "Newborn 50IU"
+  },
+  "결과 화면": {
+    "chunk_ids": [
+      "chunk-6c168ed2887f0729ce6a7d4b448ff83e"
+    ],
+    "count": 1,
+    "create_time": 1777436971,
+    "update_time": 1777436971,
+    "_id": "결과 화면"
+  },
+  "중앙치매센터": {
+    "chunk_ids": [
+      "chunk-6c168ed2887f0729ce6a7d4b448ff83e",
+      "chunk-eaaf9b9e95b1633a29784b702d64b2a4",
+      "chunk-04179b2f037423c291d7610606fddde3"
+    ],
+    "count": 3,
+    "create_time": 1777436971,
+    "update_time": 1777436971,
+    "_id": "중앙치매센터"
+  },
+  "알츠하이머 치매": {
+    "chunk_ids": [
+      "chunk-6c168ed2887f0729ce6a7d4b448ff83e",
+      "chunk-39a7c04f46f7250abe63b485bcfbd005",
+      "chunk-da78ab53a5e1039c971f02bea80b1941"
+    ],
+    "count": 3,
+    "create_time": 1777436971,
+    "update_time": 1777436971,
+    "_id": "알츠하이머 치매"
+  },
+  "주관적 인지 저하(SCD)": {
+    "chunk_ids": [
+      "chunk-6c168ed2887f0729ce6a7d4b448ff83e"
+    ],
+    "count": 1,
+    "create_time": 1777436971,
+    "update_time": 1777436971,
+    "_id": "주관적 인지 저하(SCD)"
+  },
+  "AChEI 약제": {
+    "chunk_ids": [
+      "chunk-6c168ed2887f0729ce6a7d4b448ff83e",
+      "chunk-ab83f67862b1147da5ec0a39d004bfef",
+      "chunk-da78ab53a5e1039c971f02bea80b1941"
+    ],
+    "count": 3,
+    "create_time": 1777436971,
+    "update_time": 1777436971,
+    "_id": "AChEI 약제"
+  },
+  "신경정신학적 증상": {
+    "chunk_ids": [
+      "chunk-6c168ed2887f0729ce6a7d4b448ff83e",
+      "chunk-affaca4becfc6fbf8ab2caca67064f2b"
+    ],
+    "count": 2,
+    "create_time": 1777436971,
+    "update_time": 1777436971,
+    "_id": "신경정신학적 증상"
+  },
+  "치매 환자": {
+    "chunk_ids": [
+      "chunk-6c168ed2887f0729ce6a7d4b448ff83e",
+      "chunk-ab83f67862b1147da5ec0a39d004bfef",
+      "chunk-eaaf9b9e95b1633a29784b702d64b2a4",
+      "chunk-557807ab42f70f00f07ed3869af072d0"
+    ],
+    "count": 4,
+    "update_time": 1777437004,
+    "_id": "치매 환자"
+  },
+  "치매 환자 대상 임상 문헌": {
+    "chunk_ids": [
+      "chunk-6c168ed2887f0729ce6a7d4b448ff83e"
+    ],
+    "count": 1,
+    "create_time": 1777436971,
+    "update_time": 1777436971,
+    "_id": "치매 환자 대상 임상 문헌"
+  },
+  "초동맥폐색증": {
+    "chunk_ids": [
+      "chunk-7ba5d181a53de825c3a8029546997212"
+    ],
+    "count": 1,
+    "create_time": 1777436971,
+    "update_time": 1777436971,
+    "_id": "초동맥폐색증"
+  },
+  "은행엽 엑스": {
+    "chunk_ids": [
+      "chunk-7ba5d181a53de825c3a8029546997212",
+      "chunk-8488c7cc9aad239b2f0e484816d2f716"
+    ],
+    "count": 2,
+    "create_time": 1777436971,
+    "update_time": 1777436971,
+    "_id": "은행엽 엑스"
+  },
+  "베타히스타인": {
+    "chunk_ids": [
+      "chunk-7ba5d181a53de825c3a8029546997212"
+    ],
+    "count": 1,
+    "create_time": 1777436971,
+    "update_time": 1777436971,
+    "_id": "베타히스타인"
+  },
+  "CNS Consensus Clinical guideline": {
+    "chunk_ids": [
+      "chunk-55db05f4c6a0c379f4eafe4f4645c9d3"
+    ],
+    "count": 1,
+    "create_time": 1777436972,
+    "update_time": 1777436972,
+    "_id": "CNS Consensus Clinical guideline"
+  },
+  "Prevention 목적": {
+    "chunk_ids": [
+      "chunk-55db05f4c6a0c379f4eafe4f4645c9d3"
+    ],
+    "count": 1,
+    "create_time": 1777436972,
+    "update_time": 1777436972,
+    "_id": "Prevention 목적"
+  },
+  "은행": {
+    "chunk_ids": [
+      "chunk-55db05f4c6a0c379f4eafe4f4645c9d3"
+    ],
+    "count": 1,
+    "create_time": 1777436972,
+    "update_time": 1777436972,
+    "_id": "은행"
+  },
+  "판매사": {
+    "chunk_ids": [
+      "chunk-55db05f4c6a0c379f4eafe4f4645c9d3"
+    ],
+    "count": 1,
+    "create_time": 1777436972,
+    "update_time": 1777436972,
+    "_id": "판매사"
+  },
+  "240mg 1회 복용": {
+    "chunk_ids": [
+      "chunk-e9cedd2080426ee14502060619514a2a"
+    ],
+    "count": 1,
+    "create_time": 1777436972,
+    "update_time": 1777436972,
+    "_id": "240mg 1회 복용"
+  },
+  "80mg 3회 복용": {
+    "chunk_ids": [
+      "chunk-e9cedd2080426ee14502060619514a2a"
+    ],
+    "count": 1,
+    "create_time": 1777436972,
+    "update_time": 1777436972,
+    "_id": "80mg 3회 복용"
+  },
+  "Ginkgo Biloba Special Extract EGb 761®": {
+    "chunk_ids": [
+      "chunk-e9cedd2080426ee14502060619514a2a"
+    ],
+    "count": 1,
+    "create_time": 1777436972,
+    "update_time": 1777436972,
+    "_id": "Ginkgo Biloba Special Extract EGb 761®"
+  },
+  "Grass-Kapanke et al.": {
+    "chunk_ids": [
+      "chunk-e9cedd2080426ee14502060619514a2a"
+    ],
+    "count": 1,
+    "create_time": 1777436973,
+    "update_time": 1777436973,
+    "_id": "Grass-Kapanke et al."
+  },
+  "Neuroscience & Medicine": {
+    "chunk_ids": [
+      "chunk-e9cedd2080426ee14502060619514a2a"
+    ],
+    "count": 1,
+    "create_time": 1777436973,
+    "update_time": 1777436973,
+    "_id": "Neuroscience & Medicine"
+  },
+  "Very Mild Cognitive Impairment (vMCI)": {
+    "chunk_ids": [
+      "chunk-e9cedd2080426ee14502060619514a2a"
+    ],
+    "count": 1,
+    "create_time": 1777436973,
+    "update_time": 1777436973,
+    "_id": "Very Mild Cognitive Impairment (vMCI)"
+  },
+  "Quality of life": {
+    "chunk_ids": [
+      "chunk-e9cedd2080426ee14502060619514a2a"
+    ],
+    "count": 1,
+    "create_time": 1777436973,
+    "update_time": 1777436973,
+    "_id": "Quality of life"
+  },
+  "Dementia": {
+    "chunk_ids": [
+      "chunk-e9cedd2080426ee14502060619514a2a",
+      "chunk-8add22866ba4e2fe286acbcc53a1dc62"
+    ],
+    "count": 2,
+    "create_time": 1777436973,
+    "update_time": 1777436973,
+    "_id": "Dementia"
+  },
+  "Kandiah N": {
+    "chunk_ids": [
+      "chunk-e9cedd2080426ee14502060619514a2a"
+    ],
+    "count": 1,
+    "create_time": 1777436973,
+    "update_time": 1777436973,
+    "_id": "Kandiah N"
+  },
+  "Clinical guidelines": {
+    "chunk_ids": [
+      "chunk-e9cedd2080426ee14502060619514a2a"
+    ],
+    "count": 1,
+    "create_time": 1777436973,
+    "update_time": 1777436973,
+    "_id": "Clinical guidelines"
+  },
+  "말초동맥폐색증": {
+    "chunk_ids": [
+      "chunk-8488c7cc9aad239b2f0e484816d2f716"
+    ],
+    "count": 1,
+    "create_time": 1777436973,
+    "update_time": 1777436973,
+    "_id": "말초동맥폐색증"
+  },
+  "임상시험": {
+    "chunk_ids": [
+      "chunk-8488c7cc9aad239b2f0e484816d2f716",
+      "chunk-90fdd954d1f3ec2ae488ffa369a1bc66"
+    ],
+    "count": 2,
+    "update_time": 1777437074,
+    "_id": "임상시험"
+  },
+  "Pain-free Walking Distance": {
+    "chunk_ids": [
+      "chunk-8488c7cc9aad239b2f0e484816d2f716"
+    ],
+    "count": 1,
+    "create_time": 1777436973,
+    "update_time": 1777436973,
+    "_id": "Pain-free Walking Distance"
+  },
+  "Quaranta L et al.": {
+    "chunk_ids": [
+      "chunk-8488c7cc9aad239b2f0e484816d2f716"
+    ],
+    "count": 1,
+    "create_time": 1777436974,
+    "update_time": 1777436974,
+    "_id": "Quaranta L et al."
+  },
+  "Peters H et al.": {
+    "chunk_ids": [
+      "chunk-8488c7cc9aad239b2f0e484816d2f716"
+    ],
+    "count": 1,
+    "create_time": 1777436974,
+    "update_time": 1777436974,
+    "_id": "Peters H et al."
+  },
+  "Bohmer D et al.": {
+    "chunk_ids": [
+      "chunk-8488c7cc9aad239b2f0e484816d2f716"
+    ],
+    "count": 1,
+    "create_time": 1777436974,
+    "update_time": 1777436974,
+    "_id": "Bohmer D et al."
+  },
+  "40mg tid": {
+    "chunk_ids": [
+      "chunk-8488c7cc9aad239b2f0e484816d2f716"
+    ],
+    "count": 1,
+    "create_time": 1777436974,
+    "update_time": 1777436974,
+    "_id": "40mg tid"
+  },
+  "4주": {
+    "chunk_ids": [
+      "chunk-8488c7cc9aad239b2f0e484816d2f716"
+    ],
+    "count": 1,
+    "create_time": 1777436974,
+    "update_time": 1777436974,
+    "_id": "4주"
+  },
+  "placebo": {
+    "chunk_ids": [
+      "chunk-8488c7cc9aad239b2f0e484816d2f716"
+    ],
+    "count": 1,
+    "create_time": 1777436974,
+    "update_time": 1777436974,
+    "_id": "placebo"
+  },
+  "change in visual field": {
+    "chunk_ids": [
+      "chunk-8488c7cc9aad239b2f0e484816d2f716"
+    ],
+    "count": 1,
+    "create_time": 1777436974,
+    "update_time": 1777436974,
+    "_id": "change in visual field"
+  },
+  "알츠하이머병": {
+    "chunk_ids": [
+      "chunk-affaca4becfc6fbf8ab2caca67064f2b",
+      "chunk-42e6760a283cd38d38480971f5cdc248",
+      "chunk-f4fabf1188d737ab04860cfe3e7df676"
+    ],
+    "count": 3,
+    "create_time": 1777436974,
+    "update_time": 1777436974,
+    "_id": "알츠하이머병"
+  },
+  "레비소체치매": {
+    "chunk_ids": [
+      "chunk-affaca4becfc6fbf8ab2caca67064f2b"
+    ],
+    "count": 1,
+    "create_time": 1777436974,
+    "update_time": 1777436974,
+    "_id": "레비소체치매"
+  },
+  "전두측두엽 변성": {
+    "chunk_ids": [
+      "chunk-affaca4becfc6fbf8ab2caca67064f2b"
+    ],
+    "count": 1,
+    "create_time": 1777436974,
+    "update_time": 1777436974,
+    "_id": "전두측두엽 변성"
+  },
+  "Petersen의 MCI 진단기준": {
+    "chunk_ids": [
+      "chunk-affaca4becfc6fbf8ab2caca67064f2b"
+    ],
+    "count": 1,
+    "create_time": 1777436974,
+    "update_time": 1777436974,
+    "_id": "Petersen의 MCI 진단기준"
+  },
+  "MCI 환자": {
+    "chunk_ids": [
+      "chunk-affaca4becfc6fbf8ab2caca67064f2b",
+      "chunk-da78ab53a5e1039c971f02bea80b1941"
+    ],
+    "count": 2,
+    "create_time": 1777436975,
+    "update_time": 1777436975,
+    "_id": "MCI 환자"
+  },
+  "Central Dementia Center": {
+    "chunk_ids": [
+      "chunk-17b3858c1897e9d0a35b5150d4f67cc5"
+    ],
+    "count": 1,
+    "create_time": 1777436975,
+    "update_time": 1777436975,
+    "_id": "Central Dementia Center"
+  },
+  "Beta Amyloid": {
+    "chunk_ids": [
+      "chunk-17b3858c1897e9d0a35b5150d4f67cc5"
+    ],
+    "count": 1,
+    "create_time": 1777436975,
+    "update_time": 1777436975,
+    "_id": "Beta Amyloid"
+  },
+  "Tau Protein": {
+    "chunk_ids": [
+      "chunk-17b3858c1897e9d0a35b5150d4f67cc5"
+    ],
+    "count": 1,
+    "create_time": 1777436975,
+    "update_time": 1777436975,
+    "_id": "Tau Protein"
+  },
+  "Subjective Memory Complaint Questionnaire": {
+    "chunk_ids": [
+      "chunk-17b3858c1897e9d0a35b5150d4f67cc5"
+    ],
+    "count": 1,
+    "create_time": 1777436975,
+    "update_time": 1777436975,
+    "_id": "Subjective Memory Complaint Questionnaire"
+  },
+  "Depression": {
+    "chunk_ids": [
+      "chunk-17b3858c1897e9d0a35b5150d4f67cc5"
+    ],
+    "count": 1,
+    "create_time": 1777436975,
+    "update_time": 1777436975,
+    "_id": "Depression"
+  },
+  "32% Depressive Rate": {
+    "chunk_ids": [
+      "chunk-17b3858c1897e9d0a35b5150d4f67cc5"
+    ],
+    "count": 1,
+    "create_time": 1777436975,
+    "update_time": 1777436975,
+    "_id": "32% Depressive Rate"
+  },
+  "Jessen": {
+    "chunk_ids": [
+      "chunk-17b3858c1897e9d0a35b5150d4f67cc5"
+    ],
+    "count": 1,
+    "create_time": 1777436975,
+    "update_time": 1777436975,
+    "_id": "Jessen"
+  },
+  "MCI Patient": {
+    "chunk_ids": [
+      "chunk-17b3858c1897e9d0a35b5150d4f67cc5"
+    ],
+    "count": 1,
+    "create_time": 1777436975,
+    "update_time": 1777436975,
+    "_id": "MCI Patient"
+  },
+  "Subjective Cognitive Decline (SCD)": {
+    "chunk_ids": [
+      "chunk-17b3858c1897e9d0a35b5150d4f67cc5"
+    ],
+    "count": 1,
+    "create_time": 1777436975,
+    "update_time": 1777436975,
+    "_id": "Subjective Cognitive Decline (SCD)"
+  },
+  "알츠하이머형 치매": {
+    "chunk_ids": [
+      "chunk-b9db78788c2322f6c8c8e7c3a70aaa4e"
+    ],
+    "count": 1,
+    "create_time": 1777436975,
+    "update_time": 1777436975,
+    "_id": "알츠하이머형 치매"
+  },
+  "혈관성 치매": {
+    "chunk_ids": [
+      "chunk-b9db78788c2322f6c8c8e7c3a70aaa4e",
+      "chunk-39a7c04f46f7250abe63b485bcfbd005"
+    ],
+    "count": 2,
+    "create_time": 1777436975,
+    "update_time": 1777436975,
+    "_id": "혈관성 치매"
+  },
+  "말초동맥순환장애": {
+    "chunk_ids": [
+      "chunk-b9db78788c2322f6c8c8e7c3a70aaa4e"
+    ],
+    "count": 1,
+    "create_time": 1777436975,
+    "update_time": 1777436975,
+    "_id": "말초동맥순환장애"
+  },
+  "허혈성 신경세포 괴사": {
+    "chunk_ids": [
+      "chunk-b9db78788c2322f6c8c8e7c3a70aaa4e"
+    ],
+    "count": 1,
+    "create_time": 1777436975,
+    "update_time": 1777436975,
+    "_id": "허혈성 신경세포 괴사"
+  },
+  "자유 라디칼": {
+    "chunk_ids": [
+      "chunk-b9db78788c2322f6c8c8e7c3a70aaa4e"
+    ],
+    "count": 1,
+    "create_time": 1777436975,
+    "update_time": 1777436975,
+    "_id": "자유 라디칼"
+  },
+  "기넥신 급여 기준": {
+    "chunk_ids": [
+      "chunk-b9db78788c2322f6c8c8e7c3a70aaa4e"
+    ],
+    "count": 1,
+    "create_time": 1777436975,
+    "update_time": 1777436975,
+    "_id": "기넥신 급여 기준"
+  },
+  "기넥신 상병 코드": {
+    "chunk_ids": [
+      "chunk-b9db78788c2322f6c8c8e7c3a70aaa4e"
+    ],
+    "count": 1,
+    "create_time": 1777436975,
+    "update_time": 1777436975,
+    "_id": "기넥신 상병 코드"
+  },
+  "아리셉트": {
+    "chunk_ids": [
+      "chunk-b9db78788c2322f6c8c8e7c3a70aaa4e"
+    ],
+    "count": 1,
+    "create_time": 1777436975,
+    "update_time": 1777436975,
+    "_id": "아리셉트"
+  },
+  "레미닐": {
+    "chunk_ids": [
+      "chunk-b9db78788c2322f6c8c8e7c3a70aaa4e"
+    ],
+    "count": 1,
+    "create_time": 1777436975,
+    "update_time": 1777436975,
+    "_id": "레미닐"
+  },
+  "엑셀론": {
+    "chunk_ids": [
+      "chunk-b9db78788c2322f6c8c8e7c3a70aaa4e"
+    ],
+    "count": 1,
+    "create_time": 1777436976,
+    "update_time": 1777436976,
+    "_id": "엑셀론"
+  },
+  "에빅사": {
+    "chunk_ids": [
+      "chunk-b9db78788c2322f6c8c8e7c3a70aaa4e"
+    ],
+    "count": 1,
+    "create_time": 1777436976,
+    "update_time": 1777436976,
+    "_id": "에빅사"
+  },
+  "은행잎 추출물": {
+    "chunk_ids": [
+      "chunk-8cf79275dcd6711d1b7c03cc8bf154be"
+    ],
+    "count": 1,
+    "create_time": 1777436976,
+    "update_time": 1777436976,
+    "_id": "은행잎 추출물"
+  },
+  "Ginkgo Biloba Extract SR": {
+    "chunk_ids": [
+      "chunk-8cf79275dcd6711d1b7c03cc8bf154be",
+      "chunk-54331ed02fae74019957acd66bf24c6e"
+    ],
+    "count": 2,
+    "create_time": 1777436976,
+    "update_time": 1777436976,
+    "_id": "Ginkgo Biloba Extract SR"
+  },
+  "가이드라인": {
+    "chunk_ids": [
+      "chunk-8cf79275dcd6711d1b7c03cc8bf154be"
+    ],
+    "count": 1,
+    "create_time": 1777436976,
+    "update_time": 1777436976,
+    "_id": "가이드라인"
+  },
+  "기넥신80mg": {
+    "chunk_ids": [
+      "chunk-e7108ba0869e12b7ee43687f3f3b1101"
+    ],
+    "count": 1,
+    "create_time": 1777436976,
+    "update_time": 1777436976,
+    "_id": "기넥신80mg"
+  },
+  "선별급여": {
+    "chunk_ids": [
+      "chunk-e7108ba0869e12b7ee43687f3f3b1101"
+    ],
+    "count": 1,
+    "create_time": 1777436976,
+    "update_time": 1777436976,
+    "_id": "선별급여"
+  },
+  "선별집중심사": {
+    "chunk_ids": [
+      "chunk-e7108ba0869e12b7ee43687f3f3b1101"
+    ],
+    "count": 1,
+    "create_time": 1777436976,
+    "update_time": 1777436976,
+    "_id": "선별집중심사"
+  },
+  "임상재평가": {
+    "chunk_ids": [
+      "chunk-e7108ba0869e12b7ee43687f3f3b1101"
+    ],
+    "count": 1,
+    "create_time": 1777436976,
+    "update_time": 1777436976,
+    "_id": "임상재평가"
+  },
+  "알츠하이머치매": {
+    "chunk_ids": [
+      "chunk-e7108ba0869e12b7ee43687f3f3b1101"
+    ],
+    "count": 1,
+    "create_time": 1777436976,
+    "update_time": 1777436976,
+    "_id": "알츠하이머치매"
+  },
+  "혈관성 인지 장애 증상 개선": {
+    "chunk_ids": [
+      "chunk-ab83f67862b1147da5ec0a39d004bfef"
+    ],
+    "count": 1,
+    "create_time": 1777436976,
+    "update_time": 1777436976,
+    "_id": "혈관성 인지 장애 증상 개선"
+  },
+  "경구 투여": {
+    "chunk_ids": [
+      "chunk-ab83f67862b1147da5ec0a39d004bfef"
+    ],
+    "count": 1,
+    "create_time": 1777436976,
+    "update_time": 1777436976,
+    "_id": "경구 투여"
+  },
+  "기넥신 80mg": {
+    "chunk_ids": [
+      "chunk-ab83f67862b1147da5ec0a39d004bfef"
+    ],
+    "count": 1,
+    "create_time": 1777436976,
+    "update_time": 1777436976,
+    "_id": "기넥신 80mg"
+  },
+  "기넥신 240mg": {
+    "chunk_ids": [
+      "chunk-ab83f67862b1147da5ec0a39d004bfef"
+    ],
+    "count": 1,
+    "create_time": 1777436976,
+    "update_time": 1777436976,
+    "_id": "기넥신 240mg"
+  },
+  "뉴로메드": {
+    "chunk_ids": [
+      "chunk-ab83f67862b1147da5ec0a39d004bfef"
+    ],
+    "count": 1,
+    "create_time": 1777436976,
+    "update_time": 1777436976,
+    "_id": "뉴로메드"
+  },
+  "치매 전 단계 환자": {
+    "chunk_ids": [
+      "chunk-ab83f67862b1147da5ec0a39d004bfef"
+    ],
+    "count": 1,
+    "create_time": 1777436976,
+    "update_time": 1777436976,
+    "_id": "치매 전 단계 환자"
+  },
+  "중장년층 환자": {
+    "chunk_ids": [
+      "chunk-eaaf9b9e95b1633a29784b702d64b2a4",
+      "chunk-04179b2f037423c291d7610606fddde3"
+    ],
+    "count": 2,
+    "create_time": 1777436977,
+    "update_time": 1777436977,
+    "_id": "중장년층 환자"
+  },
+  "경도인지장애 환자": {
+    "chunk_ids": [
+      "chunk-eaaf9b9e95b1633a29784b702d64b2a4"
+    ],
+    "count": 1,
+    "create_time": 1777436977,
+    "update_time": 1777436977,
+    "_id": "경도인지장애 환자"
+  },
+  "치매 예방 목적": {
+    "chunk_ids": [
+      "chunk-eaaf9b9e95b1633a29784b702d64b2a4"
+    ],
+    "count": 1,
+    "create_time": 1777436977,
+    "update_time": 1777436977,
+    "_id": "치매 예방 목적"
+  },
+  "징코": {
+    "chunk_ids": [
+      "chunk-eaaf9b9e95b1633a29784b702d64b2a4"
+    ],
+    "count": 1,
+    "create_time": 1777436977,
+    "update_time": 1777436977,
+    "_id": "징코"
+  },
+  "BACEI": {
+    "chunk_ids": [
+      "chunk-eaaf9b9e95b1633a29784b702d64b2a4"
+    ],
+    "count": 1,
+    "create_time": 1777436977,
+    "update_time": 1777436977,
+    "_id": "BACEI"
+  },
+  "성공적인 노화": {
+    "chunk_ids": [
+      "chunk-e65d3b0f999756ffd4036f1def40062b",
+      "chunk-39a7c04f46f7250abe63b485bcfbd005"
+    ],
+    "count": 2,
+    "create_time": 1777436977,
+    "update_time": 1777436977,
+    "_id": "성공적인 노화"
+  },
+  "MRI 검사": {
+    "chunk_ids": [
+      "chunk-e65d3b0f999756ffd4036f1def40062b"
+    ],
+    "count": 1,
+    "create_time": 1777436977,
+    "update_time": 1777436977,
+    "_id": "MRI 검사"
+  },
+  "PET 검사": {
+    "chunk_ids": [
+      "chunk-e65d3b0f999756ffd4036f1def40062b"
+    ],
+    "count": 1,
+    "create_time": 1777436977,
+    "update_time": 1777436977,
+    "_id": "PET 검사"
+  },
+  "약물 치료": {
+    "chunk_ids": [
+      "chunk-e65d3b0f999756ffd4036f1def40062b"
+    ],
+    "count": 1,
+    "create_time": 1777436977,
+    "update_time": 1777436977,
+    "_id": "약물 치료"
+  },
+  "ADL 장애": {
+    "chunk_ids": [
+      "chunk-e65d3b0f999756ffd4036f1def40062b"
+    ],
+    "count": 1,
+    "create_time": 1777436977,
+    "update_time": 1777436977,
+    "_id": "ADL 장애"
+  },
+  "정상": {
+    "chunk_ids": [
+      "chunk-e65d3b0f999756ffd4036f1def40062b"
+    ],
+    "count": 1,
+    "create_time": 1777436977,
+    "update_time": 1777436977,
+    "_id": "정상"
+  },
+  "경도인지장애 단계": {
+    "chunk_ids": [
+      "chunk-e65d3b0f999756ffd4036f1def40062b"
+    ],
+    "count": 1,
+    "create_time": 1777436977,
+    "update_time": 1777436977,
+    "_id": "경도인지장애 단계"
+  },
+  "치매 단계": {
+    "chunk_ids": [
+      "chunk-e65d3b0f999756ffd4036f1def40062b"
+    ],
+    "count": 1,
+    "create_time": 1777436977,
+    "update_time": 1777436977,
+    "_id": "치매 단계"
+  },
+  "GINEXIN": {
+    "chunk_ids": [
+      "chunk-39a7c04f46f7250abe63b485bcfbd005"
+    ],
+    "count": 1,
+    "create_time": 1777436977,
+    "update_time": 1777436977,
+    "_id": "GINEXIN"
+  },
+  "기타(타 은행잎추출물)": {
+    "chunk_ids": [
+      "chunk-39a7c04f46f7250abe63b485bcfbd005"
+    ],
+    "count": 1,
+    "create_time": 1777436978,
+    "update_time": 1777436978,
+    "_id": "기타(타 은행잎추출물)"
+  },
+  "Organic Brain Syndrome": {
+    "chunk_ids": [
+      "chunk-39a7c04f46f7250abe63b485bcfbd005"
+    ],
+    "count": 1,
+    "create_time": 1777436978,
+    "update_time": 1777436978,
+    "_id": "Organic Brain Syndrome"
+  },
+  "주관적인지장애": {
+    "chunk_ids": [
+      "chunk-39a7c04f46f7250abe63b485bcfbd005"
+    ],
+    "count": 1,
+    "create_time": 1777436978,
+    "update_time": 1777436978,
+    "_id": "주관적인지장애"
+  },
+  "신경인지장애": {
+    "chunk_ids": [
+      "chunk-39a7c04f46f7250abe63b485bcfbd005"
+    ],
+    "count": 1,
+    "create_time": 1777436978,
+    "update_time": 1777436978,
+    "_id": "신경인지장애"
+  },
+  "Cognitive Decline in Aging": {
+    "chunk_ids": [
+      "chunk-39a7c04f46f7250abe63b485bcfbd005"
+    ],
+    "count": 1,
+    "create_time": 1777436978,
+    "update_time": 1777436978,
+    "_id": "Cognitive Decline in Aging"
+  },
+  "CVD": {
+    "chunk_ids": [
+      "chunk-701dad394ffc597a4b2604153705b4ff"
+    ],
+    "count": 1,
+    "create_time": 1777436978,
+    "update_time": 1777436978,
+    "_id": "CVD"
+  },
+  "Kasper S": {
+    "chunk_ids": [
+      "chunk-701dad394ffc597a4b2604153705b4ff"
+    ],
+    "count": 1,
+    "create_time": 1777436978,
+    "update_time": 1777436978,
+    "_id": "Kasper S"
+  },
+  "Bancher C": {
+    "chunk_ids": [
+      "chunk-701dad394ffc597a4b2604153705b4ff"
+    ],
+    "count": 1,
+    "create_time": 1777436978,
+    "update_time": 1777436978,
+    "_id": "Bancher C"
+  },
+  "Eckert A": {
+    "chunk_ids": [
+      "chunk-701dad394ffc597a4b2604153705b4ff"
+    ],
+    "count": 1,
+    "create_time": 1777436978,
+    "update_time": 1777436978,
+    "_id": "Eckert A"
+  },
+  "2020 World Journal of Biological Psychiatry": {
+    "chunk_ids": [
+      "chunk-701dad394ffc597a4b2604153705b4ff"
+    ],
+    "count": 1,
+    "create_time": 1777436978,
+    "update_time": 1777436978,
+    "_id": "2020 World Journal of Biological Psychiatry"
+  },
+  "MCI 증상 치료": {
+    "chunk_ids": [
+      "chunk-701dad394ffc597a4b2604153705b4ff"
+    ],
+    "count": 1,
+    "create_time": 1777436978,
+    "update_time": 1777436978,
+    "_id": "MCI 증상 치료"
+  },
+  "MCI 치료 지침": {
+    "chunk_ids": [
+      "chunk-701dad394ffc597a4b2604153705b4ff"
+    ],
+    "count": 1,
+    "create_time": 1777436978,
+    "update_time": 1777436978,
+    "_id": "MCI 치료 지침"
+  },
+  "Ginkgo Biloba Extract EGb 761®": {
+    "chunk_ids": [
+      "chunk-42e6760a283cd38d38480971f5cdc248"
+    ],
+    "count": 1,
+    "create_time": 1777436978,
+    "update_time": 1777436978,
+    "_id": "Ginkgo Biloba Extract EGb 761®"
+  },
+  "96명의 치매 환자": {
+    "chunk_ids": [
+      "chunk-42e6760a283cd38d38480971f5cdc248"
+    ],
+    "count": 1,
+    "create_time": 1777436978,
+    "update_time": 1777436978,
+    "_id": "96명의 치매 환자"
+  },
+  "삼개월": {
+    "chunk_ids": [
+      "chunk-42e6760a283cd38d38480971f5cdc248"
+    ],
+    "count": 1,
+    "create_time": 1777436978,
+    "update_time": 1777436978,
+    "_id": "삼개월"
+  },
+  "SKT 총점": {
+    "chunk_ids": [
+      "chunk-42e6760a283cd38d38480971f5cdc248"
+    ],
+    "count": 1,
+    "create_time": 1777436979,
+    "update_time": 1777436979,
+    "_id": "SKT 총점"
+  },
+  "NPI 총점": {
+    "chunk_ids": [
+      "chunk-42e6760a283cd38d38480971f5cdc248"
+    ],
+    "count": 1,
+    "create_time": 1777436979,
+    "update_time": 1777436979,
+    "_id": "NPI 총점"
+  },
+  "EGb761®": {
+    "chunk_ids": [
+      "chunk-42e6760a283cd38d38480971f5cdc248"
+    ],
+    "count": 1,
+    "create_time": 1777436979,
+    "update_time": 1777436979,
+    "_id": "EGb761®"
+  },
+  "12-lead ECG": {
+    "chunk_ids": [
+      "chunk-42e6760a283cd38d38480971f5cdc248"
+    ],
+    "count": 1,
+    "create_time": 1777436979,
+    "update_time": 1777436979,
+    "_id": "12-lead ECG"
+  },
+  "Egb 761": {
+    "chunk_ids": [
+      "chunk-8add22866ba4e2fe286acbcc53a1dc62"
+    ],
+    "count": 1,
+    "create_time": 1777436979,
+    "update_time": 1777436979,
+    "_id": "Egb 761"
+  },
+  "Savaskan E": {
+    "chunk_ids": [
+      "chunk-8add22866ba4e2fe286acbcc53a1dc62"
+    ],
+    "count": 1,
+    "create_time": 1777436979,
+    "update_time": 1777436979,
+    "_id": "Savaskan E"
+  },
+  "Neuropsychological Symptoms": {
+    "chunk_ids": [
+      "chunk-8add22866ba4e2fe286acbcc53a1dc62"
+    ],
+    "count": 1,
+    "create_time": 1777436979,
+    "update_time": 1777436979,
+    "_id": "Neuropsychological Symptoms"
+  },
+  "Mild Cognitive Impairment (MCI)": {
+    "chunk_ids": [
+      "chunk-8add22866ba4e2fe286acbcc53a1dc62"
+    ],
+    "count": 1,
+    "create_time": 1777436979,
+    "update_time": 1777436979,
+    "_id": "Mild Cognitive Impairment (MCI)"
+  },
+  "Systematic Reviews": {
+    "chunk_ids": [
+      "chunk-8add22866ba4e2fe286acbcc53a1dc62"
+    ],
+    "count": 1,
+    "create_time": 1777436979,
+    "update_time": 1777436979,
+    "_id": "Systematic Reviews"
+  },
+  "Neuropsychiatric Symptoms": {
+    "chunk_ids": [
+      "chunk-8add22866ba4e2fe286acbcc53a1dc62"
+    ],
+    "count": 1,
+    "create_time": 1777436979,
+    "update_time": 1777436979,
+    "_id": "Neuropsychiatric Symptoms"
+  },
+  "아스피린": {
+    "chunk_ids": [
+      "chunk-9458ec2cd67f54c35b5499c7116f4a72",
+      "chunk-8d4a1839aebf7871119a3e0f8352d032"
+    ],
+    "count": 2,
+    "update_time": 1777437156,
+    "_id": "아스피린"
+  },
+  "2013년": {
+    "chunk_ids": [
+      "chunk-9458ec2cd67f54c35b5499c7116f4a72"
+    ],
+    "count": 1,
+    "create_time": 1777436979,
+    "update_time": 1777436979,
+    "_id": "2013년"
+  },
+  "비보험": {
+    "chunk_ids": [
+      "chunk-9458ec2cd67f54c35b5499c7116f4a72"
+    ],
+    "count": 1,
+    "create_time": 1777436979,
+    "update_time": 1777436979,
+    "_id": "비보험"
+  },
+  "손발저림": {
+    "chunk_ids": [
+      "chunk-9458ec2cd67f54c35b5499c7116f4a72"
+    ],
+    "count": 1,
+    "create_time": 1777436979,
+    "update_time": 1777436979,
+    "_id": "손발저림"
+  },
+  "I73.7": {
+    "chunk_ids": [
+      "chunk-54331ed02fae74019957acd66bf24c6e"
+    ],
+    "count": 1,
+    "create_time": 1777436979,
+    "update_time": 1777436979,
+    "_id": "I73.7"
+  },
+  "2017년": {
+    "chunk_ids": [
+      "chunk-54331ed02fae74019957acd66bf24c6e"
+    ],
+    "count": 1,
+    "create_time": 1777436979,
+    "update_time": 1777436979,
+    "_id": "2017년"
+  },
+  "혈액순환 장애": {
+    "chunk_ids": [
+      "chunk-54331ed02fae74019957acd66bf24c6e"
+    ],
+    "count": 1,
+    "create_time": 1777436979,
+    "update_time": 1777436979,
+    "_id": "혈액순환 장애"
+  },
+  "ASCOMALVA": {
+    "chunk_ids": [
+      "chunk-54331ed02fae74019957acd66bf24c6e"
+    ],
+    "count": 1,
+    "create_time": 1777436979,
+    "update_time": 1777436979,
+    "_id": "ASCOMALVA"
+  },
+  "센터": {
+    "chunk_ids": [
+      "chunk-54331ed02fae74019957acd66bf24c6e"
+    ],
+    "count": 1,
+    "create_time": 1777436979,
+    "update_time": 1777436979,
+    "_id": "센터"
+  },
+  "망막병증": {
+    "chunk_ids": [
+      "chunk-672e94eb5b67fcaba12454179218dd6c"
+    ],
+    "count": 1,
+    "create_time": 1777436979,
+    "update_time": 1777436979,
+    "_id": "망막병증"
+  },
+  "혈액 점도": {
+    "chunk_ids": [
+      "chunk-672e94eb5b67fcaba12454179218dd6c"
+    ],
+    "count": 1,
+    "create_time": 1777436979,
+    "update_time": 1777436979,
+    "_id": "혈액 점도"
+  },
+  "시야 손상": {
+    "chunk_ids": [
+      "chunk-672e94eb5b67fcaba12454179218dd6c"
+    ],
+    "count": 1,
+    "create_time": 1777436979,
+    "update_time": 1777436979,
+    "_id": "시야 손상"
+  },
+  "시기능 개선": {
+    "chunk_ids": [
+      "chunk-672e94eb5b67fcaba12454179218dd6c"
+    ],
+    "count": 1,
+    "create_time": 1777436979,
+    "update_time": 1777436979,
+    "_id": "시기능 개선"
+  },
+  "산화 스트레스": {
+    "chunk_ids": [
+      "chunk-672e94eb5b67fcaba12454179218dd6c"
+    ],
+    "count": 1,
+    "create_time": 1777436980,
+    "update_time": 1777436980,
+    "_id": "산화 스트레스"
+  },
+  "기넥신에프": {
+    "chunk_ids": [
+      "chunk-672e94eb5b67fcaba12454179218dd6c"
+    ],
+    "count": 1,
+    "create_time": 1777436980,
+    "update_time": 1777436980,
+    "_id": "기넥신에프"
+  },
+  "타겐 에프": {
+    "chunk_ids": [
+      "chunk-672e94eb5b67fcaba12454179218dd6c"
+    ],
+    "count": 1,
+    "create_time": 1777436980,
+    "update_time": 1777436980,
+    "_id": "타겐 에프"
+  },
+  "혈액유동성": {
+    "chunk_ids": [
+      "chunk-672e94eb5b67fcaba12454179218dd6c"
+    ],
+    "count": 1,
+    "create_time": 1777436980,
+    "update_time": 1777436980,
+    "_id": "혈액유동성"
+  },
+  "시신경": {
+    "chunk_ids": [
+      "chunk-672e94eb5b67fcaba12454179218dd6c"
+    ],
+    "count": 1,
+    "create_time": 1777436980,
+    "update_time": 1777436980,
+    "_id": "시신경"
+  },
+  "니페디핀": {
+    "chunk_ids": [
+      "chunk-2cafd250b741b747a1368c5c71cde047",
+      "chunk-86b71c4a9fc37d7590c6eb67184c46b0"
+    ],
+    "count": 2,
+    "update_time": 1777437083,
+    "_id": "니페디핀"
+  },
+  "딜티아젬": {
+    "chunk_ids": [
+      "chunk-2cafd250b741b747a1368c5c71cde047"
+    ],
+    "count": 1,
+    "create_time": 1777436980,
+    "update_time": 1777436980,
+    "_id": "딜티아젬"
+  },
+  "테오필린": {
+    "chunk_ids": [
+      "chunk-2cafd250b741b747a1368c5c71cde047"
+    ],
+    "count": 1,
+    "create_time": 1777436980,
+    "update_time": 1777436980,
+    "_id": "테오필린"
+  },
+  "에스케이케미칼㈜": {
+    "chunk_ids": [
+      "chunk-2cafd250b741b747a1368c5c71cde047"
+    ],
+    "count": 1,
+    "create_time": 1777436980,
+    "update_time": 1777436980,
+    "_id": "에스케이케미칼㈜"
+  },
+  "풍림무약㈜": {
+    "chunk_ids": [
+      "chunk-2cafd250b741b747a1368c5c71cde047"
+    ],
+    "count": 1,
+    "create_time": 1777436980,
+    "update_time": 1777436980,
+    "_id": "풍림무약㈜"
+  },
+  "출혈장애": {
+    "chunk_ids": [
+      "chunk-2cafd250b741b747a1368c5c71cde047"
+    ],
+    "count": 1,
+    "create_time": 1777436980,
+    "update_time": 1777436980,
+    "_id": "출혈장애"
+  },
+  "간질": {
+    "chunk_ids": [
+      "chunk-2cafd250b741b747a1368c5c71cde047"
+    ],
+    "count": 1,
+    "create_time": 1777436980,
+    "update_time": 1777436980,
+    "_id": "간질"
+  },
+  "간헐성 파행": {
+    "chunk_ids": [
+      "chunk-f4fabf1188d737ab04860cfe3e7df676"
+    ],
+    "count": 1,
+    "create_time": 1777436980,
+    "update_time": 1777436980,
+    "_id": "간헐성 파행"
+  },
+  "1형 당뇨병": {
+    "chunk_ids": [
+      "chunk-f4fabf1188d737ab04860cfe3e7df676"
+    ],
+    "count": 1,
+    "create_time": 1777436980,
+    "update_time": 1777436980,
+    "_id": "1형 당뇨병"
+  },
+  "2형 당뇨병": {
+    "chunk_ids": [
+      "chunk-f4fabf1188d737ab04860cfe3e7df676"
+    ],
+    "count": 1,
+    "create_time": 1777436980,
+    "update_time": 1777436980,
+    "_id": "2형 당뇨병"
+  },
+  "아세틸콜린 분해효소 억제제": {
+    "chunk_ids": [
+      "chunk-f4fabf1188d737ab04860cfe3e7df676"
+    ],
+    "count": 1,
+    "create_time": 1777436980,
+    "update_time": 1777436980,
+    "_id": "아세틸콜린 분해효소 억제제"
+  },
+  "NMDA 수용체 길항제": {
+    "chunk_ids": [
+      "chunk-f4fabf1188d737ab04860cfe3e7df676"
+    ],
+    "count": 1,
+    "create_time": 1777436980,
+    "update_time": 1777436980,
+    "_id": "NMDA 수용체 길항제"
+  },
+  "니세르골린": {
+    "chunk_ids": [
+      "chunk-f4fabf1188d737ab04860cfe3e7df676"
+    ],
+    "count": 1,
+    "create_time": 1777436980,
+    "update_time": 1777436980,
+    "_id": "니세르골린"
+  },
+  "R42": {
+    "chunk_ids": [
+      "chunk-f4fabf1188d737ab04860cfe3e7df676"
+    ],
+    "count": 1,
+    "create_time": 1777436980,
+    "update_time": 1777436980,
+    "_id": "R42"
+  },
+  "H93.1": {
+    "chunk_ids": [
+      "chunk-f4fabf1188d737ab04860cfe3e7df676"
+    ],
+    "count": 1,
+    "create_time": 1777436980,
+    "update_time": 1777436980,
+    "_id": "H93.1"
+  },
+  "H81.3": {
+    "chunk_ids": [
+      "chunk-f4fabf1188d737ab04860cfe3e7df676"
+    ],
+    "count": 1,
+    "create_time": 1777436980,
+    "update_time": 1777436980,
+    "_id": "H81.3"
+  },
+  "F00": {
+    "chunk_ids": [
+      "chunk-f4fabf1188d737ab04860cfe3e7df676"
+    ],
+    "count": 1,
+    "create_time": 1777436980,
+    "update_time": 1777436980,
+    "_id": "F00"
+  },
+  "F01": {
+    "chunk_ids": [
+      "chunk-f4fabf1188d737ab04860cfe3e7df676"
+    ],
+    "count": 1,
+    "create_time": 1777436980,
+    "update_time": 1777436980,
+    "_id": "F01"
+  },
+  "G30": {
+    "chunk_ids": [
+      "chunk-f4fabf1188d737ab04860cfe3e7df676"
+    ],
+    "count": 1,
+    "create_time": 1777436980,
+    "update_time": 1777436980,
+    "_id": "G30"
+  },
+  "비교임상": {
+    "chunk_ids": [
+      "chunk-26e93410bb8e2fb32bdf19f8fdedd000"
+    ],
+    "count": 1,
+    "create_time": 1777436981,
+    "update_time": 1777436981,
+    "_id": "비교임상"
+  },
+  "안토시아노사이드": {
+    "chunk_ids": [
+      "chunk-26e93410bb8e2fb32bdf19f8fdedd000"
+    ],
+    "count": 1,
+    "create_time": 1777436981,
+    "update_time": 1777436981,
+    "_id": "안토시아노사이드"
+  },
+  "Lee YW": {
+    "chunk_ids": [
+      "chunk-26e93410bb8e2fb32bdf19f8fdedd000"
+    ],
+    "count": 1,
+    "create_time": 1777436981,
+    "update_time": 1777436981,
+    "_id": "Lee YW"
+  },
+  "6개월": {
+    "chunk_ids": [
+      "chunk-26e93410bb8e2fb32bdf19f8fdedd000"
+    ],
+    "count": 1,
+    "create_time": 1777436981,
+    "update_time": 1777436981,
+    "_id": "6개월"
+  },
+  "80mg bid": {
+    "chunk_ids": [
+      "chunk-26e93410bb8e2fb32bdf19f8fdedd000"
+    ],
+    "count": 1,
+    "create_time": 1777436981,
+    "update_time": 1777436981,
+    "_id": "80mg bid"
+  },
+  "406": {
+    "chunk_ids": [
+      "chunk-26e93410bb8e2fb32bdf19f8fdedd000"
+    ],
+    "count": 1,
+    "create_time": 1777436981,
+    "update_time": 1777436981,
+    "_id": "406"
+  },
+  "교정시력": {
+    "chunk_ids": [
+      "chunk-26e93410bb8e2fb32bdf19f8fdedd000"
+    ],
+    "count": 1,
+    "create_time": 1777436981,
+    "update_time": 1777436981,
+    "_id": "교정시력"
+  },
+  "골드만압평안압": {
+    "chunk_ids": [
+      "chunk-26e93410bb8e2fb32bdf19f8fdedd000"
+    ],
+    "count": 1,
+    "create_time": 1777436981,
+    "update_time": 1777436981,
+    "_id": "골드만압평안압"
+  },
+  "시야 검사": {
+    "chunk_ids": [
+      "chunk-26e93410bb8e2fb32bdf19f8fdedd000"
+    ],
+    "count": 1,
+    "create_time": 1777436982,
+    "update_time": 1777436982,
+    "_id": "시야 검사"
+  },
+  "고령화 사회": {
+    "chunk_ids": [
+      "chunk-04179b2f037423c291d7610606fddde3"
+    ],
+    "count": 1,
+    "create_time": 1777436982,
+    "update_time": 1777436982,
+    "_id": "고령화 사회"
+  },
+  "보건복지부": {
+    "chunk_ids": [
+      "chunk-04179b2f037423c291d7610606fddde3"
+    ],
+    "count": 1,
+    "create_time": 1777436982,
+    "update_time": 1777436982,
+    "_id": "보건복지부"
+  },
+  "대한민국 치매현황 보고서": {
+    "chunk_ids": [
+      "chunk-04179b2f037423c291d7610606fddde3"
+    ],
+    "count": 1,
+    "create_time": 1777436982,
+    "update_time": 1777436982,
+    "_id": "대한민국 치매현황 보고서"
+  },
+  "경도 인지장애": {
+    "chunk_ids": [
+      "chunk-04179b2f037423c291d7610606fddde3"
+    ],
+    "count": 1,
+    "create_time": 1777436982,
+    "update_time": 1777436982,
+    "_id": "경도 인지장애"
+  },
+  "주관적 인지 저하": {
+    "chunk_ids": [
+      "chunk-04179b2f037423c291d7610606fddde3"
+    ],
+    "count": 1,
+    "create_time": 1777436982,
+    "update_time": 1777436982,
+    "_id": "주관적 인지 저하"
+  },
+  "기억 감퇴 설문지": {
+    "chunk_ids": [
+      "chunk-04179b2f037423c291d7610606fddde3"
+    ],
+    "count": 1,
+    "create_time": 1777436982,
+    "update_time": 1777436982,
+    "_id": "기억 감퇴 설문지"
+  },
+  "Pre-MCI 관리": {
+    "chunk_ids": [
+      "chunk-04179b2f037423c291d7610606fddde3"
+    ],
+    "count": 1,
+    "create_time": 1777436982,
+    "update_time": 1777436982,
+    "_id": "Pre-MCI 관리"
+  },
+  "아시아신경인지질환 전문가 그룹": {
+    "chunk_ids": [
+      "chunk-da78ab53a5e1039c971f02bea80b1941"
+    ],
+    "count": 1,
+    "create_time": 1777436982,
+    "update_time": 1777436982,
+    "_id": "아시아신경인지질환 전문가 그룹"
+  },
+  "대한치매학회": {
+    "chunk_ids": [
+      "chunk-da78ab53a5e1039c971f02bea80b1941"
+    ],
+    "count": 1,
+    "create_time": 1777436982,
+    "update_time": 1777436982,
+    "_id": "대한치매학회"
+  },
+  "임상 시험 문헌": {
+    "chunk_ids": [
+      "chunk-da78ab53a5e1039c971f02bea80b1941"
+    ],
+    "count": 1,
+    "create_time": 1777436982,
+    "update_time": 1777436982,
+    "_id": "임상 시험 문헌"
+  },
+  "은행잎": {
+    "chunk_ids": [
+      "chunk-a317c5e8c677c54ddacf2f7ac15d8d2c",
+      "chunk-55db05f4c6a0c379f4eafe4f4645c9d3"
+    ],
+    "count": 2,
+    "update_time": 1777437009,
+    "_id": "은행잎"
+  },
+  "CT 검사의 결과": {
+    "chunk_ids": [
+      "chunk-a317c5e8c677c54ddacf2f7ac15d8d2c"
+    ],
+    "count": 1,
+    "create_time": 1777436982,
+    "update_time": 1777436982,
+    "_id": "CT 검사의 결과"
+  },
+  "MRI 검사의 결과": {
+    "chunk_ids": [
+      "chunk-a317c5e8c677c54ddacf2f7ac15d8d2c"
+    ],
+    "count": 1,
+    "create_time": 1777436982,
+    "update_time": 1777436982,
+    "_id": "MRI 검사의 결과"
+  },
+  "환자본인부담": {
+    "chunk_ids": [
+      "chunk-a317c5e8c677c54ddacf2f7ac15d8d2c"
+    ],
+    "count": 1,
+    "create_time": 1777436982,
+    "update_time": 1777436982,
+    "_id": "환자본인부담"
+  },
+  "GI 트러블": {
+    "chunk_ids": [
+      "chunk-a317c5e8c677c54ddacf2f7ac15d8d2c"
+    ],
+    "count": 1,
+    "create_time": 1777436982,
+    "update_time": 1777436982,
+    "_id": "GI 트러블"
+  },
+  "NPS": {
+    "chunk_ids": [
+      "chunk-8d950edfa56fd9c631d3689c9e98f69e"
+    ],
+    "count": 1,
+    "create_time": 1777436983,
+    "update_time": 1777436983,
+    "_id": "NPS"
+  },
+  "징코 에프": {
+    "chunk_ids": [
+      "chunk-80a481c1cc017fd888e99c5615910150"
+    ],
+    "count": 1,
+    "create_time": 1777436984,
+    "update_time": 1777436984,
+    "_id": "징코 에프"
+  },
+  "써큐록신": {
+    "chunk_ids": [
+      "chunk-80a481c1cc017fd888e99c5615910150"
+    ],
+    "count": 1,
+    "create_time": 1777436984,
+    "update_time": 1777436984,
+    "_id": "써큐록신"
+  },
+  "징코미란": {
+    "chunk_ids": [
+      "chunk-80a481c1cc017fd888e99c5615910150"
+    ],
+    "count": 1,
+    "create_time": 1777436985,
+    "update_time": 1777436985,
+    "_id": "징코미란"
+  },
+  "진코신": {
+    "chunk_ids": [
+      "chunk-80a481c1cc017fd888e99c5615910150"
+    ],
+    "count": 1,
+    "create_time": 1777436985,
+    "update_time": 1777436985,
+    "_id": "진코신"
+  },
+  "진코발": {
+    "chunk_ids": [
+      "chunk-80a481c1cc017fd888e99c5615910150"
+    ],
+    "count": 1,
+    "create_time": 1777436985,
+    "update_time": 1777436985,
+    "_id": "진코발"
+  },
+  "셀큐라민": {
+    "chunk_ids": [
+      "chunk-80a481c1cc017fd888e99c5615910150"
+    ],
+    "count": 1,
+    "create_time": 1777436985,
+    "update_time": 1777436985,
+    "_id": "셀큐라민"
+  },
+  "파누스 에프": {
+    "chunk_ids": [
+      "chunk-80a481c1cc017fd888e99c5615910150"
+    ],
+    "count": 1,
+    "create_time": 1777436985,
+    "update_time": 1777436985,
+    "_id": "파누스 에프"
+  },
+  "영양제": {
+    "chunk_ids": [
+      "chunk-80a481c1cc017fd888e99c5615910150"
+    ],
+    "count": 1,
+    "create_time": 1777436985,
+    "update_time": 1777436985,
+    "_id": "영양제"
+  },
+  "치매 예방": {
+    "chunk_ids": [
+      "chunk-170f6df019569aa473c767d889cf45f3"
+    ],
+    "count": 1,
+    "create_time": 1777436986,
+    "update_time": 1777436986,
+    "_id": "치매 예방"
+  },
+  "약가": {
+    "chunk_ids": [
+      "chunk-72b4fd465f086e56b2b16115639aa240",
+      "chunk-e7108ba0869e12b7ee43687f3f3b1101"
+    ],
+    "count": 2,
+    "update_time": 1777437015,
+    "_id": "약가"
+  },
+  "아서": {
+    "chunk_ids": [
+      "chunk-d5cd9d6d4dbc3c0a6f33d0c06c125554"
+    ],
+    "count": 1,
+    "create_time": 1777436993,
+    "update_time": 1777436993,
+    "_id": "아서"
+  },
+  "인지기능 저하": {
+    "chunk_ids": [
+      "chunk-14d5fecd2eb143552d4f71a56a6e43fb"
+    ],
+    "count": 1,
+    "create_time": 1777436995,
+    "update_time": 1777436995,
+    "_id": "인지기능 저하"
+  },
+  "혈액순환 개선": {
+    "chunk_ids": [
+      "chunk-0dc66f6639a531db2594217570ef471d"
+    ],
+    "count": 1,
+    "create_time": 1777436996,
+    "update_time": 1777436996,
+    "_id": "혈액순환 개선"
+  },
+  "임상 재평가": {
+    "chunk_ids": [
+      "chunk-077e10c764144608a41b74cbf82ab7de"
+    ],
+    "count": 1,
+    "create_time": 1777436996,
+    "update_time": 1777436996,
+    "_id": "임상 재평가"
+  },
+  "혈액 순환 개선": {
+    "chunk_ids": [
+      "chunk-0dc66f6639a531db2594217570ef471d"
+    ],
+    "count": 1,
+    "create_time": 1777436997,
+    "update_time": 1777436997,
+    "_id": "혈액 순환 개선"
+  },
+  "뇌혈관결손": {
+    "chunk_ids": [
+      "chunk-130241959094a1bc801a761bf1c10dbc"
+    ],
+    "count": 1,
+    "create_time": 1777437001,
+    "update_time": 1777437001,
+    "_id": "뇌혈관결손"
+  },
+  "망막 질환 치료": {
+    "chunk_ids": [
+      "chunk-c8f599fc7af2f42a96d35069228a197d"
+    ],
+    "count": 1,
+    "create_time": 1777437001,
+    "update_time": 1777437001,
+    "_id": "망막 질환 치료"
+  },
+  "환자 대기실": {
+    "chunk_ids": [
+      "chunk-6c168ed2887f0729ce6a7d4b448ff83e"
+    ],
+    "count": 1,
+    "create_time": 1777437008,
+    "update_time": 1777437008,
+    "_id": "환자 대기실"
+  },
+  "우울 증상 개선": {
+    "chunk_ids": [
+      "chunk-6c168ed2887f0729ce6a7d4b448ff83e"
+    ],
+    "count": 1,
+    "create_time": 1777437008,
+    "update_time": 1777437008,
+    "_id": "우울 증상 개선"
+  },
+  "기억장애": {
+    "chunk_ids": [
+      "chunk-affaca4becfc6fbf8ab2caca67064f2b"
+    ],
+    "count": 1,
+    "create_time": 1777437011,
+    "update_time": 1777437011,
+    "_id": "기억장애"
+  },
+  "인지기능 개선": {
+    "chunk_ids": [
+      "chunk-8cf79275dcd6711d1b7c03cc8bf154be"
+    ],
+    "count": 1,
+    "create_time": 1777437014,
+    "update_time": 1777437014,
+    "_id": "인지기능 개선"
+  },
+  "약리기전": {
+    "chunk_ids": [
+      "chunk-e7108ba0869e12b7ee43687f3f3b1101"
+    ],
+    "count": 1,
+    "create_time": 1777437015,
+    "update_time": 1777437015,
+    "_id": "약리기전"
+  },
+  "정상 안압 녹내장": {
+    "chunk_ids": [
+      "chunk-672e94eb5b67fcaba12454179218dd6c"
+    ],
+    "count": 1,
+    "create_time": 1777437022,
+    "update_time": 1777437022,
+    "_id": "정상 안압 녹내장"
+  },
+  "血流의 개선": {
+    "chunk_ids": [
+      "chunk-672e94eb5b67fcaba12454179218dd6c"
+    ],
+    "count": 1,
+    "create_time": 1777437023,
+    "update_time": 1777437023,
+    "_id": "血流의 개선"
+  },
+  "약물": {
+    "chunk_ids": [
+      "chunk-2cafd250b741b747a1368c5c71cde047"
+    ],
+    "count": 1,
+    "create_time": 1777437024,
+    "update_time": 1777437024,
+    "_id": "약물"
+  },
+  "어지러움": {
+    "chunk_ids": [
+      "chunk-f4fabf1188d737ab04860cfe3e7df676",
+      "chunk-06532c99f12d494de54c85478bc70c28"
+    ],
+    "count": 2,
+    "update_time": 1777437078,
+    "_id": "어지러움"
+  },
+  "기능 장애": {
+    "chunk_ids": [
+      "chunk-f4fabf1188d737ab04860cfe3e7df676"
+    ],
+    "count": 1,
+    "create_time": 1777437024,
+    "update_time": 1777437024,
+    "_id": "기능 장애"
+  },
+  "교적 검사": {
+    "chunk_ids": [
+      "chunk-a317c5e8c677c54ddacf2f7ac15d8d2c"
+    ],
+    "count": 1,
+    "create_time": 1777437027,
+    "update_time": 1777437027,
+    "_id": "교적 검사"
+  },
+  "간담도계": {
+    "chunk_ids": [
+      "chunk-90fdd954d1f3ec2ae488ffa369a1bc66",
+      "chunk-f92d6e9ce4a9d18ae432a3bd8ea906fb"
+    ],
+    "count": 2,
+    "create_time": 1777437074,
+    "update_time": 1777437074,
+    "_id": "간담도계"
+  },
+  "신장계": {
+    "chunk_ids": [
+      "chunk-90fdd954d1f3ec2ae488ffa369a1bc66",
+      "chunk-f92d6e9ce4a9d18ae432a3bd8ea906fb"
+    ],
+    "count": 2,
+    "create_time": 1777437074,
+    "update_time": 1777437074,
+    "_id": "신장계"
+  },
+  "심혈관계": {
+    "chunk_ids": [
+      "chunk-90fdd954d1f3ec2ae488ffa369a1bc66",
+      "chunk-f92d6e9ce4a9d18ae432a3bd8ea906fb"
+    ],
+    "count": 2,
+    "create_time": 1777437074,
+    "update_time": 1777437074,
+    "_id": "심혈관계"
+  },
+  "내분비계": {
+    "chunk_ids": [
+      "chunk-90fdd954d1f3ec2ae488ffa369a1bc66"
+    ],
+    "count": 1,
+    "create_time": 1777437074,
+    "update_time": 1777437074,
+    "_id": "내분비계"
+  },
+  "혈액계": {
+    "chunk_ids": [
+      "chunk-90fdd954d1f3ec2ae488ffa369a1bc66"
+    ],
+    "count": 1,
+    "create_time": 1777437074,
+    "update_time": 1777437074,
+    "_id": "혈액계"
+  },
+  "비뇨기계": {
+    "chunk_ids": [
+      "chunk-90fdd954d1f3ec2ae488ffa369a1bc66"
+    ],
+    "count": 1,
+    "create_time": 1777437074,
+    "update_time": 1777437074,
+    "_id": "비뇨기계"
+  },
+  "기타": {
+    "chunk_ids": [
+      "chunk-90fdd954d1f3ec2ae488ffa369a1bc66",
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 2,
+    "create_time": 1777437074,
+    "update_time": 1777437074,
+    "_id": "기타"
+  },
+  "날푸라핀염산염": {
+    "chunk_ids": [
+      "chunk-90fdd954d1f3ec2ae488ffa369a1bc66",
+      "chunk-ab908a264e651d64613830a33ec98fa8"
+    ],
+    "count": 2,
+    "create_time": 1777437074,
+    "update_time": 1777437074,
+    "_id": "날푸라핀염산염"
+  },
+  "수면장애": {
+    "chunk_ids": [
+      "chunk-90fdd954d1f3ec2ae488ffa369a1bc66"
+    ],
+    "count": 1,
+    "create_time": 1777437075,
+    "update_time": 1777437075,
+    "_id": "수면장애"
+  },
+  "섬망": {
+    "chunk_ids": [
+      "chunk-90fdd954d1f3ec2ae488ffa369a1bc66",
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 2,
+    "create_time": 1777437075,
+    "update_time": 1777437075,
+    "_id": "섬망"
+  },
+  "환각": {
+    "chunk_ids": [
+      "chunk-90fdd954d1f3ec2ae488ffa369a1bc66",
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 2,
+    "create_time": 1777437075,
+    "update_time": 1777437075,
+    "_id": "환각"
+  },
+  "두통": {
+    "chunk_ids": [
+      "chunk-90fdd954d1f3ec2ae488ffa369a1bc66",
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 2,
+    "create_time": 1777437075,
+    "update_time": 1777437075,
+    "_id": "두통"
+  },
+  "인식 수준의 저하": {
+    "chunk_ids": [
+      "chunk-90fdd954d1f3ec2ae488ffa369a1bc66",
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 2,
+    "create_time": 1777437075,
+    "update_time": 1777437075,
+    "_id": "인식 수준의 저하"
+  },
+  "날푸라핀": {
+    "chunk_ids": [
+      "chunk-f295123564a7467f49c36579bf6b4a7c",
+      "chunk-ec2e7385b9239a9923a3aa2b8479dbe8"
+    ],
+    "count": 2,
+    "create_time": 1777437075,
+    "update_time": 1777437075,
+    "_id": "날푸라핀"
+  },
+  "레밋치": {
+    "chunk_ids": [
+      "chunk-f295123564a7467f49c36579bf6b4a7c",
+      "chunk-ec2e7385b9239a9923a3aa2b8479dbe8"
+    ],
+    "count": 2,
+    "create_time": 1777437075,
+    "update_time": 1777437075,
+    "_id": "레밋치"
+  },
+  "혈액투석환자": {
+    "chunk_ids": [
+      "chunk-f295123564a7467f49c36579bf6b4a7c",
+      "chunk-ec2e7385b9239a9923a3aa2b8479dbe8",
+      "chunk-c12788791ec77066a8c65343babc8b3d",
+      "chunk-0b30224c85c9be388dc164742395aad7"
+    ],
+    "count": 4,
+    "create_time": 1777437075,
+    "update_time": 1777437075,
+    "_id": "혈액투석환자"
+  },
+  "일본": {
+    "chunk_ids": [
+      "chunk-f295123564a7467f49c36579bf6b4a7c",
+      "chunk-ab908a264e651d64613830a33ec98fa8",
+      "chunk-f92d6e9ce4a9d18ae432a3bd8ea906fb"
+    ],
+    "count": 3,
+    "create_time": 1777437075,
+    "update_time": 1777437075,
+    "_id": "일본"
+  },
+  "소양증": {
+    "chunk_ids": [
+      "chunk-f295123564a7467f49c36579bf6b4a7c",
+      "chunk-c12788791ec77066a8c65343babc8b3d",
+      "chunk-f92d6e9ce4a9d18ae432a3bd8ea906fb"
+    ],
+    "count": 3,
+    "create_time": 1777437075,
+    "update_time": 1777437075,
+    "_id": "소양증"
+  },
+  "Phase III 연구": {
+    "chunk_ids": [
+      "chunk-f295123564a7467f49c36579bf6b4a7c"
+    ],
+    "count": 1,
+    "create_time": 1777437075,
+    "update_time": 1777437075,
+    "_id": "Phase III 연구"
+  },
+  "혈액투석 소양증": {
+    "chunk_ids": [
+      "chunk-f295123564a7467f49c36579bf6b4a7c"
+    ],
+    "count": 1,
+    "create_time": 1777437075,
+    "update_time": 1777437075,
+    "_id": "혈액투석 소양증"
+  },
+  "PMS": {
+    "chunk_ids": [
+      "chunk-f295123564a7467f49c36579bf6b4a7c"
+    ],
+    "count": 1,
+    "create_time": 1777437075,
+    "update_time": 1777437075,
+    "_id": "PMS"
+  },
+  "히스타민": {
+    "chunk_ids": [
+      "chunk-f295123564a7467f49c36579bf6b4a7c"
+    ],
+    "count": 1,
+    "create_time": 1777437075,
+    "update_time": 1777437075,
+    "_id": "히스타민"
+  },
+  "보습제": {
+    "chunk_ids": [
+      "chunk-ec2e7385b9239a9923a3aa2b8479dbe8"
+    ],
+    "count": 1,
+    "create_time": 1777437075,
+    "update_time": 1777437075,
+    "_id": "보습제"
+  },
+  "국소 스테로이드": {
+    "chunk_ids": [
+      "chunk-ec2e7385b9239a9923a3aa2b8479dbe8"
+    ],
+    "count": 1,
+    "create_time": 1777437075,
+    "update_time": 1777437075,
+    "_id": "국소 스테로이드"
+  },
+  "레밋치 구강붕해정": {
+    "chunk_ids": [
+      "chunk-ec2e7385b9239a9923a3aa2b8479dbe8",
+      "chunk-c12788791ec77066a8c65343babc8b3d",
+      "chunk-ab908a264e651d64613830a33ec98fa8",
+      "chunk-f92d6e9ce4a9d18ae432a3bd8ea906fb"
+    ],
+    "count": 4,
+    "create_time": 1777437075,
+    "update_time": 1777437075,
+    "_id": "레밋치 구강붕해정"
+  },
+  "항히스타민제": {
+    "chunk_ids": [
+      "chunk-ec2e7385b9239a9923a3aa2b8479dbe8"
+    ],
+    "count": 1,
+    "create_time": 1777437075,
+    "update_time": 1777437075,
+    "_id": "항히스타민제"
+  },
+  "항알레르기제": {
+    "chunk_ids": [
+      "chunk-ec2e7385b9239a9923a3aa2b8479dbe8"
+    ],
+    "count": 1,
+    "create_time": 1777437076,
+    "update_time": 1777437076,
+    "_id": "항알레르기제"
+  },
+  "혈액투석환자의 가려움증치료의 새로운 알고리즘": {
+    "chunk_ids": [
+      "chunk-ec2e7385b9239a9923a3aa2b8479dbe8"
+    ],
+    "count": 1,
+    "create_time": 1777437076,
+    "update_time": 1777437076,
+    "_id": "혈액투석환자의 가려움증치료의 새로운 알고리즘"
+  },
+  "레밋치연질캡슐": {
+    "chunk_ids": [
+      "chunk-ec2e7385b9239a9923a3aa2b8479dbe8"
+    ],
+    "count": 1,
+    "create_time": 1777437076,
+    "update_time": 1777437076,
+    "_id": "레밋치연질캡슐"
+  },
+  "날푸라핀 염산염": {
+    "chunk_ids": [
+      "chunk-c12788791ec77066a8c65343babc8b3d",
+      "chunk-0b30224c85c9be388dc164742395aad7",
+      "chunk-f92d6e9ce4a9d18ae432a3bd8ea906fb"
+    ],
+    "count": 3,
+    "create_time": 1777437076,
+    "update_time": 1777437076,
+    "_id": "날푸라핀 염산염"
+  },
+  "Phase III 임상시험": {
+    "chunk_ids": [
+      "chunk-c12788791ec77066a8c65343babc8b3d"
+    ],
+    "count": 1,
+    "create_time": 1777437076,
+    "update_time": 1777437076,
+    "_id": "Phase III 임상시험"
+  },
+  "가려움 점수": {
+    "chunk_ids": [
+      "chunk-c12788791ec77066a8c65343babc8b3d"
+    ],
+    "count": 1,
+    "create_time": 1777437076,
+    "update_time": 1777437076,
+    "_id": "가려움 점수"
+  },
+  "52주 장기 투여 연구": {
+    "chunk_ids": [
+      "chunk-c12788791ec77066a8c65343babc8b3d"
+    ],
+    "count": 1,
+    "create_time": 1777437076,
+    "update_time": 1777437076,
+    "_id": "52주 장기 투여 연구"
+  },
+  "Vigilance Assessment Scale": {
+    "chunk_ids": [
+      "chunk-c12788791ec77066a8c65343babc8b3d"
+    ],
+    "count": 1,
+    "create_time": 1777437076,
+    "update_time": 1777437076,
+    "_id": "Vigilance Assessment Scale"
+  },
+  "임상연구": {
+    "chunk_ids": [
+      "chunk-c12788791ec77066a8c65343babc8b3d"
+    ],
+    "count": 1,
+    "create_time": 1777437077,
+    "update_time": 1777437077,
+    "_id": "임상연구"
+  },
+  "변비": {
+    "chunk_ids": [
+      "chunk-06532c99f12d494de54c85478bc70c28",
+      "chunk-ab908a264e651d64613830a33ec98fa8",
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 3,
+    "create_time": 1777437077,
+    "update_time": 1777437077,
+    "_id": "변비"
+  },
+  "혈장 프로락틴 증가": {
+    "chunk_ids": [
+      "chunk-06532c99f12d494de54c85478bc70c28"
+    ],
+    "count": 1,
+    "create_time": 1777437077,
+    "update_time": 1777437077,
+    "_id": "혈장 프로락틴 증가"
+  },
+  "진정": {
+    "chunk_ids": [
+      "chunk-06532c99f12d494de54c85478bc70c28"
+    ],
+    "count": 1,
+    "create_time": 1777437078,
+    "update_time": 1777437078,
+    "_id": "진정"
+  },
+  "가려움증": {
+    "chunk_ids": [
+      "chunk-06532c99f12d494de54c85478bc70c28"
+    ],
+    "count": 1,
+    "create_time": 1777437078,
+    "update_time": 1777437078,
+    "_id": "가려움증"
+  },
+  "혈중 TSH 감소": {
+    "chunk_ids": [
+      "chunk-06532c99f12d494de54c85478bc70c28"
+    ],
+    "count": 1,
+    "create_time": 1777437079,
+    "update_time": 1777437079,
+    "_id": "혈중 TSH 감소"
+  },
+  "설사": {
+    "chunk_ids": [
+      "chunk-06532c99f12d494de54c85478bc70c28"
+    ],
+    "count": 1,
+    "create_time": 1777437079,
+    "update_time": 1777437079,
+    "_id": "설사"
+  },
+  "불쾌감": {
+    "chunk_ids": [
+      "chunk-06532c99f12d494de54c85478bc70c28"
+    ],
+    "count": 1,
+    "create_time": 1777437079,
+    "update_time": 1777437079,
+    "_id": "불쾌감"
+  },
+  "기분 변화": {
+    "chunk_ids": [
+      "chunk-06532c99f12d494de54c85478bc70c28"
+    ],
+    "count": 1,
+    "create_time": 1777437079,
+    "update_time": 1777437079,
+    "_id": "기분 변화"
+  },
+  "습진": {
+    "chunk_ids": [
+      "chunk-06532c99f12d494de54c85478bc70c28"
+    ],
+    "count": 1,
+    "create_time": 1777437079,
+    "update_time": 1777437079,
+    "_id": "습진"
+  },
+  "구토": {
+    "chunk_ids": [
+      "chunk-06532c99f12d494de54c85478bc70c28"
+    ],
+    "count": 1,
+    "create_time": 1777437079,
+    "update_time": 1777437079,
+    "_id": "구토"
+  },
+  "빈혈": {
+    "chunk_ids": [
+      "chunk-06532c99f12d494de54c85478bc70c28"
+    ],
+    "count": 1,
+    "create_time": 1777437080,
+    "update_time": 1777437080,
+    "_id": "빈혈"
+  },
+  "혈중 TSH 증가": {
+    "chunk_ids": [
+      "chunk-06532c99f12d494de54c85478bc70c28"
+    ],
+    "count": 1,
+    "create_time": 1777437080,
+    "update_time": 1777437080,
+    "_id": "혈중 TSH 증가"
+  },
+  "혈중 γ-GTP": {
+    "chunk_ids": [
+      "chunk-06532c99f12d494de54c85478bc70c28"
+    ],
+    "count": 1,
+    "create_time": 1777437080,
+    "update_time": 1777437080,
+    "_id": "혈중 γ-GTP"
+  },
+  "혈액투석 환자": {
+    "chunk_ids": [
+      "chunk-ab908a264e651d64613830a33ec98fa8"
+    ],
+    "count": 1,
+    "create_time": 1777437080,
+    "update_time": 1777437080,
+    "_id": "혈액투석 환자"
+  },
+  "임상적 고찰": {
+    "chunk_ids": [
+      "chunk-ab908a264e651d64613830a33ec98fa8"
+    ],
+    "count": 1,
+    "create_time": 1777437080,
+    "update_time": 1777437080,
+    "_id": "임상적 고찰"
+  },
+  "기초간호자연과학회지": {
+    "chunk_ids": [
+      "chunk-ab908a264e651d64613830a33ec98fa8"
+    ],
+    "count": 1,
+    "create_time": 1777437080,
+    "update_time": 1777437080,
+    "_id": "기초간호자연과학회지"
+  },
+  "대한신장학회지": {
+    "chunk_ids": [
+      "chunk-ab908a264e651d64613830a33ec98fa8"
+    ],
+    "count": 1,
+    "create_time": 1777437080,
+    "update_time": 1777437080,
+    "_id": "대한신장학회지"
+  },
+  "수용성 필름": {
+    "chunk_ids": [
+      "chunk-ab908a264e651d64613830a33ec98fa8"
+    ],
+    "count": 1,
+    "create_time": 1777437080,
+    "update_time": 1777437080,
+    "_id": "수용성 필름"
+  },
+  "불면증": {
+    "chunk_ids": [
+      "chunk-ab908a264e651d64613830a33ec98fa8",
+      "chunk-90fdd954d1f3ec2ae488ffa369a1bc66",
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 3,
+    "update_time": 1777437090,
+    "_id": "불면증"
+  },
+  "졸음": {
+    "chunk_ids": [
+      "chunk-ab908a264e651d64613830a33ec98fa8",
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 2,
+    "create_time": 1777437080,
+    "update_time": 1777437080,
+    "_id": "졸음"
+  },
+  "불안": {
+    "chunk_ids": [
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8",
+      "chunk-90fdd954d1f3ec2ae488ffa369a1bc66"
+    ],
+    "count": 2,
+    "update_time": 1777437086,
+    "_id": "불안"
+  },
+  "이상운동": {
+    "chunk_ids": [
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 1,
+    "create_time": 1777437080,
+    "update_time": 1777437080,
+    "_id": "이상운동"
+  },
+  "소화기계": {
+    "chunk_ids": [
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8",
+      "chunk-f92d6e9ce4a9d18ae432a3bd8ea906fb"
+    ],
+    "count": 2,
+    "create_time": 1777437080,
+    "update_time": 1777437080,
+    "_id": "소화기계"
+  },
+  "구강 감각이상": {
+    "chunk_ids": [
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 1,
+    "create_time": 1777437080,
+    "update_time": 1777437080,
+    "_id": "구강 감각이상"
+  },
+  "임상검사": {
+    "chunk_ids": [
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 1,
+    "create_time": 1777437080,
+    "update_time": 1777437080,
+    "_id": "임상검사"
+  },
+  "혈중 LDH 상승": {
+    "chunk_ids": [
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 1,
+    "create_time": 1777437080,
+    "update_time": 1777437080,
+    "_id": "혈중 LDH 상승"
+  },
+  "혈압 상승": {
+    "chunk_ids": [
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 1,
+    "create_time": 1777437080,
+    "update_time": 1777437080,
+    "_id": "혈압 상승"
+  },
+  "γ-GTP 상승": {
+    "chunk_ids": [
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 1,
+    "create_time": 1777437080,
+    "update_time": 1777437080,
+    "_id": "γ-GTP 상승"
+  },
+  "감염": {
+    "chunk_ids": [
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 1,
+    "create_time": 1777437080,
+    "update_time": 1777437080,
+    "_id": "감염"
+  },
+  "비인두염": {
+    "chunk_ids": [
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 1,
+    "create_time": 1777437081,
+    "update_time": 1777437081,
+    "_id": "비인두염"
+  },
+  "물사마귀": {
+    "chunk_ids": [
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 1,
+    "create_time": 1777437081,
+    "update_time": 1777437081,
+    "_id": "물사마귀"
+  },
+  "두부백선": {
+    "chunk_ids": [
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 1,
+    "create_time": 1777437081,
+    "update_time": 1777437081,
+    "_id": "두부백선"
+  },
+  "혈관계": {
+    "chunk_ids": [
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 1,
+    "create_time": 1777437081,
+    "update_time": 1777437081,
+    "_id": "혈관계"
+  },
+  "홍조": {
+    "chunk_ids": [
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 1,
+    "create_time": 1777437081,
+    "update_time": 1777437081,
+    "_id": "홍조"
+  },
+  "골격근계": {
+    "chunk_ids": [
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 1,
+    "create_time": 1777437081,
+    "update_time": 1777437081,
+    "_id": "골격근계"
+  },
+  "요통": {
+    "chunk_ids": [
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 1,
+    "create_time": 1777437081,
+    "update_time": 1777437081,
+    "_id": "요통"
+  },
+  "호흡기계": {
+    "chunk_ids": [
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 1,
+    "create_time": 1777437081,
+    "update_time": 1777437081,
+    "_id": "호흡기계"
+  },
+  "각혈": {
+    "chunk_ids": [
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 1,
+    "create_time": 1777437081,
+    "update_time": 1777437081,
+    "_id": "각혈"
+  },
+  "흉부 불쾌감": {
+    "chunk_ids": [
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 1,
+    "create_time": 1777437081,
+    "update_time": 1777437081,
+    "_id": "흉부 불쾌감"
+  },
+  "이상감": {
+    "chunk_ids": [
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 1,
+    "create_time": 1777437081,
+    "update_time": 1777437081,
+    "_id": "이상감"
+  },
+  "냉감": {
+    "chunk_ids": [
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 1,
+    "create_time": 1777437081,
+    "update_time": 1777437081,
+    "_id": "냉감"
+  },
+  "고열": {
+    "chunk_ids": [
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 1,
+    "create_time": 1777437082,
+    "update_time": 1777437082,
+    "_id": "고열"
+  },
+  "약": {
+    "chunk_ids": [
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 1,
+    "create_time": 1777437082,
+    "update_time": 1777437082,
+    "_id": "약"
+  },
+  "간기능 장애": {
+    "chunk_ids": [
+      "chunk-86b71c4a9fc37d7590c6eb67184c46b0"
+    ],
+    "count": 1,
+    "create_time": 1777437082,
+    "update_time": 1777437082,
+    "_id": "간기능 장애"
+  },
+  "중등도 간장애 환자": {
+    "chunk_ids": [
+      "chunk-86b71c4a9fc37d7590c6eb67184c46b0"
+    ],
+    "count": 1,
+    "create_time": 1777437082,
+    "update_time": 1777437082,
+    "_id": "중등도 간장애 환자"
+  },
+  "프로락틴": {
+    "chunk_ids": [
+      "chunk-86b71c4a9fc37d7590c6eb67184c46b0"
+    ],
+    "count": 1,
+    "create_time": 1777437082,
+    "update_time": 1777437082,
+    "_id": "프로락틴"
+  },
+  "테스토스테론": {
+    "chunk_ids": [
+      "chunk-86b71c4a9fc37d7590c6eb67184c46b0"
+    ],
+    "count": 1,
+    "create_time": 1777437082,
+    "update_time": 1777437082,
+    "_id": "테스토스테론"
+  },
+  "갑상선 자극호르몬": {
+    "chunk_ids": [
+      "chunk-86b71c4a9fc37d7590c6eb67184c46b0"
+    ],
+    "count": 1,
+    "create_time": 1777437082,
+    "update_time": 1777437082,
+    "_id": "갑상선 자극호르몬"
+  },
+  "CYP3A4": {
+    "chunk_ids": [
+      "chunk-86b71c4a9fc37d7590c6eb67184c46b0"
+    ],
+    "count": 1,
+    "create_time": 1777437082,
+    "update_time": 1777437082,
+    "_id": "CYP3A4"
+  },
+  "케토코나졸": {
+    "chunk_ids": [
+      "chunk-86b71c4a9fc37d7590c6eb67184c46b0"
+    ],
+    "count": 1,
+    "create_time": 1777437082,
+    "update_time": 1777437082,
+    "_id": "케토코나졸"
+  },
+  "미데카마이신": {
+    "chunk_ids": [
+      "chunk-86b71c4a9fc37d7590c6eb67184c46b0"
+    ],
+    "count": 1,
+    "create_time": 1777437082,
+    "update_time": 1777437082,
+    "_id": "미데카마이신"
+  },
+  "리토나비르": {
+    "chunk_ids": [
+      "chunk-86b71c4a9fc37d7590c6eb67184c46b0"
+    ],
+    "count": 1,
+    "create_time": 1777437082,
+    "update_time": 1777437082,
+    "_id": "리토나비르"
+  },
+  "사이클로스포린": {
+    "chunk_ids": [
+      "chunk-86b71c4a9fc37d7590c6eb67184c46b0"
+    ],
+    "count": 1,
+    "create_time": 1777437082,
+    "update_time": 1777437082,
+    "_id": "사이클로스포린"
+  },
+  "시메티딘": {
+    "chunk_ids": [
+      "chunk-86b71c4a9fc37d7590c6eb67184c46b0"
+    ],
+    "count": 1,
+    "create_time": 1777437083,
+    "update_time": 1777437083,
+    "_id": "시메티딘"
+  },
+  "자몽주스": {
+    "chunk_ids": [
+      "chunk-86b71c4a9fc37d7590c6eb67184c46b0"
+    ],
+    "count": 1,
+    "create_time": 1777437083,
+    "update_time": 1777437083,
+    "_id": "자몽주스"
+  },
+  "임부": {
+    "chunk_ids": [
+      "chunk-86b71c4a9fc37d7590c6eb67184c46b0",
+      "chunk-0b30224c85c9be388dc164742395aad7"
+    ],
+    "count": 2,
+    "create_time": 1777437083,
+    "update_time": 1777437083,
+    "_id": "임부"
+  },
+  "수유부": {
+    "chunk_ids": [
+      "chunk-86b71c4a9fc37d7590c6eb67184c46b0",
+      "chunk-0b30224c85c9be388dc164742395aad7"
+    ],
+    "count": 2,
+    "create_time": 1777437083,
+    "update_time": 1777437083,
+    "_id": "수유부"
+  },
+  "황달": {
+    "chunk_ids": [
+      "chunk-86b71c4a9fc37d7590c6eb67184c46b0"
+    ],
+    "count": 1,
+    "create_time": 1777437083,
+    "update_time": 1777437083,
+    "_id": "황달"
+  },
+  "간장애": {
+    "chunk_ids": [
+      "chunk-86b71c4a9fc37d7590c6eb67184c46b0",
+      "chunk-f92d6e9ce4a9d18ae432a3bd8ea906fb"
+    ],
+    "count": 2,
+    "create_time": 1777437083,
+    "update_time": 1777437083,
+    "_id": "간장애"
+  },
+  "랍드": {
+    "chunk_ids": [
+      "chunk-0b30224c85c9be388dc164742395aad7"
+    ],
+    "count": 1,
+    "create_time": 1777437083,
+    "update_time": 1777437083,
+    "_id": "랍드"
+  },
+  "고령자": {
+    "chunk_ids": [
+      "chunk-0b30224c85c9be388dc164742395aad7"
+    ],
+    "count": 1,
+    "create_time": 1777437083,
+    "update_time": 1777437083,
+    "_id": "고령자"
+  },
+  "과량투여": {
+    "chunk_ids": [
+      "chunk-0b30224c85c9be388dc164742395aad7"
+    ],
+    "count": 1,
+    "create_time": 1777437083,
+    "update_time": 1777437083,
+    "_id": "과량투여"
+  },
+  "Toray Industries, Inc.": {
+    "chunk_ids": [
+      "chunk-0b30224c85c9be388dc164742395aad7"
+    ],
+    "count": 1,
+    "create_time": 1777437083,
+    "update_time": 1777437083,
+    "_id": "Toray Industries, Inc."
+  },
+  "에스케이케미칼(주)": {
+    "chunk_ids": [
+      "chunk-0b30224c85c9be388dc164742395aad7"
+    ],
+    "count": 1,
+    "create_time": 1777437083,
+    "update_time": 1777437083,
+    "_id": "에스케이케미칼(주)"
+  },
+  "식약처 의약품안전나라": {
+    "chunk_ids": [
+      "chunk-0b30224c85c9be388dc164742395aad7"
+    ],
+    "count": 1,
+    "create_time": 1777437083,
+    "update_time": 1777437083,
+    "_id": "식약처 의약품안전나라"
+  },
+  "혈액투석": {
+    "chunk_ids": [
+      "chunk-0b30224c85c9be388dc164742395aad7"
+    ],
+    "count": 1,
+    "create_time": 1777437083,
+    "update_time": 1777437083,
+    "_id": "혈액투석"
+  },
+  "기밀용기": {
+    "chunk_ids": [
+      "chunk-0b30224c85c9be388dc164742395aad7"
+    ],
+    "count": 1,
+    "create_time": 1777437083,
+    "update_time": 1777437083,
+    "_id": "기밀용기"
+  },
+  "Nalfurafine Hydrochloride": {
+    "chunk_ids": [
+      "chunk-fe1f2cf328a292a7d1914058454db844"
+    ],
+    "count": 1,
+    "create_time": 1777437083,
+    "update_time": 1777437083,
+    "_id": "Nalfurafine Hydrochloride"
+  },
+  "Remitch® Capsules": {
+    "chunk_ids": [
+      "chunk-fe1f2cf328a292a7d1914058454db844"
+    ],
+    "count": 1,
+    "create_time": 1777437083,
+    "update_time": 1777437083,
+    "_id": "Remitch® Capsules"
+  },
+  "Hemodialysis Patients": {
+    "chunk_ids": [
+      "chunk-fe1f2cf328a292a7d1914058454db844"
+    ],
+    "count": 1,
+    "create_time": 1777437083,
+    "update_time": 1777437083,
+    "_id": "Hemodialysis Patients"
+  },
+  "International Journal of Nephrology and Renovascular Disease": {
+    "chunk_ids": [
+      "chunk-fe1f2cf328a292a7d1914058454db844"
+    ],
+    "count": 1,
+    "create_time": 1777437083,
+    "update_time": 1777437083,
+    "_id": "International Journal of Nephrology and Renovascular Disease"
+  },
+  "Safety and Efficacy Study": {
+    "chunk_ids": [
+      "chunk-fe1f2cf328a292a7d1914058454db844"
+    ],
+    "count": 1,
+    "create_time": 1777437084,
+    "update_time": 1777437084,
+    "_id": "Safety and Efficacy Study"
+  },
+  "Korean Ministry of Food and Drug Safety": {
+    "chunk_ids": [
+      "chunk-fe1f2cf328a292a7d1914058454db844"
+    ],
+    "count": 1,
+    "create_time": 1777437084,
+    "update_time": 1777437084,
+    "_id": "Korean Ministry of Food and Drug Safety"
+  },
+  "Remitch ODT": {
+    "chunk_ids": [
+      "chunk-fe1f2cf328a292a7d1914058454db844"
+    ],
+    "count": 1,
+    "create_time": 1777437084,
+    "update_time": 1777437084,
+    "_id": "Remitch ODT"
+  },
+  "날푸라핀 염산염 2.5μg": {
+    "chunk_ids": [
+      "chunk-fe1f2cf328a292a7d1914058454db844"
+    ],
+    "count": 1,
+    "create_time": 1777437084,
+    "update_time": 1777437084,
+    "_id": "날푸라핀 염산염 2.5μg"
+  },
+  "희귀의약품": {
+    "chunk_ids": [
+      "chunk-f92d6e9ce4a9d18ae432a3bd8ea906fb"
+    ],
+    "count": 1,
+    "create_time": 1777437084,
+    "update_time": 1777437084,
+    "_id": "희귀의약품"
+  },
+  "임산부": {
+    "chunk_ids": [
+      "chunk-f92d6e9ce4a9d18ae432a3bd8ea906fb"
+    ],
+    "count": 1,
+    "create_time": 1777437084,
+    "update_time": 1777437084,
+    "_id": "임산부"
+  },
+  "정신신경계": {
+    "chunk_ids": [
+      "chunk-f92d6e9ce4a9d18ae432a3bd8ea906fb"
+    ],
+    "count": 1,
+    "create_time": 1777437084,
+    "update_time": 1777437084,
+    "_id": "정신신경계"
+  },
+  "피부계": {
+    "chunk_ids": [
+      "chunk-f92d6e9ce4a9d18ae432a3bd8ea906fb"
+    ],
+    "count": 1,
+    "create_time": 1777437084,
+    "update_time": 1777437084,
+    "_id": "피부계"
+  },
+  "빈뇨": {
+    "chunk_ids": [
+      "chunk-90fdd954d1f3ec2ae488ffa369a1bc66"
+    ],
+    "count": 1,
+    "create_time": 1777437085,
+    "update_time": 1777437085,
+    "_id": "빈뇨"
+  },
+  "두근거림": {
+    "chunk_ids": [
+      "chunk-90fdd954d1f3ec2ae488ffa369a1bc66"
+    ],
+    "count": 1,
+    "create_time": 1777437085,
+    "update_time": 1777437085,
+    "_id": "두근거림"
+  },
+  "프로락틴 증가": {
+    "chunk_ids": [
+      "chunk-90fdd954d1f3ec2ae488ffa369a1bc66"
+    ],
+    "count": 1,
+    "create_time": 1777437085,
+    "update_time": 1777437085,
+    "_id": "프로락틴 증가"
+  },
+  "호산구 증가": {
+    "chunk_ids": [
+      "chunk-90fdd954d1f3ec2ae488ffa369a1bc66"
+    ],
+    "count": 1,
+    "create_time": 1777437085,
+    "update_time": 1777437085,
+    "_id": "호산구 증가"
+  },
+  "혈뇨": {
+    "chunk_ids": [
+      "chunk-90fdd954d1f3ec2ae488ffa369a1bc66"
+    ],
+    "count": 1,
+    "create_time": 1777437085,
+    "update_time": 1777437085,
+    "_id": "혈뇨"
+  },
+  "요단백 존재": {
+    "chunk_ids": [
+      "chunk-90fdd954d1f3ec2ae488ffa369a1bc66"
+    ],
+    "count": 1,
+    "create_time": 1777437086,
+    "update_time": 1777437086,
+    "_id": "요단백 존재"
+  },
+  "다뇨": {
+    "chunk_ids": [
+      "chunk-90fdd954d1f3ec2ae488ffa369a1bc66"
+    ],
+    "count": 1,
+    "create_time": 1777437086,
+    "update_time": 1777437086,
+    "_id": "다뇨"
+  },
+  "ALT": {
+    "chunk_ids": [
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 1,
+    "create_time": 1777437091,
+    "update_time": 1777437091,
+    "_id": "ALT"
+  },
+  "투석": {
+    "chunk_ids": [
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 1,
+    "create_time": 1777437091,
+    "update_time": 1777437091,
+    "_id": "투석"
+  },
+  "AST": {
+    "chunk_ids": [
+      "chunk-3d0ad2f70627b608a3c7e18bf60195a8"
+    ],
+    "count": 1,
+    "create_time": 1777437091,
+    "update_time": 1777437091,
+    "_id": "AST"
+  },
+  "이 약": {
+    "chunk_ids": [
+      "chunk-86b71c4a9fc37d7590c6eb67184c46b0",
+      "chunk-0b30224c85c9be388dc164742395aad7"
+    ],
+    "count": 2,
+    "update_time": 1777437092,
+    "_id": "이 약"
+  },
+  "LDA": {
+    "chunk_ids": [
+      "chunk-64cc0a0f5327439ec165b9e15552b7e8",
+      "chunk-6583e10a9c25d775c841d33e4116af19",
+      "chunk-8d4a1839aebf7871119a3e0f8352d032"
+    ],
+    "count": 3,
+    "create_time": 1777437152,
+    "update_time": 1777437152,
+    "_id": "LDA"
+  },
+  "Endo et al.": {
+    "chunk_ids": [
+      "chunk-64cc0a0f5327439ec165b9e15552b7e8"
+    ],
+    "count": 1,
+    "create_time": 1777437152,
+    "update_time": 1777437152,
+    "_id": "Endo et al."
+  },
+  "Watanabe et al.": {
+    "chunk_ids": [
+      "chunk-64cc0a0f5327439ec165b9e15552b7e8"
+    ],
+    "count": 1,
+    "create_time": 1777437152,
+    "update_time": 1777437152,
+    "_id": "Watanabe et al."
+  },
+  "Lactobacillus casei": {
+    "chunk_ids": [
+      "chunk-64cc0a0f5327439ec165b9e15552b7e8"
+    ],
+    "count": 1,
+    "create_time": 1777437152,
+    "update_time": 1777437152,
+    "_id": "Lactobacillus casei"
+  },
+  "polaprezinc": {
+    "chunk_ids": [
+      "chunk-64cc0a0f5327439ec165b9e15552b7e8"
+    ],
+    "count": 1,
+    "create_time": 1777437152,
+    "update_time": 1777437152,
+    "_id": "polaprezinc"
+  },
+  "Capsule Endoscopy": {
+    "chunk_ids": [
+      "chunk-64cc0a0f5327439ec165b9e15552b7e8",
+      "chunk-5b9e669cf2293784a5dbbea012dadf58",
+      "chunk-727c0f9b65e98b850afd9e26a6c57d93",
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 4,
+    "create_time": 1777437152,
+    "update_time": 1777437152,
+    "_id": "Capsule Endoscopy"
+  },
+  "Hiroshima University": {
+    "chunk_ids": [
+      "chunk-64cc0a0f5327439ec165b9e15552b7e8"
+    ],
+    "count": 1,
+    "create_time": 1777437152,
+    "update_time": 1777437152,
+    "_id": "Hiroshima University"
+  },
+  "Gastroenterology and Metabolism Department": {
+    "chunk_ids": [
+      "chunk-64cc0a0f5327439ec165b9e15552b7e8"
+    ],
+    "count": 1,
+    "create_time": 1777437152,
+    "update_time": 1777437152,
+    "_id": "Gastroenterology and Metabolism Department"
+  },
+  "Endoscopy Department": {
+    "chunk_ids": [
+      "chunk-64cc0a0f5327439ec165b9e15552b7e8"
+    ],
+    "count": 1,
+    "create_time": 1777437153,
+    "update_time": 1777437153,
+    "_id": "Endoscopy Department"
+  },
+  "Aspirin": {
+    "chunk_ids": [
+      "chunk-64cc0a0f5327439ec165b9e15552b7e8",
+      "chunk-34ab9d0b0ea944c280dfa266911804a7",
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 3,
+    "create_time": 1777437153,
+    "update_time": 1777437153,
+    "_id": "Aspirin"
+  },
+  "Chronic LDA Users": {
+    "chunk_ids": [
+      "chunk-64cc0a0f5327439ec165b9e15552b7e8"
+    ],
+    "count": 1,
+    "create_time": 1777437153,
+    "update_time": 1777437153,
+    "_id": "Chronic LDA Users"
+  },
+  "Polaprezinc Group": {
+    "chunk_ids": [
+      "chunk-02e844de81aa399d10f686b28dec95e0"
+    ],
+    "count": 1,
+    "create_time": 1777437153,
+    "update_time": 1777437153,
+    "_id": "Polaprezinc Group"
+  },
+  "Control Group": {
+    "chunk_ids": [
+      "chunk-02e844de81aa399d10f686b28dec95e0"
+    ],
+    "count": 1,
+    "create_time": 1777437153,
+    "update_time": 1777437153,
+    "_id": "Control Group"
+  },
+  "Erosions/Ulcers": {
+    "chunk_ids": [
+      "chunk-02e844de81aa399d10f686b28dec95e0"
+    ],
+    "count": 1,
+    "create_time": 1777437153,
+    "update_time": 1777437153,
+    "_id": "Erosions/Ulcers"
+  },
+  "Total Lesions": {
+    "chunk_ids": [
+      "chunk-02e844de81aa399d10f686b28dec95e0"
+    ],
+    "count": 1,
+    "create_time": 1777437153,
+    "update_time": 1777437153,
+    "_id": "Total Lesions"
+  },
+  "Small-Bowel Mucosal Injuries": {
+    "chunk_ids": [
+      "chunk-02e844de81aa399d10f686b28dec95e0",
+      "chunk-727c0f9b65e98b850afd9e26a6c57d93"
+    ],
+    "count": 2,
+    "create_time": 1777437153,
+    "update_time": 1777437153,
+    "_id": "Small-Bowel Mucosal Injuries"
+  },
+  "Median CE Score": {
+    "chunk_ids": [
+      "chunk-02e844de81aa399d10f686b28dec95e0"
+    ],
+    "count": 1,
+    "create_time": 1777437153,
+    "update_time": 1777437153,
+    "_id": "Median CE Score"
+  },
+  "Initial CE Findings": {
+    "chunk_ids": [
+      "chunk-02e844de81aa399d10f686b28dec95e0"
+    ],
+    "count": 1,
+    "create_time": 1777437153,
+    "update_time": 1777437153,
+    "_id": "Initial CE Findings"
+  },
+  "Age": {
+    "chunk_ids": [
+      "chunk-02e844de81aa399d10f686b28dec95e0"
+    ],
+    "count": 1,
+    "create_time": 1777437153,
+    "update_time": 1777437153,
+    "_id": "Age"
+  },
+  "Sex Ratio": {
+    "chunk_ids": [
+      "chunk-02e844de81aa399d10f686b28dec95e0"
+    ],
+    "count": 1,
+    "create_time": 1777437154,
+    "update_time": 1777437154,
+    "_id": "Sex Ratio"
+  },
+  "Low-Dose Aspirin": {
+    "chunk_ids": [
+      "chunk-02e844de81aa399d10f686b28dec95e0",
+      "chunk-5b9e669cf2293784a5dbbea012dadf58",
+      "chunk-727c0f9b65e98b850afd9e26a6c57d93"
+    ],
+    "count": 3,
+    "create_time": 1777437154,
+    "update_time": 1777437154,
+    "_id": "Low-Dose Aspirin"
+  },
+  "Watari et al.": {
+    "chunk_ids": [
+      "chunk-6583e10a9c25d775c841d33e4116af19"
+    ],
+    "count": 1,
+    "create_time": 1777437154,
+    "update_time": 1777437154,
+    "_id": "Watari et al."
+  },
+  "BioMed Central Ltd.": {
+    "chunk_ids": [
+      "chunk-6583e10a9c25d775c841d33e4116af19"
+    ],
+    "count": 1,
+    "create_time": 1777437154,
+    "update_time": 1777437154,
+    "_id": "BioMed Central Ltd."
+  },
+  "Hiroshima University Hospital": {
+    "chunk_ids": [
+      "chunk-6583e10a9c25d775c841d33e4116af19",
+      "chunk-5b9e669cf2293784a5dbbea012dadf58"
+    ],
+    "count": 2,
+    "create_time": 1777437154,
+    "update_time": 1777437154,
+    "_id": "Hiroshima University Hospital"
+  },
+  "Polaprezinc": {
+    "chunk_ids": [
+      "chunk-6583e10a9c25d775c841d33e4116af19",
+      "chunk-5b9e669cf2293784a5dbbea012dadf58",
+      "chunk-727c0f9b65e98b850afd9e26a6c57d93",
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 4,
+    "create_time": 1777437154,
+    "update_time": 1777437154,
+    "_id": "Polaprezinc"
+  },
+  "CE Capsule": {
+    "chunk_ids": [
+      "chunk-6583e10a9c25d775c841d33e4116af19"
+    ],
+    "count": 1,
+    "create_time": 1777437154,
+    "update_time": 1777437154,
+    "_id": "CE Capsule"
+  },
+  "UMIN Clinical Trials Registry": {
+    "chunk_ids": [
+      "chunk-6583e10a9c25d775c841d33e4116af19",
+      "chunk-5b9e669cf2293784a5dbbea012dadf58"
+    ],
+    "count": 2,
+    "create_time": 1777437154,
+    "update_time": 1777437154,
+    "_id": "UMIN Clinical Trials Registry"
+  },
+  "NSAID-Induced Small-Bowel Injury": {
+    "chunk_ids": [
+      "chunk-6583e10a9c25d775c841d33e4116af19"
+    ],
+    "count": 1,
+    "create_time": 1777437155,
+    "update_time": 1777437155,
+    "_id": "NSAID-Induced Small-Bowel Injury"
+  },
+  "Small Bowel": {
+    "chunk_ids": [
+      "chunk-6583e10a9c25d775c841d33e4116af19"
+    ],
+    "count": 1,
+    "create_time": 1777437155,
+    "update_time": 1777437155,
+    "_id": "Small Bowel"
+  },
+  "CE": {
+    "chunk_ids": [
+      "chunk-6583e10a9c25d775c841d33e4116af19",
+      "chunk-1fa0c70c99249fccf4c04752f6649248"
+    ],
+    "count": 2,
+    "create_time": 1777437155,
+    "update_time": 1777437155,
+    "_id": "CE"
+  },
+  "Initial CE": {
+    "chunk_ids": [
+      "chunk-6583e10a9c25d775c841d33e4116af19"
+    ],
+    "count": 1,
+    "create_time": 1777437155,
+    "update_time": 1777437155,
+    "_id": "Initial CE"
+  },
+  "Follow-up CE": {
+    "chunk_ids": [
+      "chunk-6583e10a9c25d775c841d33e4116af19"
+    ],
+    "count": 1,
+    "create_time": 1777437155,
+    "update_time": 1777437155,
+    "_id": "Follow-up CE"
+  },
+  "폴라프레진크": {
+    "chunk_ids": [
+      "chunk-8d4a1839aebf7871119a3e0f8352d032"
+    ],
+    "count": 1,
+    "create_time": 1777437155,
+    "update_time": 1777437155,
+    "_id": "폴라프레진크"
+  },
+  "캡슐 내시경": {
+    "chunk_ids": [
+      "chunk-8d4a1839aebf7871119a3e0f8352d032",
+      "chunk-ca2f86fa0facf63290296182895c2166"
+    ],
+    "count": 2,
+    "create_time": 1777437155,
+    "update_time": 1777437155,
+    "_id": "캡슐 내시경"
+  },
+  "변화 점수": {
+    "chunk_ids": [
+      "chunk-8d4a1839aebf7871119a3e0f8352d032"
+    ],
+    "count": 1,
+    "create_time": 1777437155,
+    "update_time": 1777437155,
+    "_id": "변화 점수"
+  },
+  "소장 점막 손상": {
+    "chunk_ids": [
+      "chunk-8d4a1839aebf7871119a3e0f8352d032"
+    ],
+    "count": 1,
+    "create_time": 1777437155,
+    "update_time": 1777437155,
+    "_id": "소장 점막 손상"
+  },
+  "통계 분석": {
+    "chunk_ids": [
+      "chunk-8d4a1839aebf7871119a3e0f8352d032"
+    ],
+    "count": 1,
+    "create_time": 1777437155,
+    "update_time": 1777437155,
+    "_id": "통계 분석"
+  },
+  "CE 점수": {
+    "chunk_ids": [
+      "chunk-8d4a1839aebf7871119a3e0f8352d032",
+      "chunk-ca2f86fa0facf63290296182895c2166"
+    ],
+    "count": 2,
+    "create_time": 1777437155,
+    "update_time": 1777437155,
+    "_id": "CE 점수"
+  },
+  "CE 시간": {
+    "chunk_ids": [
+      "chunk-8d4a1839aebf7871119a3e0f8352d032"
+    ],
+    "count": 1,
+    "create_time": 1777437156,
+    "update_time": 1777437156,
+    "_id": "CE 시간"
+  },
+  "Ikue Watari": {
+    "chunk_ids": [
+      "chunk-5b9e669cf2293784a5dbbea012dadf58"
+    ],
+    "count": 1,
+    "create_time": 1777437156,
+    "update_time": 1777437156,
+    "_id": "Ikue Watari"
+  },
+  "Shiro Oka": {
+    "chunk_ids": [
+      "chunk-5b9e669cf2293784a5dbbea012dadf58"
+    ],
+    "count": 1,
+    "create_time": 1777437156,
+    "update_time": 1777437156,
+    "_id": "Shiro Oka"
+  },
+  "Shinji Tanaka": {
+    "chunk_ids": [
+      "chunk-5b9e669cf2293784a5dbbea012dadf58"
+    ],
+    "count": 1,
+    "create_time": 1777437156,
+    "update_time": 1777437156,
+    "_id": "Shinji Tanaka"
+  },
+  "Taiki Aoyama": {
+    "chunk_ids": [
+      "chunk-5b9e669cf2293784a5dbbea012dadf58"
+    ],
+    "count": 1,
+    "create_time": 1777437156,
+    "update_time": 1777437156,
+    "_id": "Taiki Aoyama"
+  },
+  "Hiroki Imagawa": {
+    "chunk_ids": [
+      "chunk-5b9e669cf2293784a5dbbea012dadf58"
+    ],
+    "count": 1,
+    "create_time": 1777437156,
+    "update_time": 1777437156,
+    "_id": "Hiroki Imagawa"
+  },
+  "Takayoshi Shishido": {
+    "chunk_ids": [
+      "chunk-5b9e669cf2293784a5dbbea012dadf58"
+    ],
+    "count": 1,
+    "create_time": 1777437156,
+    "update_time": 1777437156,
+    "_id": "Takayoshi Shishido"
+  },
+  "Shigeto Yoshida": {
+    "chunk_ids": [
+      "chunk-5b9e669cf2293784a5dbbea012dadf58"
+    ],
+    "count": 1,
+    "create_time": 1777437156,
+    "update_time": 1777437156,
+    "_id": "Shigeto Yoshida"
+  },
+  "Kazuaki Chayama": {
+    "chunk_ids": [
+      "chunk-5b9e669cf2293784a5dbbea012dadf58"
+    ],
+    "count": 1,
+    "create_time": 1777437156,
+    "update_time": 1777437156,
+    "_id": "Kazuaki Chayama"
+  },
+  "Small-Bowel Mucosal Injury": {
+    "chunk_ids": [
+      "chunk-5b9e669cf2293784a5dbbea012dadf58"
+    ],
+    "count": 1,
+    "create_time": 1777437156,
+    "update_time": 1777437156,
+    "_id": "Small-Bowel Mucosal Injury"
+  },
+  "Pilot Randomized Controlled Study": {
+    "chunk_ids": [
+      "chunk-5b9e669cf2293784a5dbbea012dadf58",
+      "chunk-727c0f9b65e98b850afd9e26a6c57d93"
+    ],
+    "count": 2,
+    "create_time": 1777437157,
+    "update_time": 1777437157,
+    "_id": "Pilot Randomized Controlled Study"
+  },
+  "Zinc와 L-carnosine": {
+    "chunk_ids": [
+      "chunk-5b9e669cf2293784a5dbbea012dadf58"
+    ],
+    "count": 1,
+    "create_time": 1777437157,
+    "update_time": 1777437157,
+    "_id": "Zinc와 L-carnosine"
+  },
+  "중앙값 점수": {
+    "chunk_ids": [
+      "chunk-ca2f86fa0facf63290296182895c2166"
+    ],
+    "count": 1,
+    "create_time": 1777437157,
+    "update_time": 1777437157,
+    "_id": "중앙값 점수"
+  },
+  "폴라프레진 군": {
+    "chunk_ids": [
+      "chunk-ca2f86fa0facf63290296182895c2166"
+    ],
+    "count": 1,
+    "create_time": 1777437157,
+    "update_time": 1777437157,
+    "_id": "폴라프레진 군"
+  },
+  "대조군": {
+    "chunk_ids": [
+      "chunk-ca2f86fa0facf63290296182895c2166"
+    ],
+    "count": 1,
+    "create_time": 1777437157,
+    "update_time": 1777437157,
+    "_id": "대조군"
+  },
+  "위험 평가": {
+    "chunk_ids": [
+      "chunk-ca2f86fa0facf63290296182895c2166"
+    ],
+    "count": 1,
+    "create_time": 1777437157,
+    "update_time": 1777437157,
+    "_id": "위험 평가"
+  },
+  "CE 카테고리": {
+    "chunk_ids": [
+      "chunk-ca2f86fa0facf63290296182895c2166"
+    ],
+    "count": 1,
+    "create_time": 1777437157,
+    "update_time": 1777437157,
+    "_id": "CE 카테고리"
+  },
+  "N.S.": {
+    "chunk_ids": [
+      "chunk-ca2f86fa0facf63290296182895c2166",
+      "chunk-1fa0c70c99249fccf4c04752f6649248"
+    ],
+    "count": 2,
+    "create_time": 1777437157,
+    "update_time": 1777437157,
+    "_id": "N.S."
+  },
+  "프로톤 펌프 억제제": {
+    "chunk_ids": [
+      "chunk-ca2f86fa0facf63290296182895c2166"
+    ],
+    "count": 1,
+    "create_time": 1777437157,
+    "update_time": 1777437157,
+    "_id": "프로톤 펌프 억제제"
+  },
+  "Antithrombotic Trialists' Collaboration": {
+    "chunk_ids": [
+      "chunk-34ab9d0b0ea944c280dfa266911804a7"
+    ],
+    "count": 1,
+    "create_time": 1777437157,
+    "update_time": 1777437157,
+    "_id": "Antithrombotic Trialists' Collaboration"
+  },
+  "BMJ": {
+    "chunk_ids": [
+      "chunk-34ab9d0b0ea944c280dfa266911804a7"
+    ],
+    "count": 1,
+    "create_time": 1777437157,
+    "update_time": 1777437157,
+    "_id": "BMJ"
+  },
+  "N Engl J Med": {
+    "chunk_ids": [
+      "chunk-34ab9d0b0ea944c280dfa266911804a7"
+    ],
+    "count": 1,
+    "create_time": 1777437157,
+    "update_time": 1777437157,
+    "_id": "N Engl J Med"
+  },
+  "Helicobacter pylori": {
+    "chunk_ids": [
+      "chunk-34ab9d0b0ea944c280dfa266911804a7"
+    ],
+    "count": 1,
+    "create_time": 1777437157,
+    "update_time": 1777437157,
+    "_id": "Helicobacter pylori"
+  },
+  "Eur J Clin Pharmacol": {
+    "chunk_ids": [
+      "chunk-34ab9d0b0ea944c280dfa266911804a7"
+    ],
+    "count": 1,
+    "create_time": 1777437158,
+    "update_time": 1777437158,
+    "_id": "Eur J Clin Pharmacol"
+  },
+  "J Rheumatol Suppl": {
+    "chunk_ids": [
+      "chunk-34ab9d0b0ea944c280dfa266911804a7"
+    ],
+    "count": 1,
+    "create_time": 1777437158,
+    "update_time": 1777437158,
+    "_id": "J Rheumatol Suppl"
+  },
+  "Wireless Capsule Endoscopy": {
+    "chunk_ids": [
+      "chunk-34ab9d0b0ea944c280dfa266911804a7"
+    ],
+    "count": 1,
+    "create_time": 1777437158,
+    "update_time": 1777437158,
+    "_id": "Wireless Capsule Endoscopy"
+  },
+  "Gastrointest Endosc": {
+    "chunk_ids": [
+      "chunk-34ab9d0b0ea944c280dfa266911804a7"
+    ],
+    "count": 1,
+    "create_time": 1777437158,
+    "update_time": 1777437158,
+    "_id": "Gastrointest Endosc"
+  },
+  "Hepatogastroenterology": {
+    "chunk_ids": [
+      "chunk-34ab9d0b0ea944c280dfa266911804a7"
+    ],
+    "count": 1,
+    "create_time": 1777437158,
+    "update_time": 1777437158,
+    "_id": "Hepatogastroenterology"
+  },
+  "Br J Nutr": {
+    "chunk_ids": [
+      "chunk-34ab9d0b0ea944c280dfa266911804a7"
+    ],
+    "count": 1,
+    "create_time": 1777437158,
+    "update_time": 1777437158,
+    "_id": "Br J Nutr"
+  },
+  "J Nutr": {
+    "chunk_ids": [
+      "chunk-34ab9d0b0ea944c280dfa266911804a7"
+    ],
+    "count": 1,
+    "create_time": 1777437158,
+    "update_time": 1777437158,
+    "_id": "J Nutr"
+  },
+  "Biochim Biophys Acta": {
+    "chunk_ids": [
+      "chunk-34ab9d0b0ea944c280dfa266911804a7"
+    ],
+    "count": 1,
+    "create_time": 1777437158,
+    "update_time": 1777437158,
+    "_id": "Biochim Biophys Acta"
+  },
+  "J Gastroenterol": {
+    "chunk_ids": [
+      "chunk-34ab9d0b0ea944c280dfa266911804a7",
+      "chunk-b12a437cbfa378c5e215edbf179f115d",
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 3,
+    "create_time": 1777437158,
+    "update_time": 1777437158,
+    "_id": "J Gastroenterol"
+  },
+  "Sakamoto C": {
+    "chunk_ids": [
+      "chunk-34ab9d0b0ea944c280dfa266911804a7"
+    ],
+    "count": 1,
+    "create_time": 1777437158,
+    "update_time": 1777437158,
+    "_id": "Sakamoto C"
+  },
+  "Sugano K": {
+    "chunk_ids": [
+      "chunk-34ab9d0b0ea944c280dfa266911804a7"
+    ],
+    "count": 1,
+    "create_time": 1777437158,
+    "update_time": 1777437158,
+    "_id": "Sugano K"
+  },
+  "Ota S": {
+    "chunk_ids": [
+      "chunk-34ab9d0b0ea944c280dfa266911804a7"
+    ],
+    "count": 1,
+    "create_time": 1777437158,
+    "update_time": 1777437158,
+    "_id": "Ota S"
+  },
+  "Shishido T": {
+    "chunk_ids": [
+      "chunk-34ab9d0b0ea944c280dfa266911804a7"
+    ],
+    "count": 1,
+    "create_time": 1777437158,
+    "update_time": 1777437158,
+    "_id": "Shishido T"
+  },
+  "Glukhovsky A": {
+    "chunk_ids": [
+      "chunk-34ab9d0b0ea944c280dfa266911804a7"
+    ],
+    "count": 1,
+    "create_time": 1777437158,
+    "update_time": 1777437158,
+    "_id": "Glukhovsky A"
+  },
+  "Reactive Oxygen Species": {
+    "chunk_ids": [
+      "chunk-34ab9d0b0ea944c280dfa266911804a7",
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 2,
+    "create_time": 1777437158,
+    "update_time": 1777437158,
+    "_id": "Reactive Oxygen Species"
+  },
+  "Watari": {
+    "chunk_ids": [
+      "chunk-727c0f9b65e98b850afd9e26a6c57d93",
+      "chunk-b12a437cbfa378c5e215edbf179f115d"
+    ],
+    "count": 2,
+    "create_time": 1777437158,
+    "update_time": 1777437158,
+    "_id": "Watari"
+  },
+  "BMC Gastroenterology": {
+    "chunk_ids": [
+      "chunk-727c0f9b65e98b850afd9e26a6c57d93",
+      "chunk-b12a437cbfa378c5e215edbf179f115d"
+    ],
+    "count": 2,
+    "create_time": 1777437158,
+    "update_time": 1777437158,
+    "_id": "BMC Gastroenterology"
+  },
+  "BioMed Central": {
+    "chunk_ids": [
+      "chunk-727c0f9b65e98b850afd9e26a6c57d93"
+    ],
+    "count": 1,
+    "create_time": 1777437158,
+    "update_time": 1777437158,
+    "_id": "BioMed Central"
+  },
+  "폴라프레징크": {
+    "chunk_ids": [
+      "chunk-1fa0c70c99249fccf4c04752f6649248"
+    ],
+    "count": 1,
+    "create_time": 1777437158,
+    "update_time": 1777437158,
+    "_id": "폴라프레징크"
+  },
+  "이약": {
+    "chunk_ids": [
+      "chunk-1fa0c70c99249fccf4c04752f6649248"
+    ],
+    "count": 1,
+    "create_time": 1777437158,
+    "update_time": 1777437158,
+    "_id": "이약"
+  },
+  "Mucosal Injury": {
+    "chunk_ids": [
+      "chunk-1fa0c70c99249fccf4c04752f6649248"
+    ],
+    "count": 1,
+    "create_time": 1777437158,
+    "update_time": 1777437158,
+    "_id": "Mucosal Injury"
+  },
+  "이자": {
+    "chunk_ids": [
+      "chunk-1fa0c70c99249fccf4c04752f6649248"
+    ],
+    "count": 1,
+    "create_time": 1777437159,
+    "update_time": 1777437159,
+    "_id": "이자"
+  },
+  "Cyclooxygenase": {
+    "chunk_ids": [
+      "chunk-1fa0c70c99249fccf4c04752f6649248"
+    ],
+    "count": 1,
+    "create_time": 1777437159,
+    "update_time": 1777437159,
+    "_id": "Cyclooxygenase"
+  },
+  "idman E": {
+    "chunk_ids": [
+      "chunk-b12a437cbfa378c5e215edbf179f115d"
+    ],
+    "count": 1,
+    "create_time": 1777437159,
+    "update_time": 1777437159,
+    "_id": "idman E"
+  },
+  "Leighton JA": {
+    "chunk_ids": [
+      "chunk-b12a437cbfa378c5e215edbf179f115d"
+    ],
+    "count": 1,
+    "create_time": 1777437159,
+    "update_time": 1777437159,
+    "_id": "Leighton JA"
+  },
+  "Legnani P": {
+    "chunk_ids": [
+      "chunk-b12a437cbfa378c5e215edbf179f115d"
+    ],
+    "count": 1,
+    "create_time": 1777437159,
+    "update_time": 1777437159,
+    "_id": "Legnani P"
+  },
+  "Lewis BS": {
+    "chunk_ids": [
+      "chunk-b12a437cbfa378c5e215edbf179f115d"
+    ],
+    "count": 1,
+    "create_time": 1777437159,
+    "update_time": 1777437159,
+    "_id": "Lewis BS"
+  },
+  "Aliment Pharmacol Ther": {
+    "chunk_ids": [
+      "chunk-b12a437cbfa378c5e215edbf179f115d"
+    ],
+    "count": 1,
+    "create_time": 1777437159,
+    "update_time": 1777437159,
+    "_id": "Aliment Pharmacol Ther"
+  },
+  "Endo H": {
+    "chunk_ids": [
+      "chunk-b12a437cbfa378c5e215edbf179f115d"
+    ],
+    "count": 1,
+    "create_time": 1777437159,
+    "update_time": 1777437159,
+    "_id": "Endo H"
+  },
+  "Hosono K": {
+    "chunk_ids": [
+      "chunk-b12a437cbfa378c5e215edbf179f115d"
+    ],
+    "count": 1,
+    "create_time": 1777437159,
+    "update_time": 1777437159,
+    "_id": "Hosono K"
+  },
+  "Higurashi T": {
+    "chunk_ids": [
+      "chunk-b12a437cbfa378c5e215edbf179f115d"
+    ],
+    "count": 1,
+    "create_time": 1777437159,
+    "update_time": 1777437159,
+    "_id": "Higurashi T"
+  },
+  "Sakai E": {
+    "chunk_ids": [
+      "chunk-b12a437cbfa378c5e215edbf179f115d"
+    ],
+    "count": 1,
+    "create_time": 1777437159,
+    "update_time": 1777437159,
+    "_id": "Sakai E"
+  },
+  "Iida H": {
+    "chunk_ids": [
+      "chunk-b12a437cbfa378c5e215edbf179f115d"
+    ],
+    "count": 1,
+    "create_time": 1777437159,
+    "update_time": 1777437159,
+    "_id": "Iida H"
+  },
+  "Sakamoto Y": {
+    "chunk_ids": [
+      "chunk-b12a437cbfa378c5e215edbf179f115d"
+    ],
+    "count": 1,
+    "create_time": 1777437159,
+    "update_time": 1777437159,
+    "_id": "Sakamoto Y"
+  },
+  "Fujita K": {
+    "chunk_ids": [
+      "chunk-b12a437cbfa378c5e215edbf179f115d"
+    ],
+    "count": 1,
+    "create_time": 1777437160,
+    "update_time": 1777437160,
+    "_id": "Fujita K"
+  },
+  "Takahashi H": {
+    "chunk_ids": [
+      "chunk-b12a437cbfa378c5e215edbf179f115d"
+    ],
+    "count": 1,
+    "create_time": 1777437160,
+    "update_time": 1777437160,
+    "_id": "Takahashi H"
+  },
+  "Koide T": {
+    "chunk_ids": [
+      "chunk-b12a437cbfa378c5e215edbf179f115d"
+    ],
+    "count": 1,
+    "create_time": 1777437160,
+    "update_time": 1777437160,
+    "_id": "Koide T"
+  },
+  "Yoneda M": {
+    "chunk_ids": [
+      "chunk-b12a437cbfa378c5e215edbf179f115d"
+    ],
+    "count": 1,
+    "create_time": 1777437160,
+    "update_time": 1777437160,
+    "_id": "Yoneda M"
+  },
+  "Tokoro C": {
+    "chunk_ids": [
+      "chunk-b12a437cbfa378c5e215edbf179f115d"
+    ],
+    "count": 1,
+    "create_time": 1777437160,
+    "update_time": 1777437160,
+    "_id": "Tokoro C"
+  },
+  "Inamori M": {
+    "chunk_ids": [
+      "chunk-b12a437cbfa378c5e215edbf179f115d"
+    ],
+    "count": 1,
+    "create_time": 1777437160,
+    "update_time": 1777437160,
+    "_id": "Inamori M"
+  },
+  "Abe Y": {
+    "chunk_ids": [
+      "chunk-b12a437cbfa378c5e215edbf179f115d"
+    ],
+    "count": 1,
+    "create_time": 1777437160,
+    "update_time": 1777437160,
+    "_id": "Abe Y"
+  },
+  "Matsuhashi N": {
+    "chunk_ids": [
+      "chunk-b12a437cbfa378c5e215edbf179f115d"
+    ],
+    "count": 1,
+    "create_time": 1777437160,
+    "update_time": 1777437160,
+    "_id": "Matsuhashi N"
+  },
+  "Nakajima A": {
+    "chunk_ids": [
+      "chunk-b12a437cbfa378c5e215edbf179f115d"
+    ],
+    "count": 1,
+    "create_time": 1777437160,
+    "update_time": 1777437160,
+    "_id": "Nakajima A"
+  },
+  "Dig Endosc": {
+    "chunk_ids": [
+      "chunk-b12a437cbfa378c5e215edbf179f115d"
+    ],
+    "count": 1,
+    "create_time": 1777437160,
+    "update_time": 1777437160,
+    "_id": "Dig Endosc"
+  },
+  "Gastroenterology": {
+    "chunk_ids": [
+      "chunk-b12a437cbfa378c5e215edbf179f115d"
+    ],
+    "count": 1,
+    "create_time": 1777437160,
+    "update_time": 1777437160,
+    "_id": "Gastroenterology"
+  },
+  "Gut": {
+    "chunk_ids": [
+      "chunk-b12a437cbfa378c5e215edbf179f115d",
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 2,
+    "create_time": 1777437160,
+    "update_time": 1777437160,
+    "_id": "Gut"
+  },
+  "Scand J Gastroenterol": {
+    "chunk_ids": [
+      "chunk-b12a437cbfa378c5e215edbf179f115d"
+    ],
+    "count": 1,
+    "create_time": 1777437160,
+    "update_time": 1777437160,
+    "_id": "Scand J Gastroenterol"
+  },
+  "Clin Gastroenterol Hepatol": {
+    "chunk_ids": [
+      "chunk-b12a437cbfa378c5e215edbf179f115d"
+    ],
+    "count": 1,
+    "create_time": 1777437161,
+    "update_time": 1777437161,
+    "_id": "Clin Gastroenterol Hepatol"
+  },
+  "10.1186/1471-230X-13-108": {
+    "chunk_ids": [
+      "chunk-b12a437cbfa378c5e215edbf179f115d"
+    ],
+    "count": 1,
+    "create_time": 1777437161,
+    "update_time": 1777437161,
+    "_id": "10.1186/1471-230X-13-108"
+  },
+  "Omatsu T": {
+    "chunk_ids": [
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 1,
+    "create_time": 1777437161,
+    "update_time": 1777437161,
+    "_id": "Omatsu T"
+  },
+  "Naito Y": {
+    "chunk_ids": [
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 1,
+    "create_time": 1777437161,
+    "update_time": 1777437161,
+    "_id": "Naito Y"
+  },
+  "Handa O": {
+    "chunk_ids": [
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 1,
+    "create_time": 1777437161,
+    "update_time": 1777437161,
+    "_id": "Handa O"
+  },
+  "Mizushima K": {
+    "chunk_ids": [
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 1,
+    "create_time": 1777437161,
+    "update_time": 1777437161,
+    "_id": "Mizushima K"
+  },
+  "Hayashi N": {
+    "chunk_ids": [
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 1,
+    "create_time": 1777437161,
+    "update_time": 1777437161,
+    "_id": "Hayashi N"
+  },
+  "Qin Y": {
+    "chunk_ids": [
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 1,
+    "create_time": 1777437161,
+    "update_time": 1777437161,
+    "_id": "Qin Y"
+  },
+  "Harusato A": {
+    "chunk_ids": [
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 1,
+    "create_time": 1777437161,
+    "update_time": 1777437161,
+    "_id": "Harusato A"
+  },
+  "Hirata I": {
+    "chunk_ids": [
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 1,
+    "create_time": 1777437161,
+    "update_time": 1777437161,
+    "_id": "Hirata I"
+  },
+  "Kishimoto E": {
+    "chunk_ids": [
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 1,
+    "create_time": 1777437161,
+    "update_time": 1777437161,
+    "_id": "Kishimoto E"
+  },
+  "Okada H": {
+    "chunk_ids": [
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 1,
+    "create_time": 1777437161,
+    "update_time": 1777437161,
+    "_id": "Okada H"
+  },
+  "Uchiyama K": {
+    "chunk_ids": [
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 1,
+    "create_time": 1777437161,
+    "update_time": 1777437161,
+    "_id": "Uchiyama K"
+  },
+  "Ishikawa T": {
+    "chunk_ids": [
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 1,
+    "create_time": 1777437161,
+    "update_time": 1777437161,
+    "_id": "Ishikawa T"
+  },
+  "Takagi T": {
+    "chunk_ids": [
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 1,
+    "create_time": 1777437162,
+    "update_time": 1777437162,
+    "_id": "Takagi T"
+  },
+  "Yagi N": {
+    "chunk_ids": [
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 1,
+    "create_time": 1777437162,
+    "update_time": 1777437162,
+    "_id": "Yagi N"
+  },
+  "Kokura S": {
+    "chunk_ids": [
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 1,
+    "create_time": 1777437162,
+    "update_time": 1777437162,
+    "_id": "Kokura S"
+  },
+  "Ichikawa H": {
+    "chunk_ids": [
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 1,
+    "create_time": 1777437162,
+    "update_time": 1777437162,
+    "_id": "Ichikawa H"
+  },
+  "Yoshikawa T": {
+    "chunk_ids": [
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 1,
+    "create_time": 1777437162,
+    "update_time": 1777437162,
+    "_id": "Yoshikawa T"
+  },
+  "Chronic Low-Dose Aspirin Users": {
+    "chunk_ids": [
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 1,
+    "create_time": 1777437162,
+    "update_time": 1777437162,
+    "_id": "Chronic Low-Dose Aspirin Users"
+  },
+  "Jpn J Pharmacol": {
+    "chunk_ids": [
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 1,
+    "create_time": 1777437162,
+    "update_time": 1777437162,
+    "_id": "Jpn J Pharmacol"
+  },
+  "J Radiat Res": {
+    "chunk_ids": [
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 1,
+    "create_time": 1777437162,
+    "update_time": 1777437162,
+    "_id": "J Radiat Res"
+  },
+  "Can J Gastroenterol": {
+    "chunk_ids": [
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 1,
+    "create_time": 1777437162,
+    "update_time": 1777437162,
+    "_id": "Can J Gastroenterol"
+  },
+  "Eur J Clin Invest": {
+    "chunk_ids": [
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 1,
+    "create_time": 1777437162,
+    "update_time": 1777437162,
+    "_id": "Eur J Clin Invest"
+  },
+  "구역 리스크": {
+    "chunk_ids": [
+      "chunk-ca2f86fa0facf63290296182895c2166"
+    ],
+    "count": 1,
+    "create_time": 1777437169,
+    "update_time": 1777437169,
+    "_id": "구역 리스크"
+  },
+  "Zinc": {
+    "chunk_ids": [
+      "chunk-34ab9d0b0ea944c280dfa266911804a7"
+    ],
+    "count": 1,
+    "create_time": 1777437169,
+    "update_time": 1777437169,
+    "_id": "Zinc"
+  },
+  "Higuchi K": {
+    "chunk_ids": [
+      "chunk-b12a437cbfa378c5e215edbf179f115d"
+    ],
+    "count": 1,
+    "create_time": 1777437170,
+    "update_time": 1777437170,
+    "_id": "Higuchi K"
+  },
+  "Bjarnason I": {
+    "chunk_ids": [
+      "chunk-b12a437cbfa378c5e215edbf179f115d"
+    ],
+    "count": 1,
+    "create_time": 1777437171,
+    "update_time": 1777437171,
+    "_id": "Bjarnason I"
+  },
+  "Shiotani A": {
+    "chunk_ids": [
+      "chunk-b12a437cbfa378c5e215edbf179f115d"
+    ],
+    "count": 1,
+    "create_time": 1777437171,
+    "update_time": 1777437171,
+    "_id": "Shiotani A"
+  },
+  "Niwa Y": {
+    "chunk_ids": [
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 1,
+    "create_time": 1777437171,
+    "update_time": 1777437171,
+    "_id": "Niwa Y"
+  },
+  "Fujimori S": {
+    "chunk_ids": [
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 1,
+    "create_time": 1777437171,
+    "update_time": 1777437171,
+    "_id": "Fujimori S"
+  },
+  "Fuji Y": {
+    "chunk_ids": [
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 1,
+    "create_time": 1777437171,
+    "update_time": 1777437171,
+    "_id": "Fuji Y"
+  },
+  "Matsuu-Matsuyama M": {
+    "chunk_ids": [
+      "chunk-c2b74c904af4195257451f760e4c6e9c"
+    ],
+    "count": 1,
+    "create_time": 1777437172,
+    "update_time": 1777437172,
+    "_id": "Matsuu-Matsuyama M"
+  },
+  "쎄레브렉스®": {
+    "chunk_ids": [
+      "chunk-94a14d53e034cff8d203c2e1f163a79c"
+    ],
+    "count": 1,
+    "create_time": 1777438595,
+    "update_time": 1777438595,
+    "_id": "쎄레브렉스®"
+  },
+  "이부프로펜": {
+    "chunk_ids": [
+      "chunk-94a14d53e034cff8d203c2e1f163a79c"
+    ],
+    "count": 1,
+    "create_time": 1777438595,
+    "update_time": 1777438595,
+    "_id": "이부프로펜"
+  },
+  "중등도-중증의 급성 통증": {
+    "chunk_ids": [
+      "chunk-94a14d53e034cff8d203c2e1f163a79c"
+    ],
+    "count": 1,
+    "create_time": 1777438595,
+    "update_time": 1777438595,
+    "_id": "중등도-중증의 급성 통증"
+  },
+  "발치 환자": {
+    "chunk_ids": [
+      "chunk-94a14d53e034cff8d203c2e1f163a79c"
+    ],
+    "count": 1,
+    "create_time": 1777438595,
+    "update_time": 1777438595,
+    "_id": "발치 환자"
+  },
+  "이중맹검 연구": {
+    "chunk_ids": [
+      "chunk-94a14d53e034cff8d203c2e1f163a79c"
+    ],
+    "count": 1,
+    "create_time": 1777438595,
+    "update_time": 1777438595,
+    "_id": "이중맹검 연구"
+  },
+  "통증 강도 척도": {
+    "chunk_ids": [
+      "chunk-94a14d53e034cff8d203c2e1f163a79c"
+    ],
+    "count": 1,
+    "create_time": 1777438595,
+    "update_time": 1777438595,
+    "_id": "통증 강도 척도"
+  },
+  "통증 완화 척도": {
+    "chunk_ids": [
+      "chunk-94a14d53e034cff8d203c2e1f163a79c"
+    ],
+    "count": 1,
+    "create_time": 1777438595,
+    "update_time": 1777438595,
+    "_id": "통증 완화 척도"
+  },
+  "통증 완화 효과": {
+    "chunk_ids": [
+      "chunk-94a14d53e034cff8d203c2e1f163a79c"
+    ],
+    "count": 1,
+    "create_time": 1777438596,
+    "update_time": 1777438596,
+    "_id": "통증 완화 효과"
+  }
+}
