@@ -59,7 +59,7 @@ OpenAI Batch API는 LLM 요청을 JSONL로 묶어 비동기 제출하면 최대 
 │   ├── 페브릭환자용.jsonl
 │   ├── 기넥신PSS가이드북.jsonl
 │   └── ...
-├── lightrag_before_chunk_test/  ← WORKING_DIR (자동 생성)
+├── lightrag_after_chunk_test/   ← WORKING_DIR (자동 생성)
 │   ├── graph_chunk_entity_relation.graphml   ← Knowledge Graph
 │   ├── kv_store_full_docs.json
 │   ├── kv_store_text_chunks.json
@@ -87,7 +87,8 @@ OpenAI Batch API는 LLM 요청을 JSONL로 묶어 비동기 제출하면 최대 
 }
 ```
 
-> **Qdrant URL 우선순위**: 환경변수 `QDRANT_URL` → `.env.json`의 `qdrant.host/port` → `http://localhost:6333`
+> **Qdrant URL 우선순위**: 환경변수 `QDRANT_URL` → `http://localhost:6333` (기본값)  
+> `.env.json`의 `qdrant` 섹션은 코드에서 직접 읽지 않습니다.
 
 ### 필수 패키지
 
@@ -109,17 +110,18 @@ docker run -p 6333:6333 qdrant/qdrant
 
 ```python
 # [1] 데이터 경로
-WORKING_DIR       = ".../lightrag_before_chunk_test"  # 그래프 저장 위치
+WORKING_DIR       = ".../lightrag_after_chunk_test"   # 그래프 저장 위치
 MD_DIR            = ".../chunked_docs"                 # 입력 JSONL 파일 폴더
-QDRANT_URL        = "http://localhost:6333"            # env 없을 때 기본값
-QDRANT_COLLECTION = "lightrag_before_chunk_test"       # Qdrant 컬렉션명
+QDRANT_URL        = "http://localhost:6333"            # 환경변수 QDRANT_URL 없을 때 기본값
+QDRANT_COLLECTION = "lightrag_after_chunk_test"        # Qdrant 컬렉션명
 
 # [2] LLM 모델
 LLM_MODEL = "mini"   # "mini" = gpt-4o-mini | "4o" = gpt-4o
 
 # [3] 임베딩 모델
-EMB_MODEL = "text-embedding-3-large"
-EMB_DIM   = 2048     # Qdrant 컬렉션 생성 시 이 차원으로 고정됨
+EMB_MODEL      = "text-embedding-3-large"
+EMB_DIM        = 2048    # Qdrant 컬렉션 생성 시 이 차원으로 고정됨
+EMB_MAX_TOKENS = 8192
 
 # [4] 입력 형식 및 청크 설정
 INPUT_FORMAT   = "jsonl"   # "jsonl" | "md"
@@ -137,6 +139,7 @@ HEAL_EMBED_TOP_K     = 2     # Embed: 노드당 최대 연결 수
 HEAL_LLM_LIMIT       = 50    # LLM: 처리할 고립 노드 최대 수
 HEAL_LLM_MIN_CONF    = 0.5   # LLM: 관계 신뢰도 최소값
 HEAL_RELINK_LIMIT    = 30    # Re-link: 처리할 노드 최대 수
+HEAL_LLM_BATCH_CANDS = 20    # LLM 전략에서 고립 노드당 후보 노드 수
 
 # [7] 배치 API 설정
 BATCH_POLL_INTERVAL  = 60    # 폴링 간격 (초)
@@ -344,7 +347,6 @@ python total_process.py --show-cache
 | `local` | 엔티티 주변 로컬 그래프 탐색 | 특정 개체 상세 정보 |
 | `global` | 전체 그래프 커뮤니티 요약 활용 | 종합적 개요 |
 | `hybrid` | local + global 결합 (기본값) | 일반적인 질문 |
-| `mix` | 그래프 데이터 + 벡터 검색 청크 | 맥락이 필요한 질문 |
 
 ### 6-5. 실시간 모드 (배치 없이)
 
@@ -626,7 +628,7 @@ heal (trace)
 | 옵션 | 설명 |
 |------|------|
 | `-q / --query WORD...` | 단건 쿼리 |
-| `--mode {naive\|local\|global\|hybrid\|mix}` | 쿼리 모드 (기본 hybrid) |
+| `--mode {naive\|local\|global\|hybrid}` | 쿼리 모드 (기본 hybrid) |
 | `--mode-compare WORD...` | 전체 모드 비교 실행 |
 | `--batch FILE` | 파일에서 다건 쿼리, 결과를 MD로 저장 |
 | `--no-cache` | 쿼리 캐시 비활성화 |
