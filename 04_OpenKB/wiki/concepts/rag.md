@@ -1,5 +1,5 @@
 ---
-sources: [summaries/README.md, summaries/06_고급기능과_실전팁.md, summaries/04_Server_WebUI_API.md, summaries/03_Core_API_활용.md, summaries/02_설치와_빠른시작.md, summaries/01_기초개념.md]
+sources: [summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0002.md, summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0001.md, summaries/README.md, summaries/06_고급기능과_실전팁.md, summaries/04_Server_WebUI_API.md, summaries/03_Core_API_활용.md, summaries/02_설치와_빠른시작.md, summaries/01_기초개념.md]
 brief: RAG grounds LLM answers in retrieved external context before generation.
 ---
 
@@ -91,3 +91,7 @@ See also: [[summaries/04_Server_WebUI_API]]
 See also: [[summaries/06_고급기능과_실전팁]]
 
 See also: [[summaries/README]]
+
+See also: [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0001]]
+
+See also: [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0002]]

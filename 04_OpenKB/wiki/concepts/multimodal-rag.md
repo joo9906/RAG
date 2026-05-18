@@ -1,5 +1,5 @@
 ---
-sources: [summaries/README.md, summaries/06_고급기능과_실전팁.md]
+sources: [summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0002.md, summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0001.md, summaries/README.md, summaries/06_고급기능과_실전팁.md]
 brief: RAG that retrieves and reasons over text plus images, tables, and documents.
 ---
 
@@ -76,3 +76,7 @@ This concept is closely related to:
 Multimodal RAG extends standard RAG pipelines to handle heterogeneous document content. In LightRAG, the `RAG-Anything` integration provides a practical way to process files such as PDFs, spreadsheets, slides, images, tables, and equations while preserving searchable structure and enabling a multimodal knowledge graph.
 
 See also: [[summaries/README]]
+
+See also: [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0001]]
+
+See also: [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0002]]

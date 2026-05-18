@@ -1,6 +1,49 @@
 # Knowledge Base Index
 
 ## Documents
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0043]] (short) — Compares JOINS and Imodium for knee OA cartilage protection evidence and duration.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0042]] (short) — Summarizes Imomton reimbursement reevaluation and OARSI ASU guideline changes.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0041]] (short) — Explains spondylosis, its diagnosis and treatment, and notes Joins' possible use.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0040]] (short) — National survey statistics on osteoarthritis prevalence by body site in Korean adults.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0039]] (short) — Compares JOINS and Imotone for RA indication and summarizes a phase 3 RA trial.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0038]] (short) — Compares Imotion’s knee OA indication with Joins’ broader reimbursable degenerative joint disease scope.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0037]] (short) — Summarizes Joins (이모튼) strengths, weaknesses, and reimbursement constraints for knee OA.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0036]] (short) — Compares Joins and Imotton by ingredients, indications, pricing, and clinical evidence.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0035]] (short) — Summarizes Iimotun’s reimbursement reevaluation and the rationale for conditional coverage retention.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0034]] (short) — JOINS showed placebo-like safety over 2 years in OA cartilage-protection trial.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0033]] (short) — JOINS showed 1-year improvements in pain and knee function versus placebo in OA.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0032]] (short) — JOINS® showed 2-year suppression of subarticular BME worsening in knee OA.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0031]] (short) — JOINS maintained cartilage GAG content over 1 year in OA patients by dGEMRIC.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0030]] (short) — RCT summary showing JOINS improved MRI-based cartilage protection vs placebo in knee OA.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0029]] (short) — RA phase 3 data show JOINS and celecoxib had similar adverse event rates.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0028]] (short) — RA phase 3 trial showing JOINS and celecoxib had equivalent pain relief on VAS.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0027]] (short) — RCT summary: JOINS was noninferior to celecoxib for RA pain relief with similar tolerability.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0026]] (short) — OA phase 3 trial: JOINS had fewer adverse drug reactions than diclofenac.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0025]] (short) — OA phase 3 trial found JOINS analgesic effect comparable to diclofenac by VAS.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0024]] (short) — RCT comparing JOINS and diclofenac for knee osteoarthritis over 4 weeks.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0023]] (short) — Defines key OA/RA clinical research endpoints used in the Joins document.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0022]] (short) — Joins basic reimbursement rule: covered when used within approved indications.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0021]] (short) — Joins prescription notes on use in pregnancy, lactation, children, and storage.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0020]] (short) — Reports post-marketing adverse reaction rates and key systems affected for Joins tablets.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0019]] (short) — Joins tablets’ approval details, uses, dosage, price, and precautions.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0018]] (short) — Joins' cartilage-protective mechanism via free radical, IL-1, MMP, and apoptosis inhibition.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0017]] (short) — Joins demonstrates anti-inflammatory and analgesic effects via COX-2 and 5-LOX inhibition.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0016]] (short) — Explains Joins tablets as a herbal combination drug and its marker compounds for quality control.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0015]] (short) — Compares osteoarthritis and rheumatoid arthritis by clinical and pathophysiologic features.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0014]] (short) — Summarizes rheumatoid arthritis treatment goals and the main drug classes used.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0013]] (short) — Summarizes RA diagnostic criteria and key lab tests used to assess inflammation and damage.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0012]] (short) — Summarizes early symptoms, joint involvement, and extra-articular signs of rheumatoid arthritis.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0011]] (short) — Explains rheumatoid arthritis as an autoimmune disease leading to pannus-driven joint destruction.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0010]] (short) — 2019 ACR osteoarthritis guideline summary for hand, knee, and hip OA treatment.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0009]] (short) — Summarizes osteoarthritis treatment goals and the roles of non-drug, drug, and OA drug classes.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0008]] (short) — Overview of osteoarthritis diagnosis using history, exam, X-ray, and MRI findings.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0007]] (short) — Summarizes the hallmark symptoms and functional limitations of osteoarthritis.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0006]] (short) — Explains primary and secondary osteoarthritis causes and major risk factors.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0005]] (short) — Defines osteoarthritis and explains its basic pathology and terminology.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0004]] (short) — Explains cartilage damage and repair through MMP, TIMP, and cytokine balance.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0003]] (short) — Explains the main components of cartilage and each component's role in elasticity and mobility.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0002]] (short) — Explains cartilage properties and how it fits within joint anatomy.
+- [[summaries/2_1_1 24년 하반기 신입사원_조인스_이재은_학술교재_0001]] (short) — Introductory overview of joint anatomy and cartilage in osteoarthritis.
 - [[summaries/README]] (short) — Overview of LightRAG’s structure, use cases, and study roadmap.
 - [[summaries/06_고급기능과_실전팁]] (short) — Advanced LightRAG features and practical tips for quality, observability, and ops.
 - [[summaries/05_저장소와_운영]] (short) — LightRAG storage options, workspace isolation, and operational setup guidance.
@@ -10,6 +53,92 @@
 - [[summaries/01_기초개념]] (short) — Introduces LightRAG’s graph-enhanced RAG workflow, modes, and tradeoffs.
 
 ## Concepts
+- [[concepts/mri-endpoints-in-oa-phase-4-trials]] — MRI endpoints measure structural cartilage effects in OA phase 4 trials.
+- [[concepts/long-term-cartilage-protection-evidence]] — Evidence supporting cartilage protection over extended treatment durations.
+- [[concepts/clinical-utility-vs-coverage-decisions]] — Clinical utility and insurance coverage can diverge in health technology decisions.
+- [[concepts/asu-guideline-interpretation]] — How ASU guideline ratings are interpreted across evidence and practice contexts.
+- [[concepts/spinal-stenosis]] — Narrowing of the spinal canal that can compress nerves or the spinal cord.
+- [[concepts/spinal-osteoarthritis]] — Degenerative osteoarthritis of the spine causing pain, stiffness, and possible nerve compression.
+- [[concepts/site-specific-osteoarthritis-prevalence]] — Prevalence of osteoarthritis varies widely by anatomical site.
+- [[concepts/sex-differences-in-osteoarthritis]] — Differences in osteoarthritis prevalence and pattern between men and women.
+- [[concepts/joint-epidemiology]] — Study of disease prevalence and patterns across anatomical joints and populations.
+- [[concepts/comparative-active-comparator-evidence-in-ra]] — RA evidence comparing a therapy against an active comparator like celecoxib.
+- [[concepts/ra-indication-and-reimbursement-positioning]] — How RA indication and reimbursement support product positioning.
+- [[concepts/indication-vs-reimbursement]] — Label approval and insurance coverage can diverge in scope and evidence standards.
+- [[concepts/reimbursement-scope-comparison]] — Comparing reimbursement coverage breadth across drugs or indications.
+- [[concepts/avocado-soya-extract-administration]] — Administration guidance for avocado-soya extract to reduce oily odor reflux.
+- [[concepts/natural-product-anti-inflammatory-comparison]] — Comparison of natural-product anti-inflammatory options for osteoarthritis.
+- [[concepts/reimbursement-reevaluation]] — Insurance review that keeps, narrows, or ends coverage as evidence changes.
+- [[concepts/label-indication-adjustment]] — Regulatory label changes that narrow or reshape approved indications and coverage.
+- [[concepts/conditional-coverage-retention]] — Temporary reimbursement continues despite uncertain benefit pending evidence review.
+- [[concepts/long-term-safety-comparison-trials]] — Trials comparing long-term safety between an intervention and control.
+- [[concepts/oa-clinical-evidence]] — Clinical evidence in OA weighs symptom relief, safety, structure, guidelines, and reimbursement.
+- [[concepts/k-womac]] — K-WOMAC is a knee osteoarthritis index measuring pain, stiffness, and function.
+- [[concepts/subarticular-bme]] — MRI-based knee score reflecting subarticular bone marrow abnormality in OA.
+- [[concepts/cartilage-protection-evidence]] — Clinical or imaging evidence that an intervention preserves cartilage structure over time.
+- [[concepts/gag]] — GAG is a cartilage matrix component that reflects proteoglycan content.
+- [[concepts/dgemric]] — MRI index used to estimate cartilage glycosaminoglycan content.
+- [[concepts/mri-efficacy-endpoints-in-oa-rcts]] — MRI endpoints assess structural joint preservation in OA RCTs beyond symptoms.
+- [[concepts/adverse-event-comparative-safety]] — Comparing safety outcomes across trial groups shows whether harms differ meaningfully.
+- [[concepts/analgesic-equivalence]] — Comparable pain relief between treatments with no significant difference.
+- [[concepts/pain-vas-outcomes]] — VAS is a standard pain endpoint used to compare symptom relief across treatments.
+- [[concepts/cox2-comparator-trials]] — Active-comparator trials against celecoxib to show comparable efficacy and safety.
+- [[concepts/rescue-medication-use]] — An as-needed secondary endpoint indicating whether study treatment fully controls symptoms.
+- [[concepts/noninferiority-clinical-trial]] — A trial design showing a new treatment is not unacceptably worse than standard care.
+- [[concepts/analgesic-comparison-trials]] — Controlled studies comparing pain relief between treatments using standard endpoints.
+- [[concepts/vas-pain-assessment]] — VAS is a 0–100 mm patient-reported pain scale used to track treatment response.
+- [[concepts/jois-vs-diclofenac-knee-oa-rct]] — JOINS compared with diclofenac in knee OA showed similar pain relief and better tolerability.
+- [[concepts/cartilage-composition-biomarkers]] — Biochemical measures and imaging markers that reflect cartilage GAG and matrix integrity.
+- [[concepts/mri-based-joint-assessment]] — MRI-based joint assessment evaluates joint structure and cartilage composition with imaging.
+- [[concepts/patient-reported-outcome-measures]] — PROMs are patient-completed tools that capture symptoms and functional impact.
+- [[concepts/approved-indication-scope]] — The approved-label boundary that determines whether use is reimbursable.
+- [[concepts/reimbursement-criteria]] — Rules determining whether a treatment is eligible for insurance coverage.
+- [[concepts/medication-storage-and-handling]] — Proper storage and handling practices that preserve medication safety and quality.
+- [[concepts/pregnancy-and-lactation-drug-safety]] — Principles for medication use during pregnancy and breastfeeding.
+- [[concepts/post-marketing-surveillance]] — Real-world monitoring of a drug’s safety after approval and during routine use.
+- [[concepts/drug-adverse-reactions]] — Drug adverse reactions are unwanted effects used to assess safety and tolerability.
+- [[concepts/prescription-herbal-anti-inflammatory-drugs]] — Prescription herbal anti-inflammatory drugs are regulated plant-derived medicines for joint inflammation.
+- [[concepts/herbal-combination-extracts]] — Herbal combination extracts are multi-ingredient plant-based preparations used as standardized medicines.
+- [[concepts/herbal-drug-approval-information]] — Official approval data define herbal drugs' regulated use, dosing, safety, and coverage.
+- [[concepts/chondrocyte-apoptosis]] — Programmed death of cartilage cells that contributes to cartilage loss.
+- [[concepts/oxidative-stress-in-cartilage]] — Reactive oxygen species damage cartilage and drive joint inflammation.
+- [[concepts/anti-inflammatory-mechanisms]] — Mechanisms that reduce inflammation by blocking pro-inflammatory signals and enzymes.
+- [[concepts/cox-lox-inhibition]] — Blocking COX and LOX enzymes to reduce inflammatory mediator production.
+- [[concepts/marker-compound]] — A marker compound is a defined chemical constituent used for quality control.
+- [[concepts/herbal-medicine-standardization]] — Standardization keeps herbal medicines consistent across batches using marker compounds.
+- [[concepts/rheumatoid-arthritis]] — Rheumatoid arthritis is an autoimmune inflammatory arthritis with JOINS trial evidence.
+- [[concepts/arthritis-differential-diagnosis-patterns]] — Patterns that distinguish osteoarthritis from rheumatoid arthritis.
+- [[concepts/biologic-therapy]] — Targeted therapy using biologic agents to block specific immune mediators.
+- [[concepts/corticosteroids]] — Anti-inflammatory steroid drugs used to rapidly suppress inflammation.
+- [[concepts/dmards]] — Disease-modifying drugs that slow RA progression and improve outcomes.
+- [[concepts/ra-laboratory-monitoring]] — RA labs assess inflammation, monitor toxicity, and support treatment decisions.
+- [[concepts/inflammatory-markers]] — ESR and CRP are nonspecific blood markers that reflect inflammatory activity.
+- [[concepts/rheumatoid-factor-testing]] — RF testing helps support RA diagnosis but is not specific and may be positive in OA or healthy people.
+- [[concepts/extra-articular-manifestations]] — Disease effects beyond joints, showing systemic involvement in RA.
+- [[concepts/morning-stiffness]] — Morning stiffness is prolonged joint stiffness after waking, especially in inflammatory arthritis.
+- [[concepts/pannus]] — Pannus is invasive inflamed synovial tissue that erodes cartilage and bone in RA.
+- [[concepts/synovitis]] — Synovitis is chronic synovial membrane inflammation that drives RA symptoms and damage.
+- [[concepts/autoimmune-disease]] — Immune self-attack causing chronic inflammation, tissue damage, and organ dysfunction.
+- [[concepts/osteoarthritis-guideline-recommendations]] — ACR OA care is structured around strong and conditional options across nonpharmacologic and drug therapies.
+- [[concepts/pharmacologic-osteoarthritis-treatment]] — OA drug therapy mainly relieves symptoms with NSAIDs, injections, and relief agents.
+- [[concepts/nonpharmacologic-osteoarthritis-treatment]] — Core OA care relies on exercise, weight loss, and other non-drug interventions.
+- [[concepts/symptomatic-vs-disease-modifying-oa-drugs]] — OA drugs are mostly symptomatic, with DMOADs still unproven in routine care.
+- [[concepts/osteoarthritis-treatment-classification]] — Framework for classifying OA therapies by speed, mechanism, and disease modification.
+- [[concepts/mri-in-osteoarthritis]] — MRI assesses OA structure and biomarkers, including cartilage and bone marrow changes.
+- [[concepts/x-ray-in-osteoarthritis]] — X-ray shows structural OA changes and epidemiologic site-specific prevalence.
+- [[concepts/diagnostic-workup]] — Diagnosis uses history, exam, labs, and imaging together to confirm disease.
+- [[concepts/joint-symptoms-and-functional-limitations]] — Clinical joint pain, stiffness, swelling, and mobility loss across disease types.
+- [[concepts/post-infectious-joint-damage]] — Joint cartilage damage that follows an infectious arthritis episode.
+- [[concepts/osteoarthritis-risk-factors]] — Factors and patterns associated with developing and expressing osteoarthritis.
+- [[concepts/primary-vs-secondary-osteoarthritis]] — OA classification by whether degeneration is idiopathic or due to a known cause.
+- [[concepts/degenerative-joint-disease]] — DJD is another name for osteoarthritis, a progressive degenerative joint disorder.
+- [[concepts/osteoarthritis]] — OA is a common degenerative joint disease marked by pain and structural loss.
+- [[concepts/inflammatory-cytokines-in-cartilage]] — Inflammatory cytokines drive cartilage damage via MMP activation and cell loss.
+- [[concepts/mmp-timp-balance]] — Balance between MMP-driven matrix breakdown and TIMP inhibition in cartilage.
+- [[concepts/cartilage-component-functions]] — Cartilage function depends on matrix structure and anti-degradative balance.
+- [[concepts/joint-structure-overview]] — Joint structures and cartilage work together to cushion, lubricate, and protect motion.
+- [[concepts/cartilage-and-synovial-fluid]] — Cartilage and synovial fluid protect joints, reduce friction, and support smooth motion.
+- [[concepts/joint-anatomy]] — Joint anatomy explains how structure enables movement, stability, and protection.
 - [[concepts/lightrag-doc-organization]] — LightRAG docs are organized as a guided path from basics to deployment.
 - [[concepts/graph-rag]] — RAG that augments vector search with entity and relationship graphs.
 - [[concepts/llm-usage-tracking]] — Tracking LLM token usage to measure and control RAG cost.
