@@ -1,0 +1,1 @@
+Elasticsearch is a distributed, open-source search and analytics engine built on Apache Lucene. It allows you to store, search, and analyze large volumes of data quickly and in near real-time. It is commonly used for full-text search, log analytics, and application monitoring.

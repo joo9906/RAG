@@ -1,0 +1,1 @@
+Weaviate is an open-source vector database that stores both objects and vectors. It enables semantic search by combining vector similarity with keyword-based filtering. Weaviate supports hybrid search, making it useful for retrieval-augmented generation and AI-powered applications.
