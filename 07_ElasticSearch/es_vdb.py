@@ -1,7 +1,7 @@
 import os
 import requests
 import weaviate
-from sentence_transformers import CrossEncoder
+from sentence_transformers import SentenceTransformer, CrossEncoder
 from langsmith import traceable
 from langsmith import wrappers
 from dotenv import load_dotenv
@@ -19,6 +19,8 @@ WEAVIATE_HOST = os.getenv("WEAVIATE_HOST", "localhost")
 WEAVIATE_HTTP_PORT = int(os.getenv("WEAVIATE_PORT", "8080"))
 WEAVIATE_GRPC_PORT = int(os.getenv("WEAVIATE_GRPC_PORT", "50051"))
 
+EMBED_MODEL = "paraphrase-multilingual-MiniLM-L12-v2"
+
 wv_client = weaviate.connect_to_custom(
     http_host=WEAVIATE_HOST,
     http_port=WEAVIATE_HTTP_PORT,
@@ -27,6 +29,10 @@ wv_client = weaviate.connect_to_custom(
     http_secure=False,
     grpc_secure=False,
 )
+
+print("🔄 임베딩 모델 로딩 시작...")
+embedder = SentenceTransformer(EMBED_MODEL)
+print("✅ 임베딩 모델 로딩 완료!")
 
 print("🔄 리랭커 모델 로딩 시작...")
 reranker = CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6-v2")
@@ -50,24 +56,35 @@ def openai_llm(prompt: str) -> str:
     return response.choices[0].message.content
 
 
-def es_search(query, k=5):
-    # requests를 사용해 직접 호출 - elasticsearch 클라이언트 버전 호환 문제 우회
+def es_search(query: str, k: int = 5) -> list[dict]:
+    """BM25 + kNN 하이브리드 검색 with RRF (ES 8.9+).
+
+    ES가 내부적으로 두 결과 목록을 RRF로 합산해 반환한다.
+    RRF 점수 = Σ 1 / (rank_constant + rank_i)  (rank_constant=60 권장)
+    """
+    query_vector = embedder.encode(query).tolist()
     url = f"{ES_URL}/{ES_INDEX}/_search"
     payload = {
         "size": k,
+        # ── BM25 키워드 검색 ──────────────────────────────
         "query": {
-            "bool": {
-                "must": [
-                    {
-                        "multi_match": {
-                            "query": query,
-                            "fields": ["title^2", "content"],
-                        }
-                    }
-                ],
-                # "filter": [
-                #     {"term": {"status": "active"}}
-                # ]
+            "multi_match": {
+                "query": query,
+                "fields": ["title^2", "content"]
+            }
+        },
+        # ── kNN 벡터 검색 ─────────────────────────────────
+        "knn": {
+            "field": "embedding",
+            "query_vector": query_vector,
+            "k": k,
+            "num_candidates": k * 10   # ANN 후보 수: 높을수록 정확하지만 느림
+        },
+        # ── RRF 점수 합산 ─────────────────────────────────
+        "rank": {
+            "rrf": {
+                "window_size": k * 4,  # 각 결과 목록에서 고려할 최대 순위
+                "rank_constant": 60    # 낮을수록 상위 문서 가중치 강화
             }
         }
     }
@@ -78,27 +95,24 @@ def es_search(query, k=5):
             headers={"Content-Type": "application/json"},
             timeout=10
         )
-        # 에러가 발생하면 서버가 뱉은 상세 문법 에러 메시지를 터미널에 출력
         if resp.status_code != 200:
             print(f"❌ ES 검색 실패 원인: {resp.text}")
-            
         resp.raise_for_status()
-        data = resp.json()
-        
+
         docs = []
-        for hit in data.get("hits", {}).get("hits", []):
+        for hit in resp.json().get("hits", {}).get("hits", []):
             src = hit["_source"]
             docs.append({
-                "id": f"es:{hit['_id']}",
-                "text": src.get("content", ""),
-                "title": src.get("title", ""),
-                "source": "es",
-                "score": hit["_score"]
+                "id":     f"es:{hit['_id']}",
+                "text":   src.get("content", ""),
+                "title":  src.get("title", ""),
+                "source": "es_hybrid",
+                "score":  hit["_score"]   # RRF 합산 점수
             })
         return docs
-            
+
     except Exception as e:
-        print(f"[Warning] Elasticsearch search failed: {e}")
+        print(f"[Warning] Elasticsearch hybrid search failed: {e}")
         return []
 
 def weaviate_search(query, k=5):

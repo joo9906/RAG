@@ -1,14 +1,15 @@
 """
 index_docs.py
 docs/ 폴더의 .txt 파일들을 Elasticsearch와 Weaviate에 인덱싱하는 스크립트
+ES: BM25(Nori) + dense_vector(kNN) 하이브리드 인덱스
 """
-from authlib.oauth2.rfc6749 import requests
 import os
 import requests
 import weaviate
 import weaviate.classes.config as wvc
 from dotenv import load_dotenv
 from pathlib import Path
+from sentence_transformers import SentenceTransformer
 
 load_dotenv(os.path.join(os.path.dirname(__file__), '../.env'))
 
@@ -19,6 +20,9 @@ DOCS_DIR = Path(__file__).parent / "docs"
 WEAVIATE_HOST = os.getenv("WEAVIATE_HOST", "localhost")
 WEAVIATE_HTTP_PORT = int(os.getenv("WEAVIATE_PORT", "8080"))
 WEAVIATE_GRPC_PORT = int(os.getenv("WEAVIATE_GRPC_PORT", "50051"))
+
+EMBED_MODEL = "paraphrase-multilingual-MiniLM-L12-v2"  # 384차원, 한/영 모두 지원
+EMBED_DIMS = 384
 
 
 # ──────────────────────────────────────────
@@ -43,10 +47,9 @@ def setup_es_index():
         print(f"[ES] '{ES_INDEX}' 인덱스가 이미 존재합니다. 삭제 후 재생성합니다.")
         requests.delete(f"{ES_URL}/{ES_INDEX}")
 
-    # 2. Nori 분석기를 장착한 새로운 인덱스 설정 정의 (index 레벨 추가)
     nori_settings = {
         "settings": {
-            "index": {  # 👈 이 'index' 깊이가 추가되어야 합니다!
+            "index": {
                 "analysis": {
                     "analyzer": {
                         "nori_analyzer": {
@@ -71,6 +74,12 @@ def setup_es_index():
                 },
                 "status": {
                     "type": "keyword"
+                },
+                "embedding": {
+                    "type": "dense_vector",
+                    "dims": EMBED_DIMS,
+                    "index": True,          # kNN ANN 인덱스 활성화
+                    "similarity": "cosine"  # 코사인 유사도 사용
                 }
             }
         }
@@ -92,11 +101,20 @@ def setup_es_index():
 
 def index_to_es(docs: list[dict]):
     setup_es_index()
-    for i, doc in enumerate(docs):
+
+    print(f"[ES] 임베딩 모델 로딩: {EMBED_MODEL}")
+    embedder = SentenceTransformer(EMBED_MODEL)
+
+    texts = [doc["content"] for doc in docs]
+    embeddings = embedder.encode(texts, batch_size=32, show_progress_bar=True)
+    print(f"[ES] 임베딩 생성 완료: {len(embeddings)}개 ({EMBED_DIMS}차원)\n")
+
+    for i, (doc, embedding) in enumerate(zip(docs, embeddings)):
         payload = {
-            "title":   doc["title"],
-            "content": doc["content"],
-            "status":  "active"
+            "title":     doc["title"],
+            "content":   doc["content"],
+            "status":    "active",
+            "embedding": embedding.tolist()
         }
         resp = requests.post(
             f"{ES_URL}/{ES_INDEX}/_doc/{i+1}",
@@ -106,7 +124,6 @@ def index_to_es(docs: list[dict]):
         resp.raise_for_status()
         print(f"[ES] 문서 삽입 완료: [{i+1}] {doc['title']}")
 
-    # 즉시 검색 가능하도록 refresh
     requests.post(f"{ES_URL}/{ES_INDEX}/_refresh")
     print("[ES] 인덱싱 완료\n")
 
