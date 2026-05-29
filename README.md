@@ -17,6 +17,7 @@ RAG(Retrieval-Augmented Generation) 파이프라인을 단계적으로 구축하
 
 ### `01_Weaviate/`
 Weaviate 벡터 DB의 기본 세팅부터 시맨틱 검색까지 구현한 첫 번째 RAG 파이프라인.
+[Weaviate 정리 블로그](https://joo9906.tistory.com/61)
 
 - Docker Compose로 Weaviate 서버를 로컬에 구동
 - Python 클라이언트(`weaviate-client v4`)로 컬렉션 생성, 문서 삽입, 벡터 검색 구현
@@ -33,6 +34,7 @@ Weaviate 벡터 DB의 기본 세팅부터 시맨틱 검색까지 구현한 첫 �
 
 ### `03_LightRAG/`
 키워드/벡터 검색의 한계인 "관계 파악" 문제를 지식 그래프로 보완하는 GraphRAG 아키텍처 구현.
+[LightRAG 정리 블로그](https://joo9906.tistory.com/114)
 
 - **LightRAG**: 문서에서 엔티티(Entity)와 관계(Relation)를 자동 추출해 그래프로 구성
 - 그래프 순회(Graph Traversal) + 벡터 검색을 결합한 하이브리드 검색으로 복잡한 질문 처리
@@ -41,6 +43,7 @@ Weaviate 벡터 DB의 기본 세팅부터 시맨틱 검색까지 구현한 첫 �
 
 ### `04_OpenKB/`
 대량의 문서를 입력받아 서로 연결된 위키 형태의 지식 베이스를 자동으로 생성하는 파이프라인.
+[OpenKB 정리 블로그](https://joo9906.tistory.com/115)
 
 - 문서별 요약, 핵심 개념 추출, 문서 간 연결 관계를 LLM으로 자동화
 - Obsidian 등 마크다운 뷰어와 바로 연동 가능한 구조로 출력
