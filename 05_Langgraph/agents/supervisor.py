@@ -4,14 +4,14 @@ from __future__ import annotations
 
 from typing import Literal
 
-from langchain_anthropic import ChatAnthropic
+from langchain_openai import ChatOpenAI
 from langchain_core.messages import SystemMessage
 from langgraph.graph import END, MessagesState, StateGraph
 
 from agents.rag_agent import rag_node
 from agents.stock_agent import stock_node
 
-_llm = ChatAnthropic(model="claude-sonnet-4-6", temperature=0)
+_llm = ChatOpenAI(model="gpt-4o", temperature=0)
 
 _ROUTER_SYSTEM = """당신은 금융 챗봇의 라우터 역할을 합니다.
 사용자의 질문을 분석하여 다음 두 에이전트 중 어디로 보낼지 결정하세요.

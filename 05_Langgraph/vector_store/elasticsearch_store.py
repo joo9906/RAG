@@ -35,7 +35,7 @@ class ElasticsearchStore:
     # ── lifecycle ──────────────────────────────────────────────────────────
 
     def connect(self) -> None:
-        self.es = Elasticsearch(self.url)
+        self.es = Elasticsearch(self.url, verify_certs=False, ssl_show_warn=False)
         if not self.es.ping():
             raise ConnectionError(f"Cannot connect to Elasticsearch at {self.url}")
 

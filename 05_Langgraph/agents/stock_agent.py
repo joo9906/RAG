@@ -6,7 +6,7 @@ import sys
 from pathlib import Path
 from typing import Any
 
-from langchain_anthropic import ChatAnthropic
+from langchain_openai import ChatOpenAI
 from langchain_mcp_adapters.client import MultiServerMCPClient
 from langgraph.graph import MessagesState
 from langgraph.prebuilt import create_react_agent
@@ -15,7 +15,7 @@ _MCP_SERVER_PATH = str(
     Path(__file__).parent.parent / "mcp_server" / "stock_mcp_server.py"
 )
 
-_llm = ChatAnthropic(model="claude-sonnet-4-6", temperature=0)
+_llm = ChatOpenAI(model="gpt-4o", temperature=0)
 
 _SYSTEM_PROMPT = (
     "당신은 금융 주식 전문 AI 어시스턴트입니다. "
@@ -28,7 +28,7 @@ _SYSTEM_PROMPT = (
 
 async def stock_node(state: MessagesState) -> dict[str, Any]:
     """LangGraph node: connects to MCP stock server and answers stock queries."""
-    async with MultiServerMCPClient(
+    client = MultiServerMCPClient(
         {
             "stock": {
                 "command": sys.executable,
@@ -36,16 +36,16 @@ async def stock_node(state: MessagesState) -> dict[str, Any]:
                 "transport": "stdio",
             }
         }
-    ) as client:
-        tools = client.get_tools()
+    )
+    tools = await client.get_tools()
 
-        agent = create_react_agent(
-            model=_llm,
-            tools=tools,
-            state_modifier=_SYSTEM_PROMPT,
-        )
+    agent = create_react_agent(
+        model=_llm,
+        tools=tools,
+        prompt=_SYSTEM_PROMPT,
+    )
 
-        result = await agent.ainvoke({"messages": state["messages"]})
+    result = await agent.ainvoke({"messages": state["messages"]})
 
     from langchain_core.messages import AIMessage
 

@@ -5,7 +5,7 @@ from __future__ import annotations
 import os
 from typing import Any
 
-from langchain_anthropic import ChatAnthropic
+from langchain_openai import ChatOpenAI
 from langchain_openai import OpenAIEmbeddings
 from langgraph.graph import MessagesState
 from langsmith import traceable
@@ -16,7 +16,7 @@ from vector_store.elasticsearch_store import ElasticsearchStore
 _WEAVIATE_URL = os.getenv("WEAVIATE_URL", "http://localhost:8080")
 _ES_URL = os.getenv("ELASTICSEARCH_URL", "http://localhost:9200")
 
-_llm = ChatAnthropic(model="claude-sonnet-4-6", temperature=0)
+_llm = ChatOpenAI(model="gpt-4o", temperature=0)
 _embedder = OpenAIEmbeddings(model="text-embedding-3-small")
 
 
