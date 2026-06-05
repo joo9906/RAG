@@ -59,6 +59,7 @@ class SemanticCache:
                 raw_emb = await self._r.hget(key, "emb")
                 raw_ans = await self._r.hget(key, "ans")
                 if not raw_emb or not raw_ans:
+                    await self._r.srem(_INDEX_KEY, eid)  # 죽은 eid를 발견 시 삭제
                     continue
                 score = self._cosine(qv, self._unpack(raw_emb))
                 if score > best_score:
